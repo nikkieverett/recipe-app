@@ -1,0 +1,8 @@
+{
+  "title": "Testing json recipe",
+  "category": [
+    "c"
+  ],
+  "body": "Hello recipe",
+  "rating": 3
+}
