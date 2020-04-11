@@ -97,3 +97,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+[Used this blog post for starting site](https://developer.okta.com/blog/2020/02/18/gatsby-react-netlify)
