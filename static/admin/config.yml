@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: neverett/recipe-app
+  repo: nikkieverett/recipe-app
 
 media_folder: static/assets
 public_folder: assets
