@@ -43,3 +43,9 @@ exports.onCreatePage = async ({ page, actions }) => {
     createPage(page)
   }
 }
+
+exports.onCreateNode = async ({ node }) => {
+  if (node.internal.type === 'MarkdownRemark' && node.frontmatter.directions)  {
+    node.frontmatter.path = `recipes/${node.frontmatter.slug}`
+  }
+}

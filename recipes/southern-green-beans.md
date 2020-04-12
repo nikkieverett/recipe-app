@@ -22,4 +22,3 @@ title: southern green beans
 img:
 slug: southern-green-beans
 ---
-Recipe body

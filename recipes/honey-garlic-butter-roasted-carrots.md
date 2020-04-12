@@ -38,4 +38,3 @@ prepTime: 5 minutes
 title: honey garlic butter roasted carrots
 slug: honey-garlic-butter-roasted-carrots
 ---
-Recipe body

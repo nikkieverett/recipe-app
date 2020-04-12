@@ -30,4 +30,3 @@ prepTime:
 title: white chocolate orange cookies
 slug: white-chocolate-orange-cookies
 ---
-Recipe body

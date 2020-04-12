@@ -43,4 +43,3 @@ prepTime: 15 minutes
 title: asian ramen coleslaw
 slug: asian-ramen-coleslaw
 ---
-Recipe body

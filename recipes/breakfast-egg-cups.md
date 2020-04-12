@@ -54,4 +54,3 @@ prepTime: 5 minutes
 title: breakfast egg cups
 slug: breakfast-egg-cups
 ---
-Recipe body

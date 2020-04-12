@@ -32,4 +32,3 @@ prepTime: 10 minutes
 title: chicken pot pie
 slug: chicken-pot-pie
 ---
-Recipe body

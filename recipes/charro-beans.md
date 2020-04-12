@@ -37,4 +37,3 @@ title: charro beans
 img:
 slug: charro-beans
 ---
-Recipe body

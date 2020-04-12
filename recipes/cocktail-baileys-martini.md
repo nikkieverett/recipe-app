@@ -19,4 +19,3 @@ prepTime:
 title: cocktail- baileys martini
 slug: cocktail-baileys-martini
 ---
-Recipe body

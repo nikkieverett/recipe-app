@@ -48,4 +48,3 @@ prepTime:
 title: carrot cake
 slug: carrot-cake
 ---
-Recipe body

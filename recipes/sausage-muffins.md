@@ -19,4 +19,3 @@ prepTime: 15
 title: sausage muffins
 slug: sausage-muffins
 ---
-Recipe body

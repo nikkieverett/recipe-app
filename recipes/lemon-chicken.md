@@ -30,4 +30,3 @@ title: lemon chicken
 img:
 slug: lemon-chicken
 ---
-Recipe body

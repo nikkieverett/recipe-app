@@ -44,4 +44,3 @@ prepTime: 15 minutes
 title: italian wedding soup - crock pot
 slug: italian-wedding-soup-crock-pot
 ---
-Recipe body

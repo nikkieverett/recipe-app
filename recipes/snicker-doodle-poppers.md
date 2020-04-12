@@ -28,4 +28,3 @@ prepTime:
 title: snicker doodle poppers
 slug: snicker-doodle-poppers
 ---
-Recipe body

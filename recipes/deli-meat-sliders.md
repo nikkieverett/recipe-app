@@ -36,4 +36,3 @@ prepTime:
 title: deli meat sliders
 slug: deli-meat-sliders
 ---
-Recipe body

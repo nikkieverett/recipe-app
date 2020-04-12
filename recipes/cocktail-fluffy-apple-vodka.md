@@ -2,9 +2,9 @@
 id: 5b70968f6154c30014c675a3
 servings:
 notes:
-directions: o\tshake all ingredients with ice in a cocktail shaker.
+directions: 'o\tshake all ingredients with ice in a cocktail shaker.
 o\tstrain into a chilled shot glass.
-o\tgarnish with green apple slices.
+o\tgarnish with green apple slices.'
 ingredients: '1 oz marshmallow vodka (smirnoff fluffed marshmallow)
 1/2 oz apple vodka (smirnoff green apple)
 1 splash cranberry juice
@@ -23,4 +23,3 @@ prepTime:
 title: cocktail - fluffy apple vodka
 slug: cocktail-fluffy-apple-vodka
 ---
-Recipe body

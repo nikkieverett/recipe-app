@@ -40,4 +40,3 @@ title: bow tie pasta chorizo with tomatoes
 img:
 slug: bow-tie-pasta-chorizo-with-tomatoes
 ---
-Recipe body

@@ -47,4 +47,3 @@ prepTime: 10
 title: taco meat
 slug: taco-meat
 ---
-Recipe body

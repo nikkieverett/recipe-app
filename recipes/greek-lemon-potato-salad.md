@@ -46,4 +46,3 @@ prepTime: 10 mintues
 title: greek lemon potato salad
 slug: greek-lemon-potato-salad
 ---
-Recipe body

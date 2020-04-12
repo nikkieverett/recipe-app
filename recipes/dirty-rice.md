@@ -41,4 +41,3 @@ prepTime:
 title: dirty rice
 slug: dirty-rice
 ---
-Recipe body

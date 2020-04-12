@@ -29,4 +29,3 @@ prepTime: 10 minutes
 title: no bake oatmeal cookies
 slug: no-bake-oatmeal-cookies
 ---
-Recipe body

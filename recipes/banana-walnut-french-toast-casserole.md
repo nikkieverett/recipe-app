@@ -44,4 +44,3 @@ prepTime:
 title: banana walnut french toast casserole
 slug: banana-walnut-french-toast-casserole
 ---
-Recipe body

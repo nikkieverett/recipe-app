@@ -26,4 +26,3 @@ title: pecan pie muffins
 img:
 slug: pecan-pie-muffins
 ---
-Recipe body

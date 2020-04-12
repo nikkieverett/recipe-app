@@ -14,4 +14,3 @@ prepTime:
 title: pot roast with lipton onion soup
 slug: pot-roast-with-lipton-onion-soup
 ---
-Recipe body

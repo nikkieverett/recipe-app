@@ -28,4 +28,3 @@ prepTime:
 title: chocolate raspberry coffee cream
 slug: chocolate-raspberry-coffee-cream
 ---
-Recipe body

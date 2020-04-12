@@ -40,4 +40,3 @@ prepTime:
 title: chicken enchiladas
 slug: chicken-enchiladas
 ---
-Recipe body

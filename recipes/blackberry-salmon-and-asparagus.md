@@ -31,4 +31,3 @@ prepTime:
 title: blackberry salmon and asparagus
 slug: blackberry-salmon-and-asparagus
 ---
-Recipe body

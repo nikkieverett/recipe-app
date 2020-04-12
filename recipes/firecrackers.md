@@ -19,4 +19,3 @@ prepTime:
 title: firecrackers
 slug: firecrackers
 ---
-Recipe body

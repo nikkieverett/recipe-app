@@ -17,4 +17,3 @@ prepTime: 10 min
 title: waffles
 slug: waffles
 ---
-Recipe body

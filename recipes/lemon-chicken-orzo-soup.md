@@ -45,4 +45,3 @@ prepTime: 20 minutes
 title: lemon chicken orzo soup
 slug: lemon-chicken-orzo-soup
 ---
-Recipe body

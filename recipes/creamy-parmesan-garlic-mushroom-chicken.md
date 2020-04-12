@@ -48,4 +48,3 @@ prepTime: 5 min
 title: creamy parmesan garlic mushroom chicken
 slug: creamy-parmesan-garlic-mushroom-chicken
 ---
-Recipe body

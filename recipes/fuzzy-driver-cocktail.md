@@ -17,4 +17,3 @@ prepTime:
 title: fuzzy driver cocktail
 slug: fuzzy-driver-cocktail
 ---
-Recipe body

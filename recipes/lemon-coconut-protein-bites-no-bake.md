@@ -41,4 +41,3 @@ prepTime: 10
 title: lemon coconut protein bites - no bake
 slug: lemon-coconut-protein-bites-no-bake
 ---
-Recipe body

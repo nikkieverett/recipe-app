@@ -51,4 +51,3 @@ prepTime:
 title: roasted maple butternut squash salad
 slug: roasted-maple-butternut-squash-salad
 ---
-Recipe body

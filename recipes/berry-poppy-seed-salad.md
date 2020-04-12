@@ -24,4 +24,3 @@ prepTime:
 title: berry poppy seed salad
 slug: berry-poppy-seed-salad
 ---
-Recipe body

@@ -15,4 +15,3 @@ prepTime:
 title: browned butter pork chops
 slug: browned-butter-pork-chops
 ---
-Recipe body

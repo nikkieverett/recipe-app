@@ -28,4 +28,3 @@ title: chicken or sausage tortellini
 img:
 slug: chicken-or-sausage-tortellini
 ---
-Recipe body

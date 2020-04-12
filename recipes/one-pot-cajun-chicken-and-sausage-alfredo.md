@@ -34,4 +34,3 @@ title: one pot cajun chicken and sausage alfredo
 img:
 slug: one-pot-cajun-chicken-and-sausage-alfredo
 ---
-Recipe body

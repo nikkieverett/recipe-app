@@ -44,4 +44,3 @@ prepTime:
 title: confetti cookies
 slug: confetti-cookies
 ---
-Recipe body

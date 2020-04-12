@@ -49,4 +49,3 @@ lemon wedges to serve"
 "title": "honey garlic salmon"
 "slug": "honey-garlic-salmon"
 ---
-Recipe body

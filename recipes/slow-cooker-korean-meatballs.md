@@ -33,4 +33,3 @@ prepTime:
 title: slow cooker korean meatballs
 slug: slow-cooker-korean-meatballs
 ---
-Recipe body

@@ -23,4 +23,3 @@ prepTime:
 title: armadillo eggs
 slug: armadillo-eggs
 ---
-Recipe body

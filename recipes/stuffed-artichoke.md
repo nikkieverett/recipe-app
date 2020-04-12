@@ -1,8 +1,8 @@
 ---
 id: 5aa9201470931f0014f377f8
 servings: 2
-notes: this needs to steam longer than instructions say
-directions: fill a steamer pot with a few inches of water
+notes: 'this needs to steam longer than instructions say'
+directions: 'fill a steamer pot with a few inches of water
  and place a steamer basket on top. cover the pot and bring the water to a boil. turn the heat to low and let it simmer.
 use a chef's knife to cut off about 1-inch from the top of each artichoke
  and enough off of the bottom to form a nice base. remove any especially tough outer leaves and discard them. then use kitchen scissors to cut off the sharp tips of the leaves.
@@ -29,8 +29,8 @@ use a spoon and/or your hands to carefully fill the center of each artichoke wit
 place the stuffed artichokes in the preheated 375 degree f oven and bake until the breadcrumbs are golden and the cheese has melted
  15 to 20 minutes.
 you can serve them whole as an entrée
- or slice them in half for an appetizer.
-ingredients: 2 (approximately 1-pound artichokes washed and dried (lyons if possible)
+ or slice them in half for an appetizer.'
+ingredients: '2 (approximately 1-pound artichokes washed and dried (lyons if possible)
 juice of 3 lemons divided (about ½ cup)
 1/2 cup plus 3 tablespoons unsalted butter
 6 tablespoons shallots finely chopped
@@ -39,7 +39,7 @@ juice of 3 lemons divided (about ½ cup)
 4 cups fresh breadcrumbs
 ¼ cup italian parsley finely chopped
 1 tablespoon parmesan cheese finely grated
-sea salt and freshly ground black pepper
+sea salt and freshly ground black pepper'
 rating: 0
 ease: time consuming
 img:
@@ -51,4 +51,3 @@ prepTime: 45 min
 title: stuffed artichoke
 slug: stuffed-artichoke
 ---
-Recipe body

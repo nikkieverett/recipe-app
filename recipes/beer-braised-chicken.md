@@ -27,4 +27,3 @@ title: beer braised chicken
 img:
 slug: beer-braised-chicken
 ---
-Recipe body

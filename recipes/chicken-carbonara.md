@@ -55,4 +55,3 @@ title: chicken carbonara
 img:
 slug: chicken-carbonara
 ---
-Recipe body

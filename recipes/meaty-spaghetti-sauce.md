@@ -1,7 +1,7 @@
 ---
 id: 5a8f111f1e7de900145e2490
 servings: 12
-notes: 1/2 cup:  231 calories
+notes: '1/2 cup:  231 calories
  8g fat (3g saturated fat)
  45mg cholesterol
  1188mg sodium
@@ -9,16 +9,16 @@ notes: 1/2 cup:  231 calories
  3g fiber)
  17g protein. diabetic exchanges:  2 starch
  2 meat
- 1 vegetable.
-directions: in a large skillet over medium heat
+ 1 vegetable.'
+directions: 'in a large skillet over medium heat
  cook beef and sausage until no longer pink; drain. transfer to a 5-qt. slow cooker. stir in green pepper
  onion
  garlic
  tomatoes
  tomato sauce
  paste
- sugar and seasonings; mix well. cover and cook on low for 8 hours or until bubbly. serve over spaghetti.
-ingredients: 1 pound ground beef
+ sugar and seasonings; mix well. cover and cook on low for 8 hours or until bubbly. serve over spaghetti.'
+ingredients: '1 pound ground beef
 1 pound johnsonville® ground mild italian sausage
 1 medium green pepper
  chopped
@@ -36,7 +36,7 @@ ingredients: 1 pound ground beef
 2 teaspoons dried marjoram
 1 teaspoon salt
 1/2 teaspoon pepper
-hot cooked spaghetti
+hot cooked spaghetti'
 rating: 5
 ease: easy
 img:
@@ -48,4 +48,3 @@ prepTime: 15 minutes
 title: meaty spaghetti sauce
 slug: meaty-spaghetti-sauce
 ---
-Recipe body

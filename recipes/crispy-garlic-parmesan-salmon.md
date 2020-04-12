@@ -53,4 +53,3 @@ prepTime: 10 minutes
 title: crispy garlic parmesan salmon
 slug: crispy-garlic-parmesan-salmon
 ---
-Recipe body

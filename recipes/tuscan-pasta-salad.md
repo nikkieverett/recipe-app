@@ -51,4 +51,3 @@ prepTime: 20 minutes
 title: tuscan pasta salad
 slug: tuscan-pasta-salad
 ---
-Recipe body

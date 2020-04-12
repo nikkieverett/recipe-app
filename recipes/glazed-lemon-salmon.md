@@ -33,4 +33,3 @@ title: glazed lemon salmon
 img:
 slug: glazed-lemon-salmon
 ---
-Recipe body

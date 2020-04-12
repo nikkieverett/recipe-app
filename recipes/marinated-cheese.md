@@ -43,4 +43,3 @@ prepTime:
 title: marinated cheese
 slug: marinated-cheese
 ---
-Recipe body

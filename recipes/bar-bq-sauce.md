@@ -25,4 +25,3 @@ prepTime:
 title: bar bq sauce
 slug: bar-bq-sauce
 ---
-Recipe body

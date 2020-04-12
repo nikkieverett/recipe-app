@@ -1,7 +1,7 @@
 ---
 id: 5aaed69b32c3fb00144fcf29
 servings: 4
-notes: nutrition values/ per serving
+notes: 'nutrition values/ per serving
 energy (kj)3054 kj
 calories730 kcal
 fat34 g
@@ -11,8 +11,8 @@ sugar8 g
 dietary fiber7 g
 protein27 g
 cholesterol55 mg
-sodium830 mg
-directions: wash and dry all produce.
+sodium830 mg'
+directions: 'wash and dry all produce.
 bring a large pot of salted water to a boil.
 mince or grate garlic.
 pick mint leaves from stems; discard stems. roughly chop leaves.
@@ -60,8 +60,8 @@ plate and serve
 divide penne mixture between plates.
 sprinkle with mint (to taste)
  pine nuts
- and remaining parmesan.
-ingredients: 2 clove garlic
+ and remaining parmesan.'
+ingredients: '2 clove garlic
 ¼ ounce mint
 1 ounce pine nuts
 6 ounce penne pasta
@@ -72,7 +72,7 @@ ingredients: 2 clove garlic
 vegetable stock concentrate
 2 teaspoon olive oil
 salt
-pepper
+pepper'
 rating: 4
 ease: easy
 img:
@@ -84,4 +84,3 @@ prepTime:
 title: pancetta penne - hello fresh witch's cauldron
 slug: pancetta-penne-hello-fresh-witch-s-cauldron
 ---
-Recipe body

@@ -46,4 +46,3 @@ prepTime: 30 minutes
 title: sausage and rice casserole
 slug: sausage-and-rice-casserole
 ---
-Recipe body

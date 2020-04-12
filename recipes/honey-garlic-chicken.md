@@ -32,4 +32,3 @@ title: honey garlic chicken
 img:
 slug: honey-garlic-chicken
 ---
-Recipe body

@@ -50,4 +50,3 @@ prepTime: 5 minutes
 title: creamy lemon spaghetti with crunch breadcrumbs
 slug: creamy-lemon-spaghetti-with-crunch-breadcrumbs
 ---
-Recipe body

@@ -30,4 +30,3 @@ prepTime: 15 minute
 title: 5 ingredient lemon bars
 slug: 5-ingredient-lemon-bars
 ---
-Recipe body

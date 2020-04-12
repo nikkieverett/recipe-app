@@ -30,4 +30,3 @@ title: oreo cheesecake bites
 img:
 slug: oreo-cheesecake-bites
 ---
-Recipe body

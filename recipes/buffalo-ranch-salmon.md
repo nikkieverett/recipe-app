@@ -30,4 +30,3 @@ prepTime: 10 minutes
 title: buffalo ranch salmon
 slug: buffalo-ranch-salmon
 ---
-Recipe body

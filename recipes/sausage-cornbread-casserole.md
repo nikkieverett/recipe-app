@@ -33,4 +33,3 @@ title: sausage cornbread casserole
 img:
 slug: sausage-cornbread-casserole
 ---
-Recipe body

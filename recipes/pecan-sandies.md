@@ -32,4 +32,3 @@ prepTime: 20 minutes
 title: pecan sandies
 slug: pecan-sandies
 ---
-Recipe body

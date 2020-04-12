@@ -43,4 +43,3 @@ prepTime: 10
 title: no bake oatmeal raisin balls
 slug: no-bake-oatmeal-raisin-balls
 ---
-Recipe body

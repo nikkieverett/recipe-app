@@ -37,4 +37,3 @@ prepTime: 10 minutes
 title: crock pot cubed steak    slow cooker
 slug: crock-pot-cubed-steak-slow-cooker
 ---
-Recipe body

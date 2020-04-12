@@ -37,4 +37,3 @@ prepTime:
 title: slow cooker cheesy jalapeno corn casserole
 slug: slow-cooker-cheesy-jalapeno-corn-casserole
 ---
-Recipe body

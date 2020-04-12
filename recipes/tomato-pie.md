@@ -14,4 +14,3 @@ prepTime:
 title: tomato pie
 slug: tomato-pie
 ---
-Recipe body

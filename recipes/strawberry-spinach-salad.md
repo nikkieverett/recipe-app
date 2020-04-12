@@ -41,4 +41,3 @@ prepTime:
 title: strawberry spinach salad
 slug: strawberry-spinach-salad
 ---
-Recipe body

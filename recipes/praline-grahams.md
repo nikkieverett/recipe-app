@@ -20,4 +20,3 @@ prepTime:
 title: praline grahams
 slug: praline-grahams
 ---
-Recipe body

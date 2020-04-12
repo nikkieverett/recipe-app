@@ -21,4 +21,3 @@ prepTime:
 title: blue cheese dressing
 slug: blue-cheese-dressing
 ---
-Recipe body

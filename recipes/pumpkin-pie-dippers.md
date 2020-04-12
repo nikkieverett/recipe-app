@@ -36,4 +36,3 @@ prepTime: 15
 title: pumpkin pie dippers
 slug: pumpkin-pie-dippers
 ---
-Recipe body

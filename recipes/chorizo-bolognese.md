@@ -55,4 +55,3 @@ title: chorizo bolognese
 img:
 slug: chorizo-bolognese
 ---
-Recipe body

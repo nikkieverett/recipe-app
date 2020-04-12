@@ -35,4 +35,3 @@ prepTime:
 title: tuna artichoke wraps
 slug: tuna-artichoke-wraps
 ---
-Recipe body

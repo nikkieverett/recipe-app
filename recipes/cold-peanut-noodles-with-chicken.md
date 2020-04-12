@@ -35,4 +35,3 @@ title: cold peanut noodles with chicken
 img:
 slug: cold-peanut-noodles-with-chicken
 ---
-Recipe body

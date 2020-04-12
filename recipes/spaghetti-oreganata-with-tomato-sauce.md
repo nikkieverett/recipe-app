@@ -56,4 +56,3 @@ prepTime: 20 minutes
 title: spaghetti oreganata with tomato sauce
 slug: spaghetti-oreganata-with-tomato-sauce
 ---
-Recipe body

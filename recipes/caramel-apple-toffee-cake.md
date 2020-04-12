@@ -58,4 +58,3 @@ prepTime: 20
 title: caramel apple toffee cake
 slug: caramel-apple-toffee-cake
 ---
-Recipe body

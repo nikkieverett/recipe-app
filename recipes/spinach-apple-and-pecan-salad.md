@@ -42,4 +42,3 @@ prepTime:
 title: spinach apple and pecan salad
 slug: spinach-apple-and-pecan-salad
 ---
-Recipe body

@@ -37,4 +37,3 @@ title: noodle soup with meatballs
 img:
 slug: noodle-soup-with-meatballs
 ---
-Recipe body

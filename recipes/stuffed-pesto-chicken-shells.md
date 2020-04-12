@@ -23,4 +23,3 @@ title: stuffed pesto chicken shells
 img:
 slug: stuffed-pesto-chicken-shells
 ---
-Recipe body

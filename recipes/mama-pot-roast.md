@@ -35,4 +35,3 @@ prepTime: 10 minutes
 title: mama' pot roast
 slug: mama-pot-roast
 ---
-Recipe body

@@ -47,4 +47,3 @@ title: bobby's goulash
 img:
 slug: bobby-s-goulash
 ---
-Recipe body

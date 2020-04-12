@@ -32,4 +32,3 @@ prepTime: 10 minutes
 title: slow cooker lemon garlic chicken
 slug: slow-cooker-lemon-garlic-chicken
 ---
-Recipe body

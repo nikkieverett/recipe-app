@@ -2,7 +2,7 @@
 id: 5e52cc3fa97deb0014431973
 servings:
 notes:
-directions: preheat oven to 400 degrees f.
+directions: 'preheat oven to 400 degrees f.
 combine butter
  pecans
  brown sugar
@@ -17,8 +17,8 @@ spoon 1 tablespoon of the pecan mixture into each circle.
 place on a parchment lined pan (it’s important to line it) and bake 8 minutes or until filling is just set. remove from oven and cool on a wire rack.
 optional
 place chocolate chips in a small ziploc bag (use brand name
- the store brands tend to leak). microwave about 15 seconds or until mostly melted. snip off a tiny corner of the baggie and drizzle chocolate over the cookies. cool until set.
-ingredients: 1 prepared single pie crust homemade or purchased
+ the store brands tend to leak). microwave about 15 seconds or until mostly melted. snip off a tiny corner of the baggie and drizzle chocolate over the cookies. cool until set.'
+ingredients: '1 prepared single pie crust homemade or purchased
  i used pillsbury
 2 tablespoons butter melted
 1/2 cup pecans chopped
@@ -28,8 +28,7 @@ ingredients: 1 prepared single pie crust homemade or purchased
 1/8 teaspoon salt
 
 1/4 cup semi sweet or milk chocolate chip for decorating
- optional
-
+ optional'
 rating: 5
 ease: easy
 img:
@@ -41,4 +40,3 @@ prepTime: 15 minutes
 title: pecan pie cookies
 slug: pecan-pie-cookies
 ---
-Recipe body

@@ -56,4 +56,3 @@ prepTime: 10
 title: coffee cashew bars
 slug: coffee-cashew-bars
 ---
-Recipe body

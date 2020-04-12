@@ -39,4 +39,3 @@ title: zesty grilled brats with asparagus and lemon orzo
 img:
 slug: zesty-grilled-brats-with-asparagus-and-lemon-orzo
 ---
-Recipe body

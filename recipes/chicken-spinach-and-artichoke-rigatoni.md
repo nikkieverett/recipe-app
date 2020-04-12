@@ -55,4 +55,3 @@ title: chicken spinach and artichoke rigatoni
 img:
 slug: chicken-spinach-and-artichoke-rigatoni
 ---
-Recipe body

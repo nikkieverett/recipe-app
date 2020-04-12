@@ -24,4 +24,3 @@ prepTime:
 title: wedge salad
 slug: wedge-salad
 ---
-Recipe body

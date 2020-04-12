@@ -32,4 +32,3 @@ prepTime: 15 minutes
 title: very berry cheesecake salad
 slug: very-berry-cheesecake-salad
 ---
-Recipe body

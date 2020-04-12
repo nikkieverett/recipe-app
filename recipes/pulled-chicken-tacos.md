@@ -33,4 +33,3 @@ title: pulled chicken tacos
 img:
 slug: pulled-chicken-tacos
 ---
-Recipe body

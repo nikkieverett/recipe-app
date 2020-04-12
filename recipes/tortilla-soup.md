@@ -40,4 +40,3 @@ prepTime: 10 minutes
 title: tortilla soup
 slug: tortilla-soup
 ---
-Recipe body

@@ -74,4 +74,3 @@ title: cheddar risotto cakes
 img:
 slug: cheddar-risotto-cakes
 ---
-Recipe body

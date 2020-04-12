@@ -2,18 +2,18 @@
 id: 593044f944e3ce00113dfb77
 servings: 6
 notes:
-directions: 1 heat oven to 375°f. spray 8-inch square (2-quart) baking dish with cooking spray.
+directions: '1 heat oven to 375°f. spray 8-inch square (2-quart) baking dish with cooking spray.
 2 in baking dish; mix all ingredients well.
 3 bake 45 to 50 minutes or until rice is tender and most of the liquid is absorbed.
-4 let stand 10 minutes before serving.
-ingredients: 1 package (14 oz) chicken tenders (not breaded); cut into bite-size pieces
+4 let stand 10 minutes before serving.'
+ingredients: '1 package (14 oz) chicken tenders (not breaded); cut into bite-size pieces
 1 cup uncooked regular long-grain white rice
 2 1/2 cups progresso™ chicken stock (from 32-oz carton)
 1 1/2 cups shredded parmesan cheese
 2 tablespoons lemon juice
 1 tablespoon grated lemon peel
 1/2 teaspoon black pepper
-1/4 teaspoon salt
+1/4 teaspoon salt'
 rating: 5
 ease: easy
 category: main course
@@ -25,4 +25,3 @@ title: parmesan lemon chicken and rice
 img:
 slug: parmesan-lemon-chicken-and-rice
 ---
-Recipe body

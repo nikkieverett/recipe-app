@@ -39,4 +39,3 @@ prepTime: 10 minutes
 title: crock pot macaroni and cheese slow cooker
 slug: crock-pot-macaroni-and-cheese-slow-cooker
 ---
-Recipe body

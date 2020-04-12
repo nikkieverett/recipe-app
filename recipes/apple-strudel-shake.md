@@ -25,4 +25,3 @@ prepTime:
 title: apple strudel shake
 slug: apple-strudel-shake
 ---
-Recipe body

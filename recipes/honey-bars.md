@@ -39,4 +39,3 @@ prepTime: 10 minutes
 title: honey bars
 slug: honey-bars
 ---
-Recipe body

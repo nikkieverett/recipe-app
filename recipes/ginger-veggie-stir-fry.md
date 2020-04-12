@@ -14,4 +14,3 @@ prepTime:
 title: ginger veggie stir fry
 slug: ginger-veggie-stir-fry
 ---
-Recipe body

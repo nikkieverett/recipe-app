@@ -18,4 +18,3 @@ prepTime:
 title: yukka - cocktail             1 gallon
 slug: yukka-cocktail-1-gallon
 ---
-Recipe body

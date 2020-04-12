@@ -2,13 +2,13 @@
 id: 5b7096356154c30014c675a2
 servings:
 notes: ingredients to the side are for a pitcher
-directions: fill a highball glass with ice.
+directions: 'fill a highball glass with ice.
 shake peach vodka
  pineapple juice
  cranberry juice and lime juice with ice
  and strain into the glass.
 top with ginger ale
- and garnish with a peach slice and a lime slice.
+ and garnish with a peach slice and a lime slice.'
 ingredients: '1-1/2 oz peach vodka\t\t\t\t25 oz bottle
 1-1/2 oz pineapple juice\t\t\t25 oz
 1-1/2 oz cranberry juice\t\t\t25 oz
@@ -30,4 +30,3 @@ prepTime:
 title: cocktail - beachside peach vodka
 slug: cocktail-beachside-peach-vodka
 ---
-Recipe body

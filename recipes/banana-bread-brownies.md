@@ -60,4 +60,3 @@ prepTime: 10 minutes
 title: banana bread brownies
 slug: banana-bread-brownies
 ---
-Recipe body

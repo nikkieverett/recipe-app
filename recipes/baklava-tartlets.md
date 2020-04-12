@@ -23,4 +23,3 @@ prepTime:
 title: baklava tartlets
 slug: baklava-tartlets
 ---
-Recipe body

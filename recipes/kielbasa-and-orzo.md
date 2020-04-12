@@ -43,4 +43,3 @@ prepTime:
 title: kielbasa and orzo
 slug: kielbasa-and-orzo
 ---
-Recipe body

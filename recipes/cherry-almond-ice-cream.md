@@ -40,4 +40,3 @@ prepTime:
 title: cherry almond ice cream
 slug: cherry-almond-ice-cream
 ---
-Recipe body

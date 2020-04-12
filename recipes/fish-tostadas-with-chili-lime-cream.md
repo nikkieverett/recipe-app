@@ -1,15 +1,15 @@
 ---
 id: 5b19c21793310600149cda53
 servings: 4
-notes: i made guacamole with the avocados.
+notes: 'i made guacamole with the avocados.
 i also made a dressing for the slaw out of
 1 tbs lemon
 1 tbs white wine vinegar
 2 tbs olive oil
 1 clove garlic
 1/4 tsp salt
-1/8 tsp pepper
-directions: preheat broiler. sprinkle fish with 1/4 teaspoon of the chili powder and 1/4 teaspoon salt. for chili-lime cream
+1/8 tsp pepper'
+directions: 'preheat broiler. sprinkle fish with 1/4 teaspoon of the chili powder and 1/4 teaspoon salt. for chili-lime cream
  in bowl squeeze 2 teaspoons juice from half the lime. stir in sour cream
  garlic powder
  and remaining chili powder; set aside. cut remaining lime half in wedges for serving.
@@ -19,8 +19,8 @@ place fish on unheated greased broiler rack; tuck under thin edges. place shells
  avocado
  tomatoes
  lime
- and pepper sauce. serves 4.
-ingredients: 1 pound fresh tilapia or cod fillets
+ and pepper sauce. serves 4.'
+ingredients: '1 pound fresh tilapia or cod fillets
 1/2 teaspoon chili powder
 1 lime
  halved
@@ -35,8 +35,7 @@ ingredients: 1 pound fresh tilapia or cod fillets
  and sliced (optional)
 1 cup cherry tomatoes
  quartered (optional)
-bottled hot pepper sauce (optional)
-
+bottled hot pepper sauce (optional)'
 rating: 4
 ease: easy
 img:
@@ -48,4 +47,3 @@ prepTime: 20 minutes
 title: fish tostadas with chili lime cream
 slug: fish-tostadas-with-chili-lime-cream
 ---
-Recipe body

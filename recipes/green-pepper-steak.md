@@ -43,4 +43,3 @@ prepTime:
 title: green pepper steak
 slug: green-pepper-steak
 ---
-Recipe body

@@ -40,4 +40,3 @@ prepTime:
 title: red beans and rice
 slug: red-beans-and-rice
 ---
-Recipe body

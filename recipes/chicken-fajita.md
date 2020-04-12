@@ -44,4 +44,3 @@ prepTime:
 title: chicken fajita
 slug: chicken-fajita
 ---
-Recipe body

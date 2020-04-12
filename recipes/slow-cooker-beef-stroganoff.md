@@ -29,4 +29,3 @@ title: slow cooker beef stroganoff
 img:
 slug: slow-cooker-beef-stroganoff
 ---
-Recipe body

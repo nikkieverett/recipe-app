@@ -23,4 +23,3 @@ prepTime:
 title: cherry amaretto shake
 slug: cherry-amaretto-shake
 ---
-Recipe body

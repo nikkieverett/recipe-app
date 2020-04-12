@@ -14,4 +14,3 @@ prepTime:
 title: supper on a bread slice
 slug: supper-on-a-bread-slice
 ---
-Recipe body

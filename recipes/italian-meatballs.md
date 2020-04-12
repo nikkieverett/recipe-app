@@ -49,4 +49,3 @@ prepTime: 20
 title: italian meatballs
 slug: italian-meatballs
 ---
-Recipe body

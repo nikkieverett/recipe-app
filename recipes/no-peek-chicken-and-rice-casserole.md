@@ -27,4 +27,3 @@ title: no peek chicken and rice casserole
 img:
 slug: no-peek-chicken-and-rice-casserole
 ---
-Recipe body

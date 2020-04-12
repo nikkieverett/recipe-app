@@ -55,4 +55,3 @@ prepTime: 15 minutes
 title: almond amaretto pound cake
 slug: almond-amaretto-pound-cake
 ---
-Recipe body

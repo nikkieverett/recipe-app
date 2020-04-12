@@ -26,4 +26,3 @@ prepTime: 5 minutes
 title: pan fried tilapia with lemon cream sauce
 slug: pan-fried-tilapia-with-lemon-cream-sauce
 ---
-Recipe body

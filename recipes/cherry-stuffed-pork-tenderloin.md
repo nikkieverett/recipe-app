@@ -75,4 +75,3 @@ title: cherry stuffed pork tenderloin
 img:
 slug: cherry-stuffed-pork-tenderloin
 ---
-Recipe body
