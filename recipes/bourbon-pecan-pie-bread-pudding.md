@@ -43,12 +43,12 @@ rum sauce
 1/4 c water (if you want a heavy rum or bourbon flavor omit water and use liquor in its place'
 rating: 5
 ease: easy
-img:
+
 category: dessert
 href: 'https: //www.justapinch.com/recipes/dessert/cake/drunk-pecan-pie-bread-pudding.html'
 totalTime: 1 hour 20 minutes
 cookTime: 1 hour
 prepTime: 20 minutes
 title: bourbon pecan pie bread pudding
-slug: bourbon-pecan-pie-bread-pudding
+path: /bourbon-pecan-pie-bread-pudding
 ---

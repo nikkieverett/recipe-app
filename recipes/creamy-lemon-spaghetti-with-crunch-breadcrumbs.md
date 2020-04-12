@@ -41,12 +41,12 @@ juice of one lemon
 salt and pepper to taste'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //food52.com/recipes/80601-creamy-lemon-spaghetti-with-crunchy-breadcrumbs'
 totalTime: 25 minutes
 cookTime: 20 minutes
 prepTime: 5 minutes
 title: creamy lemon spaghetti with crunch breadcrumbs
-slug: creamy-lemon-spaghetti-with-crunch-breadcrumbs
+path: /creamy-lemon-spaghetti-with-crunch-breadcrumbs
 ---

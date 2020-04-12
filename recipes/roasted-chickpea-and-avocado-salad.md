@@ -42,12 +42,12 @@ ingredients: '5 oz  mixed greens
 ½ teaspoon  black pepper'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //tasty.co/recipe/roasted-chickpea-and-avocado-salad'
 totalTime:
 cookTime:
 prepTime:
 title: roasted chickpea and avocado salad
-slug: roasted-chickpea-and-avocado-salad
+path: /roasted-chickpea-and-avocado-salad
 ---

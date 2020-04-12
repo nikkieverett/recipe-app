@@ -25,7 +25,7 @@ remove pan from heat
  still stirring
 spoon into warm dishes
 garnish with chopped chives.'
-ingredients: 1 tablespoon butter
+ingredients: '1 tablespoon butter
 1 tablespoon vegetable oil
 2 small leeks or 2 large green onions (finely sliced)
 1 1⁄2 cups arborio rice
@@ -33,7 +33,7 @@ ingredients: 1 tablespoon butter
 1⁄2 teaspoon dijon mustard
 3 (14 1/2 ounce) cans hot chicken broth
 1 cup cheddar cheese (grated)
-2 tablespoons chives (chopped)
+2 tablespoons chives (chopped)'
 rating: 4
 ease: intermediate
 category: side dish
@@ -42,6 +42,6 @@ totalTime:
 cookTime:
 prepTime:
 title: cheddar risotto
-img:
-slug: cheddar-risotto
+
+path: /cheddar-risotto
 ---

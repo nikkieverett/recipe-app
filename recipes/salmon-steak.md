@@ -29,12 +29,12 @@ freshly chopped parsley
  for serving'
 rating: 0
 ease:
-img:
+
 category: main course
 href: 'https: //www.delish.com/cooking/recipe-ideas/a25239929/salmon-steak-recipe/'
 totalTime: 20 minutes
 cookTime: 15 minutes
 prepTime: 5 minutes
 title: salmon steak
-slug: salmon-steak
+path: /salmon-steak
 ---

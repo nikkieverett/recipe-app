@@ -39,12 +39,12 @@ ingredients: '1 pound ground beef
 hot cooked spaghetti'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.tasteofhome.com/recipes/meaty-spaghetti-sauce'
 totalTime:
 cookTime: 8 hours
 prepTime: 15 minutes
 title: meaty spaghetti sauce
-slug: meaty-spaghetti-sauce
+path: /meaty-spaghetti-sauce
 ---

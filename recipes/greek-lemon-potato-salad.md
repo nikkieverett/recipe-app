@@ -21,7 +21,7 @@ ingredients: '1 and 1/2 pounds baby
 8 scallions
  thinly sliced
  white and green parts
-2 tbsp chopped fresh oregano (don't use dried ~ substitute fresh dill
+2 tbsp chopped fresh oregano (dont use dried ~ substitute fresh dill
  rosemary
  thyme
  or parsley)
@@ -37,12 +37,12 @@ juice of 1/2 lemon
 several good grindings of black pepper'
 rating: 3
 ease: easy
-img:
+
 category: side dish
 href: 'https://theviewfromgreatisland.com/greek-lemon-potato-salad-recipe/'
 totalTime: 20 minutes
 cookTime: 10 minutes
 prepTime: 10 mintues
 title: greek lemon potato salad
-slug: greek-lemon-potato-salad
+path: /greek-lemon-potato-salad
 ---

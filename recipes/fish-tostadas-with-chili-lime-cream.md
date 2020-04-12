@@ -38,12 +38,12 @@ ingredients: '1 pound fresh tilapia or cod fillets
 bottled hot pepper sauce (optional)'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.bhg.com/recipe/seafood/fish-tostadas-with-chili-lime-cream/'
 totalTime:
 cookTime:
 prepTime: 20 minutes
 title: fish tostadas with chili lime cream
-slug: fish-tostadas-with-chili-lime-cream
+path: /fish-tostadas-with-chili-lime-cream
 ---

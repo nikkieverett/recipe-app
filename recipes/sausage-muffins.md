@@ -10,12 +10,12 @@ ingredients: '1 lb breakfast sausage - cooked
 4 eggs - beaten'
 rating: 4
 ease: easy
-img:
+
 category: breakfast
 href:
 totalTime: 35
 cookTime: 20
 prepTime: 15
 title: sausage muffins
-slug: sausage-muffins
+path: /sausage-muffins
 ---

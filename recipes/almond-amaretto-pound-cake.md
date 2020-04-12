@@ -53,5 +53,5 @@ totalTime:
 cookTime: 1 hour
 prepTime: 15 minutes
 title: almond amaretto pound cake
-slug: almond-amaretto-pound-cake
+path: /almond-amaretto-pound-cake
 ---

@@ -37,12 +37,12 @@ ingredients: '2 pounds johnsonville® ground mild italian sausage
  melted'
 rating: 5
 ease: intermediate
-img:
+
 category: main course
 href: 'https: //www.tasteofhome.com/recipes/baked-rice-with-sausage/'
 totalTime: 1 hour 20 minutes
 cookTime: 50 minutes
 prepTime: 30 minutes
 title: sausage and rice casserole
-slug: sausage-and-rice-casserole
+path: /sausage-and-rice-casserole
 ---

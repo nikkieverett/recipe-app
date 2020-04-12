@@ -10,7 +10,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       allMarkdownRemark {
         edges {
           node {
-            slug
+            frontmatter {
+              path
+            }
           }
         }
       }
@@ -23,12 +25,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return
   }
 
-  console.log(recipeResult)
-
   recipeResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
-      path: `recipes/${node.slug}`,
-      data: node,
+      path: node.frontmatter.path,
       component: recipeTemplate,
       context: {}, // additional data can be passed via context
     })
@@ -38,14 +37,5 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 exports.onCreatePage = async ({ page, actions }) => {
   const { createPage } = actions
 
-  if (page.path.match(/^\/account/)) {
-    page.matchPath = "/account/*"
-    createPage(page)
-  }
-}
-
-exports.onCreateNode = async ({ node }) => {
-  if (node.internal.type === 'MarkdownRemark' && node.frontmatter.directions)  {
-    node.frontmatter.path = `recipes/${node.frontmatter.slug}`
-  }
+  console.log(page)
 }

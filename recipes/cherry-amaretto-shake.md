@@ -14,12 +14,12 @@ ingredients: '1 serving protein powder
 1 tb  flax seed'
 rating: 5
 ease: easy
-img:
+
 category: breakfast
 href:
 totalTime:
 cookTime:
 prepTime:
 title: cherry amaretto shake
-slug: cherry-amaretto-shake
+path: /cherry-amaretto-shake
 ---

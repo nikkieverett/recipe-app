@@ -1,12 +1,12 @@
 ---
 id: 5d9cbd28c104080014308ea3
 servings: 6
-notes: calories 89
+notes: 'calories 89
 fat 5g
 carbs 3g
 fiber 1g
 sugar 0g
-protein 7g
+protein 7g'
 directions: 'preheat oven to 350°f (180°c).
 in a measuring cup
  beat the eggs
@@ -45,12 +45,12 @@ cheddar cheese
 swiss cheese'
 rating: 5
 ease: easy
-img:
+
 category: breakfast
 href: 'https: //tasty.co/recipe/egg-breakfast-cups'
 totalTime: 25 minutes
 cookTime: 20 minutes
 prepTime: 5 minutes
 title: breakfast egg cups
-slug: breakfast-egg-cups
+path: /breakfast-egg-cups
 ---

@@ -28,8 +28,8 @@ add in the soaked dates
 then
  spoon pistachio mixture into a bowl.
 
-if you haven't already
- melt the milk chocolate (you could use dark chocolate if you prefer) in a broiler or in the microwave (check and stir at 25-30 sec intervals - took a total of 45 seconds for mine to melt and not be too hot). make sure melted chocolate isn't too hot. if it's hot
+if you havent already
+ melt the milk chocolate (you could use dark chocolate if you prefer) in a broiler or in the microwave (check and stir at 25-30 sec intervals - took a total of 45 seconds for mine to melt and not be too hot). make sure melted chocolate isnt too hot. if its hot
  then let it cool a bit. then pour melted chocolate into the pistachio
  oats
  dates
@@ -41,7 +41,7 @@ gather teaspoons of mixture up and roll to form bites/balls.
 
 chill these easy no bake chocolate pistachio bites for 30 minutes before enjoying.
 
-*they can be stored in the fridge for 4-5 days (at least that's how long they lasted in our house).'
+*they can be stored in the fridge for 4-5 days (at least thats how long they lasted in our house).'
 ingredients: '1/2 cup unsalted pistachios
 1/2 cup certified gluten free old fashioned oats
 1 tbsp chia seeds
@@ -50,12 +50,12 @@ ingredients: '1/2 cup unsalted pistachios
 2 pinches salt'
 rating: 0
 ease: easy
-img:
+
 category: breakfast
 href: 'https: //savoryspin.com/no-bake-chocolate-pistachio-bites/'
 totalTime:
 cookTime:
 prepTime:
 title: easy no bake chocolate pistachio bites
-slug: easy-no-bake-chocolate-pistachio-bites
+path: /easy-no-bake-chocolate-pistachio-bites
 ---

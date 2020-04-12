@@ -19,12 +19,12 @@ olive oil (optional)
 fresh basil (optional)'
 rating: 3
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.bhg.com/recipe/chicken/chicken-with-parmesan-noodles/'
 totalTime: 20 minutes
 cookTime:
 prepTime: 20 minutes
 title: chicken parmesan with noodles
-slug: chicken-parmesan-with-noodles
+path: /chicken-parmesan-with-noodles
 ---

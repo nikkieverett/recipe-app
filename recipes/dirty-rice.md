@@ -32,12 +32,12 @@ salt & pepper to taste
 green onion for garnish'
 rating: 3
 ease: intermediate
-img:
+
 category: side dish
 href: 'https: //www.spendwithpennies.com/dirty-rice/'
 totalTime:
 cookTime:
 prepTime:
 title: dirty rice
-slug: dirty-rice
+path: /dirty-rice
 ---

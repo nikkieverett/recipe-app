@@ -26,7 +26,7 @@ add fresh raspberries to a powerful blender or food processor.
 add in cream cheese and heavy cream and blend until smooth.
 with the blender (or food processor) on low
  add in powdered sugar 1/4 cup at a time. you want your glaze to be pourable
- so stop the blender every cup or so and test to make sure it's the right consistency.
+ so stop the blender every cup or so and test to make sure its the right consistency.
 chill until ready to serve.'
 ingredients: 'lemon cake
 1 1/2 (3/4 cup or 170g) sticks unsalted butter room temperature
@@ -49,12 +49,12 @@ raspberry glaze
 2 or 3 cups (250-375g powdered sugar)'
 rating: 4
 ease: intermediate
-img:
+
 category: dessert
 href: 'https: //iambaker.net/raspberry-lemon-bundt-cake/'
 totalTime: 115
 cookTime: 45
 prepTime: 30
 title: raspberry lemon bunt cake
-slug: raspberry-lemon-bunt-cake
+path: /raspberry-lemon-bunt-cake
 ---

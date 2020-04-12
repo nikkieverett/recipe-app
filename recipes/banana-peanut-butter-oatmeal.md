@@ -13,12 +13,12 @@ ingredients: '2/3 cup rolled oats
 1 banana sliced'
 rating: 5
 ease: easy
-img:
+
 category: breakfast
 href: 'https: //www.toneitup.com/recipe/tiu-challenge-recipe-banana-peanut-butter-overnight-oats/'
 totalTime:
 cookTime:
 prepTime:
 title: banana peanut butter oatmeal
-slug: banana-peanut-butter-oatmeal
+path: /banana-peanut-butter-oatmeal
 ---

@@ -34,12 +34,12 @@ ingredients: '1 tablespoon vegetable oil
 salt and ground black pepper'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.bhg.com/recipe/kielbasa-and-orzo/'
 totalTime: 20 minutes
 cookTime:
 prepTime:
 title: kielbasa and orzo
-slug: kielbasa-and-orzo
+path: /kielbasa-and-orzo
 ---

@@ -35,12 +35,12 @@ ingredients: '3 cups (375 grams) all-purpose flour
 1 cup rainbow sprinkles'
 rating: 5
 ease: intermediate
-img:
+
 category: dessert
 href: 'https: //smittenkitchen.com/2016/05/confetti-cookies/'
 totalTime:
 cookTime:
 prepTime:
 title: confetti cookies
-slug: confetti-cookies
+path: /confetti-cookies
 ---

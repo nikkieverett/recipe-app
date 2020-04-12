@@ -2,7 +2,7 @@
 id: 5a2d687489655800121949a8
 servings:
 notes:
-directions:'
+directions:
 ingredients: 'sauce
 in a pot mix:
 2t butter melted
@@ -22,12 +22,12 @@ topping (combine):
 bake 30 minutes in 350 oven'
 rating: 0
 ease:
-img:
+
 category: main course
 href:
 totalTime: 40
 cookTime: 30
 prepTime: 10
 title: chicken cordon bleu
-slug: chicken-cordon-bleu
+path: /chicken-cordon-bleu
 ---

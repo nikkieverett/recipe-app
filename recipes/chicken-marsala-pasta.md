@@ -44,6 +44,6 @@ totalTime:
 cookTime:
 prepTime:
 title: chicken marsala pasta
-img:
-slug: chicken-marsala-pasta
+
+path: /chicken-marsala-pasta
 ---

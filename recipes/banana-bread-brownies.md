@@ -51,12 +51,12 @@ frosting:
 3 tablespoons milk'
 rating: 4
 ease: easy
-img:
+
 category: dessert
 href: 'https://sugarapron.com/2015/04/09/banana-bread-brownies/'
 totalTime: 35 minutes
 cookTime: 25 minutes
 prepTime: 10 minutes
 title: banana bread brownies
-slug: banana-bread-brownies
+path: /banana-bread-brownies
 ---

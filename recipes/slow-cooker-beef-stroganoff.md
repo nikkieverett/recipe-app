@@ -26,6 +26,6 @@ totalTime: 8 hrs 10 min
 cookTime: 8 hrs
 prepTime: 10 min
 title: slow cooker beef stroganoff
-img:
-slug: slow-cooker-beef-stroganoff
+
+path: /slow-cooker-beef-stroganoff
 ---

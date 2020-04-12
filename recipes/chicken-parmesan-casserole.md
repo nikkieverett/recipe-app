@@ -25,12 +25,12 @@ ingredients: '4 chicken breasts
 pepper to taste'
 rating: 3
 ease: easy
-img:
+
 category: main course
 href: 'https://cooktopcove.com/2017/09/06/chicken-parmesan-casserole-recipe/?src=article_link&eid=51119&pid=51119'
-totalTime: 1: 10
+totalTime: 1:10
 cookTime: 1 hour
 prepTime: 10
 title: chicken parmesan casserole
-slug: chicken-parmesan-casserole
+path: /chicken-parmesan-casserole
 ---

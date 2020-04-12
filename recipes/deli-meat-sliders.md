@@ -24,15 +24,15 @@ ingredients: '24 slices of deli honey ham
 1/2 cup butter melted
 1 tablespoon onion powder
 1/2 teaspoon worcestershire sauce
-2 packages (12 count) king's hawaiian original hawaiian sweet dinner rolls'
+2 packages (12 count) kings hawaiian original hawaiian sweet dinner rolls'
 rating: 4
 ease: easy
-img:
+
 category: appetizer
 href: 'https: //www.kingshawaiian.com/recipes/hawaiian-ham--swiss-slider'
 totalTime:
 cookTime:
 prepTime:
 title: deli meat sliders
-slug: deli-meat-sliders
+path: /deli-meat-sliders
 ---

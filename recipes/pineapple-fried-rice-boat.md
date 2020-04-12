@@ -54,12 +54,12 @@ one 1-inch piece ginger
  chopped'
 rating: 3
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.foodnetwork.com/recipes/food-network-kitchen/fried-rice-pineapple-boat-5270846'
 totalTime: 35 minutes
 cookTime:
 prepTime:
 title: pineapple fried rice boat
-slug: pineapple-fried-rice-boat
+path: /pineapple-fried-rice-boat
 ---

@@ -19,7 +19,7 @@ swirl in the remaining 2 t of butter
 
 serve with mashed potatoes or rice. enjoy!'
 ingredients: '1⁄2 cup flour
-1 tablespoon emeril's essence (recipe below)
+1 tablespoon emerils essence (recipe below)
 2 boneless skinless chicken breasts
  cut in halves and pounded thin
 1 tablespoon olive oil
@@ -40,12 +40,12 @@ emerils essence creole seasoning (makes 6 t combine all ingredients store in an 
 1 tablespoon thyme'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.geniuskitchen.com/recipe/chicken-marsala-by-emeril-345973'
 totalTime: 40 minutes
 cookTime:
 prepTime:
 title: chicken marsala
-slug: chicken-marsala
+path: /chicken-marsala
 ---

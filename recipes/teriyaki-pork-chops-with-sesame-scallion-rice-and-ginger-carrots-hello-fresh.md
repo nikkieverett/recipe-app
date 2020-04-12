@@ -1,7 +1,7 @@
 ---
 id: 5dd025283176ab00145e5ab5
 servings: 2 or 4
-notes: nutrition values
+notes: 'nutrition values
 / per serving
 energy (kj)
 2845 kj
@@ -22,7 +22,7 @@ protein
 cholesterol
 115 mg
 sodium
-1770 mg
+1770 mg'
 directions: 'adjust rack to top position and preheat oven to 425 degrees. wash and dry all produce. trim
  peel
  and cut carrots on a diagonal into ½-inch-thick pieces. peel and mince or grate ginger. trim and thinly slice scallions on a diagonal
@@ -76,12 +76,12 @@ salt
 pepper'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.hellofresh.com/recipes/teriyaki-pork-chops-5d921428ddf6c16a2e15f8c0'
 totalTime: 30 minutes
 cookTime:
 prepTime:
 title: teriyaki pork chops with sesame scallion rice and ginger carrots - hello fresh
-slug: teriyaki-pork-chops-with-sesame-scallion-rice-and-ginger-carrots-hello-fresh
+path: /teriyaki-pork-chops-with-sesame-scallion-rice-and-ginger-carrots-hello-fresh
 ---

@@ -30,6 +30,6 @@ totalTime: 1 hour
 cookTime: 45 minutes
 prepTime: 10 minutes
 title: sausage cornbread casserole
-img:
-slug: sausage-cornbread-casserole
+
+path: /sausage-cornbread-casserole
 ---

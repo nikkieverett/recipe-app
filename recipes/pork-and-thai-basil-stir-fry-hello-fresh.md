@@ -1,7 +1,7 @@
 ---
 id: 5aaebced58eb8b00148fb2ba
 servings: 4
-notes: nutrition values/ per serving
+notes: 'nutrition values/ per serving
 energy (kj)2218 kj
 calories530 kcal
 fat25 g
@@ -11,7 +11,7 @@ sugar6 g
 dietary fiber4 g
 protein30 g
 cholesterol90 mg
-sodium890 mg
+sodium890 mg'
 directions: 'wash and dry all produce. mince garlic. halve limes; cut one lime into wedges.
 trim and discard bottom root ends from bok choy
  then thinly slice stalks and leaves crosswise.
@@ -75,12 +75,12 @@ salt
 pepper'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.hellofresh.com/recipes/pork-and-thai-basil-stir-fry-5a32a68a450cfa0441064423?locale=en-us'
 totalTime: 35
 cookTime:
 prepTime:
 title: pork and thai basil stir-fry - hello fresh
-slug: pork-and-thai-basil-stir-fry-hello-fresh
+path: /pork-and-thai-basil-stir-fry-hello-fresh
 ---

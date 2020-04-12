@@ -34,12 +34,12 @@ pinch of salt
  as needed (see notes)'
 rating: 3
 ease: easy
-img:
+
 category: breakfast
 href: 'https: //www.familyfoodonthetable.com/no-bake-oatmeal-raisin-cookie-balls/'
 totalTime: 10
 cookTime:
 prepTime: 10
 title: no bake oatmeal raisin balls
-slug: no-bake-oatmeal-raisin-balls
+path: /no-bake-oatmeal-raisin-balls
 ---

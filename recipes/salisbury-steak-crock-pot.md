@@ -41,6 +41,6 @@ totalTime:
 cookTime:
 prepTime:
 title: salisbury steak - crock pot
-img:
-slug: salisbury-steak-crock-pot
+
+path: /salisbury-steak-crock-pot
 ---

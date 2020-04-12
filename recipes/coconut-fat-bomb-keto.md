@@ -19,12 +19,12 @@ ingredients: 't tbs unsalted butter
 ¼ tsp ground cinnamon'
 rating: 4
 ease: easy
-img:
+
 category: dessert
 href: 'https: //www.dietdoctor.com/recipes/cinnamon-cardamom-fat-bombs'
 totalTime:
 cookTime:
 prepTime:
 title: coconut fat bomb - keto
-slug: coconut-fat-bomb-keto
+path: /coconut-fat-bomb-keto
 ---

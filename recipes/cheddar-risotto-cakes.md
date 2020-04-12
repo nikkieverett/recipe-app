@@ -1,8 +1,8 @@
 ---
 id: 593044f844e3ce00113dfb57
 servings: 10
-notes: can be made up to 2 days ahead of time
-would be great with marinara
+notes: 'can be made up to 2 days ahead of time
+would be great with marinara'
 directions: 'bring 3 cups broth to simmer in small saucepan
 reduce heat to very low
  cover and keep warm
@@ -44,8 +44,7 @@ working in batches
  about 2 1/2 minutes per side
 transfer to baking sheet in oven
 
-serve risotto cakes sprinkled with cheese and garnished with chives.
-'
+serve risotto cakes sprinkled with cheese and garnished with chives.'
 ingredients: '3 cups (about) low-salt chicken broth
 2 tablespoons olive oil
 1/2 cup finely chopped onion
@@ -71,6 +70,6 @@ totalTime:
 cookTime:
 prepTime:
 title: cheddar risotto cakes
-img:
-slug: cheddar-risotto-cakes
+
+path: /cheddar-risotto-cakes
 ---

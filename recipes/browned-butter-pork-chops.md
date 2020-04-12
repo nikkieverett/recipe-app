@@ -6,12 +6,12 @@ directions:
 ingredients:
 rating: 0
 ease:
-img:
+
 category: main course
 href: 'https://iamhomesteader.com/pork-chops/'
 totalTime:
 cookTime:
 prepTime:
 title: browned butter pork chops
-slug: browned-butter-pork-chops
+path: /browned-butter-pork-chops
 ---

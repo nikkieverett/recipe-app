@@ -23,7 +23,7 @@ directions: 'position a rack in the middle of the oven. preheat oven to 400°f |
  on the baking sheet; set aside.
 mix together the breadcrumbs
  parmesan cheese
- parsley and garlic in a small bowl. pour in the melted butter; season with 3/4 teaspoon salt and 1/3 teaspoon pepper (or to taste). using your hands (it's easier than using a wooden spoon)
+ parsley and garlic in a small bowl. pour in the melted butter; season with 3/4 teaspoon salt and 1/3 teaspoon pepper (or to taste). using your hands (its easier than using a wooden spoon)
  mix the ingredients together until the breadcrumbs absorb the butter (about 40 seconds).
 pour the mixture over the salmon
  pressing it into the top until the fillet is completely covered. lightly spray salmon with cooking oil spray for a golden crumb.
@@ -44,12 +44,12 @@ lemon wedges
  to serve'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //cafedelites.com/crispy-garlic-parmesan-salmon/'
 totalTime: 25 minutes
 cookTime: 15 minutes
 prepTime: 10 minutes
 title: crispy garlic parmesan salmon
-slug: crispy-garlic-parmesan-salmon
+path: /crispy-garlic-parmesan-salmon
 ---

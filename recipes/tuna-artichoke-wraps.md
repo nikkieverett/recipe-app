@@ -26,12 +26,12 @@ avocado
 romaine lettuce'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href:
 totalTime:
 cookTime:
 prepTime:
 title: tuna artichoke wraps
-slug: tuna-artichoke-wraps
+path: /tuna-artichoke-wraps
 ---

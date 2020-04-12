@@ -29,7 +29,7 @@ with a knife and fork or two forks
 ingredients: '1 boneless pork butt
  about 4 pounds
 3 tablespoons dark brown sugar
-2 tablespoons emeril's original essence
+2 tablespoons emerils original essence
 1 tablespoon salt
 1 tablespoon cumin
 1 tablespoon paprika
@@ -62,12 +62,12 @@ in a bowl
 8 hamburger buns'
 rating: 5
 ease: intermediate
-img:
+
 category: main course
 href: 'https://emerils.com/125456/barbecued-pulled-pork-sandwiches-homemade-bbq-sauce-cole-slaw-and-fried-pickles'
 totalTime:
 cookTime:
 prepTime:
 title: bbq pulled pork sandwiches by emeril
-slug: bbq-pulled-pork-sandwiches-by-emeril
+path: /bbq-pulled-pork-sandwiches-by-emeril
 ---

@@ -29,6 +29,6 @@ totalTime: 35 minutes
 cookTime: 25 minutes
 prepTime: 10 minutes
 title: honey garlic chicken
-img:
-slug: honey-garlic-chicken
+
+path: /honey-garlic-chicken
 ---

@@ -4,7 +4,7 @@ servings: 2
 notes: 'this needs to steam longer than instructions say'
 directions: 'fill a steamer pot with a few inches of water
  and place a steamer basket on top. cover the pot and bring the water to a boil. turn the heat to low and let it simmer.
-use a chef's knife to cut off about 1-inch from the top of each artichoke
+use a chefs knife to cut off about 1-inch from the top of each artichoke
  and enough off of the bottom to form a nice base. remove any especially tough outer leaves and discard them. then use kitchen scissors to cut off the sharp tips of the leaves.
 using your hands
  carefully pull the leaves away from the middle of the artichoke -- just enough so that you can see down to the choke. now use a spoon to reach down and gently scrape away and discard all of the fuzz
@@ -14,13 +14,13 @@ place the artichokes
  in the steamer basket
  cover
  and steam until they are almost as tender as you like them
- about 20 minutes. (they'll finish cooking in the oven.) check for doneness by pulling off an outer leaf — it should come off fairly easily. set them aside to cool.
+ about 20 minutes. (theyll finish cooking in the oven.) check for doneness by pulling off an outer leaf — it should come off fairly easily. set them aside to cool.
 while the artichokes are steaming
  preheat the oven to 375 degrees f.
 melt the butter in a large sauté pan over low-medium heat. let it simmer until it begins to brown
  about 3 minutes. add the shallots and garlic and cook until soft
  about 3 minutes. pour in about ⅓ cup of lemon juice and the wine. stir and let this simmer on low heat for about 4 minutes. add the bread crumbs and parsley
- stir to blend and remove from the heat. season to taste with salt and pepper (here's how)
+ stir to blend and remove from the heat. season to taste with salt and pepper (heres how)
  and set aside to cool.
 place the artichokes
  sitting on their bases
@@ -42,12 +42,12 @@ juice of 3 lemons divided (about ½ cup)
 sea salt and freshly ground black pepper'
 rating: 0
 ease: time consuming
-img:
+
 category: side dish
 href: 'https://cookingontheweekends.com/2014/05/the-ultimate-stuffed-artichoke-recipe/'
-totalTime: 1: 45
+totalTime: 1 hour 45 min
 cookTime: 1 hour
 prepTime: 45 min
 title: stuffed artichoke
-slug: stuffed-artichoke
+path: /stuffed-artichoke
 ---

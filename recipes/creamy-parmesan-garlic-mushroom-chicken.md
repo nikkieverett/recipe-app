@@ -39,12 +39,12 @@ creamy parmesan garlic sauce:
 '
 rating: 0
 ease:
-img:
+
 category: main course
 href: 'https://therecipecritic.com/2016/06/creamy-parmesan-garlic-mushroom-chicken/'
 totalTime: 25 min
 cookTime: 20 min
 prepTime: 5 min
 title: creamy parmesan garlic mushroom chicken
-slug: creamy-parmesan-garlic-mushroom-chicken
+path: /creamy-parmesan-garlic-mushroom-chicken
 ---

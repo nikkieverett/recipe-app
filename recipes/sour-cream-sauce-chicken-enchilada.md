@@ -4,7 +4,7 @@ servings:
 notes:
 directions: 'heat a heavy sauce pan on medium heat
 add butter
- melt but don't brown it
+ melt but dont brown it
 add flour and whisk for 1 minute until thickened
 add chicken broth
  garlic powder
@@ -26,12 +26,12 @@ ingredients: '3 tablespoons butter
 1/4 cup shredded cheddar cheese'
 rating: 5
 ease: easy
-img:
+
 category:
 href: 'https: //dishesdelish.com/sour-cream-enchilada-sauce/'
 totalTime:
 cookTime:
 prepTime:
 title: sour cream sauce - chicken enchilada
-slug: sour-cream-sauce-chicken-enchilada
+path: /sour-cream-sauce-chicken-enchilada
 ---

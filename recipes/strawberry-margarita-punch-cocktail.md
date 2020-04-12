@@ -23,12 +23,12 @@ ingredients: '16 ounces strawberries chopped. (or 16 ounces frozen strawberries 
 1/4 cup sugar'
 rating: 4
 ease: easy
-img:
+
 category:
 href: 'https: //www.thecookierookie.com/strawberry-margarita-punch/'
 totalTime: 5 minutes
 cookTime:
 prepTime: 5 minutes
 title: strawberry margarita punch cocktail
-slug: strawberry-margarita-punch-cocktail
+path: /strawberry-margarita-punch-cocktail
 ---

@@ -30,6 +30,6 @@ totalTime: 4 hours 10 minutes
 cookTime: 4 hours
 prepTime: 10 minutes
 title: pulled chicken tacos
-img:
-slug: pulled-chicken-tacos
+
+path: /pulled-chicken-tacos
 ---

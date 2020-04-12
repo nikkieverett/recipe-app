@@ -35,12 +35,12 @@ ingredients: '1 small or medium yellow onion
 ¾ cup uncooked orzo pasta'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.365daysofcrockpot.com/slow-cooker-italian-wedding-soup/'
 totalTime: 7 hours 15 minutes
 cookTime: 7 hours
 prepTime: 15 minutes
 title: italian wedding soup - crock pot
-slug: italian-wedding-soup-crock-pot
+path: /italian-wedding-soup-crock-pot
 ---

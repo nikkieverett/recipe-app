@@ -36,12 +36,12 @@ ingredients: '1 (8oz) package cream cheese
  divided'
 rating: 5
 ease: easy
-img:
+
 category: appetizer
 href: 'https: //12tomatoes.com/maple-pecan-cheese-ball/'
 totalTime: 20 minutes
 cookTime:
 prepTime:
 title: maple pecan cheese ball
-slug: maple-pecan-cheese-ball
+path: /maple-pecan-cheese-ball
 ---

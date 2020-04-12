@@ -19,7 +19,7 @@ vitamin a 3%
 vitamin c 2%
 iron 7%
 * percent daily values are based on a 2000 calorie diet.'
-directions: preheat the oven to 350 degrees
+directions: 'preheat the oven to 350 degrees
 add the oats
  soaked dates
  coconut oil
@@ -35,8 +35,8 @@ remove coffee cashew bars from oven and let cool completely then
  trim off the edges.
 then melt chocolate either in a bowl over a steaming pan or in a microwave safe bowl in the microwave at 25-30 second intervals - checking and stirring between each interval.
 spoon melted chocolate over cooled coffee cashew bars and let set.
-cut into bars and enjoy.
-ingredients: 1 cup certified gluten free oats
+cut into bars and enjoy.'
+ingredients: '1 cup certified gluten free oats
 6 dates soaked in a hot cup of coffee (do not discard this liquid)
 ¼ cup coconut oil
 1 egg
@@ -44,15 +44,15 @@ ingredients: 1 cup certified gluten free oats
 4 tablespoons of the coffee liquid that the dates were soaked in
 1 teaspoon vanilla
 ¼ teaspoon salt
-½ cup good quality chocolate of your choice
+½ cup good quality chocolate of your choice'
 rating: 0
 ease: easy
-img:
+
 category: breakfast
 href: 'https: //savoryspin.com/coffee-cashew-bars/'
 totalTime: 40
 cookTime: 30
 prepTime: 10
 title: coffee cashew bars
-slug: coffee-cashew-bars
+path: /coffee-cashew-bars
 ---

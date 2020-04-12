@@ -22,12 +22,12 @@ ingredients: '1 pie crust
  grated'
 rating: 5
 ease: easy
-img:
+
 category: breakfast
 href:
 totalTime:
 cookTime:
 prepTime:
 title: swiss cheese pie (quiche)
-slug: swiss-cheese-pie-quiche
+path: /swiss-cheese-pie-quiche
 ---

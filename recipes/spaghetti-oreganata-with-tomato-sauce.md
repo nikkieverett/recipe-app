@@ -47,12 +47,12 @@ ingredients: '1 lb italian sausage links
 1/2 cup freshly chopped basil leaves'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https://recipeofhealth.com/recipe/spaghetti-oreganata-with-tomato-sauce-emeril-lagasse-545685rb?parametr=kitchen'
 totalTime: 40 minutes
 cookTime: 20 minutes
 prepTime: 20 minutes
 title: spaghetti oreganata with tomato sauce
-slug: spaghetti-oreganata-with-tomato-sauce
+path: /spaghetti-oreganata-with-tomato-sauce
 ---

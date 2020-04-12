@@ -15,7 +15,7 @@ whisk in chilled cherry mixture.
 add heavy cream and almond extract.
 blend well
  and chill.
-transfer mixture to ice cream maker and freeze according to your machine's instructions.
+transfer mixture to ice cream maker and freeze according to your machines instructions.
 add almonds
  if desired
  near end of cycle
@@ -23,7 +23,7 @@ add almonds
 ingredients: '2 cups very ripe sweet cherries (i used frozen black cherries)
 1 1⁄4 cups sugar
 1⁄4 cup water
-1 large egg (or 1/4 c egg substitute(don't leave this out
+1 large egg (or 1/4 c egg substitute(dont leave this out
  as the texture will suffer)
 1 cup half-and-half
 1 teaspoon almond extract
@@ -31,12 +31,12 @@ ingredients: '2 cups very ripe sweet cherries (i used frozen black cherries)
 3⁄4 cup sliced almonds (optional)'
 rating: 4
 ease: intermediate
-img:
+
 category: dessert
 href: 'https: //www.geniuskitchen.com/recipe/cherry-almond-ice-cream-94646'
 totalTime:
 cookTime:
 prepTime:
 title: cherry almond ice cream
-slug: cherry-almond-ice-cream
+path: /cherry-almond-ice-cream
 ---

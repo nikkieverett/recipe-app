@@ -19,12 +19,12 @@ ingredients: '1 1/2 cups half-and-half or cream
 2 tablespoons cocoa powder'
 rating: 0
 ease: easy
-img:
+
 category:
 href: 'https: //www.thegraciouswife.com/homemade-chocolate-raspberry-coffee-creamer/'
 totalTime:
 cookTime:
 prepTime:
 title: chocolate raspberry coffee cream
-slug: chocolate-raspberry-coffee-cream
+path: /chocolate-raspberry-coffee-cream
 ---

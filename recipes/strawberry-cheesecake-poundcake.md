@@ -12,5 +12,5 @@ totalTime:
 cookTime:
 prepTime:
 title: strawberry cheesecake poundcake
-slug: strawberry-cheesecake-poundcake
+path: /strawberry-cheesecake-poundcake
 ---

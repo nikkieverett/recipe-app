@@ -34,12 +34,12 @@ rice
 chow mien noodles'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https://www.geniuskitchen.com/recipe/green-pepper-steak-438141'
 totalTime:
 cookTime:
 prepTime:
 title: green pepper steak
-slug: green-pepper-steak
+path: /green-pepper-steak
 ---

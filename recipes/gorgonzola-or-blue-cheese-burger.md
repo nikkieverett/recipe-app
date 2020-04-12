@@ -30,12 +30,12 @@ ingredients: '3 pounds lean ground beef
 caramelized onion slices for serving'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.allrecipes.com/recipe/24685/blue-cheese-burgers/'
 totalTime: 2 hours 35 minutes
 cookTime: 10 minutes
 prepTime: 25 minutes
 title: gorgonzola or blue cheese burger
-slug: gorgonzola-or-blue-cheese-burger
+path: /gorgonzola-or-blue-cheese-burger
 ---

@@ -1,10 +1,10 @@
 ---
 id: 5e56a409f0f75d0014893fcd
 servings:
-notes: 15 minutes to brine
+notes: '15 minutes to brine
 10 minutes to prep
 15 minutes to cook
-10 minutes to rest
+10 minutes to rest'
 directions: 'to brine your chicken breasts
  fill a large bowl with 1 quart of warm water and 1/4 cup kosher salt.  stir to combine until most of the salt is absorbed.  add the chicken breasts and let them sit in the mixture to brine for 15 minutes.  or you can also also cover the bowl and refrigerate for up to 6 hours.  remove the chicken breasts from the brine
  rinse them with cold water
@@ -38,12 +38,12 @@ ingredients: '4 boneless skinless chicken breasts
 1/2 teaspoon paprika (i prefer smoked paprika)'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.gimmesomeoven.com/baked-chicken-breast/#tasty-recipes-60192'
 totalTime: 45 minutes
 cookTime:
 prepTime:
 title: baked chicken breast
-slug: baked-chicken-breast
+path: /baked-chicken-breast
 ---

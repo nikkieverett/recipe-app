@@ -48,12 +48,12 @@ for the bruschetta:
 extra-virgin olive oil'
 rating: 4
 ease: intermediate
-img:
+
 category: main course
 href: 'https: //www.foodnetwork.com/recipes/michael-chiarello/roasted-tomato-soup-with-croutons-recipe-1916586'
 totalTime: 1 hour 35 minutes
 cookTime: 1 hour 10 minutes
 prepTime: 25 minutes
 title: roasted tomato soup with croutons
-slug: roasted-tomato-soup-with-croutons
+path: /roasted-tomato-soup-with-croutons
 ---

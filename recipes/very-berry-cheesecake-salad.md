@@ -23,12 +23,12 @@ ingredients: '1 (8 ounce) cream cheese
 1 cup raspberries'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //therecipecritic.com/very-berry-cheesecake-salad/'
 totalTime: 15 minutes
 cookTime:
 prepTime: 15 minutes
 title: very berry cheesecake salad
-slug: very-berry-cheesecake-salad
+path: /very-berry-cheesecake-salad
 ---

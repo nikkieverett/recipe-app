@@ -31,12 +31,12 @@ ingredients: '1 prepared single pie crust homemade or purchased
  optional'
 rating: 5
 ease: easy
-img:
+
 category: dessert
 href: 'https: //www.spendwithpennies.com/pecan-pie-cookies/'
 totalTime: 25 minutes
 cookTime: 10 minutes
 prepTime: 15 minutes
 title: pecan pie cookies
-slug: pecan-pie-cookies
+path: /pecan-pie-cookies
 ---

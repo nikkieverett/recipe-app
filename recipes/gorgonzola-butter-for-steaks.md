@@ -18,12 +18,12 @@ ingredients: 'gorgonzola butter
 2 tablespoons chopped fresh parsley'
 rating: 4
 ease: easy
-img:
+
 category:
 href: 'https: //www.epicurious.com/recipes/food/views/rib-eye-steaks-with-gorgonzola-butter-and-crispy-sweet-onion-rings-230600'
 totalTime:
 cookTime:
 prepTime:
 title: gorgonzola butter for steaks
-slug: gorgonzola-butter-for-steaks
+path: /gorgonzola-butter-for-steaks
 ---

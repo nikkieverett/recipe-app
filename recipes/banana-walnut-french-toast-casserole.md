@@ -35,12 +35,12 @@ ingredients: '2 cups brown sugar
 1 teaspoon vanilla'
 rating: 0
 ease: easy
-img:
+
 category: breakfast
 href: 'https: //www.mostlyhomemademom.com/banana-walnut-french-toast-casserole/'
 totalTime:
 cookTime:
 prepTime:
 title: banana walnut french toast casserole
-slug: banana-walnut-french-toast-casserole
+path: /banana-walnut-french-toast-casserole
 ---

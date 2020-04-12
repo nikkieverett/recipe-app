@@ -36,6 +36,5 @@ totalTime:
 cookTime:
 prepTime:
 title: zesty grilled brats with asparagus and lemon orzo
-img:
-slug: zesty-grilled-brats-with-asparagus-and-lemon-orzo
+path: /zesty-grilled-brats-with-asparagus-and-lemon-orzo
 ---

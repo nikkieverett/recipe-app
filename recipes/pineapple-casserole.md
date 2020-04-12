@@ -1,7 +1,7 @@
 ---
 id: 5c6c9ab47f819d0014964dfc
 servings: 12
-notes: per serving:  423 calories; 26.3 g fat; 41.5 g carbohydrates; 7.4 g protein; 65 mg cholesterol; 360 mg sodium. full nutrition
+notes: 'per serving: 423 calories; 26.3 g fat; 41.5 g carbohydrates; 7.4 g protein; 65 mg cholesterol; 360 mg sodium. full nutrition'
 directions: 'preheat an oven to 350 degrees f (175 degrees c). drain the pineapple chunks
  reserving 1/4 cup of the juice.
 combine the flour
@@ -26,12 +26,12 @@ ingredients: 'i typically cut this recipe in 1/2
  melted'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //www.allrecipes.com/recipe/214024/southern-pineapple-casserole/'
 totalTime: 40 minutes
 cookTime: 30 minutes
 prepTime: 10 minutes
 title: pineapple casserole
-slug: pineapple-casserole
+path: /pineapple-casserole
 ---

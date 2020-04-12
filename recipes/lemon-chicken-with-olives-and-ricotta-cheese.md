@@ -26,12 +26,12 @@ ingredients: '8 no-boil (oven ready) lasagna noodles
 fresh rosemary (optional)'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.bhg.com/recipe/chicken/lemon-chicken-with-olives-and-ricotta/'
 totalTime: 30 minutes
 cookTime:
 prepTime: 30 minutes
 title: lemon chicken with olives and ricotta cheese
-slug: lemon-chicken-with-olives-and-ricotta-cheese
+path: /lemon-chicken-with-olives-and-ricotta-cheese
 ---

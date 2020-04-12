@@ -67,12 +67,12 @@ salt and pepper
 1 tablespoon fresh parsley chopped'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //cafedelites.com/creamy-garlic-butter-tuscan-salmon/'
 totalTime:
 cookTime:
 prepTime:
 title: creamy garlic butter tuscan salmon
-slug: creamy-garlic-butter-tuscan-salmon
+path: /creamy-garlic-butter-tuscan-salmon
 ---

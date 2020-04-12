@@ -34,12 +34,12 @@ tacos:  1 teaspoon ground cumin
 2 cups shredded cabbage'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.myrecipes.com/recipe/fish-tacos-with-lime-cilantro-crema'
 totalTime:
 cookTime:
 prepTime:
 title: fish tacos with lime cilantro crema
-slug: fish-tacos-with-lime-cilantro-crema
+path: /fish-tacos-with-lime-cilantro-crema
 ---

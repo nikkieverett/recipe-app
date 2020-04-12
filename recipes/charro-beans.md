@@ -34,6 +34,6 @@ totalTime: 1 day
 cookTime: 15 min
 prepTime: overnight
 title: charro beans
-img:
-slug: charro-beans
+
+path: /charro-beans
 ---

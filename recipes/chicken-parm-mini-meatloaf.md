@@ -87,6 +87,6 @@ totalTime: 1 hr
 cookTime: 45 min
 prepTime: prep overnight
 title: chicken parm mini meatloaf
-img:
-slug: chicken-parm-mini-meatloaf
+
+path: /chicken-parm-mini-meatloaf
 ---

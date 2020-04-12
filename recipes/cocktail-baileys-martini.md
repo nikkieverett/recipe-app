@@ -10,12 +10,12 @@ ingredients: '2 oz baileys
 1 oz vodka'
 rating: 5
 ease: easy
-img:
+
 category:
 href:
 totalTime:
 cookTime:
 prepTime:
 title: cocktail- baileys martini
-slug: cocktail-baileys-martini
+path: /cocktail-baileys-martini
 ---

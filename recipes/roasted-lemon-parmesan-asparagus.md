@@ -20,12 +20,12 @@ juice of one lemon
 salt and pepper to taste'
 rating: 0
 ease: easy
-img:
+
 category: side dish
 href: 'https: //therecipecritic.com/roasted-lemon-parmesan-garlic-asparagus/'
 totalTime:
 cookTime:
 prepTime:
 title: roasted lemon parmesan asparagus
-slug: roasted-lemon-parmesan-asparagus
+path: /roasted-lemon-parmesan-asparagus
 ---

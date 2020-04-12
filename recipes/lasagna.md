@@ -35,12 +35,12 @@ ingredients: '1 lb hamburger
 12 lasagna noodles - oven ready'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href:
 totalTime:
 cookTime: 40 minutes
 prepTime:
 title: lasagna
-slug: lasagna
+path: /lasagna
 ---

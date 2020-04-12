@@ -12,5 +12,5 @@ totalTime:
 cookTime:
 prepTime:
 title: salmon croquettes
-slug: salmon-croquettes
+path: /salmon-croquettes
 ---

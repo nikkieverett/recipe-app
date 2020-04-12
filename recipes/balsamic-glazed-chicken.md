@@ -48,6 +48,6 @@ totalTime: 1-1.5 hrs
 cookTime: 30min
 prepTime: 35-60 min
 title: balsamic glazed chicken
-img:
-slug: balsamic-glazed-chicken
+
+path: /balsamic-glazed-chicken
 ---

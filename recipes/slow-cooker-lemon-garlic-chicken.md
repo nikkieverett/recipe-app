@@ -23,12 +23,12 @@ chopped fresh parsley
  if desired'
 rating: 3
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.pillsbury.com/recipes/slow-cooker-lemon-garlic-chicken/ea965270-7646-4212-989d-de874268632a'
 totalTime: 4 hours 40 minutes
 cookTime: 4 hours 30 minutes
 prepTime: 10 minutes
 title: slow cooker lemon garlic chicken
-slug: slow-cooker-lemon-garlic-chicken
+path: /slow-cooker-lemon-garlic-chicken
 ---

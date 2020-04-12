@@ -29,12 +29,12 @@ ingredients: '1 cup light or dark brown sugar
 4 bottles (12 oz. bottles) cream soda'
 rating: 4
 ease: easy
-img:
+
 category:
 href: 'https: //wizardingworldpark.com/butterbeer-recipes/'
 totalTime:
 cookTime:
 prepTime:
 title: butterbeer #4
-slug: butterbeer-4
+path: /butterbeer-4
 ---

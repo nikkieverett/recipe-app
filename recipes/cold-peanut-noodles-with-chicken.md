@@ -32,6 +32,6 @@ totalTime: 45
 cookTime:
 prepTime: 45
 title: cold peanut noodles with chicken
-img:
-slug: cold-peanut-noodles-with-chicken
+
+path: /cold-peanut-noodles-with-chicken
 ---

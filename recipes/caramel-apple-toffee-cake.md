@@ -2,7 +2,7 @@
 id: 5ab27824bc171b00144df400
 servings: 18-24 squares
 notes:
-directions: preheat oven to 350°f. grease a 9x13-inch baking dish. set aside.
+directions: 'preheat oven to 350°f. grease a 9x13-inch baking dish. set aside.
 in a medium bowl
  whisk together flour
  baking powder
@@ -24,7 +24,7 @@ remove cake from the oven. while still hot
 allow cake to cool completely
  about 45 minutes. top with whipped cream topping
  drizzle with remaining caramel sauce and sprinkle with toffee chips.
-serve immediately or cover cake and store in the refrigerator until ready to serve.
+serve immediately or cover cake and store in the refrigerator until ready to serve.'
 
 ingredients: '2 cups all-purpose flour*
 1 tablespoon baking powder
@@ -49,12 +49,12 @@ ingredients: '2 cups all-purpose flour*
 *spoon & sweep method:  use a spoon to fill measuring cup with flour until required amount is obtained. scooping measuring cup directly into flour bag will firmly pack flour resulting in too much flour required for recipe.'
 rating: 4
 ease: intermediate
-img:
+
 category: dessert
 href: 'https://www.dixiecrystals.com/recipes/desserts/cakes/caramel-apple-toffee-cake'
 totalTime: 1 hour
 cookTime: 35-40
 prepTime: 20
 title: caramel apple toffee cake
-slug: caramel-apple-toffee-cake
+path: /caramel-apple-toffee-cake
 ---

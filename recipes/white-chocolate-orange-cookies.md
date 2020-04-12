@@ -21,12 +21,12 @@ ingredients: '2 1/4 cups all-purpose flour
 2 cups (12-oz. pkg.) nestlé® toll house® premier white morsels'
 rating: 4
 ease: easy
-img:
+
 category: dessert
 href: 'https: //www.verybestbaking.com/recipes/29698/white-chip-orange-cookies/'
 totalTime:
 cookTime:
 prepTime:
 title: white chocolate orange cookies
-slug: white-chocolate-orange-cookies
+path: /white-chocolate-orange-cookies
 ---

@@ -52,6 +52,6 @@ totalTime: 40 min
 cookTime: 20 min
 prepTime: 20 min
 title: chicken carbonara
-img:
-slug: chicken-carbonara
+
+path: /chicken-carbonara
 ---

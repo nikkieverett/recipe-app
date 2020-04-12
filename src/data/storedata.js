@@ -1,5 +1,5 @@
 const fs = require("fs")
-const recipes = require('./src/data/recipes.json')
+const recipes = require('./recipes.json')
 
 const toKebabCase = str =>
   str &&
@@ -17,6 +17,8 @@ const storeData = data => {
 }
 
 recipes.forEach(recipe => {
-	recipe.slug = toKebabCase(recipe.title)
-	storeData(recipe)
+  recipe.slug = toKebabCase(recipe.title)
+  recipe.path = `/${recipe.slug}`
+  console.log({ ...recipe, ...recipe.path })
+	// storeData({...recipe, ...recipe.path})
 })

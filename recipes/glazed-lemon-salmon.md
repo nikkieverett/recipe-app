@@ -30,6 +30,6 @@ totalTime: 25
 cookTime:
 prepTime: 25
 title: glazed lemon salmon
-img:
-slug: glazed-lemon-salmon
+
+path: /glazed-lemon-salmon
 ---

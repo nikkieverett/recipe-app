@@ -26,12 +26,12 @@ frosting:
  chopped'
 rating: 5
 ease: easy
-img:
+
 category: dessert
 href: 'https: //12tomatoes.com/shared-orange-juice-cake/'
 totalTime:
 cookTime:
 prepTime:
 title: orange juice cake
-slug: orange-juice-cake
+path: /orange-juice-cake
 ---

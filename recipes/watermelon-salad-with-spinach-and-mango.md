@@ -1,12 +1,12 @@
 ---
 id: 5d502294863ce00014a8fa8e
 servings:
-notes: calories 126
+notes: 'calories 126
 fat 9g
 carbs 8g
 fiber 2g
 sugar 4g
-protein 3g
+protein 3g'
 directions: 'using a sharp knife
  cut off the top and bottom of the watermelon to reveal the red flesh and create flat surfaces on both sides. stand the watermelon upright
  and slice off the remaining peel so only the red core remains.
@@ -45,12 +45,12 @@ pepper
 2 tablespoons  extra virgin olive oil'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //tasty.co/recipe/watermelon-salad-with-spinach-and-mango'
 totalTime:
 cookTime:
 prepTime:
 title: watermelon salad with spinach and mango
-slug: watermelon-salad-with-spinach-and-mango
+path: /watermelon-salad-with-spinach-and-mango
 ---

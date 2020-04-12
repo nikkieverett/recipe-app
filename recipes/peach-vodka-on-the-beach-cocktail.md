@@ -8,12 +8,12 @@ cranberry juice
 oj'
 rating: 0
 ease:
-img:
+
 category:
 href:
 totalTime:
 cookTime:
 prepTime:
 title: peach vodka on the beach cocktail
-slug: peach-vodka-on-the-beach-cocktail
+path: /peach-vodka-on-the-beach-cocktail
 ---

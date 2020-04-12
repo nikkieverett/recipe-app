@@ -24,6 +24,6 @@ totalTime: 1 hr
 cookTime: 50 min
 prepTime: 10 min
 title: beer braised chicken
-img:
-slug: beer-braised-chicken
+
+path: /beer-braised-chicken
 ---

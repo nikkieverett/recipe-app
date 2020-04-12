@@ -45,12 +45,12 @@ pinch of freshly ground pepper
 2 cups mozzarella cheese - grated'
 rating: 4
 ease: intermediate
-img:
+
 category: main course
 href: 'https://tiphero.com/lasagna-soup/'
 totalTime:
 cookTime:
 prepTime:
 title: lasagna soup
-slug: lasagna-soup
+path: /lasagna-soup
 ---

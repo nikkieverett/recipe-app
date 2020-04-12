@@ -37,6 +37,6 @@ totalTime: 20 min
 cookTime:
 prepTime:
 title: bow tie pasta chorizo with tomatoes
-img:
-slug: bow-tie-pasta-chorizo-with-tomatoes
+
+path: /bow-tie-pasta-chorizo-with-tomatoes
 ---

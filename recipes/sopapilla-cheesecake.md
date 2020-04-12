@@ -28,12 +28,12 @@ ingredients: '2 (8 ounce) packages cream cheese
 1/4 cup honey'
 rating: 5
 ease: easy
-img:
+
 category: dessert
 href: 'https: //www.allrecipes.com/recipe/169305/sopapilla-cheesecake-pie/'
 totalTime: 45 minutes
 cookTime: 30 minutes
 prepTime: 15 minutes
 title: sopapilla cheesecake
-slug: sopapilla-cheesecake
+path: /sopapilla-cheesecake
 ---

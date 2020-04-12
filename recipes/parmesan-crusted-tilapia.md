@@ -29,12 +29,12 @@ cooked jasmine rice
  for serving'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https://www.delish.com/cooking/recipe-ideas/recipes/a49431/parmesan-crusted-tilapia-recipe/'
 totalTime: 20
 cookTime: 15
 prepTime: 5
 title: parmesan crusted tilapia
-slug: parmesan-crusted-tilapia
+path: /parmesan-crusted-tilapia
 ---

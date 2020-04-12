@@ -24,6 +24,6 @@ totalTime:
 cookTime:
 prepTime:
 title: no peek chicken and rice casserole
-img:
-slug: no-peek-chicken-and-rice-casserole
+
+path: /no-peek-chicken-and-rice-casserole
 ---

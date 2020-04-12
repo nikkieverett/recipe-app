@@ -33,12 +33,12 @@ ingredients: '1 c walnuts
 1 c shredded coconut'
 rating: 5
 ease: easy
-img:
+
 category: dessert
 href: 'https: //www.justapinch.com/recipes/dessert/other-dessert/coconut-cream-pie-deluxe.html'
 totalTime: 2 hrs 45 minutes
 cookTime: 15 minuttes
 prepTime: 30 minutes
 title: coconut cream pie
-slug: coconut-cream-pie
+path: /coconut-cream-pie
 ---

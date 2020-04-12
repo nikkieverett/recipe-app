@@ -28,5 +28,5 @@ totalTime: 55 minutes
 cookTime: 40 minutes
 prepTime: 15 minute
 title: 5 ingredient lemon bars
-slug: 5-ingredient-lemon-bars
+path: /5-ingredient-lemon-bars
 ---
