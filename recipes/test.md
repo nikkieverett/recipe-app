@@ -10,8 +10,6 @@ prepTime: 1
 category:
   - condiment
 ingredients: |-
-  
-
   * 1 1/2 cups all-purpose flour
   * 1 tablespoon white sugar
   * 2 3/4 teaspoons baking powder
@@ -29,8 +27,6 @@ ingredients: |-
   * 1 teaspoon coconut extract
   * 1/2 teaspoon baking soda
 directions: >-
-  
-
   1. Whisk flour, 1 tablespoon white sugar, baking powder, and salt together in a bowl. Mix milk, egg, and vanilla extract together in a separate bowl. Stir milk mixture into flour mixture until incorporated.
 
   2. Beat banana in a bowl with an electric mixer until smooth and creamy; mix creamed banana into batter. Stir melted butter into batter. Refrigerate batter for 10 minutes.

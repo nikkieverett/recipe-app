@@ -57,9 +57,7 @@ export default () => (
             node {
               frontmatter {
                 id
-                category
                 directions
-                ease
                 href
                 ingredients
                 notes
