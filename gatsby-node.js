@@ -3,19 +3,14 @@ const path = require(`path`)
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
 
-  const blogPostTemplate = path.resolve(`src/templates/blog.js`)
+  const recipeTemplate = path.resolve(`src/templates/recipe.js`)
 
-  const result = await graphql(`
+  const recipeResult = await graphql(`
     {
-      allMarkdownRemark(
-        sort: { order: DESC, fields: [frontmatter___date] }
-        limit: 1000
-      ) {
+      allMarkdownRemark {
         edges {
           node {
-            frontmatter {
-              path
-            }
+            slug
           }
         }
       }
@@ -23,15 +18,18 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   `)
 
   // Handle errors
-  if (result.errors) {
+  if (recipeResult.errors) {
     reporter.panicOnBuild(`Error while running GraphQL query.`)
     return
   }
 
-  result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+  console.log(recipeResult)
+
+  recipeResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
-      path: node.frontmatter.path,
-      component: blogPostTemplate,
+      path: `recipes/${node.slug}`,
+      data: node,
+      component: recipeTemplate,
       context: {}, // additional data can be passed via context
     })
   })

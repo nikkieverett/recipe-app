@@ -16,7 +16,7 @@ collections:
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
   - name: recipe
-    label: Recipe
+    label: Recipes
     folder: recipe
     create: true
     fields:
