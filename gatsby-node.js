@@ -36,6 +36,18 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
 exports.onCreatePage = async ({ page, actions }) => {
   const { createPage } = actions
+}
 
-  console.log(page)
+exports.onCreateNode = ({ node, actions, getNode }) => {
+  const toKebabCase = str =>
+    str &&
+    str
+    .match(/[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+/g)
+    .map(x => x.toLowerCase())
+    .join("-")
+
+  // if no path name exists generate path name from title
+  if (node.internal.type === "MarkdownRemark" && !node.frontmatter.path) {
+    node.frontmatter.path = `/${toKebabCase(node.frontmatter.title)}`
+  }
 }

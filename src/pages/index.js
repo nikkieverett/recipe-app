@@ -1,13 +1,18 @@
 import React from "react"
-import { Link } from "gatsby"
 
-export default () => {
-  return (
-    <>
-      Hello world!
-      <p>
-        <Link to="/recipes">View Recipes</Link>
-      </p>
-    </>
-  )
+import RecipeList from "../components/RecipeList"
+
+export default class RecipeIndexPage extends React.Component {
+  render() {
+    return (
+      <React.Fragment>
+        <h1>All Recipes</h1>
+        <section>
+          <div className="content">
+            <RecipeList />
+          </div>
+        </section>
+      </React.Fragment>
+    )
+  }
 }
