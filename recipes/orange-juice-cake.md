@@ -35,4 +35,3 @@ prepTime:
 title: orange juice cake
 slug: orange-juice-cake
 ---
-Recipe body

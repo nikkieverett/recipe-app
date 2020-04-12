@@ -38,4 +38,3 @@ prepTime:
 title: butterbeer #4
 slug: butterbeer-4
 ---
-Recipe body

@@ -27,4 +27,3 @@ prepTime:
 title: gorgonzola butter for steaks
 slug: gorgonzola-butter-for-steaks
 ---
-Recipe body

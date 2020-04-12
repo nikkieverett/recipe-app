@@ -47,4 +47,3 @@ title: chicken marsala pasta
 img:
 slug: chicken-marsala-pasta
 ---
-Recipe body

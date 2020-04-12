@@ -45,4 +45,3 @@ prepTime: 20 minutes
 title: overnight banana nut french toast
 slug: overnight-banana-nut-french-toast
 ---
-Recipe body

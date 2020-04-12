@@ -22,4 +22,3 @@ title: slow cooker pork chops
 img:
 slug: slow-cooker-pork-chops
 ---
-Recipe body

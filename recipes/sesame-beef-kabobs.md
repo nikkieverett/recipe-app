@@ -31,4 +31,3 @@ title: sesame beef kabobs
 img:
 slug: sesame-beef-kabobs
 ---
-Recipe body

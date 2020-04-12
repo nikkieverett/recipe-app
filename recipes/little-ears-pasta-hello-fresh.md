@@ -52,4 +52,3 @@ prepTime:
 title: little ears pasta - hello fresh
 slug: little-ears-pasta-hello-fresh
 ---
-Recipe body

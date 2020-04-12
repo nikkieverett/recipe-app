@@ -32,4 +32,3 @@ prepTime:
 title: lemon garlic butter sauce with peas for pasta
 slug: lemon-garlic-butter-sauce-with-peas-for-pasta
 ---
-Recipe body

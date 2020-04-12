@@ -94,4 +94,3 @@ prepTime: 10 minutes
 title: slow cooker salmon with creamy lemon sauce - crock pot
 slug: slow-cooker-salmon-with-creamy-lemon-sauce-crock-pot
 ---
-Recipe body

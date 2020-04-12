@@ -35,4 +35,3 @@ prepTime: 10 minutes
 title: honey ginger grilled salmon
 slug: honey-ginger-grilled-salmon
 ---
-Recipe body

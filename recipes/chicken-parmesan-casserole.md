@@ -34,4 +34,3 @@ prepTime: 10
 title: chicken parmesan casserole
 slug: chicken-parmesan-casserole
 ---
-Recipe body

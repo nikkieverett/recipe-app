@@ -42,4 +42,3 @@ prepTime: 30 minutes
 title: coconut cream pie
 slug: coconut-cream-pie
 ---
-Recipe body

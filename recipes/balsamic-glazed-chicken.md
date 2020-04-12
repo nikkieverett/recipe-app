@@ -51,4 +51,3 @@ title: balsamic glazed chicken
 img:
 slug: balsamic-glazed-chicken
 ---
-Recipe body

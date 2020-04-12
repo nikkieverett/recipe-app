@@ -21,4 +21,3 @@ title: broccoli salad
 img:
 slug: broccoli-salad
 ---
-Recipe body

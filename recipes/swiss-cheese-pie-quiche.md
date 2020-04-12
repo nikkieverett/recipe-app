@@ -31,4 +31,3 @@ prepTime:
 title: swiss cheese pie (quiche)
 slug: swiss-cheese-pie-quiche
 ---
-Recipe body

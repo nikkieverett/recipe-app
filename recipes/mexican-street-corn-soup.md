@@ -62,4 +62,3 @@ prepTime: 5 minutes
 title: mexican street corn soup
 slug: mexican-street-corn-soup
 ---
-Recipe body

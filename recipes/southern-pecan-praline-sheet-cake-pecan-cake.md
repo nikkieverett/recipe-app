@@ -44,4 +44,3 @@ prepTime: 20 minutes
 title: southern pecan praline sheet cake (pecan cake)
 slug: southern-pecan-praline-sheet-cake-pecan-cake
 ---
-Recipe body

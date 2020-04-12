@@ -37,4 +37,3 @@ title: one pot sweedish meatballs
 img:
 slug: one-pot-sweedish-meatballs
 ---
-Recipe body

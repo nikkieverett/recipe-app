@@ -35,4 +35,3 @@ prepTime: 10 minutes
 title: slow cooker honey garlic sriracha chicken
 slug: slow-cooker-honey-garlic-sriracha-chicken
 ---
-Recipe body

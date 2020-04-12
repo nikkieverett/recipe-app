@@ -44,4 +44,3 @@ title: salisbury steak - crock pot
 img:
 slug: salisbury-steak-crock-pot
 ---
-Recipe body

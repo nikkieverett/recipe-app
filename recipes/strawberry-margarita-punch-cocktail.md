@@ -32,4 +32,3 @@ prepTime: 5 minutes
 title: strawberry margarita punch cocktail
 slug: strawberry-margarita-punch-cocktail
 ---
-Recipe body

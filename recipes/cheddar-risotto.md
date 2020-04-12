@@ -45,4 +45,3 @@ title: cheddar risotto
 img:
 slug: cheddar-risotto
 ---
-Recipe body

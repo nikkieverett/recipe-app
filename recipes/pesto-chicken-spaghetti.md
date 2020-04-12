@@ -35,4 +35,3 @@ title: pesto chicken spaghetti
 img:
 slug: pesto-chicken-spaghetti
 ---
-Recipe body

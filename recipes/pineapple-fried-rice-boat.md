@@ -63,4 +63,3 @@ prepTime:
 title: pineapple fried rice boat
 slug: pineapple-fried-rice-boat
 ---
-Recipe body

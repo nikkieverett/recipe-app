@@ -21,4 +21,3 @@ title: crock pot chicken and rice    slow cooker
 img:
 slug: crock-pot-chicken-and-rice-slow-cooker
 ---
-Recipe body

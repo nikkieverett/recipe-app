@@ -32,4 +32,3 @@ title: spaghetti carbonara
 img:
 slug: spaghetti-carbonara
 ---
-Recipe body

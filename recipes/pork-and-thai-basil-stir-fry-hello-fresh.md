@@ -84,4 +84,3 @@ prepTime:
 title: pork and thai basil stir-fry - hello fresh
 slug: pork-and-thai-basil-stir-fry-hello-fresh
 ---
-Recipe body

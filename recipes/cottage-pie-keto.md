@@ -65,4 +65,3 @@ prepTime:
 title: cottage pie - keto
 slug: cottage-pie-keto
 ---
-Recipe body

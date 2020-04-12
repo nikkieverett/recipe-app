@@ -3,9 +3,9 @@ id: 5cbb4246035db400144e093d
 servings:
 notes:
 directions:
-ingredients: 2 oz peach vodka
+ingredients: '2 oz peach vodka
 cranberry juice
-oj
+oj'
 rating: 0
 ease:
 img:
@@ -17,4 +17,3 @@ prepTime:
 title: peach vodka on the beach cocktail
 slug: peach-vodka-on-the-beach-cocktail
 ---
-Recipe body

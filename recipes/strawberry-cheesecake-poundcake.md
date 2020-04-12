@@ -14,4 +14,3 @@ prepTime:
 title: strawberry cheesecake poundcake
 slug: strawberry-cheesecake-poundcake
 ---
-Recipe body

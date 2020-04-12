@@ -58,4 +58,3 @@ prepTime: 5 minutes
 title: honey garlic chicken slow cooker or crock pot
 slug: honey-garlic-chicken-slow-cooker-or-crock-pot
 ---
-Recipe body

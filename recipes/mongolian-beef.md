@@ -33,4 +33,3 @@ title: mongolian beef
 img:
 slug: mongolian-beef
 ---
-Recipe body

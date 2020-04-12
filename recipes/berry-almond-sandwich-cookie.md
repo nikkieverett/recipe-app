@@ -44,4 +44,3 @@ prepTime: 30 minutes
 title: berry almond sandwich cookie
 slug: berry-almond-sandwich-cookie
 ---
-Recipe body

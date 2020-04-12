@@ -51,4 +51,3 @@ prepTime:
 title: sriracha deviled eggs
 slug: sriracha-deviled-eggs
 ---
-Recipe body

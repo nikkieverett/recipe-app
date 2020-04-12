@@ -35,4 +35,3 @@ prepTime:
 title: chili
 slug: chili
 ---
-Recipe body

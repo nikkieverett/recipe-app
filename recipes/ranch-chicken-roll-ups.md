@@ -14,4 +14,3 @@ prepTime:
 title: ranch chicken roll ups
 slug: ranch-chicken-roll-ups
 ---
-Recipe body

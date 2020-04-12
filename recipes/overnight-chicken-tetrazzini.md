@@ -40,4 +40,3 @@ prepTime: 10 minutes
 title: overnight chicken tetrazzini
 slug: overnight-chicken-tetrazzini
 ---
-Recipe body

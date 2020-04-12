@@ -38,4 +38,3 @@ prepTime: 5
 title: parmesan crusted tilapia
 slug: parmesan-crusted-tilapia
 ---
-Recipe body

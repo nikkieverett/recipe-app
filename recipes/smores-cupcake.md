@@ -90,4 +90,3 @@ prepTime:
 title: smores cupcake
 slug: smores-cupcake
 ---
-Recipe body

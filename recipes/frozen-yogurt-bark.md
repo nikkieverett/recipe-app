@@ -28,4 +28,3 @@ prepTime: 8
 title: frozen yogurt bark
 slug: frozen-yogurt-bark
 ---
-Recipe body

@@ -49,4 +49,3 @@ prepTime:
 title: chicken marsala
 slug: chicken-marsala
 ---
-Recipe body

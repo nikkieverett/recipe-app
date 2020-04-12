@@ -17,16 +17,24 @@ collections:
       - { name: body, label: Body, widget: markdown }
   - name: recipe
     label: Recipes
-    folder: recipe
+    folder: recipes
     create: true
     fields:
       - { name: title, label: Title }
+      - { name: slug, label: Slug }
+      - { name: servings, label: Servings, widget: number }
       - { name: rating, label: Rating, widget: number }
+      - { name: ease, label: Difficulty, widget: number }
+      - { name: totalTime, label: Total Time, widget: number }
+      - { name: cookTime, label: Cook Time, widget: number }
+      - { name: prepTime, label: Prep Time, widget: number }
       - {
           label: 'Category',
           name: 'category',
           widget: 'select',
-          options: ['a', 'b', 'c'],
+          options: ['breakfast', 'main course', 'side dish', 'dessert', 'drink', 'salad', 'condiment'],
           multiple: true,
         }
-      - { name: body, label: Body, widget: markdown }
+      - { name: ingredients, label: Ingredients, widget: markdown }
+      - { name: directions, label: Directions, widget: markdown }
+      - { name: notes, label: Notes, widget: markdown }

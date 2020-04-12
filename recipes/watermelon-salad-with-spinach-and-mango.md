@@ -54,4 +54,3 @@ prepTime:
 title: watermelon salad with spinach and mango
 slug: watermelon-salad-with-spinach-and-mango
 ---
-Recipe body

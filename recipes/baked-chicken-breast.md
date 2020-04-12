@@ -47,4 +47,3 @@ prepTime:
 title: baked chicken breast
 slug: baked-chicken-breast
 ---
-Recipe body

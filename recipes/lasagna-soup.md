@@ -54,4 +54,3 @@ prepTime:
 title: lasagna soup
 slug: lasagna-soup
 ---
-Recipe body

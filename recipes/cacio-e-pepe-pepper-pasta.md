@@ -36,4 +36,3 @@ prepTime: 10 minutes
 title: cacio e pepe - pepper pasta
 slug: cacio-e-pepe-pepper-pasta
 ---
-Recipe body

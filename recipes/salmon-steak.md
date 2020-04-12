@@ -38,4 +38,3 @@ prepTime: 5 minutes
 title: salmon steak
 slug: salmon-steak
 ---
-Recipe body

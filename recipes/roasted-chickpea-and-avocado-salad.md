@@ -51,4 +51,3 @@ prepTime:
 title: roasted chickpea and avocado salad
 slug: roasted-chickpea-and-avocado-salad
 ---
-Recipe body

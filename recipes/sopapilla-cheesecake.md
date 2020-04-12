@@ -37,4 +37,3 @@ prepTime: 15 minutes
 title: sopapilla cheesecake
 slug: sopapilla-cheesecake
 ---
-Recipe body

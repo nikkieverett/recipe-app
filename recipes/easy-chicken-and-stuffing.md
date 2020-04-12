@@ -29,4 +29,3 @@ prepTime:
 title: easy chicken and stuffing
 slug: easy-chicken-and-stuffing
 ---
-Recipe body

@@ -44,4 +44,3 @@ prepTime:
 title: lasagna
 slug: lasagna
 ---
-Recipe body

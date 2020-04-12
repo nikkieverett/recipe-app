@@ -31,4 +31,3 @@ prepTime: 10
 title: chicken cordon bleu
 slug: chicken-cordon-bleu
 ---
-Recipe body

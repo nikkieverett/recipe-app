@@ -65,4 +65,3 @@ prepTime:
 title: no bake lemon tart
 slug: no-bake-lemon-tart
 ---
-Recipe body

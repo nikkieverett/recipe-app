@@ -39,4 +39,3 @@ prepTime: 25 minutes
 title: gorgonzola or blue cheese burger
 slug: gorgonzola-or-blue-cheese-burger
 ---
-Recipe body

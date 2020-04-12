@@ -14,4 +14,3 @@ prepTime:
 title: salmon croquettes
 slug: salmon-croquettes
 ---
-Recipe body

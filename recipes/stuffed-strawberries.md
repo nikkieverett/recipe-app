@@ -28,4 +28,3 @@ prepTime:
 title: stuffed strawberries
 slug: stuffed-strawberries
 ---
-Recipe body

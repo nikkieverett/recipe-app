@@ -32,4 +32,3 @@ prepTime: 10 minutes
 title: hot and spicy pecans
 slug: hot-and-spicy-pecans
 ---
-Recipe body

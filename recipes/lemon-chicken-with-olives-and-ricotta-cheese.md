@@ -35,4 +35,3 @@ prepTime: 30 minutes
 title: lemon chicken with olives and ricotta cheese
 slug: lemon-chicken-with-olives-and-ricotta-cheese
 ---
-Recipe body

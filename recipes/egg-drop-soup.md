@@ -42,4 +42,3 @@ prepTime: 5 minutes
 title: egg drop soup
 slug: egg-drop-soup
 ---
-Recipe body

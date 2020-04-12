@@ -34,4 +34,3 @@ prepTime: 5 minutes
 title: buttery onion pretzels
 slug: buttery-onion-pretzels
 ---
-Recipe body

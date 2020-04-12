@@ -22,4 +22,3 @@ prepTime:
 title: banana peanut butter oatmeal
 slug: banana-peanut-butter-oatmeal
 ---
-Recipe body

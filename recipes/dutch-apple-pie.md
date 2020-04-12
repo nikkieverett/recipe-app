@@ -66,4 +66,3 @@ prepTime: 60 miutes
 title: dutch apple pie
 slug: dutch-apple-pie
 ---
-Recipe body

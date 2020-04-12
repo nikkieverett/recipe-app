@@ -44,4 +44,3 @@ prepTime: 15 minutes
 title: mango tomato and avocado salad
 slug: mango-tomato-and-avocado-salad
 ---
-Recipe body

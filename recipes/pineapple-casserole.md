@@ -35,4 +35,3 @@ prepTime: 10 minutes
 title: pineapple casserole
 slug: pineapple-casserole
 ---
-Recipe body

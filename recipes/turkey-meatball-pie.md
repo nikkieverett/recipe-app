@@ -36,4 +36,3 @@ title: turkey meatball pie
 img:
 slug: turkey-meatball-pie
 ---
-Recipe body

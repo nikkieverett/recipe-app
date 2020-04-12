@@ -24,4 +24,3 @@ title: lemon basil bowtie pasta
 img:
 slug: lemon-basil-bowtie-pasta
 ---
-Recipe body

@@ -71,4 +71,3 @@ prepTime:
 title: bbq pulled pork sandwiches by emeril
 slug: bbq-pulled-pork-sandwiches-by-emeril
 ---
-Recipe body

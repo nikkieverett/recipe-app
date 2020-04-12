@@ -45,4 +45,3 @@ prepTime:
 title: maple pecan cheese ball
 slug: maple-pecan-cheese-ball
 ---
-Recipe body

@@ -23,4 +23,3 @@ prepTime: 15 min
 title: cherry pie bites
 slug: cherry-pie-bites
 ---
-Recipe body

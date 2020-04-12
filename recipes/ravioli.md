@@ -54,4 +54,3 @@ prepTime:
 title: ravioli
 slug: ravioli
 ---
-Recipe body

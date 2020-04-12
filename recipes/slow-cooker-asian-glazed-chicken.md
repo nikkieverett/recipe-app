@@ -39,4 +39,3 @@ prepTime: 10 minutes
 title: slow cooker asian glazed chicken
 slug: slow-cooker-asian-glazed-chicken
 ---
-Recipe body

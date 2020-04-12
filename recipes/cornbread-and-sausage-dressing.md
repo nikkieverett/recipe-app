@@ -42,4 +42,3 @@ prepTime: 45 minutes
 title: cornbread and sausage dressing
 slug: cornbread-and-sausage-dressing
 ---
-Recipe body

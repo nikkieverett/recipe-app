@@ -52,4 +52,3 @@ prepTime: 20 minutes
 title: bourbon pecan pie bread pudding
 slug: bourbon-pecan-pie-bread-pudding
 ---
-Recipe body

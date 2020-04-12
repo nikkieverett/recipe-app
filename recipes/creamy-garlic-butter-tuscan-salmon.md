@@ -76,4 +76,3 @@ prepTime:
 title: creamy garlic butter tuscan salmon
 slug: creamy-garlic-butter-tuscan-salmon
 ---
-Recipe body

@@ -17,4 +17,3 @@ prepTime:
 title: tropical peach martini cocktail
 slug: tropical-peach-martini-cocktail
 ---
-Recipe body

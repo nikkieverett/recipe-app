@@ -57,4 +57,3 @@ prepTime: 25 minutes
 title: roasted tomato soup with croutons
 slug: roasted-tomato-soup-with-croutons
 ---
-Recipe body

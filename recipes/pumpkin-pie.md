@@ -30,4 +30,3 @@ prepTime:
 title: pumpkin pie
 slug: pumpkin-pie
 ---
-Recipe body

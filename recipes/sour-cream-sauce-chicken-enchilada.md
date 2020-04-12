@@ -35,4 +35,3 @@ prepTime:
 title: sour cream sauce - chicken enchilada
 slug: sour-cream-sauce-chicken-enchilada
 ---
-Recipe body

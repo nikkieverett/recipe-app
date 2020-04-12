@@ -39,4 +39,3 @@ prepTime: 10 minutes
 title: applesauce sweet potatoes
 slug: applesauce-sweet-potatoes
 ---
-Recipe body

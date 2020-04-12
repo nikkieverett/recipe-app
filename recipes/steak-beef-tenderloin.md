@@ -14,4 +14,3 @@ prepTime:
 title: steak - beef tenderloin
 slug: steak-beef-tenderloin
 ---
-Recipe body

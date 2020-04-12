@@ -28,4 +28,3 @@ prepTime: 10 min
 title: almond joy cookies
 slug: almond-joy-cookies
 ---
-Recipe body

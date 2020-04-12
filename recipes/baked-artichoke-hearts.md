@@ -50,4 +50,3 @@ prepTime:
 title: baked artichoke hearts
 slug: baked-artichoke-hearts
 ---
-Recipe body

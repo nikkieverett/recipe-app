@@ -15,4 +15,3 @@ prepTime:
 title: brownie bomb
 slug: brownie-bomb
 ---
-Recipe body

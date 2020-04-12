@@ -14,4 +14,3 @@ prepTime:
 title: honey almond asparagus
 slug: honey-almond-asparagus
 ---
-Recipe body

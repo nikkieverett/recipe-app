@@ -36,4 +36,3 @@ prepTime: 15 minutes
 title: blueberry muffin
 slug: blueberry-muffin
 ---
-Recipe body

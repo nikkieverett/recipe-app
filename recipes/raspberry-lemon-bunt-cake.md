@@ -58,4 +58,3 @@ prepTime: 30
 title: raspberry lemon bunt cake
 slug: raspberry-lemon-bunt-cake
 ---
-Recipe body
