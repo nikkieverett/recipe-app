@@ -36,12 +36,12 @@ whip cream (optional)
 '
 rating: 4
 ease: easy
-img:
+
 category: breakfast
 href: 'https: //www.bettycrocker.com/recipes/upside-down-banana-walnut-french-toast/4150e6fd-f9de-4ede-bf60-6a3fa6e53355'
 totalTime:
 cookTime: 1 hour
 prepTime: 20 minutes
 title: overnight banana nut french toast
-slug: overnight-banana-nut-french-toast
+path: /overnight-banana-nut-french-toast
 ---

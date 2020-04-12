@@ -16,12 +16,12 @@ ingredients: '1 large onion
 garlic salt'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href:
 totalTime:
 cookTime: 2 hours
 prepTime: 10
 title: baked onion
-slug: baked-onion
+path: /baked-onion
 ---

@@ -14,7 +14,6 @@ after cooking
  whisk together cornstarch and cold water.
 stir mixture into crock pot and let thicken.
 serve with mashed potatoes'
-ingredients: ''
 ingredients: '
 1 packet of au jus gravy mix
 1 can cream of chicken soup
@@ -28,12 +27,12 @@ to thicken gravy:
 3 tbsp. cold water'
 rating: 3
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.thecountrycook.net/crock-pot-cubed-steak-with-gravy/'
 totalTime: 8 hours
 cookTime: 8
 prepTime: 10 minutes
 title: crock pot cubed steak    slow cooker
-slug: crock-pot-cubed-steak-slow-cooker
+path: /crock-pot-cubed-steak-slow-cooker
 ---

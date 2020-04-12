@@ -44,12 +44,12 @@ ingredients: '1 lb. ground beef
  plus 1/2 -3/4 c. more for topping'
 rating: 5
 ease: intermediate
-img:
+
 category: main course
-href: 'https: //hotcookinrecipes.com/an-absolutely-delicious-italian-meatloaf-2/?fbclid=iwar1ox7d_qvtadzz7oqlwp9oyvy4gmwnfigxy0cclovlidd62ckajugb7nmu
+href: 'https: //hotcookinrecipes.com/an-absolutely-delicious-italian-meatloaf-2/?fbclid=iwar1ox7d_qvtadzz7oqlwp9oyvy4gmwnfigxy0cclovlidd62ckajugb7nmu'
 totalTime:
 cookTime:
 prepTime:
 title: italian meatloaf
-slug: italian-meatloaf
+path: /italian-meatloaf
 ---

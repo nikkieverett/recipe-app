@@ -31,12 +31,12 @@ jalapenos
 white rice'
 rating: 4
 ease: intermediate
-img:
+
 category: main course
 href: 'https: //happymoneysaver.com/chicken-enchiladas-recipe/'
 totalTime:
 cookTime:
 prepTime:
 title: chicken enchiladas
-slug: chicken-enchiladas
+path: /chicken-enchiladas
 ---

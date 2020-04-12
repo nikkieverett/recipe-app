@@ -34,12 +34,12 @@ freshly ground black pepper
 1/4 c. finely chopped flat leaf parsley'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.delish.com/cooking/recipe-ideas/recipes/a49951/caesar-angel-hair-recipe/'
 totalTime: 35 minutes
 cookTime: 35 minutes
 prepTime:
 title: ceaser angel hair pasta
-slug: ceaser-angel-hair-pasta
+path: /ceaser-angel-hair-pasta
 ---

@@ -56,12 +56,12 @@ pinch of paprika
 pinch of dried oregano'
 rating: 4
 ease: intermediate
-img:
+
 category: main course
 href: 'https: //www.myketokitchen.com/keto-recipes/low-carb-classic-beef-cottage-pie/'
 totalTime:
 cookTime:
 prepTime:
 title: cottage pie - keto
-slug: cottage-pie-keto
+path: /cottage-pie-keto
 ---

@@ -27,12 +27,12 @@ ingredients: '1 1/2 + 1/3 cups all-purpose flour
 1 cup fresh blueberries'
 rating: 5
 ease: easy
-img:
+
 category: breakfast
 href: 'https: //www.allrecipes.com/recipe/6865/to-die-for-blueberry-muffins/'
 totalTime: 40 minutes
 cookTime: 25 minutes
 prepTime: 15 minutes
 title: blueberry muffin
-slug: blueberry-muffin
+path: /blueberry-muffin
 ---

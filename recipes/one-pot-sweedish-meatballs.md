@@ -34,6 +34,6 @@ totalTime:
 cookTime:
 prepTime:
 title: one pot sweedish meatballs
-img:
-slug: one-pot-sweedish-meatballs
+
+path: /one-pot-sweedish-meatballs
 ---

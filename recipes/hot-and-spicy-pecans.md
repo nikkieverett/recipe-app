@@ -23,12 +23,12 @@ ingredients: '2 tablespoons butter
 1 tablespoon chili powder'
 rating: 0
 ease:
-img:
+
 category:
 href: 'https: //www.allrecipes.com/recipe/46029/hot-and-spicy-pecans/'
 totalTime: 40 minutes
 cookTime: 30 minutes
 prepTime: 10 minutes
 title: hot and spicy pecans
-slug: hot-and-spicy-pecans
+path: /hot-and-spicy-pecans
 ---

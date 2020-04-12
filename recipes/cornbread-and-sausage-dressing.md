@@ -1,7 +1,7 @@
 ---
 id: 5c4e04f1d46b950014b43bd8
 servings:
-notes: per serving:  549 calories; 32.6 g fat; 53.3 g carbohydrates; 11.1 g protein; 122 mg cholesterol; 2145 mg sodium
+notes: 'per serving: 549 calories; 32.6 g fat; 53.3 g carbohydrates; 11.1 g protein; 122 mg cholesterol; 2145 mg sodium'
 directions: 'prepare biscuits (enough to make 4 cups crumbled)
  and one 8x8 inch pan cornbread according to package directions. cool and crumble.
 preheat oven to 350 degrees f (175 degrees c).
@@ -33,12 +33,12 @@ ingredients: '1 (12 ounce) package refrigerated biscuit dough
 1 teaspoon dried sage (optional)'
 rating: 0
 ease:
-img:
+
 category: main course
 href: 'https: //www.allrecipes.com/recipe/13688/cornbread-dressing-i/?prop28=body&prop29=mainrecipetitle&hid=&did=38298-20181122&prop24=etaf&prop25=38298&prop26=recipe-to-a-friend&prop27=&utm_campaign=recipe-to-a-friend_lifecycle&utm_source=allrecipes.com&utm_medium=email&utm_content=112218&cid=38298&mid=16439004492'
 totalTime: 1 hour 15 minutes
 cookTime: 30 minutes
 prepTime: 45 minutes
 title: cornbread and sausage dressing
-slug: cornbread-and-sausage-dressing
+path: /cornbread-and-sausage-dressing
 ---

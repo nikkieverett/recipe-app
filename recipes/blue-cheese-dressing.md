@@ -12,12 +12,12 @@ ingredients: '2 cups crumbled blue cheese or more if preferred
 1 teaspoon freshly ground black pepper or to taste'
 rating: 0
 ease: easy
-img:
+
 category:
 href: 'https: //www.thewickednoodle.com/buttermilk-blue-cheese-dressing/'
 totalTime:
 cookTime:
 prepTime:
 title: blue cheese dressing
-slug: blue-cheese-dressing
+path: /blue-cheese-dressing
 ---

@@ -19,12 +19,12 @@ toppings:
 1 tsp desiccated coconut'
 rating: 3
 ease: easy
-img:
+
 category: dessert
 href: 'https://www.myfussyeater.com/frozen-yogurt-bark/'
 totalTime:
 cookTime: 60
 prepTime: 8
 title: frozen yogurt bark
-slug: frozen-yogurt-bark
+path: /frozen-yogurt-bark
 ---

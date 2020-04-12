@@ -22,6 +22,6 @@ totalTime: 1 hour 10 minutes
 cookTime: 1 hour
 prepTime: 10 minutes
 title: parmesan lemon chicken and rice
-img:
-slug: parmesan-lemon-chicken-and-rice
+
+path: /parmesan-lemon-chicken-and-rice
 ---

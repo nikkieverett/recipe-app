@@ -34,12 +34,12 @@ for the dressing:
 pinch of salt and pepper'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //thefeedfeed.com/acedarspoon/coleslaw-almond-and-mandarin-orange-salad-with-ramen-noodles'
 totalTime: 15 minutes
 cookTime:
 prepTime: 15 minutes
 title: asian ramen coleslaw
-slug: asian-ramen-coleslaw
+path: /asian-ramen-coleslaw
 ---

@@ -41,12 +41,12 @@ ingredients: '1/4 cup reduced-sodium soy sauce or tamari* for gluten-free
 2 tablespoons finely chopped scallions for garnish'
 rating: 0
 ease:
-img:
+
 category: main course
 href: 'https: //rasamalaysia.com/sweet-spicy-sriracha-glazed-salmon/'
 totalTime: 20 minutes
 cookTime: 10 minutes
 prepTime: 10 minutes
 title: sweet spicy sriracha glazed salmon
-slug: sweet-spicy-sriracha-glazed-salmon
+path: /sweet-spicy-sriracha-glazed-salmon
 ---

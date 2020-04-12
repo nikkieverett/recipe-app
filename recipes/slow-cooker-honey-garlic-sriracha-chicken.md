@@ -26,12 +26,12 @@ ingredients: '4 pounds chicken wings or tenders*
 green onions and sesame seeds for garnish'
 rating: 0
 ease: easy
-img:
+
 category: main course
 href: 'https: //therecipecritic.com/slow-cooker-honey-garlic-sriracha-wings/'
 totalTime: 3 hours 10 minutes
 cookTime: 3 hours
 prepTime: 10 minutes
 title: slow cooker honey garlic sriracha chicken
-slug: slow-cooker-honey-garlic-sriracha-chicken
+path: /slow-cooker-honey-garlic-sriracha-chicken
 ---

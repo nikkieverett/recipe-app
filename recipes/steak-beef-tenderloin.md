@@ -12,5 +12,5 @@ totalTime:
 cookTime:
 prepTime:
 title: steak - beef tenderloin
-slug: steak-beef-tenderloin
+path: /steak-beef-tenderloin
 ---

@@ -25,12 +25,12 @@ ingredients: '1-1/4 cups butter
  broken into pieces'
 rating: 4
 ease: easy
-img:
+
 category: appetizer
 href: 'https: //www.tasteofhome.com/recipes/buttery-onion-pretzels/'
 totalTime: 1 hour 35 minutes
 cookTime: 1.5 hour
 prepTime: 5 minutes
 title: buttery onion pretzels
-slug: buttery-onion-pretzels
+path: /buttery-onion-pretzels
 ---

@@ -27,6 +27,6 @@ totalTime:
 cookTime:
 prepTime:
 title: lemon chicken
-img:
-slug: lemon-chicken
+
+path: /lemon-chicken
 ---

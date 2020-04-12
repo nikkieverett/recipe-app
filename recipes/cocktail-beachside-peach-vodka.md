@@ -21,12 +21,12 @@ garnish:  peach
 glass:  highball glass'
 rating: 0
 ease:
-img:
+
 category:
 href: 'https://www.completecocktails.com/drinks/beachsidepeach.aspx#.w3cvmtmjliu'
 totalTime:
 cookTime:
 prepTime:
 title: cocktail - beachside peach vodka
-slug: cocktail-beachside-peach-vodka
+path: /cocktail-beachside-peach-vodka
 ---

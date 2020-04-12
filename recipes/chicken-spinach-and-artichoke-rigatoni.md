@@ -2,7 +2,7 @@
 id: 593044f844e3ce00113dfb54
 servings: 6
 notes:
-directions: in a large pot of salted boiling water
+directions: 'in a large pot of salted boiling water
  cook pasta
 drain
  reserving 1 cup pasta water
@@ -29,8 +29,8 @@ season with salt and pepper
 
 return cooked pasta to skillet and toss with sauce until coated
 add spinach and artichokes and toss until combined
-garnish with parm and serve
-ingredients: 12 oz. pasta
+garnish with parm and serve'
+ingredients: '12 oz. pasta
 1 tbsp. extra-virgin olive oil
 2 cloves garlic (minced)
 3 c. baby spinach
@@ -43,7 +43,7 @@ freshly ground black pepper
 1/2 c. low-sodium chicken broth
 1/2 c. milk
 1 c. shredded mozzarella
-1/4 c. shredded parmesan (plus more for garnish)
+1/4 c. shredded parmesan (plus more for garnish)'
 rating: 4
 ease: easy
 category: main course
@@ -52,6 +52,6 @@ totalTime: 25 min
 cookTime: 15 min
 prepTime: 10 min
 title: chicken spinach and artichoke rigatoni
-img:
-slug: chicken-spinach-and-artichoke-rigatoni
+
+path: /chicken-spinach-and-artichoke-rigatoni
 ---

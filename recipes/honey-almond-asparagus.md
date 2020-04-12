@@ -12,5 +12,5 @@ totalTime:
 cookTime:
 prepTime:
 title: honey almond asparagus
-slug: honey-almond-asparagus
+path: /honey-almond-asparagus
 ---

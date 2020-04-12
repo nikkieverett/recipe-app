@@ -85,12 +85,12 @@ chopped fresh parsley
  for garnish'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //diethood.com/slow-cooker-salmon/'
 totalTime: 2 hours 30 minutes
 cookTime: 2 hours 20 minutes
 prepTime: 10 minutes
 title: slow cooker salmon with creamy lemon sauce - crock pot
-slug: slow-cooker-salmon-with-creamy-lemon-sauce-crock-pot
+path: /slow-cooker-salmon-with-creamy-lemon-sauce-crock-pot
 ---

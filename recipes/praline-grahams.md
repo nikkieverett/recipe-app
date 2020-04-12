@@ -18,5 +18,5 @@ totalTime:
 cookTime:
 prepTime:
 title: praline grahams
-slug: praline-grahams
+path: /praline-grahams
 ---

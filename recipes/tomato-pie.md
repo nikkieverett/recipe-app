@@ -12,5 +12,5 @@ totalTime:
 cookTime:
 prepTime:
 title: tomato pie
-slug: tomato-pie
+path: /tomato-pie
 ---

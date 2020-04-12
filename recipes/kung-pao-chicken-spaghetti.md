@@ -34,6 +34,6 @@ totalTime:
 cookTime:
 prepTime:
 title: kung pao chicken spaghetti
-img:
-slug: kung-pao-chicken-spaghetti
+
+path: /kung-pao-chicken-spaghetti
 ---

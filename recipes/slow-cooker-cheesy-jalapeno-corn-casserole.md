@@ -28,12 +28,12 @@ ingredients: '1 lb italian sausage
 1 teaspoon pepper'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //12tomatoes.com/slow-cooker-jalapeno-corn/?utm_source=glp-12t&utm_medium=social-fb&utm_content=video&utm_campaign=slow-cooker-jalapeno-corn'
 totalTime:
 cookTime:
 prepTime:
 title: slow cooker cheesy jalapeno corn casserole
-slug: slow-cooker-cheesy-jalapeno-corn-casserole
+path: /slow-cooker-cheesy-jalapeno-corn-casserole
 ---

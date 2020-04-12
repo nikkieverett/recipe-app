@@ -29,6 +29,6 @@ totalTime:
 cookTime:
 prepTime:
 title: spaghetti carbonara
-img:
-slug: spaghetti-carbonara
+
+path: /spaghetti-carbonara
 ---

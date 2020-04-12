@@ -43,12 +43,12 @@ pepper
 2 teaspoon olive oil'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.hellofresh.com/recipes/uk-orecchiette-with-chicken-saus-581c9aebc7262810116fc012'
 totalTime: 25
 cookTime:
 prepTime:
 title: little ears pasta - hello fresh
-slug: little-ears-pasta-hello-fresh
+path: /little-ears-pasta-hello-fresh
 ---

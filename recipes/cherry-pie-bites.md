@@ -1,7 +1,7 @@
 ---
 id: 593044f844e3ce00113dfb55
 servings: 16 pie bites
-notes: 'make sure the rolls are cooked all the way. you don't want to bite into these and still have some of the crescent roll be doughy and not totally baked.
+notes: 'make sure the rolls are cooked all the way. you dont want to bite into these and still have some of the crescent roll be doughy and not totally baked.
 they should be fairly firm to the touch and have nice; tan­/brown tops.
 they appeared done at the 12 minute mark but i let them go just a bit longer (14 mins total) to make sure they were totally done.'
 directions: 'preheat oven to 375f degrees
@@ -21,5 +21,5 @@ totalTime: 30 min
 cookTime: 15 min
 prepTime: 15 min
 title: cherry pie bites
-slug: cherry-pie-bites
+path: /cherry-pie-bites
 ---

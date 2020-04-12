@@ -29,12 +29,12 @@ bbq sauce optional
 2 teaspoons roasted garlic'
 rating: 5
 ease: time consuming
-img:
+
 category:
 href: 'https: //kentrollins.com/jalapeno-poppers/'
 totalTime:
 cookTime:
 prepTime:
 title: jalapeno poppers - texas twinkies
-slug: jalapeno-poppers-texas-twinkies
+path: /jalapeno-poppers-texas-twinkies
 ---

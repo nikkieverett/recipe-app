@@ -20,12 +20,12 @@ stick of butter
 1/4 tsp black pepper'
 rating: 5
 ease: intermediate
-img:
+
 category: side dish
 href:
 totalTime: 30
 cookTime: 20
 prepTime: 10
 title: bacon wrapped asparagus
-slug: bacon-wrapped-asparagus
+path: /bacon-wrapped-asparagus
 ---

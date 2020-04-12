@@ -14,12 +14,12 @@ garnish:  apple
 glass:  shot glass'
 rating: 0
 ease:
-img:
+
 category:
 href: 'https://www.completecocktails.com/drinks/fluffyapple.aspx#.w24fanmjliu'
 totalTime:
 cookTime:
 prepTime:
 title: cocktail - fluffy apple vodka
-slug: cocktail-fluffy-apple-vodka
+path: /cocktail-fluffy-apple-vodka
 ---

@@ -23,12 +23,12 @@ ingredients: 'frozen pie crust
 2 c mixed frozen vegetable'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href:
 totalTime: 40 minutes
 cookTime: 30 minutes
 prepTime: 10 minutes
 title: chicken pot pie
-slug: chicken-pot-pie
+path: /chicken-pot-pie
 ---

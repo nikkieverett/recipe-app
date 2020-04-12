@@ -2,7 +2,7 @@
 id: 5d2b9f25b868ec0014d743c4
 servings:
 notes:
-directions:'
+directions:
 ingredients: '3 tbs olive oil
 3 tbs honey
 1 tbs vinegar
@@ -15,12 +15,12 @@ ingredients: '3 tbs olive oil
  sliced into rings'
 rating: 5
 ease: easy
-img:
+
 category: side dish
 href:
 totalTime:
 cookTime:
 prepTime:
 title: berry poppy seed salad
-slug: berry-poppy-seed-salad
+path: /berry-poppy-seed-salad
 ---

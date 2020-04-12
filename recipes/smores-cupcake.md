@@ -52,9 +52,9 @@ dump in the bowl of dry ingredients
  mix on low speed just until combined. the dough will be crumbly.
 scoop dough into the mini muffin tins. fill them full and press down slightly so the dough is even on top. you will have the perfect amount of dough to fill all 24 mini muffin tins.
 
-bake for 8 minutes. they will look like they're not done
+bake for 8 minutes. they will look like theyre not done
  but trust me
- they'll be perfect.
+ theyll be perfect.
 
 immediately after baking
  take a teaspoon size measuring spoon and press into the dough. you want to make an indent for the marshmallow to sit in. place a half of marshmallow into each indent in the muffin cups. sticky side of the marshmallow down.
@@ -62,11 +62,11 @@ let cool for 20 minutes.
 place one square of chocolate on top of each marshmallow.
 turn the oven broiler to high. place muffin tin pan under the broiler for 1-2 minutes. watch carefully. this toasts the marshmallows fast.
 
-let cool for about 10 minutes and eat right away for a warm gooey s'more or let cool completely.
+let cool for about 10 minutes and eat right away for a warm gooey smore or let cool completely.
 
-**if you don't want the chocolate very melted (like what is pictured) broil the pan with the marshmallows first
+**if you dont want the chocolate very melted (like what is pictured) broil the pan with the marshmallows first
  and then immediately after taking out of the oven
- press one chocolate on top of each toasted marshmallow. the chocolate is more of a softer chocolate that retains it's shape almost perfectly when you do it this way. i have made these both ways and either way is delicious.**'
+ press one chocolate on top of each toasted marshmallow. the chocolate is more of a softer chocolate that retains its shape almost perfectly when you do it this way. i have made these both ways and either way is delicious.**'
 ingredients: '1 cup graham cracker crumbs
 1 1/4 cups flour
 1/2 teaspoon baking soda
@@ -78,15 +78,15 @@ ingredients: '1 cup graham cracker crumbs
 1 large egg
 1 teaspoon vanilla extract
 12 large marshmallows cut in half
-2 hershey's chocolate bars 1.55 oz each'
+2 hersheys chocolate bars 1.55 oz each'
 rating: 5
 ease: easy
-img:
+
 category: dessert
 href: 'https://togetherasfamily.com/2015/05/smores-cookie-cups/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes'
 totalTime:
 cookTime:
 prepTime:
 title: smores cupcake
-slug: smores-cupcake
+path: /smores-cupcake
 ---

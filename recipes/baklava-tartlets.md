@@ -14,12 +14,12 @@ ingredients: '3/4 cup honey
 3 packages (1.9 ounces each) frozen miniature phyllo tart shells'
 rating: 5
 ease: easy
-img:
+
 category: dessert
 href: 'https: //www.tasteofhome.com/recipes/baklava-tartlets'
 totalTime:
 cookTime:
 prepTime:
 title: baklava tartlets
-slug: baklava-tartlets
+path: /baklava-tartlets
 ---

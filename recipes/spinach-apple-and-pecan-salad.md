@@ -33,12 +33,12 @@ ingredients: '3 tablespoons olive oil
 1⁄2 cup toasted pecans'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //www.geniuskitchen.com/recipe/spinach-apple-and-pecan-salad-29765?ic1=suggestedasset%7cspinach%20apple'
 totalTime:
 cookTime:
 prepTime:
 title: spinach apple and pecan salad
-slug: spinach-apple-and-pecan-salad
+path: /spinach-apple-and-pecan-salad
 ---

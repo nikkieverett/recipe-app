@@ -20,12 +20,12 @@ ingredients: '5 boneless skinless chicken breasts
 2 cups cornbread stuffing mix'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.food.com/recipe/easy-chicken-and-stuffing-casserole-181498'
 totalTime:
 cookTime:
 prepTime:
 title: easy chicken and stuffing
-slug: easy-chicken-and-stuffing
+path: /easy-chicken-and-stuffing
 ---

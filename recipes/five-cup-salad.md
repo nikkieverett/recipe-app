@@ -16,12 +16,12 @@ ingredients: '1 (20 ounce) can pineapple chunks in juice
 1 (8 ounce) container cool whip topping (or sour cream or half of each)'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //www.geniuskitchen.com/recipe/5-cup-salad-38716'
 totalTime: 10 minutes
 cookTime:
 prepTime: 10 minutes
 title: five cup salad
-slug: five-cup-salad
+path: /five-cup-salad
 ---

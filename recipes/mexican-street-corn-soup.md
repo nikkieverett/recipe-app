@@ -53,12 +53,12 @@ toppings:
 1 jalapeno sliced'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //thestayathomechef.com/mexican-street-corn-soup/'
 totalTime: 20 minutes
 cookTime: 15 minutes
 prepTime: 5 minutes
 title: mexican street corn soup
-slug: mexican-street-corn-soup
+path: /mexican-street-corn-soup
 ---

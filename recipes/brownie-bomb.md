@@ -6,12 +6,12 @@ directions:
 ingredients:
 rating: 0
 ease:
-img:
+
 category: dessert
 href: 'https://myincrediblerecipes.com/brownie-bomb-bars/'
 totalTime:
 cookTime:
 prepTime:
 title: brownie bomb
-slug: brownie-bomb
+path: /brownie-bomb
 ---

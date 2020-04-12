@@ -39,12 +39,12 @@ cream cheese frosting:
 additional chopped nuts'
 rating: 5
 ease: easy
-img:
+
 category: dessert
 href:
 totalTime:
 cookTime:
 prepTime:
 title: carrot cake
-slug: carrot-cake
+path: /carrot-cake
 ---

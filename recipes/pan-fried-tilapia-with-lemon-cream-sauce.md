@@ -17,12 +17,12 @@ ingredients: '2 tilapia fillets
 1 tbsp. chopped fresh parsley'
 rating: 3
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.delish.com/cooking/recipe-ideas/recipes/a21021/pan-fried-fish-creamy-lemon-sauce-for-two-recipe-kft0313/'
 totalTime: 20 minutes
 cookTime: 15 minutes
 prepTime: 5 minutes
 title: pan fried tilapia with lemon cream sauce
-slug: pan-fried-tilapia-with-lemon-cream-sauce
+path: /pan-fried-tilapia-with-lemon-cream-sauce
 ---

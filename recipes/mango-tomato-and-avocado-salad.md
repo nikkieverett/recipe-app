@@ -35,12 +35,12 @@ ingredients: '1 medium mango
  peeled and cut into chunks'
 rating: 5
 ease: easy
-img:
+
 category: side dish
 href: 'https: //www.bhg.com/recipe/salads/mango-tomato-and-avocado-salad/'
 totalTime:
 cookTime:
 prepTime: 15 minutes
 title: mango tomato and avocado salad
-slug: mango-tomato-and-avocado-salad
+path: /mango-tomato-and-avocado-salad
 ---

@@ -14,12 +14,12 @@ ingredients: '1 lb sausage
 1 packet pork shake n bake'
 rating: 5
 ease: easy
-img:
+
 category: appetizer
 href:
 totalTime:
 cookTime:
 prepTime:
 title: armadillo eggs
-slug: armadillo-eggs
+path: /armadillo-eggs
 ---

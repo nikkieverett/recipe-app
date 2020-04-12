@@ -1,7 +1,7 @@
 ---
 id: 5c806794f5a4f600143bfa64
 servings: 6
-notes:  calories 343 kcal
+notes: calories 343 kcal
 directions: 'saute ground beef in large pot with chopped onion.
 add broth
  tomatoes
@@ -31,12 +31,12 @@ ingredients: '1 pound ground beef
 tortilla chips'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //copykat.com/2009/03/28/lubys-tortilla-soup/'
 totalTime: 30 minutes
 cookTime: 20 minutes
 prepTime: 10 minutes
 title: tortilla soup
-slug: tortilla-soup
+path: /tortilla-soup
 ---

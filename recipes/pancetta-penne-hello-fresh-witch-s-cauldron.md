@@ -75,12 +75,12 @@ salt
 pepper'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.hellofresh.com/recipes/pancetta-penne-in-a-witchs-cauldron-59baee93a2882a5314756bd1'
 totalTime: 25
 cookTime:
 prepTime:
 title: pancetta penne - hello fresh witch's cauldron
-slug: pancetta-penne-hello-fresh-witch-s-cauldron
+path: /pancetta-penne-hello-fresh-witch-s-cauldron
 ---

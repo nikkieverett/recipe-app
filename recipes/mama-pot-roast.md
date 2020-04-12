@@ -25,7 +25,7 @@ salt and pepper
 water'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href:
 totalTime: 8 hours
@@ -33,5 +33,5 @@ totalTime: 8 hours
 cookTime: 8 hours
 prepTime: 10 minutes
 title: mama' pot roast
-slug: mama-pot-roast
+path: /mama-pot-roast
 ---

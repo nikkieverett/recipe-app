@@ -29,12 +29,12 @@ cracked black pepper
 '
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //cafedelites.com/honey-garlic-butter-roasted-carrots/'
 totalTime: 25 minutes
 cookTime: 20 minutes
 prepTime: 5 minutes
 title: honey garlic butter roasted carrots
-slug: honey-garlic-butter-roasted-carrots
+path: /honey-garlic-butter-roasted-carrots
 ---

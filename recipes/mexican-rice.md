@@ -18,12 +18,12 @@ ingredients: '2 tbs oil
 salt and pepper'
 rating: 5
 ease: easy
-img:
+
 category: side dish
 href:
 totalTime:
 cookTime:
 prepTime:
 title: mexican rice
-slug: mexican-rice
+path: /mexican-rice
 ---

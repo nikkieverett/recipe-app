@@ -57,12 +57,12 @@ cup packed brown sugar
 tablespoon granulated sugar'
 rating: 4
 ease: intermediate
-img:
+
 category: dessert
 href: 'https: //www.bettycrocker.com/recipes/dutch-apple-pie/815d821f-058d-4177-93be-e157390e947b'
 totalTime: 2 hours 45 minutes
 cookTime:
 prepTime: 60 miutes
 title: dutch apple pie
-slug: dutch-apple-pie
+path: /dutch-apple-pie
 ---

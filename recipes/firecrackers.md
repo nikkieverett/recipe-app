@@ -10,12 +10,12 @@ ingredients: '5/8 c canola oil
 2 sleeves saltine crackers'
 rating: 4
 ease: easy
-img:
+
 category: appetizer
 href:
 totalTime:
 cookTime:
 prepTime:
 title: firecrackers
-slug: firecrackers
+path: /firecrackers
 ---

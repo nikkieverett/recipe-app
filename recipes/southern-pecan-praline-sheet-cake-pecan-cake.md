@@ -35,12 +35,12 @@ butter pecan glaze
 1/2 cup chopped pecans'
 rating: 5
 ease: easy
-img:
+
 category: dessert
 href: 'https://1krecipes.com/southern-pecan-praline-sheet-cake/'
 totalTime: 80 minutes
 cookTime: 60 minutes
 prepTime: 20 minutes
 title: southern pecan praline sheet cake (pecan cake)
-slug: southern-pecan-praline-sheet-cake-pecan-cake
+path: /southern-pecan-praline-sheet-cake-pecan-cake
 ---

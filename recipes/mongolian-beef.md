@@ -30,6 +30,6 @@ totalTime:
 cookTime:
 prepTime:
 title: mongolian beef
-img:
-slug: mongolian-beef
+
+path: /mongolian-beef
 ---

@@ -42,12 +42,12 @@ dressing:
 black pepper to taste'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //therecipecritic.com/tuscan-pasta-salad/'
 totalTime: 20 minutes
 cookTime:
 prepTime: 20 minutes
 title: tuscan pasta salad
-slug: tuscan-pasta-salad
+path: /tuscan-pasta-salad
 ---

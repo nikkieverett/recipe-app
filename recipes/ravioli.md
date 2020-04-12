@@ -1,8 +1,8 @@
 ---
 id: 5bfdbf63085612001402893b
 servings:
-notes: go to website for further pasta making instructions
-1 recipe of filling is enough for 4 recipes of pasta (36 ravioli each)
+notes: 'go to website for further pasta making instructions
+1 recipe of filling is enough for 4 recipes of pasta (36 ravioli each)'
 directions: 'for the meat ravioli filling
 fry the meat in olive oil until well browned. drain the meat on paper towels
 when the meat cools a little put it into a large bowl and mix in the chopped spinach. chopped parsley
@@ -22,7 +22,7 @@ after 30 minutes you can make the dough into your preferred shape. this is a sin
 
 to cook ravioli:
 bring a large pot of water to a boil. salt the water. you want your water as salty as the sea.
-add the ravioli in batches. about 10- 12 at a time. don't overcrowd. bring the water back to a gentle simmer and cook for about 3-4 minutes. if the ravioli is frozen
+add the ravioli in batches. about 10- 12 at a time. dont overcrowd. bring the water back to a gentle simmer and cook for about 3-4 minutes. if the ravioli is frozen
  cook for an additional minute.
 remove with a slotted spoon or spider to a serving dish. continue cooking the rest of the ravioli. serve with your favorite sauce or just with extra-virgin olive oil
  butter
@@ -45,12 +45,12 @@ pasta dough
 1 tsp kosher salt'
 rating: 4
 ease: time consuming
-img:
+
 category: main course
 href: 'https: //allourway.com/homemade-italian-ravioli-meat-cheese-filling/'
 totalTime:
 cookTime:
 prepTime:
 title: ravioli
-slug: ravioli
+path: /ravioli
 ---

@@ -35,12 +35,12 @@ ingredients: '4 tablespoons canola oil
  optional'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.tasteofhome.com/recipes/flavorful-chicken-fajitas/'
 totalTime:
 cookTime:
 prepTime:
 title: chicken fajita
-slug: chicken-fajita
+path: /chicken-fajita
 ---

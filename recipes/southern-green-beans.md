@@ -19,6 +19,6 @@ totalTime:
 cookTime:
 prepTime:
 title: southern green beans
-img:
-slug: southern-green-beans
+
+path: /southern-green-beans
 ---

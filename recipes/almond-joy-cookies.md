@@ -26,5 +26,5 @@ totalTime: 30 min
 cookTime: 12-14 min
 prepTime: 10 min
 title: almond joy cookies
-slug: almond-joy-cookies
+path: /almond-joy-cookies
 ---

@@ -31,6 +31,6 @@ totalTime: 20
 cookTime: 15
 prepTime: 5
 title: one pot cajun chicken and sausage alfredo
-img:
-slug: one-pot-cajun-chicken-and-sausage-alfredo
+
+path: /one-pot-cajun-chicken-and-sausage-alfredo
 ---

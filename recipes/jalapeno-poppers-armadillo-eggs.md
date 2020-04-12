@@ -39,12 +39,12 @@ ingredients: '12 jalapenos
 oil for frying'
 rating: 5
 ease: time consuming
-img:
+
 category:
 href: 'https: //kentrollins.com/jalapeno-poppers/'
 totalTime:
 cookTime:
 prepTime:
 title: jalapeno poppers-armadillo eggs
-slug: jalapeno-poppers-armadillo-eggs
+path: /jalapeno-poppers-armadillo-eggs
 ---

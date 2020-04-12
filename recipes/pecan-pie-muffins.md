@@ -23,6 +23,6 @@ totalTime: 40 minutes
 cookTime: 25 minutes
 prepTime: 15 minutes
 title: pecan pie muffins
-img:
-slug: pecan-pie-muffins
+
+path: /pecan-pie-muffins
 ---

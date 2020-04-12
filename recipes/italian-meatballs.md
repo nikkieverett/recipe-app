@@ -40,12 +40,12 @@ ingredients: '1/3 cup plain bread crumbs
 2 tablespoons grated parmesan cheese'
 rating: 5
 ease: intermediate
-img:
+
 category: main course
 href: 'https://allrecipes.com/recipe/220854/chef-johns-italian-meatballs/'
 totalTime: 55
 cookTime: 35
 prepTime: 20
 title: italian meatballs
-slug: italian-meatballs
+path: /italian-meatballs
 ---

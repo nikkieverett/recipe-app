@@ -32,12 +32,12 @@ unsweetened shredded coconut
  for rolling'
 rating: 3
 ease: easy
-img:
+
 category: breakfast
 href: 'https://blog.myfitnesspal.com/lemon-coconut-protein-no-bake-bites-recipe/'
 totalTime: 10
 cookTime:
 prepTime: 10
 title: lemon coconut protein bites - no bake
-slug: lemon-coconut-protein-bites-no-bake
+path: /lemon-coconut-protein-bites-no-bake
 ---

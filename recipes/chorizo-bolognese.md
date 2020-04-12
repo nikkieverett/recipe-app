@@ -52,6 +52,6 @@ totalTime: 30 min
 cookTime: 20 min
 prepTime: 10 min
 title: chorizo bolognese
-img:
-slug: chorizo-bolognese
+
+path: /chorizo-bolognese
 ---

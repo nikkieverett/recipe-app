@@ -1,16 +1,14 @@
 ---
 id: 593044f844e3ce00113dfb49
 servings: 4-6 people
-notes: keep an eye on your tortellini; it may be done sooner
+notes: 'keep an eye on your tortellini; it may be done sooner
 if still soupy
- leave lid off for the last half hour or so of cooking
+ leave lid off for the last half hour or so of cooking'
 directions: 'this recipes calls for sausage but chicken sausage is good too.
 the only prep work is to brown your sausage; whichever kind you choose for extra flavor
 put all ingredients in crockpot
  chunking up the cream cheese
-cook on low for 4-6 hrs.
-
-'
+cook on low for 4-6 hrs.'
 ingredients: '1 (19oz) bag of frozen cheese tortellini
 1 small bag of fresh spinach (i used about half of a 5 oz package; but more is better!)
 2 (14.5 oz) cans of italian style diced tomatoes (drained)
@@ -25,6 +23,6 @@ totalTime:
 cookTime: 4 hours
 prepTime: 10 min
 title: chicken or sausage tortellini
-img:
-slug: chicken-or-sausage-tortellini
+
+path: /chicken-or-sausage-tortellini
 ---

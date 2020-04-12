@@ -21,6 +21,6 @@ totalTime: 30 minutes
 cookTime:
 prepTime:
 title: lemon basil bowtie pasta
-img:
-slug: lemon-basil-bowtie-pasta
+
+path: /lemon-basil-bowtie-pasta
 ---

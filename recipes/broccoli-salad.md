@@ -18,6 +18,6 @@ totalTime:
 cookTime:
 prepTime:
 title: broccoli salad
-img:
-slug: broccoli-salad
+
+path: /broccoli-salad
 ---

@@ -31,12 +31,12 @@ tabasco to taste
 2 c cooked rice'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href:
 totalTime: 2 1/2 -3 1/2 hours
 cookTime:
 prepTime:
 title: red beans and rice
-slug: red-beans-and-rice
+path: /red-beans-and-rice
 ---

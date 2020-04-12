@@ -30,12 +30,12 @@ ingredients: '2 1/2 cups milk
  grated'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //cookiesandcups.com/no-boil-crock-pot-mac-cheese/'
 totalTime: 2 hours 10 minutes
 cookTime: 2 hours
 prepTime: 10 minutes
 title: crock pot macaroni and cheese slow cooker
-slug: crock-pot-macaroni-and-cheese-slow-cooker
+path: /crock-pot-macaroni-and-cheese-slow-cooker
 ---

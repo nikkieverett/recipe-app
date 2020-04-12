@@ -39,11 +39,11 @@ ingredients: '2 pounds lean ground beef
 rating: 5
 ease: easy
 category: main course
-href: 'https://www.foodnetwork.com/recipes/paula-deen/bobbys-goulash-recipe2.html
+href: 'https://www.foodnetwork.com/recipes/paula-deen/bobbys-goulash-recipe2.html'
 totalTime:
 cookTime:
 prepTime:
 title: bobby's goulash
-img:
-slug: bobby-s-goulash
+
+path: /bobby-s-goulash
 ---

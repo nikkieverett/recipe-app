@@ -12,5 +12,5 @@ totalTime:
 cookTime:
 prepTime:
 title: pot roast with lipton onion soup
-slug: pot-roast-with-lipton-onion-soup
+path: /pot-roast-with-lipton-onion-soup
 ---

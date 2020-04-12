@@ -33,12 +33,12 @@ fine sea salt and freshly-cracked black pepper
 '
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //www.gimmesomeoven.com/egg-drop-soup/#tasty-recipes-59802'
 totalTime: 15 minutes
 cookTime: 10 minutes
 prepTime: 5 minutes
 title: egg drop soup
-slug: egg-drop-soup
+path: /egg-drop-soup
 ---

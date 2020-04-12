@@ -32,12 +32,12 @@ ingredients: 'for the strawberry spinach salad:
 use other dressing'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //www.wellplated.com/spinach-strawberry-salad/'
 totalTime:
 cookTime:
 prepTime:
 title: strawberry spinach salad
-slug: strawberry-spinach-salad
+path: /strawberry-spinach-salad
 ---

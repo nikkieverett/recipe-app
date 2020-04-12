@@ -26,12 +26,12 @@ ingredients: '1 teaspoon ground ginger
 1 (1 1/2-pound) salmon fillet'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.allrecipes.com/recipe/29460/honey-ginger-grilled-salmon/'
 totalTime:
 cookTime: 15 minutes
 prepTime: 10 minutes
 title: honey ginger grilled salmon
-slug: honey-ginger-grilled-salmon
+path: /honey-ginger-grilled-salmon
 ---

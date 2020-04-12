@@ -2,13 +2,13 @@
 id: 593044f844e3ce00113dfb51
 servings:
 notes:
-directions: combine ingredients for meatballs.  shape into balls.
+directions: 'combine ingredients for meatballs.  shape into balls.
 saute onion and garlic until fragrance released.
 add tomatoes.  cook until soft
 add broth and knorr.  bring to boil.
 add meatballs.  cook 30 minutes or until meatballs are done.
 add pasta.  cook according to pasta directions.
-garnish with cilantro.
+garnish with cilantro.'
 ingredients: 'meatballs:
 2 lbs hamburger
 1/2 t garlic powder
@@ -16,8 +16,7 @@ ingredients: 'meatballs:
 1/4 t cumin
 salt to taste
 cilantro
-
-soup:
+soup
 8 c chicken broth
 angel hair pasta
 cilantro
@@ -34,6 +33,6 @@ totalTime:
 cookTime:
 prepTime:
 title: noodle soup with meatballs
-img:
-slug: noodle-soup-with-meatballs
+
+path: /noodle-soup-with-meatballs
 ---

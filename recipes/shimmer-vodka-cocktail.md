@@ -13,12 +13,12 @@ ingredients: '1 cup of flavoured vodka or a combination of flavoured vodkas
 a little less than 1/4 tsp of petal luster dust in your favourite colour (i used gold)'
 rating: 0
 ease:
-img:
+
 category:
 href: 'https: //www.theflavorbender.com/how-to-make-shimmery-liqueur/#wprm-recipe-container-19280'
 totalTime:
 cookTime:
 prepTime:
 title: shimmer vodka - cocktail
-slug: shimmer-vodka-cocktail
+path: /shimmer-vodka-cocktail
 ---

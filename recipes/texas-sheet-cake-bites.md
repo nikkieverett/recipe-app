@@ -19,7 +19,7 @@ for frosting:
 in a medium sauce pan heat milk
  butter and cocoa until bubbly. mix in sugar and vanilla until smooth. add in nuts and blend until incorporated. carefully spoon about a tablespoon of frosting over each bite and let frosting set (if you can) before eating! enjoy!
 notes
-if you don't have buttermilk on hand
+if you dont have buttermilk on hand
  you can make sour milk instead. add 1 teaspoon white vinegar to 1 cup milk and let it sit for a few minutes. add to recipe as directed.'
 ingredients: 'cake:
 2 cups sugar
@@ -40,12 +40,12 @@ one 1 pound box powdered sugar
 1 cup chopped walnuts'
 rating: 5
 ease: easy
-img:
+
 category: dessert
 href: 'https: //realhousemoms.com/texas-sheet-cake-bites/'
 totalTime:
 cookTime:
 prepTime:
 title: texas sheet cake bites
-slug: texas-sheet-cake-bites
+path: /texas-sheet-cake-bites
 ---

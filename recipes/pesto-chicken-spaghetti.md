@@ -32,6 +32,6 @@ totalTime:
 cookTime:
 prepTime:
 title: pesto chicken spaghetti
-img:
-slug: pesto-chicken-spaghetti
+
+path: /pesto-chicken-spaghetti
 ---

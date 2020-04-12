@@ -30,12 +30,12 @@ ingredients: '1 c sugar
  chopped'
 rating: 5
 ease: easy
-img:
+
 category: dessert
 href:
 totalTime: 35 minutes
 cookTime: 25 minutes
 prepTime: 10 minutes
 title: honey bars
-slug: honey-bars
+path: /honey-bars
 ---

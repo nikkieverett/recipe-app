@@ -41,12 +41,12 @@ fresh ground pepper
  minced (2 teaspoons)'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https://www.food.com/recipe/roses-baked-artichoke-hearts-342139'
 totalTime:
 cookTime:
 prepTime:
 title: baked artichoke hearts
-slug: baked-artichoke-hearts
+path: /baked-artichoke-hearts
 ---

@@ -16,12 +16,12 @@ ingredients: '2 cups ketchup
 1/4 teaspoon hot sauce optional'
 rating: 4
 ease: easy
-img:
+
 category:
 href: 'https: //addapinch.com/homemade-bbq-sauce-recipe/'
 totalTime:
 cookTime:
 prepTime:
 title: bar bq sauce
-slug: bar-bq-sauce
+path: /bar-bq-sauce
 ---

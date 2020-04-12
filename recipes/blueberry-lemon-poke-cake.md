@@ -47,12 +47,12 @@ for the whipped cream
 2 c powdered sugar'
 rating: 4
 ease: intermediate
-img:
+
 category: dessert
 href: 'https://beyondfrosting.com/2015/07/09/blueberry-cheesecake-poke-cake/'
 totalTime:
 cookTime:
 prepTime:
 title: blueberry lemon poke cake
-slug: blueberry-lemon-poke-cake
+path: /blueberry-lemon-poke-cake
 ---

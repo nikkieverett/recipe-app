@@ -42,12 +42,12 @@ kosher salt and freshly ground black pepper
 3/4 cup freshly grated parmesan cheese'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //barefootcontessa.com/recipes/roasted-butternut-squash-salad-with-warm-cider-vinaigrette'
 totalTime:
 cookTime:
 prepTime:
 title: roasted maple butternut squash salad
-slug: roasted-maple-butternut-squash-salad
+path: /roasted-maple-butternut-squash-salad
 ---

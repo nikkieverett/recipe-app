@@ -30,12 +30,12 @@ ingredients: '3 pounds sweet potatoes (about 5 medium)
  optional'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //www.tasteofhome.com/recipes/applesauce-sweet-potatoes/'
 totalTime: 4 hours
 cookTime: 4 hours
 prepTime: 10 minutes
 title: applesauce sweet potatoes
-slug: applesauce-sweet-potatoes
+path: /applesauce-sweet-potatoes
 ---

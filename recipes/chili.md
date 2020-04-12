@@ -26,12 +26,12 @@ ingredients: '1 lb hamburger meat
 2 cups water - more as needed'
 rating: 5
 ease: easy
-img:
+
 category: main course
 href:
 totalTime:
 cookTime:
 prepTime:
 title: chili
-slug: chili
+path: /chili
 ---

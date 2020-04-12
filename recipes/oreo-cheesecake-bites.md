@@ -27,6 +27,6 @@ totalTime:
 cookTime:
 prepTime:
 title: oreo cheesecake bites
-img:
-slug: oreo-cheesecake-bites
+
+path: /oreo-cheesecake-bites
 ---

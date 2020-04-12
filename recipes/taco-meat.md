@@ -38,12 +38,12 @@ ingredients: '4 1/2 teaspoons chili powder
 1 cup water'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href:
 totalTime: 40
 cookTime: 30
 prepTime: 10
 title: taco meat
-slug: taco-meat
+path: /taco-meat
 ---

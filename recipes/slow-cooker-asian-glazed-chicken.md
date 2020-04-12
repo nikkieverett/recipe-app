@@ -30,12 +30,12 @@ ingredients: '2 pounds (1 kg) skinless boneless chicken breasts (or chicken thig
 '
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https: //cafedelites.com/slow-cooker-asian-glazed-chicken/'
 totalTime: 4 hours 10 minutes
 cookTime: 4 hours
 prepTime: 10 minutes
 title: slow cooker asian glazed chicken
-slug: slow-cooker-asian-glazed-chicken
+path: /slow-cooker-asian-glazed-chicken
 ---

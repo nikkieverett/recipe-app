@@ -72,6 +72,6 @@ totalTime: 2 hr
 cookTime: 1 hr
 prepTime: 55 min
 title: cherry stuffed pork tenderloin
-img:
-slug: cherry-stuffed-pork-tenderloin
+
+path: /cherry-stuffed-pork-tenderloin
 ---

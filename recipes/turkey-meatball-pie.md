@@ -33,6 +33,6 @@ totalTime:
 cookTime:
 prepTime:
 title: turkey meatball pie
-img:
-slug: turkey-meatball-pie
+
+path: /turkey-meatball-pie
 ---

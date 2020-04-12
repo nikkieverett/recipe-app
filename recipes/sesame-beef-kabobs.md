@@ -28,6 +28,6 @@ totalTime:
 cookTime:
 prepTime:
 title: sesame beef kabobs
-img:
-slug: sesame-beef-kabobs
+
+path: /sesame-beef-kabobs
 ---

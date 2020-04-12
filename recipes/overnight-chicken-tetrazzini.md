@@ -31,12 +31,12 @@ ingredients: '4 cups chopped cooked chicken (whole rotisserie chicken)
 '
 rating: 5
 ease: easy
-img:
+
 category: main course
 href: 'https: //www.plainchicken.com/2019/03/overnight-chicken-tetrazzini.html'
 totalTime: 1 hour 10 minutes
 cookTime: 1 hour
 prepTime: 10 minutes
 title: overnight chicken tetrazzini
-slug: overnight-chicken-tetrazzini
+path: /overnight-chicken-tetrazzini
 ---

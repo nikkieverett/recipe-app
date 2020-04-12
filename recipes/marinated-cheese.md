@@ -34,12 +34,12 @@ ingredients: '8 ounces sharp cheddar cheese
  pressed'
 rating: 4
 ease: easy
-img:
+
 category: appetizer
 href: 'https: //www.geniuskitchen.com/recipe/marinated-cheese-appetizer-33501'
 totalTime:
 cookTime:
 prepTime:
 title: marinated cheese
-slug: marinated-cheese
+path: /marinated-cheese
 ---

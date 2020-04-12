@@ -22,12 +22,12 @@ ingredients: '1 cup low sodium vegetable broth
 1/4 teaspoon salt'
 rating: 4
 ease: easy
-img:
+
 category: main course
 href: 'https://www.apronstringsblog.com/one-pot-blackberry-glazed-salmon-and-asparagus/'
 totalTime: 20
 cookTime:
 prepTime:
 title: blackberry salmon and asparagus
-slug: blackberry-salmon-and-asparagus
+path: /blackberry-salmon-and-asparagus
 ---

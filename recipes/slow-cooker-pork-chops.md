@@ -19,6 +19,6 @@ totalTime:
 cookTime:
 prepTime:
 title: slow cooker pork chops
-img:
-slug: slow-cooker-pork-chops
+
+path: /slow-cooker-pork-chops
 ---

@@ -27,12 +27,12 @@ ingredients: '8 ounces pasta (i recommend bucatini
 optional 3 roma tomatoes - chopped'
 rating: 4
 ease: easy
-img:
+
 category: side dish
 href: 'https: //www.gimmesomeoven.com/cacio-e-pepe/#tasty-recipes-60551'
 totalTime: 20 minutes
 cookTime: 10 minutes
 prepTime: 10 minutes
 title: cacio e pepe - pepper pasta
-slug: cacio-e-pepe-pepper-pasta
+path: /cacio-e-pepe-pepper-pasta
 ---

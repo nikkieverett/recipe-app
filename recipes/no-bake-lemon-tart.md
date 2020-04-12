@@ -1,12 +1,12 @@
 ---
 id: 5c2ec0e1f2073700146b1173
 servings: 6
-notes: per serving 600 calories
+notes: 'per serving 600 calories
  46 g fat (27.5 g saturated)
  5 g protein
  175 mg sodium
  45 g carb
- 1 g fiber
+ 1 g fiber'
 directions: 'in a food processor
  pulse graham crackers into fine crumbs. add butter and pulse to combine. divide mixture among six 4-inch tart pans with removable bottoms; press evenly on bottoms and up sides. refrigerate until firm
  at least 30 minutes.
@@ -26,7 +26,7 @@ bring to a boil
 make chocolate butterflies (optional):  fold a piece of parchment paper in half
  then open. using a resealable plastic bag filled with melted chocolate
  outline butterfly wings on each side of the fold
- then prop up between two plates so that each wing is slightly elevated and the paper isn't completely flat; let set. if desired
+ then prop up between two plates so that each wing is slightly elevated and the paper isnt completely flat; let set. if desired
  once set
  fill in with melted chocolate.
 
@@ -56,12 +56,12 @@ chocolate butterflies
  for serving'
 rating: 5
 ease: intermediate
-img:
+
 category: dessert
 href: 'https: //www.womansday.com/food-recipes/food-drinks/a19810477/no-bake-lemon-tarts-recipe/'
 totalTime: 2 hours 45 minutes
 cookTime:
 prepTime:
 title: no bake lemon tart
-slug: no-bake-lemon-tart
+path: /no-bake-lemon-tart
 ---

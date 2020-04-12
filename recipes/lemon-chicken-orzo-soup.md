@@ -36,12 +36,12 @@ crusty bread
  to serve'
 rating: 5
 ease: intermediate
-img:
+
 category: main course
 href: 'https: //hostthetoast.com/lemon-garlic-chicken-orzo-soup/'
 totalTime: 1 hour 5 minutes
 cookTime: 45 minutes
 prepTime: 20 minutes
 title: lemon chicken orzo soup
-slug: lemon-chicken-orzo-soup
+path: /lemon-chicken-orzo-soup
 ---
