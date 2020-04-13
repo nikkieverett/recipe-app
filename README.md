@@ -98,3 +98,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 [Used this blog post for starting site](https://developer.okta.com/blog/2020/02/18/gatsby-react-netlify)
+[Added this dependency for rendering markdown](https://github.com/rexxars/react-markdown)

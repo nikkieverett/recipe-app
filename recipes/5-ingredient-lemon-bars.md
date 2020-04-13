@@ -44,7 +44,8 @@ ingredients: |-
   * 1/2 cup freshly-squeezed lemon juice
   * 2 tablespoons all-purpose flour
 rating: 4
-ease: easy
+ease:
+  - easy
 category:
   - dessert
 href: 'https: //www.gimmesomeoven.com/lemon-bars/'

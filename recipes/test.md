@@ -3,10 +3,11 @@ title: Test
 slug: test
 servings: 2
 rating: 2
-ease: -1
-totalTime: -1
-cookTime: 0
-prepTime: 1
+ease:
+  - difficult
+totalTime: 1 hr
+cookTime: 30 mins
+prepTime: 30 mins
 category:
   - condiment
 ingredients: |-

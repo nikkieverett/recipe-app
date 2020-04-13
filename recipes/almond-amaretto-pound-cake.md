@@ -40,7 +40,8 @@ ingredients: |-
   * 1/3 cup half & half
   * 3 tablespoons amaretto'
 rating: 5
-ease: easy
+ease:
+  - easy
 category:
   - dessert
 href: 'https://www.dixiecrystals.com/recipes/desserts/cakes/almond-amaretto-poundcake'
