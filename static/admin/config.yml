@@ -4,6 +4,7 @@ backend:
 
 media_folder: static/assets
 public_folder: assets
+site_url: https://the-cooking-spoon.netlify.com
 
 collections:
   - name: recipe
@@ -12,20 +13,20 @@ collections:
     create: true
     fields:
       - { name: title, label: Title }
-      - { name: slug, label: Slug }
-      - { name: servings, label: Servings, widget: number }
-      - { name: rating, label: Rating, widget: number }
-      - { name: ease, label: Difficulty, widget: number }
-      - { name: totalTime, label: Total Time, widget: number }
-      - { name: cookTime, label: Cook Time, widget: number }
-      - { name: prepTime, label: Prep Time, widget: number }
+      - { name: ingredients, label: Ingredients, widget: markdown }
+      - { name: directions, label: Directions, widget: markdown }
       - {
           label: 'Category',
           name: 'category',
           widget: 'select',
           options: ['breakfast', 'main course', 'side dish', 'dessert', 'drink', 'salad', 'condiment'],
           multiple: true,
+          comment: 'Please select one or more categories'
         }
-      - { name: ingredients, label: Ingredients, widget: markdown }
-      - { name: directions, label: Directions, widget: markdown }
-      - { name: notes, label: Notes, widget: markdown }
+      - { name: cookTime, label: Cook Time, required: false, widget: "string", comment: 'Example: 45 mins' }
+      - { name: prepTime, label: Prep Time, required: false, widget: "string", comment: 'Example: 1hr' }
+      - { name: totalTime, label: Total Time, required: false, widget: "string", comment: 'Example: 1hr 45 mins' }
+      - { name: servings, label: Number of Servings, widget: number, required: false }
+      - { name: rating, label: Rating, widget: number, required: false, max: 5, min: 1 }
+      - { name: ease, label: Difficulty, widget: select, options: ['easy', 'intermediate', 'difficult'], required: false }
+      - { name: notes, label: Notes, widget: markdown, required: false }

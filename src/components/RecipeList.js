@@ -1,43 +1,45 @@
 import React from "react"
 import PropTypes from "prop-types"
+import { makeStyles } from "@material-ui/core/styles"
 import { Link, graphql, StaticQuery } from "gatsby"
+import RecipeCard from './RecipeCard'
+import Grid from "@material-ui/core/Grid"
 
-class RecipeList extends React.Component {
-  render() {
-    const { data } = this.props
-    const { edges: recipes } = data.allMarkdownRemark
-
-    console.log(recipes)
-    return (
-      <div className="columns is-multiline">
-        {recipes &&
-          recipes.map(({ node: recipe }) => (
-            <div className="is-parent column is-6" key={recipe.frontmatter.path}>
-              <article>
-                <header>
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={recipe.frontmatter.path}
-                    >
-                      {recipe.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                  </p>
-                </header>
-                <p>
-                  <br />
-                  <br />
-                  <Link className="button" to={recipe.frontmatter.path}>
-                    Keep Reading →
-                  </Link>
-                </p>
-              </article>
-            </div>
-          ))}
-      </div>
-    )
+const useStyles = makeStyles(theme => ({
+  root: {
+    flexGrow: 0,
+    alignItems: 'stretch'
+  },
+  item: {
+    flexBasis: 300,
+    height: 300,
+    marginLeft: 15,
+    marginBottom: 15
   }
+}))
+
+export const RecipeList = props => {
+  const { data } = props
+  const { edges: recipes } = data.allMarkdownRemark
+
+  const classes = useStyles()
+
+  return (
+    <Grid container spacing='2' className={classes.root}>
+      {recipes &&
+        recipes.map(({ node: recipe }) => (
+          <Grid item key={recipe.frontmatter.path} className={classes.item}>
+            <RecipeCard
+              title={recipe.frontmatter.title}
+              category={recipe.frontmatter.category}
+              rating={recipe.frontmatter.rating}
+              totalTime={recipe.frontmatter.totalTime}
+              ease={recipe.frontmatter.ease}
+            />
+          </Grid>
+        ))}
+    </Grid>
+  )
 }
 
 RecipeList.propTypes = {
@@ -57,12 +59,19 @@ export default () => (
             node {
               frontmatter {
                 id
-                directions
-                href
-                ingredients
+                servings
                 notes
-                path
+                directions
+                ingredients
+                rating
+                ease
+                category
+                href
+                totalTime
+                cookTime
+                prepTime
                 title
+                path
               }
             }
           }
