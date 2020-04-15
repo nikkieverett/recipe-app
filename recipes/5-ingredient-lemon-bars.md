@@ -1,8 +1,17 @@
 ---
-id: 5d432b08a7c9440014f6ffa7
-servings:
-notes: very tart!
-directions:  >-
+title: 5 ingredient lemon bars
+ingredients: |-
+  shortbread crust ingredients
+  * 1 1/2 cups all-purpose flour
+  * 3/4 cup cold butter diced
+  * 1/4 cup powdered sugar
+  * zest of 1 lemon
+  * lemon filling ingredients
+  * 4 large eggs
+  * 1 cup powdered sugar
+  * 1/2 cup freshly-squeezed lemon juice
+  * 2 tablespoons all-purpose flour
+directions: >-
   1. preheat oven to 350°f.
 
   2. line an 8 x 8-inch baking pan with parchment paper; set aside.
@@ -32,26 +41,20 @@ directions:  >-
   15. then transfer to the refrigerator and let the bars chill for at least 2 hours.
 
   16. sprinkle the tops of the bars with extra powdered sugar if you would like, then slice and serve!
-ingredients: |-
-  shortbread crust ingredients
-  * 1 1/2 cups all-purpose flour
-  * 3/4 cup cold butter diced
-  * 1/4 cup powdered sugar
-  * zest of 1 lemon
-  * lemon filling ingredients
-  * 4 large eggs
-  * 1 cup powdered sugar
-  * 1/2 cup freshly-squeezed lemon juice
-  * 2 tablespoons all-purpose flour
-rating: 4
+# Please select one or more categories
+category: dessert
+# Example: 45 mins
+cookTime: 40 minutes
+# Example: 1hr
+prepTime: 15 minute
+# Example: 1hr 45 mins
+totalTime: 55 minutes
+servings: null
 ease:
   - easy
-category:
-  - dessert
-href: 'https: //www.gimmesomeoven.com/lemon-bars/'
-totalTime: 55 minutes
-cookTime: 40 minutes
-prepTime: 15 minute
-title: 5 ingredient lemon bars
+notes: very tart!
 path: /5-ingredient-lemon-bars
+href: "https: //www.gimmesomeoven.com/lemon-bars/"
+id: 5d432b08a7c9440014f6ffa7
+rating: 4
 ---
