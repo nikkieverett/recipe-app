@@ -42,8 +42,7 @@ prepTime: 15 minutes
 # Example: 1hr 45 mins
 totalTime: null
 servings: null
-ease:
-  - easy
+ease: easy
 notes: null
 path: /almond-amaretto-pound-cake
 href: https://www.dixiecrystals.com/recipes/desserts/cakes/almond-amaretto-poundcake

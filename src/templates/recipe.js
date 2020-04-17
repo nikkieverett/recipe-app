@@ -1,13 +1,12 @@
 import React from "react"
 import ReactMarkdown from "react-markdown"
 import { graphql } from "gatsby"
+import Header from '../components/layout/Header'
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter } = markdownRemark
-
-  console.log(frontmatter)
 
   return (
     <div className="blog-post-container">
@@ -42,7 +41,14 @@ export const pageQuery = graphql`
         rating
         servings
         category
+        subcategory
+        ease
+        thumbnail
         href
+        notes
+        totalTime
+        prepTime
+        cookTime
       }
     }
   }

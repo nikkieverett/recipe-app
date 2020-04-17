@@ -50,8 +50,7 @@ prepTime: 15 minute
 # Example: 1hr 45 mins
 totalTime: 55 minutes
 servings: null
-ease:
-  - easy
+ease: easy
 notes: very tart!
 path: /5-ingredient-lemon-bars
 href: "https: //www.gimmesomeoven.com/lemon-bars/"

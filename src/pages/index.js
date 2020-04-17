@@ -1,37 +1,38 @@
 import React from "react"
+
+// MUI Core
 import Typography from "@material-ui/core/Typography"
-import CssBaseline from "@material-ui/core/CssBaseline"
-import RecipeList from "../components/RecipeList"
 import { makeStyles } from "@material-ui/core/styles"
 
-import NavigationDrawer from '../components/NavigationDrawer'
+// Custom Components
+import RecipeList from "../components/RecipeList"
+import Header from '../components/layout/Header'
+import NavigationDrawer from '../components/layout/NavigationDrawer'
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles(theme => ({
   root: {
-    display: 'flex',
+    display: "flex",
   },
   content: {
     flexGrow: 1,
-    backgroundColor: theme.palette.background.default,
     padding: theme.spacing(3),
   },
 }))
 
-const RecipeIndexPage = () => {
-
-  const classes = useStyles()
+const App = () => {
+  const classes = useStyles();
+  const [mobileOpen, setMobileOpen] = React.useState(false)
 
   return (
-
-    <React.Fragment>
-      <CssBaseline />
-      <div className={classes.root}>
-        <NavigationDrawer />
-        <div className={classes.content}>
-          <Typography variant="h3">All Recipes</Typography>
-          <RecipeList />
-        </div>
+    <div className={classes.root}>
+      <Header mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
+      <NavigationDrawer mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
+      <div className={classes.content}>
+        <Typography variant="h3">All Recipes</Typography>
+        <RecipeList />
       </div>
-    </React.Fragment>
+    </div>
   )
 }
+
+export default App

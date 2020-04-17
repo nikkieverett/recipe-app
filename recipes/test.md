@@ -3,13 +3,11 @@ title: Test
 slug: test
 servings: 2
 rating: 2
-ease:
-  - difficult
+ease: difficult
 totalTime: 1 hr
 cookTime: 30 mins
 prepTime: 30 mins
-category:
-  - condiment
+category: condiment
 ingredients: |-
   * 1 1/2 cups all-purpose flour
   * 1 tablespoon white sugar

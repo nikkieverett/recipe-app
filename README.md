@@ -99,3 +99,5 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 <!-- AUTO-GENERATED-CONTENT:END -->
 [Used this blog post for starting site](https://developer.okta.com/blog/2020/02/18/gatsby-react-netlify)
 [Added this dependency for rendering markdown](https://github.com/rexxars/react-markdown)
+[See notes on adding server side rendering for MUI](https://github.com/mui-org/material-ui/blob/fe687bf2a13c3cb158547edc5494b23029b59b0b/examples/gatsby/plugins/gatsby-plugin-top-layout/TopLayout.js)
+[Theme tool used for generating color schemes](https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=db7266&secondary.color=86C1BD)
