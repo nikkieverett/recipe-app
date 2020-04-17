@@ -19,8 +19,17 @@ collections:
           label: 'Category',
           name: 'category',
           widget: 'select',
-          options: ['breakfast', 'main course', 'side dish', 'dessert', 'drink', 'salad', 'condiment'],
-          multiple: true,
+          options: ['breakfast', 'main course', 'side dish', 'dessert', 'beverage', 'salad', 'condiment'],
+          multiple: false,
+          comment: 'Please select one or more categories'
+        }
+      - {
+          label: 'Subcategory',
+          name: 'subcategory',
+          widget: 'select',
+          required: false,
+          options: ['all in one casserole', 'crockpot', 'sandwich', 'soup/stew', 'beans', 'pasta', 'potato', 'rice', 'vegetable', 'fruit', 'bread/cracker', 'cake/cupcake', 'cookie', 'candy', 'cheesecake', 'pie', 'pudding', 'ice cream', 'misc', 'egg', 'pancake/waffle', 'cheese', 'dip', 'meat', 'nuts/popcorn'],
+          multiple: false,
           comment: 'Please select one or more categories'
         }
       - { name: cookTime, label: Cook Time, required: false, widget: "string", comment: 'Example: 45 mins' }
@@ -29,4 +38,13 @@ collections:
       - { name: servings, label: Number of Servings, widget: number, required: false }
       - { name: rating, label: Rating, widget: number, required: false, max: 5, min: 1 }
       - { name: ease, label: Difficulty, widget: select, options: ['easy', 'intermediate', 'difficult'], required: false }
+      - { name: nutritionFacts, label: Nutrition Facts, widget: markdown, required: false }
       - { name: notes, label: Notes, widget: markdown, required: false }
+      - { name: "hasBeenTested", label: "Recipe has been tested", widget: "boolean", default: false, required: false }
+      - {
+        label: "Featured Image",
+        name: "thumbnail",
+        widget: "image",
+        allow_multiple: false,
+        required: false
+      }

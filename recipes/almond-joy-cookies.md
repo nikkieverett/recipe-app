@@ -18,10 +18,8 @@ ingredients: |-
   * 2/3 cup chopped lightly salted almonds
   * 1 14 oz can sweetened condensed milk
 rating: 4
-ease:
-  - easy
-category:
-  - dessert
+ease: easy
+category: dessert
 href: 'https://getinmybelly.com/almond-joy-cookies/'
 totalTime: 30 min
 cookTime: 12-14 min

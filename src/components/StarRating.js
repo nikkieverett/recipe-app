@@ -14,9 +14,9 @@ export default class StarRating extends React.Component {
 		const { rating } = this.props
 		for (let i = 0; i < 5; i++) {
 			if (rating >= i) {
-				stars.unshift(<Star color="primary" key={i} />)
+				stars.unshift(<Star color="secondary" key={i} />)
 			} else {
-				stars.push(<StarBorder color="primary" key={i} />)
+				stars.push(<StarBorder color="secondary" key={i} />)
 			}
 		}
 		return stars
