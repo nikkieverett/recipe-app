@@ -1,32 +1,33 @@
+import PropTypes from 'prop-types'
 import React from 'react'
-import Star from "@material-ui/icons/Star"
-import StarBorder from "@material-ui/icons/StarBorder"
+import Star from '@material-ui/icons/Star'
+import StarBorder from '@material-ui/icons/StarBorder'
 
 export default class StarRating extends React.Component {
-	constructor(props) {
-		super(props)
+  constructor(props) {
+    super(props)
 
-		this.generateStars = this.generateStars.bind(this)
-	}
+    this.generateStars = this.generateStars.bind(this)
+  }
 
   generateStars() {
-		let stars = []
-		const { rating } = this.props
-		for (let i = 0; i < 5; i++) {
-			if (rating >= i) {
-				stars.unshift(<Star color="secondary" key={i} />)
-			} else {
-				stars.push(<StarBorder color="secondary" key={i} />)
-			}
-		}
-		return stars
-	}
+    const stars = []
+    const { rating } = this.props
+    for (let i = 0; i < 5; i += 1) {
+      if (rating >= i) {
+        stars.unshift(<Star color="secondary" key={i} />)
+      } else {
+        stars.push(<StarBorder color="secondary" key={i} />)
+      }
+    }
+    return stars
+  }
 
-	render () {
-		return (
-      <div >
-        {this.generateStars()}
-      </div>
-    )
-	}
+  render() {
+    return <div>{this.generateStars()}</div>
+  }
+}
+
+StarRating.propTypes = {
+  rating: PropTypes.any
 }
