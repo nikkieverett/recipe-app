@@ -1,26 +1,16 @@
-import React from "react"
-
-// MUI Core
-import Typography from "@material-ui/core/Typography"
-import { makeStyles } from "@material-ui/core/styles"
+/* eslint-disable import/no-named-as-default */
+import React from 'react'
 
 // Custom Components
-import RecipeList from "../components/RecipeList"
-import Header from '../components/layout/Header'
-import NavigationDrawer from '../components/layout/NavigationDrawer'
+import RecipeList from '../components/RecipeList'
+import Header from '../components/layout/header/Header'
+import NavigationDrawer from '../components/layout/navigation/NavigationDrawer'
 
-const useStyles = makeStyles(theme => ({
-  root: {
-    display: "flex",
-  },
-  content: {
-    flexGrow: 1,
-    padding: theme.spacing(3),
-  },
-}))
+// Styles
+import appStyles from './App.styles'
 
 const App = () => {
-  const classes = useStyles();
+  const classes = appStyles()
   const [mobileOpen, setMobileOpen] = React.useState(false)
 
   return (
@@ -28,7 +18,6 @@ const App = () => {
       <Header mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
       <NavigationDrawer mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
       <div className={classes.content}>
-        <Typography variant="h3">All Recipes</Typography>
         <RecipeList />
       </div>
     </div>

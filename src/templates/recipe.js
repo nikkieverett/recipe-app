@@ -1,11 +1,11 @@
-import React from "react"
-import ReactMarkdown from "react-markdown"
-import { graphql } from "gatsby"
-import Header from '../components/layout/Header'
-export default function Template({
-  data, // this prop will be injected by the GraphQL query below.
-}) {
-  const { markdownRemark } = data // data.markdownRemark holds your post data
+import PropTypes from 'prop-types'
+import React from 'react'
+import ReactMarkdown from 'react-markdown'
+import { graphql } from 'gatsby'
+
+// this prop will be injected by the GraphQL query below.
+export default function Template({ data }) {
+  const { markdownRemark } = data
   const { frontmatter } = markdownRemark
 
   return (
@@ -29,6 +29,11 @@ export default function Template({
     </div>
   )
 }
+
+Template.propTypes = {
+  data: PropTypes.any
+}
+
 export const pageQuery = graphql`
   query($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {

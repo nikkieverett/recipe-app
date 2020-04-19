@@ -1,20 +1,23 @@
-import React from "react"
-import PropTypes from "prop-types"
-import { Link, graphql, StaticQuery } from "gatsby"
+import React from 'react'
+import PropTypes from 'prop-types'
+
+// MUI Components
+import Grid from '@material-ui/core/Grid'
+
+// Components
 import RecipeCard from './RecipeCard'
-import Grid from "@material-ui/core/Grid"
-import { makeStyles, useTheme } from "@material-ui/core/styles"
 
-const useStyles = makeStyles(theme => ({
-  content: {
-    paddingTop: 75
-  }
-}))
+// Styles
+import recipeCardStyles from './RecipeCard.styles'
 
-export const RecipeList = props => {
-  const { data, histroy } = props
+// Queries
+import getAllRecipes from '../queries/getAllRecipes'
+
+const RecipeList = () => {
+  // TODO: set recipe data to state with redux or context api
+  const data = getAllRecipes()
   const { edges: recipes } = data.allMarkdownRemark
-  const classes = useStyles()
+  const classes = recipeCardStyles()
 
   return (
     <div className={classes.content}>
@@ -22,14 +25,7 @@ export const RecipeList = props => {
         {recipes &&
           recipes.map(({ node: recipe }) => (
             <Grid item key={recipe.frontmatter.path}>
-              <RecipeCard
-                title={recipe.frontmatter.title}
-                category={recipe.frontmatter.category}
-                rating={recipe.frontmatter.rating}
-                totalTime={recipe.frontmatter.totalTime}
-                ease={recipe.frontmatter.ease}
-                path={recipe.frontmatter.path}
-              />
+              <RecipeCard title={recipe.frontmatter.title} category={recipe.frontmatter.category} rating={recipe.frontmatter.rating} totalTime={recipe.frontmatter.totalTime} ease={recipe.frontmatter.ease} path={recipe.frontmatter.path} />
             </Grid>
           ))}
       </Grid>
@@ -40,39 +36,9 @@ export const RecipeList = props => {
 RecipeList.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  }),
+      edges: PropTypes.array
+    })
+  })
 }
 
-export default () => (
-  <StaticQuery
-    query={graphql`
-      {
-        allMarkdownRemark {
-          edges {
-            node {
-              frontmatter {
-                id
-                servings
-                notes
-                directions
-                ingredients
-                rating
-                ease
-                category
-                href
-                totalTime
-                cookTime
-                prepTime
-                title
-                path
-              }
-            }
-          }
-        }
-      }
-    `}
-    render={(data, count) => <RecipeList data={data} count={count} />}
-  />
-)
+export default RecipeList
