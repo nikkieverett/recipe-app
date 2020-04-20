@@ -2,6 +2,7 @@
 import React from 'react'
 import { createStore } from 'redux'
 import { Provider } from 'react-redux'
+import { makeStyles } from '@material-ui/core/styles'
 
 // Custom Components
 import RecipeList from '../components/RecipeList'
@@ -12,10 +13,16 @@ import NavigationDrawer from '../components/layout/navigation/NavigationDrawer'
 import reducer from '../store/reducer'
 import actions from '../store/actions'
 
-// Styles
-import appStyles from './App.styles'
-
 const store = createStore(reducer)
+
+const appStyles = makeStyles(() => ({
+  root: {
+    display: 'flex'
+  },
+  content: {
+    flexGrow: 1
+  }
+}))
 
 const App = () => {
   const classes = appStyles()
