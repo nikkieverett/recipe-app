@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { useStore } from 'react-redux'
 
 // MUI Components
 import Grid from '@material-ui/core/Grid'
@@ -10,13 +11,8 @@ import RecipeCard from './RecipeCard'
 // Styles
 import recipeCardStyles from './RecipeCard.styles'
 
-// Queries
-import getAllRecipes from '../queries/getAllRecipes'
-
 const RecipeList = () => {
-  // TODO: set recipe data to state with redux or context api
-  const data = getAllRecipes()
-  const { edges: recipes } = data.allMarkdownRemark
+  const recipes = useStore().getState().allRecipes
   const classes = recipeCardStyles()
 
   return (
