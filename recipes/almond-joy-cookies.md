@@ -20,6 +20,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: dessert
+subcategory: cookie
 href: 'https://getinmybelly.com/almond-joy-cookies/'
 totalTime: 30 min
 cookTime: 12-14 min

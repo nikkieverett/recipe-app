@@ -33,8 +33,7 @@ directions: >-
   *amaretto sauce* 1. combine the butter brown sugar and granulated sugar in a small saucepan. 2. heat over medium heat stirring often until smooth. 3. add the cream and amaretto and bring to a simmer. 4. simmer for 5 minutes stirring often. 5. remove from heat and let cool for 10 minutes. 6. serve pound cake warm drizzled with amaretto sauce.
 # Please select one or more categories
 category: dessert
-# Please select one or more categories
-subcategory: cake/cupcake
+subcategory: cake
 # Example: 45 mins
 cookTime: 1 hour
 # Example: 1hr
