@@ -12,15 +12,19 @@ import tabStyles from './Tabs.styles'
 
 // Data
 import data from '../../../data/categories.json'
+import { sortBySubCategory } from '../../../store/actions'
 
-const TabDrawer = ({ category }) => {
+const TabDrawer = ({ category, dispatch }) => {
   const classes = tabStyles()
   const subcategories = data[category]
-  const [subcategory, setSubcategory] = React.useState(0)
+  const [value, setValue] = React.useState(0)
 
   const handleChange = (event, newValue) => {
-    setSubcategory(newValue)
+    const newSubCategory = event.target.innerText.toLowerCase()
+    dispatch(sortBySubCategory(newSubCategory))
+    setValue(newValue)
   }
+
   if (!subcategories) {
     return ''
   }
@@ -28,9 +32,9 @@ const TabDrawer = ({ category }) => {
   return (
     <div className={classes.root}>
       <AppBar position="static">
-        <Tabs value={subcategory} onChange={handleChange} aria-label="simple tabs example">
-          {subcategories.map(subcategory => (
-            <Tab label={subcategory} id={`simple-tab-${subcategory}`} aria-controls={`simple-tabpanel-${subcategory}`} />
+        <Tabs value={value} onChange={handleChange} aria-label="simple tabs example">
+          {subcategories.map((subcategory, index) => (
+            <Tab key={subcategory} label={subcategory} id={`simple-tab-${index}`} aria-controls={`simple-tabpanel-${index}`} />
           ))}
         </Tabs>
       </AppBar>
@@ -39,12 +43,14 @@ const TabDrawer = ({ category }) => {
 }
 
 TabDrawer.propTypes = {
-  category: PropTypes.any
+  category: PropTypes.any,
+  dispatch: PropTypes.func
 }
 
 function mapStateToProps(state) {
   return {
-    category: state.category
+    category: state.category,
+    subcategory: state.subcategory
   }
 }
 

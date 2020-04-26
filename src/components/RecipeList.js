@@ -29,9 +29,7 @@ const RecipeList = ({ recipes }) => {
 }
 
 RecipeList.propTypes = {
-  recipes: PropTypes.shape({
-    map: PropTypes.func
-  })
+  recipes: PropTypes.array
 }
 
 function mapStateToProps(state) {

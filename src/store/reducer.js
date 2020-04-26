@@ -39,7 +39,6 @@ const reducer = (state = initialState, action) => {
 
     case constants.SORT_BY_CATEGORY: {
       const catFiltered = state.allRecipes.filter(recipe => {
-        console.log(recipe.node.frontmatter)
         return recipe.node.frontmatter.category === action.category
       })
 
@@ -62,20 +61,17 @@ const reducer = (state = initialState, action) => {
 
       if (state.filteredRecipes.length) {
         subcategoryFiltered = state.filteredRecipes.filter(recipe => {
-          return recipe.title.includes(action.subcategory)
+          return recipe.node.frontmatter.subcategory === action.subcategory
         })
       }
 
       if (subcategoryFiltered.length === 0) {
-        // TODO: add toaster for this
-
         alert('No matches found')
         return state
       }
 
       return {
         ...state,
-        category: action.category,
         subcategory: action.subcategory,
         filteredRecipes: subcategoryFiltered
       }

@@ -43,6 +43,7 @@ directions: >-
   16. sprinkle the tops of the bars with extra powdered sugar if you would like, then slice and serve!
 # Please select one or more categories
 category: dessert
+subcategory: cake
 # Example: 45 mins
 cookTime: 40 minutes
 # Example: 1hr

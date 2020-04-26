@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types'
 import React from 'react'
+import { connect } from 'react-redux'
 
 // MUI Components
 import AppBar from '@material-ui/core/AppBar'
@@ -14,14 +15,13 @@ import Tabs from './Tabs'
 // Styles
 import headerStyles from './Header.styles'
 
-const Header = ({ setMobileOpen, mobileOpen }) => {
+const Header = ({ setMobileOpen, mobileOpen, category, subcategory }) => {
   const classes = headerStyles()
 
   const handleDrawerToggle = () => {
     setMobileOpen(!mobileOpen)
   }
 
-  // TODO: change title based on current category
   return (
     <AppBar position="fixed" className={classes.appBar}>
       <Toolbar>
@@ -29,7 +29,8 @@ const Header = ({ setMobileOpen, mobileOpen }) => {
           <MenuIcon />
         </IconButton>
         <Typography variant="h6" noWrap>
-          All Recipes
+          {category || 'All Recipes'}
+          {subcategory ? ` | ${subcategory}` : ''}
         </Typography>
       </Toolbar>
       <Tabs />
@@ -38,8 +39,17 @@ const Header = ({ setMobileOpen, mobileOpen }) => {
 }
 
 Header.propTypes = {
+  category: PropTypes.string,
   mobileOpen: PropTypes.any,
-  setMobileOpen: PropTypes.func
+  setMobileOpen: PropTypes.func,
+  subcategory: PropTypes.any
 }
 
-export default Header
+function mapStateToProps(state) {
+  return {
+    category: state.category,
+    subcategory: state.subcategory
+  }
+}
+
+export default connect(mapStateToProps)(Header)
