@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { useStore } from 'react-redux'
+import { connect } from 'react-redux'
 
 // MUI Components
 import Grid from '@material-ui/core/Grid'
@@ -11,8 +11,7 @@ import RecipeCard from './RecipeCard'
 // Styles
 import recipeCardStyles from './RecipeCard.styles'
 
-const RecipeList = () => {
-  const recipes = useStore().getState().allRecipes
+const RecipeList = ({ recipes }) => {
   const classes = recipeCardStyles()
 
   return (
@@ -30,11 +29,15 @@ const RecipeList = () => {
 }
 
 RecipeList.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array
-    })
+  recipes: PropTypes.shape({
+    map: PropTypes.func
   })
 }
 
-export default RecipeList
+function mapStateToProps(state) {
+  return {
+    recipes: state.filteredRecipes
+  }
+}
+
+export default connect(mapStateToProps)(RecipeList)

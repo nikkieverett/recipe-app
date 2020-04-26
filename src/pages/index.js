@@ -27,8 +27,12 @@ const appStyles = makeStyles(() => ({
 const App = () => {
   const classes = appStyles()
   const [mobileOpen, setMobileOpen] = React.useState(false)
+  let recipesFetched = false
 
-  store.dispatch(actions.FETCH_ALL_RECIPES)
+  if (!recipesFetched) {
+    store.dispatch(actions.FETCH_ALL_RECIPES)
+    recipesFetched = true
+  }
 
   return (
     <Provider store={store}>
