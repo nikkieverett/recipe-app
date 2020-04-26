@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { connect } from 'react-redux'
 
 // MUI Components
 import Drawer from '@material-ui/core/Drawer'
@@ -12,9 +13,13 @@ import Divider from '@material-ui/core/Divider'
 // Styles
 import navigationStyles from './Navigation.styles'
 
-const NaviationDrawer = ({ setMobileOpen, mobileOpen, container }) => {
+// Data
+import data from '../../../data/categories.json'
+import actions, { sortByCategory } from '../../../store/actions'
+
+const NaviationDrawer = ({ setMobileOpen, mobileOpen, container, dispatch }) => {
   const classes = navigationStyles()
-  const categories = ['Inbox', 'Starred', 'Send email', 'Drafts']
+  const categories = Object.keys(data)
 
   const handleDrawerToggle = () => {
     setMobileOpen(!mobileOpen)
@@ -25,8 +30,11 @@ const NaviationDrawer = ({ setMobileOpen, mobileOpen, container }) => {
       <div className={classes.toolbar} />
       <Divider />
       <List>
+        <ListItem button key="all" onClick={() => dispatch(actions.REMOVE_FILTERED_RECIPES)}>
+          <ListItemText primary="all recipes" />
+        </ListItem>
         {categories.map(text => (
-          <ListItem button key={text}>
+          <ListItem button key={text} onClick={() => dispatch(sortByCategory(text))}>
             <ListItemText primary={text} />
           </ListItem>
         ))}
@@ -77,8 +85,9 @@ const NaviationDrawer = ({ setMobileOpen, mobileOpen, container }) => {
 
 NaviationDrawer.propTypes = {
   container: PropTypes.any,
+  dispatch: PropTypes.func,
   mobileOpen: PropTypes.any,
   setMobileOpen: PropTypes.func
 }
 
-export default NaviationDrawer
+export default connect()(NaviationDrawer)

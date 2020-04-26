@@ -1,0 +1,9 @@
+{
+	"main course": ["all in one casserole", "crockpot", "salad", "sandwich", "soup/stew"],
+	"side dish": ["beans", "pasta", "potato", "rice", "salad", "vegetable", "fruit"],
+	"dessert": ["bread", "cake", "cupcake", "cookie", "candy", "cheesecake", "pie", "pudding", "ice cream", "miscellaneous"],
+	"breakfast": ["bread", "egg", "pancake/waffle"],
+	"appetizer": ["bread/cracker", "cheese", "dip", "meat", "nuts", "popcorn", "sandwich", "vegetable"],
+	"beverage": [],
+	"condiments": []
+}

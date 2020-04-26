@@ -12,10 +12,11 @@ const initialState = {
 const reducer = (state = initialState, action) => {
   switch (action.type) {
     case constants.FETCH_ALL_RECIPES: {
-      console.log(getAllRecipes().allMarkdownRemark.edges)
+      const recipes = getAllRecipes().allMarkdownRemark.edges
       return {
         ...state,
-        allRecipes: getAllRecipes().allMarkdownRemark.edges
+        allRecipes: recipes,
+        filteredRecipes: recipes
       }
     }
 
@@ -38,7 +39,8 @@ const reducer = (state = initialState, action) => {
 
     case constants.SORT_BY_CATEGORY: {
       const catFiltered = state.allRecipes.filter(recipe => {
-        return recipe.category === action.category
+        console.log(recipe.node.frontmatter)
+        return recipe.node.frontmatter.category === action.category
       })
 
       if (catFiltered.length === 0) {
@@ -124,7 +126,7 @@ const reducer = (state = initialState, action) => {
       return {
         ...state,
         breadcrumbs: [],
-        filteredRecipes: [],
+        filteredRecipes: state.allRecipes,
         category: ''
       }
     }
