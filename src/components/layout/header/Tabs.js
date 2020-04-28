@@ -26,16 +26,24 @@ const TabDrawer = ({ category, dispatch }) => {
   }
 
   if (!subcategories) {
-    return ''
+    return (
+      <div className={classes.root}>
+        <AppBar position="static" />
+      </div>
+    )
   }
 
   return (
     <div className={classes.root}>
       <AppBar position="static">
-        <Tabs value={value} onChange={handleChange} aria-label="simple tabs example">
-          {subcategories.map((subcategory, index) => (
-            <Tab key={subcategory} label={subcategory} id={`simple-tab-${index}`} aria-controls={`simple-tabpanel-${index}`} />
-          ))}
+        <Tabs value={value} onChange={handleChange} indicatorColor="secondary" textColor="contrastText" variant="scrollable" scrollButtons="auto">
+          <Tab key="All" label="all" id="simple-tab-0" aria-controls="simple-tabpanel-0" />
+          {subcategories.map((subcategory, index) => {
+            // eslint-disable-next-line no-param-reassign
+            index += 1
+
+            return <Tab key={subcategory} label={subcategory} id={`simple-tab-${index}`} aria-controls={`simple-tabpanel-${index}`} />
+          })}
         </Tabs>
       </AppBar>
     </div>

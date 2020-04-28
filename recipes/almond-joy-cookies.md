@@ -1,17 +1,24 @@
 ---
-id: 593044f844e3ce00113dfb6a
 servings:
 notes:
 directions: >-
-  1. preheat the oven to 325°f
-  2. line a large baking sheet with parchment paper and set aside
-  3. in a large bowl combine coconut, chocolate chips, almonds, and sweetened condensed milk
-  4. stir until combined
-  5. scoop out dough with a cookie scoop onto prepared bakinsheet
-  6. moisten the tips of your fingers with water and shape into discs
-  7. pat the tops flat
-  8. bake cookies for 12 to 14 minutes or until tips of coconut are just starting to turn golden brown
-  9. let cool on baking sheet
+  1. Preheat the oven to 325°f
+
+  2. Line a large baking sheet with parchment paper and set aside
+
+  3. In a large bowl combine coconut, chocolate chips, almonds, and sweetened condensed milk
+
+  4. Stir until combined
+
+  5. Scoop out dough with a cookie scoop onto prepared bakinsheet
+
+  6. Moisten the tips of your fingers with water and shape into discs
+
+  7. Pat the tops flat
+
+  8. Bake cookies for 12 to 14 minutes or until tips of coconut are just starting to turn golden brown
+
+  9. Let cool on baking sheet
 ingredients: |-
   * 1 14oz bag sweetened coconut flakes
   * 2 cups semi-sweet chocolate chips
