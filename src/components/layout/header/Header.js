@@ -28,7 +28,7 @@ const Header = ({ setMobileOpen, mobileOpen, category, subcategory }) => {
         <IconButton color="inherit" aria-label="open drawer" edge="start" onClick={handleDrawerToggle} className={classes.menuButton}>
           <MenuIcon />
         </IconButton>
-        <Typography variant="h6" noWrap>
+        <Typography variant="h6" noWrap className={classes.header}>
           {category || 'All Recipes'}
           {subcategory ? ` | ${subcategory}` : ''}
         </Typography>

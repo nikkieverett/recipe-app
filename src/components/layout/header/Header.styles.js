@@ -9,6 +9,9 @@ const headerStyles = makeStyles(theme => ({
       marginLeft: 240
     }
   },
+  header: {
+    textTransform: 'capitalize'
+  },
   menuButton: {
     marginRight: theme.spacing(2),
     [theme.breakpoints.up('sm')]: {

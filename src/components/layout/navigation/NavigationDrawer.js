@@ -25,6 +25,12 @@ const NaviationDrawer = ({ setMobileOpen, mobileOpen, container, dispatch }) => 
     setMobileOpen(!mobileOpen)
   }
 
+  const handleAddNew = () => {
+    const URL = `${window.location.href}admin/#/collections/recipe/new`
+
+    window.open(URL, '_blank')
+  }
+
   const drawerContents = (
     <div>
       <div className={classes.toolbar} />
@@ -41,7 +47,7 @@ const NaviationDrawer = ({ setMobileOpen, mobileOpen, container, dispatch }) => 
       </List>
       <Divider />
       <List>
-        <ListItem button>
+        <ListItem button onClick={handleAddNew}>
           <ListItemText>Add new recipe</ListItemText>
         </ListItem>
       </List>

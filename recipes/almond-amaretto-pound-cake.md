@@ -20,29 +20,46 @@ ingredients: |-
   * 1/3 cup half & half
   * 3 tablespoons amaretto'
 directions: >-
-  1. preheat oven to 325°f. 2. grease a 10-inch bundt pan with baking spray or
-  butter and flour it. set aside. 3. in small bowl whisk together milk and
-  vinegar. set aside. 4. in a medium bowl whisk together flour baking soda and
-  salt. set aside. 5. in large bowl of stand mixer cream butter and sugar until
-  light and fluffy. 6. beat in eggs one at a time then stir in vanilla and
-  almond until well combined. 7. beat in flour mixture alternating with milk and
-  amaretto. 8. pour batter into prepared bundt pan. bake for 55 to 65 minutes
-  until center is set and a toothpick inserted comes out clean. 9. allow cake to
-  cool completely (in bundt pan) before inverting onto cake plate.
+  1. Preheat oven to 325°f
 
-  *amaretto sauce* 1. combine the butter brown sugar and granulated sugar in a small saucepan. 2. heat over medium heat stirring often until smooth. 3. add the cream and amaretto and bring to a simmer. 4. simmer for 5 minutes stirring often. 5. remove from heat and let cool for 10 minutes. 6. serve pound cake warm drizzled with amaretto sauce.
-# Please select one or more categories
+  2. Grease a 10-inch bundt pan with baking spray or butter and flour it and set aside
+
+  3. In small bowl whisk together milk and vinegar and set aside
+
+  4. In a medium bowl whisk together flour baking soda and salt and set aside
+
+  5. In large bowl of stand mixer cream butter and sugar until light and fluffy
+
+  6. Beat in eggs one at a time then stir in vanilla and almond until well combined
+
+  7. Beat in flour mixture alternating with milk and amaretto
+
+  8. Pour batter into prepared bundt pan
+
+  9. Bake for 55 to 65 minutes until center is set and a toothpick inserted comes out clean
+
+  10. Allow cake to cool completely (in bundt pan) before inverting onto cake plate
+
+  *amaretto sauce*
+  1. Combine the butter brown sugar and granulated sugar in a small saucepan
+
+  2. Heat over medium heat stirring often until smooth
+
+  3. Add the cream and amaretto and bring to a simmer
+
+  4. Simmer for 5 minutes stirring often
+
+  5. Remove from heat and let cool for 10 minutes
+
+  6. Serve pound cake warm drizzled with amaretto sauce
 category: dessert
 subcategory: cake
-# Example: 45 mins
-cookTime: 1 hour
-# Example: 1hr
+cookTime: 1 hr
 prepTime: 15 minutes
-# Example: 1hr 45 mins
-totalTime: null
-servings: null
+totalTime: 1hr 15 minutes
+servings:
 ease: easy
-notes: null
+notes:
 path: /almond-amaretto-pound-cake
 href: https://www.dixiecrystals.com/recipes/desserts/cakes/almond-amaretto-poundcake
 id: 5b82b6d72f73ba00148d7882

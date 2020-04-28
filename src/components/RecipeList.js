@@ -9,17 +9,17 @@ import Grid from '@material-ui/core/Grid'
 import RecipeCard from './RecipeCard'
 
 // Styles
-import recipeCardStyles from './RecipeCard.styles'
+import recipeListStyles from './RecipeList.styles'
 
 const RecipeList = ({ recipes }) => {
-  const classes = recipeCardStyles()
+  const classes = recipeListStyles()
 
   return (
     <div className={classes.content}>
       <Grid container spacing={2}>
         {recipes &&
           recipes.map(({ node: recipe }) => (
-            <Grid item key={recipe.frontmatter.path}>
+            <Grid item key={recipe.frontmatter.path} className={classes.item}>
               <RecipeCard title={recipe.frontmatter.title} category={recipe.frontmatter.category} rating={recipe.frontmatter.rating} totalTime={recipe.frontmatter.totalTime} ease={recipe.frontmatter.ease} path={recipe.frontmatter.path} />
             </Grid>
           ))}

@@ -2,13 +2,15 @@ import { makeStyles } from '@material-ui/core/styles'
 
 const navigationStyles = makeStyles(theme => ({
   drawer: {
+    textTransform: 'capitalize',
     [theme.breakpoints.up('sm')]: {
       width: 240,
       flexShrink: 0
     }
   },
-  // necessary for content to be below app bar
-  toolbar: theme.mixins.toolbar,
+  toolbar: {
+    height: 200
+  },
   drawerPaper: {
     width: 240
   }

@@ -5,5 +5,5 @@
 	"breakfast": ["bread", "egg", "pancake/waffle"],
 	"appetizer": ["bread/cracker", "cheese", "dip", "meat", "nuts", "popcorn", "sandwich", "vegetable"],
 	"beverage": [],
-	"condiments": []
+	"condiment": []
 }
