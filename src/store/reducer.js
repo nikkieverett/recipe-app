@@ -13,20 +13,11 @@ const reducer = (state = initialState, action) => {
   switch (action.type) {
     case constants.FETCH_ALL_RECIPES: {
       const recipes = getAllRecipes().allMarkdownRemark.edges
+
       return {
         ...state,
         allRecipes: recipes,
         filteredRecipes: recipes
-      }
-    }
-
-    case constants.LOAD_ALL_RECIPES: {
-      return {
-        ...state,
-        category: '',
-        subcategory: '',
-        queryInput: '',
-        filteredRecipes: []
       }
     }
 

@@ -8,7 +8,7 @@ notes: |-
   * 57mg sodium
   * 65g carbohydrate (39g sugars, 6g fiber)
   * 3g protein
-directions: >-
+directions: |-
   1. Place sweet potatoes in a 4-qt. slow cooker.
   2. In a small bowl mix applesauce, brown sugar
   melted butter and cinnamon

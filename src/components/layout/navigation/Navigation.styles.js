@@ -12,7 +12,12 @@ const navigationStyles = makeStyles(theme => ({
     height: 200
   },
   drawerPaper: {
-    width: 240
+    width: 240,
+    paddingTop: 120
+  },
+  recipeCardDrawer: {
+    width: 240,
+    paddingTop: 68
   }
 }))
 
