@@ -33,8 +33,6 @@ const NaviationDrawer = ({ setMobileOpen, mobileOpen, container, dispatch }) => 
 
   const drawerContents = (
     <div>
-      <div className={classes.toolbar} />
-      <Divider />
       <List>
         <ListItem button key="all" onClick={() => dispatch(actions.REMOVE_FILTERED_RECIPES)}>
           <ListItemText primary="all recipes" />
