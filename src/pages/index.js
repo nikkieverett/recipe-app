@@ -6,8 +6,8 @@ import { makeStyles } from '@material-ui/core/styles'
 
 // Custom Components
 import RecipeList from '../components/RecipeList'
-import Header from '../components/layout/header/Header'
-import NavigationDrawer from '../components/layout/navigation/NavigationDrawer'
+import RecipeListHeader from '../components/layout/header/RecipeListHeader'
+import RecipeListNavigationDrawer from '../components/layout/navigation/RecipeListNavigationDrawer'
 
 // Store
 import reducer from '../store/reducer'
@@ -37,8 +37,8 @@ const App = () => {
   return (
     <Provider store={store}>
       <div className={classes.root}>
-        <Header mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
-        <NavigationDrawer mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
+        <RecipeListHeader mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
+        <RecipeListNavigationDrawer mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
         <div className={classes.content}>
           <RecipeList />
         </div>

@@ -36,7 +36,7 @@ const TabDrawer = ({ category, dispatch }) => {
   return (
     <div className={classes.root}>
       <AppBar position="static">
-        <Tabs value={value} onChange={handleChange} indicatorColor="secondary" textColor="contrastText" variant="scrollable" scrollButtons="auto">
+        <Tabs value={value} onChange={handleChange} indicatorColor="secondary" variant="scrollable" scrollButtons="auto">
           <Tab key="All" label="all" id="simple-tab-0" aria-controls="simple-tabpanel-0" />
           {subcategories.map((subcategory, index) => {
             // eslint-disable-next-line no-param-reassign
