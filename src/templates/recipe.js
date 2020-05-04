@@ -12,6 +12,8 @@ import FitnessCenterIcon from '@material-ui/icons/FitnessCenter'
 import RestaurantIcon from '@material-ui/icons/Restaurant'
 import LinkIcon from '@material-ui/icons/Link'
 import StarIcon from '@material-ui/icons/Star'
+import AccessTimeIcon from '@material-ui/icons/AccessTime'
+import Divider from '@material-ui/core/Divider'
 
 import RecipeCardHeader from '../components/layout/header/RecipeCardHeader'
 import RecipeCardNavigation from '../components/layout/navigation/RecipeCardNavigation'
@@ -25,7 +27,10 @@ const recipeStyles = makeStyles(theme => ({
   },
   card: {
     margin: '80px 40px 40px',
-    padding: 20
+    padding: 20,
+    [theme.breakpoints.down('xs')]: {
+      margin: '60px 10px 10px'
+    }
   },
   cardHeader: {
     backgroundColor: theme.palette.primary.main,
@@ -35,11 +40,8 @@ const recipeStyles = makeStyles(theme => ({
   cardHeaderItem: {
     position: 'relative',
     marginRight: 20,
-    paddingLeft: 25
-  },
-  cardHeaderItemNoIcon: {
-    // marginRight: 25,
-    padding: '15px 15px 15px 0'
+    paddingLeft: 25,
+    marginBottom: 15
   },
   cardHeaderLink: {
     position: 'relative',
@@ -49,7 +51,8 @@ const recipeStyles = makeStyles(theme => ({
   },
   cardHeaderIcon: {
     position: 'absolute',
-    left: 0
+    left: 0,
+    color: theme.palette.primary.dark
   }
 }))
 
@@ -102,14 +105,29 @@ export default function Template({ data }) {
               </Grid>
             </Grid>
             <Grid container>
-              <Grid item className={classes.cardHeaderItemNoIcon}>
-                {frontmatter.totalTime && <span>Total Time: {frontmatter.totalTime}</span>}
+              <Grid item className={classes.cardHeaderItem}>
+                {frontmatter.totalTime && (
+                  <span>
+                    <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
+                    Total: {frontmatter.totalTime}
+                  </span>
+                )}
               </Grid>
-              <Grid item className={classes.cardHeaderItemNoIcon}>
-                {frontmatter.cookTime && <span>Cook Time: {frontmatter.cookTim}</span>}
+              <Grid item className={classes.cardHeaderItem}>
+                {frontmatter.cookTime && (
+                  <span>
+                    <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
+                    Cook: {frontmatter.cookTime}
+                  </span>
+                )}
               </Grid>
-              <Grid item className={classes.cardHeaderItemNoIcon}>
-                {frontmatter.prepTime && <span>Prep Time: {frontmatter.prepTime}</span>}
+              <Grid item className={classes.cardHeaderItem}>
+                {frontmatter.prepTime && (
+                  <span>
+                    <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
+                    Prep: {frontmatter.prepTime}
+                  </span>
+                )}
               </Grid>
             </Grid>
             <Grid container>
@@ -133,6 +151,7 @@ export default function Template({ data }) {
             </Typography>
             <ReactMarkdown source={frontmatter.directions} />
           </Grid>
+          <Divider dark />
           <Grid xs={12} item>
             <Typography variant="h5" component="h2" className={classes.item}>
               Notes:
