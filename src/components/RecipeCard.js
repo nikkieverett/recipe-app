@@ -1,12 +1,15 @@
 import PropTypes from 'prop-types'
 import React from 'react'
+
+// MUI
 import Card from '@material-ui/core/Card'
-import CardActions from '@material-ui/core/CardActions'
 import CardContent from '@material-ui/core/CardContent'
-import Button from '@material-ui/core/Button'
 import Typography from '@material-ui/core/Typography'
-import List from '@material-ui/core/List'
-import ListItem from '@material-ui/core/ListItem'
+import AccessTimeIcon from '@material-ui/icons/AccessTime'
+import FitnessCenterIcon from '@material-ui/icons/FitnessCenter'
+import RestaurantIcon from '@material-ui/icons/Restaurant'
+
+// Custom components
 import StarRating from './StarRating'
 
 // Styles
@@ -23,23 +26,35 @@ const RecipeCard = ({ title, category, rating, ease, totalTime, path }) => {
   const classes = recipeCardStyles()
 
   return (
-    <Card>
+    <Card className={classes.root} onClick={handleClick}>
       <CardContent>
-        <Typography variant="h5" component="h2" className={classes.item}>
-          {title}
-        </Typography>
-        <Typography variant="subtitle1">{category}</Typography>
-        <StarRating rating={rating} />
-        <List>
-          <ListItem>Difficulty: {ease}</ListItem>
-          <ListItem>Total Time: {totalTime}</ListItem>
-        </List>
+        <div className={classes.cardHeader}>
+          <Typography variant="h6" component="h3" className={classes.cardTitle}>
+            {title}
+          </Typography>
+        </div>
+        <div>
+          <StarRating rating={rating} />
+          {category && (
+            <div className={classes.cardBodyItem}>
+              <RestaurantIcon fontSize="small" className={classes.cardBodyIcon} />
+              {category}
+            </div>
+          )}
+          {ease && (
+            <div className={classes.cardBodyItem}>
+              <FitnessCenterIcon fontSize="small" className={classes.cardBodyIcon} />
+              {ease}
+            </div>
+          )}
+          {totalTime && (
+            <div className={classes.cardBodyItem}>
+              <AccessTimeIcon fontSize="small" className={classes.cardBodyIcon} />
+              {totalTime}
+            </div>
+          )}
+        </div>
       </CardContent>
-      <CardActions>
-        <Button size="small" color="secondary" variant="outlined" onClick={handleClick}>
-          View More
-        </Button>
-      </CardActions>
     </Card>
   )
 }

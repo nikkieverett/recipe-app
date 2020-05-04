@@ -6,9 +6,15 @@ import Grid from '@material-ui/core/Grid'
 import Paper from '@material-ui/core/Paper'
 import { graphql } from 'gatsby'
 import Typography from '@material-ui/core/Typography'
+import PieChartIcon from '@material-ui/icons/PieChart'
 
-import RecipeCardNavigation from '../components/layout/navigation/RecipeCardNavigation'
+import FitnessCenterIcon from '@material-ui/icons/FitnessCenter'
+import RestaurantIcon from '@material-ui/icons/Restaurant'
+import LinkIcon from '@material-ui/icons/Link'
+import StarIcon from '@material-ui/icons/Star'
+
 import RecipeCardHeader from '../components/layout/header/RecipeCardHeader'
+import RecipeCardNavigation from '../components/layout/navigation/RecipeCardNavigation'
 
 const recipeStyles = makeStyles(theme => ({
   root: {
@@ -20,6 +26,30 @@ const recipeStyles = makeStyles(theme => ({
   card: {
     margin: '80px 40px 40px',
     padding: 20
+  },
+  cardHeader: {
+    backgroundColor: theme.palette.primary.main,
+    borderRadius: '6px 6px 0 0',
+    padding: '15px !important'
+  },
+  cardHeaderItem: {
+    position: 'relative',
+    marginRight: 20,
+    paddingLeft: 25
+  },
+  cardHeaderItemNoIcon: {
+    // marginRight: 25,
+    padding: '15px 15px 15px 0'
+  },
+  cardHeaderLink: {
+    position: 'relative',
+    marginRight: 20,
+    paddingLeft: 25,
+    color: theme.palette.primary.dark
+  },
+  cardHeaderIcon: {
+    position: 'absolute',
+    left: 0
   }
 }))
 
@@ -36,14 +66,60 @@ export default function Template({ data }) {
       <RecipeCardNavigation mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} frontmatter={frontmatter} />
       <Paper className={classes.card}>
         <Grid container justify="center" spacing={2}>
-          <Grid xs={12}>
-            {/* {frontmatter.servings && <h5>Servings: {frontmatter.servings}</h5>} */}
-            {frontmatter.rating && <h5>Rating: {frontmatter.rating}</h5>}
-            {frontmatter.ease && <h5>Difficulty: {frontmatter.ease}</h5>}
-            {frontmatter.category && <h5>Category: {frontmatter.category}</h5>}
-            {frontmatter.totalTime && <h5>Total Time: {frontmatter.totalTime}</h5>}
-            {frontmatter.cookTime && <h5>Cook Time: {frontmatter.cookTime}</h5>}
-            {frontmatter.prepTime && <h5>Prep Time: {frontmatter.prepTime}</h5>}
+          <Grid xs={12} item className={classes.cardHeader}>
+            <Grid container>
+              <Grid item className={classes.cardHeaderItem}>
+                {frontmatter.servings && (
+                  <span>
+                    <PieChartIcon fontSize="small" className={classes.cardHeaderIcon} />
+                    Servings: {frontmatter.servings}
+                  </span>
+                )}
+              </Grid>
+              <Grid item className={classes.cardHeaderItem}>
+                {frontmatter.rating && (
+                  <span>
+                    <StarIcon fontSize="small" className={classes.cardHeaderIcon} />
+                    Rating: {frontmatter.rating}
+                  </span>
+                )}
+              </Grid>
+              <Grid item className={classes.cardHeaderItem}>
+                {frontmatter.ease && (
+                  <span>
+                    <FitnessCenterIcon fontSize="small" className={classes.cardHeaderIcon} />
+                    Difficulty: {frontmatter.ease}
+                  </span>
+                )}
+              </Grid>
+              <Grid item className={classes.cardHeaderItem}>
+                {frontmatter.category && (
+                  <span>
+                    <RestaurantIcon fontSize="small" className={classes.cardHeaderIcon} />
+                    Category: {frontmatter.category}
+                  </span>
+                )}
+              </Grid>
+            </Grid>
+            <Grid container>
+              <Grid item className={classes.cardHeaderItemNoIcon}>
+                {frontmatter.totalTime && <span>Total Time: {frontmatter.totalTime}</span>}
+              </Grid>
+              <Grid item className={classes.cardHeaderItemNoIcon}>
+                {frontmatter.cookTime && <span>Cook Time: {frontmatter.cookTim}</span>}
+              </Grid>
+              <Grid item className={classes.cardHeaderItemNoIcon}>
+                {frontmatter.prepTime && <span>Prep Time: {frontmatter.prepTime}</span>}
+              </Grid>
+            </Grid>
+            <Grid container>
+              {frontmatter.href && (
+                <a href={frontmatter.href} target="_blank" rel="noopener noreferrer" className={classes.cardHeaderLink}>
+                  <LinkIcon fontSize="small" className={classes.cardHeaderIcon} />
+                  {frontmatter.href}
+                </a>
+              )}
+            </Grid>
           </Grid>
           <Grid key={1} xs={12} sm={6} item>
             <Typography variant="h5" component="h2" className={classes.item}>
@@ -57,11 +133,11 @@ export default function Template({ data }) {
             </Typography>
             <ReactMarkdown source={frontmatter.directions} />
           </Grid>
-          <Grid xs={12}>
+          <Grid xs={12} item>
             <Typography variant="h5" component="h2" className={classes.item}>
               Notes:
             </Typography>
-            {frontmatter.href && <h5>Link: {frontmatter.href}</h5>}
+
             <ReactMarkdown source={frontmatter.notes} />
           </Grid>
         </Grid>
@@ -79,19 +155,24 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
-        path
-        title
         directions
-        ingredients
-        rating
         category
-        subcategory
-        ease
-        href
-        notes
-        totalTime
-        prepTime
         cookTime
+        ease
+        hasBeenTested
+        href
+        id
+        ingredients
+        notes
+        path
+        prepTime
+        rating
+        servings
+        slug
+        subcategory
+        thumbnail
+        title
+        totalTime
       }
     }
   }
