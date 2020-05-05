@@ -1,7 +1,7 @@
 ---
-servings: 1
+servings: 1 serving
 notes:
-directions: >-
+directions: |-
   1. combine all in blender
 ingredients: |-
   * 1 serving protein
@@ -17,7 +17,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: beverage
-subcategory:
+subcategory: misc
 href:
 totalTime:
 cookTime:

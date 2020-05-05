@@ -13,7 +13,6 @@ import RestaurantIcon from '@material-ui/icons/Restaurant'
 import LinkIcon from '@material-ui/icons/Link'
 import StarIcon from '@material-ui/icons/Star'
 import AccessTimeIcon from '@material-ui/icons/AccessTime'
-import Divider from '@material-ui/core/Divider'
 
 import RecipeCardHeader from '../components/layout/header/RecipeCardHeader'
 import RecipeCardNavigation from '../components/layout/navigation/RecipeCardNavigation'
@@ -35,10 +34,22 @@ const recipeStyles = makeStyles(theme => ({
   cardHeader: {
     backgroundColor: theme.palette.primary.main,
     borderRadius: '6px 6px 0 0',
-    padding: '15px !important'
+    padding: '15px !important',
+    borderBottom: `10px solid ${theme.palette.secondary.main}`,
+    marginBottom: 20
+  },
+  cardList: {
+    '& li': {
+      marginBottom: 15
+    }
+  },
+  cardHeaderTitle: {
+    marginBottom: 20,
+    textTransform: 'capitalize'
   },
   cardHeaderItem: {
     position: 'relative',
+    textTransform: 'capitalize',
     marginRight: 20,
     paddingLeft: 25,
     marginBottom: 15
@@ -53,6 +64,10 @@ const recipeStyles = makeStyles(theme => ({
     position: 'absolute',
     left: 0,
     color: theme.palette.primary.dark
+  },
+  cardNotes: {
+    borderTop: `1px solid ${theme.palette.secondary.dark}`,
+    paddingTop: 20
   }
 }))
 
@@ -64,103 +79,116 @@ export default function Template({ data }) {
   const { frontmatter } = markdownRemark
 
   return (
-    <div className={classes.root}>
-      <RecipeCardHeader mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} frontmatter={frontmatter} />
-      <RecipeCardNavigation mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} frontmatter={frontmatter} />
-      <Paper className={classes.card}>
-        <Grid container justify="center" spacing={2}>
-          <Grid xs={12} item className={classes.cardHeader}>
-            <Grid container>
-              <Grid item className={classes.cardHeaderItem}>
+    <div className="recipe-card">
+      <div className={classes.root}>
+        <RecipeCardHeader mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} frontmatter={frontmatter} />
+        <RecipeCardNavigation mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} frontmatter={frontmatter} />
+        <Paper className={classes.card}>
+          <Grid container justify="center" spacing={2}>
+            <Grid xs={12} item className={classes.cardHeader}>
+              <Typography variant="h4" component="h2" className={classes.cardHeaderTitle}>
+                {frontmatter.title}
+              </Typography>
+              <Grid container>
                 {frontmatter.servings && (
-                  <span>
-                    <PieChartIcon fontSize="small" className={classes.cardHeaderIcon} />
-                    Servings: {frontmatter.servings}
-                  </span>
+                  <Grid item className={classes.cardHeaderItem}>
+                    <span>
+                      <PieChartIcon fontSize="small" className={classes.cardHeaderIcon} />
+                      Servings: {frontmatter.servings}
+                    </span>
+                  </Grid>
                 )}
-              </Grid>
-              <Grid item className={classes.cardHeaderItem}>
                 {frontmatter.rating && (
-                  <span>
-                    <StarIcon fontSize="small" className={classes.cardHeaderIcon} />
-                    Rating: {frontmatter.rating}
-                  </span>
+                  <Grid item className={classes.cardHeaderItem}>
+                    <span>
+                      <StarIcon fontSize="small" className={classes.cardHeaderIcon} />
+                      Rating: {frontmatter.rating}
+                    </span>
+                  </Grid>
                 )}
-              </Grid>
-              <Grid item className={classes.cardHeaderItem}>
                 {frontmatter.ease && (
-                  <span>
-                    <FitnessCenterIcon fontSize="small" className={classes.cardHeaderIcon} />
-                    Difficulty: {frontmatter.ease}
-                  </span>
+                  <Grid item className={classes.cardHeaderItem}>
+                    <span>
+                      <FitnessCenterIcon fontSize="small" className={classes.cardHeaderIcon} />
+                      Difficulty: {frontmatter.ease}
+                    </span>
+                  </Grid>
                 )}
-              </Grid>
-              <Grid item className={classes.cardHeaderItem}>
                 {frontmatter.category && (
-                  <span>
-                    <RestaurantIcon fontSize="small" className={classes.cardHeaderIcon} />
-                    Category: {frontmatter.category}
-                  </span>
+                  <Grid item className={classes.cardHeaderItem}>
+                    <span>
+                      <RestaurantIcon fontSize="small" className={classes.cardHeaderIcon} />
+                      Category: {frontmatter.category}
+                    </span>
+                  </Grid>
                 )}
               </Grid>
-            </Grid>
-            <Grid container>
-              <Grid item className={classes.cardHeaderItem}>
+              <Grid container>
                 {frontmatter.totalTime && (
-                  <span>
-                    <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
-                    Total: {frontmatter.totalTime}
-                  </span>
+                  <Grid item className={classes.cardHeaderItem}>
+                    <span>
+                      <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
+                      Total: {frontmatter.totalTime}
+                    </span>
+                  </Grid>
                 )}
-              </Grid>
-              <Grid item className={classes.cardHeaderItem}>
                 {frontmatter.cookTime && (
-                  <span>
-                    <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
-                    Cook: {frontmatter.cookTime}
-                  </span>
+                  <Grid item className={classes.cardHeaderItem}>
+                    <span>
+                      <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
+                      Cook: {frontmatter.cookTime}
+                    </span>
+                  </Grid>
                 )}
-              </Grid>
-              <Grid item className={classes.cardHeaderItem}>
                 {frontmatter.prepTime && (
-                  <span>
-                    <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
-                    Prep: {frontmatter.prepTime}
-                  </span>
+                  <Grid item className={classes.cardHeaderItem}>
+                    <span>
+                      <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
+                      Prep: {frontmatter.prepTime}
+                    </span>
+                  </Grid>
                 )}
               </Grid>
-            </Grid>
-            <Grid container>
               {frontmatter.href && (
-                <a href={frontmatter.href} target="_blank" rel="noopener noreferrer" className={classes.cardHeaderLink}>
-                  <LinkIcon fontSize="small" className={classes.cardHeaderIcon} />
-                  {frontmatter.href}
-                </a>
+                <Grid container>
+                  <a href={frontmatter.href} target="_blank" rel="noopener noreferrer" className={classes.cardHeaderLink}>
+                    <LinkIcon fontSize="small" className={classes.cardHeaderIcon} />
+                    {frontmatter.href}
+                  </a>
+                </Grid>
               )}
             </Grid>
+            <Grid key={1} xs={12} sm={6} item>
+              <Typography variant="h5" component="h2" className={classes.item}>
+                Ingredients:
+              </Typography>
+              <ReactMarkdown source={frontmatter.ingredients} className={classes.cardList} />
+            </Grid>
+            <Grid key={0} xs={12} sm={6} item>
+              <Typography variant="h5" component="h2" className={classes.item}>
+                Directions:
+              </Typography>
+              <ReactMarkdown source={frontmatter.directions} className={classes.cardList} />
+            </Grid>
+            {frontmatter.nutritionFacts && (
+              <Grid xs={12} item className={classes.cardNotes}>
+                <Typography variant="h5" component="h2" className={classes.item}>
+                  Nutrition Facts:
+                </Typography>
+                <ReactMarkdown source={frontmatter.nutritionFacts} />
+              </Grid>
+            )}
+            {frontmatter.notes && (
+              <Grid xs={12} item className={classes.cardNotes}>
+                <Typography variant="h5" component="h2" className={classes.item}>
+                  Notes:
+                </Typography>
+                <ReactMarkdown source={frontmatter.notes} />
+              </Grid>
+            )}
           </Grid>
-          <Grid key={1} xs={12} sm={6} item>
-            <Typography variant="h5" component="h2" className={classes.item}>
-              Ingredients:
-            </Typography>
-            <ReactMarkdown source={frontmatter.ingredients} />
-          </Grid>
-          <Grid key={0} xs={12} sm={6} item>
-            <Typography variant="h5" component="h2" className={classes.item}>
-              Directions:
-            </Typography>
-            <ReactMarkdown source={frontmatter.directions} />
-          </Grid>
-          <Divider dark />
-          <Grid xs={12} item>
-            <Typography variant="h5" component="h2" className={classes.item}>
-              Notes:
-            </Typography>
-
-            <ReactMarkdown source={frontmatter.notes} />
-          </Grid>
-        </Grid>
-      </Paper>
+        </Paper>
+      </div>
     </div>
   )
 }
@@ -187,10 +215,10 @@ export const pageQuery = graphql`
         prepTime
         rating
         servings
-        slug
         subcategory
         thumbnail
         title
+        nutritionFacts
         totalTime
       }
     }
