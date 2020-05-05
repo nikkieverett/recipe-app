@@ -13,38 +13,36 @@ collections:
     create: true
     fields:
       - { name: title, label: Title }
-      - { name: ingredients, label: Ingredients, widget: markdown }
-      - { name: directions, label: Directions, widget: markdown }
+      - { name: ingredients, label: Ingredients, widget: markdown, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
+      - { name: directions, label: Directions, widget: markdown, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
       - {
           label: 'Category',
           name: 'category',
           widget: 'select',
           options: ['breakfast', 'main course', 'side dish', 'dessert', 'beverage', 'salad', 'condiment'],
           multiple: false,
-          comment: 'Please select one or more categories'
         }
       - {
           label: 'Subcategory',
           name: 'subcategory',
           widget: 'select',
           required: false,
-          options: ['all in one casserole', 'crockpot', 'sandwich', 'soup/stew', 'beans', 'pasta', 'potato', 'rice', 'vegetable', 'fruit', 'bread/cracker', 'cake/cupcake', 'cookie', 'candy', 'cheesecake', 'pie', 'pudding', 'ice cream', 'misc', 'egg', 'pancake/waffle', 'cheese', 'dip', 'meat', 'nuts/popcorn'],
+          options: ['all in one casserole', 'crockpot', 'sandwich', 'soup/stew', 'beans', 'pasta', 'potato', 'rice', 'vegetable', 'fruit', 'bread', 'cracker', 'cake', 'cupcake', 'cookie', 'candy', 'cheesecake', 'pie', 'pudding', 'ice cream', 'misc', 'egg', 'pancake', 'waffle', 'cheese', 'dip', 'meat', 'nuts', 'popcorn'],
           multiple: false,
-          comment: 'Please select one or more categories'
         }
-      - { name: cookTime, label: Cook Time, required: false, widget: "string", comment: 'Example: 45 mins' }
-      - { name: prepTime, label: Prep Time, required: false, widget: "string", comment: 'Example: 1hr' }
-      - { name: totalTime, label: Total Time, required: false, widget: "string", comment: 'Example: 1hr 45 mins' }
-      - { name: servings, label: Number of Servings, widget: number, required: false }
+      - { name: cookTime, label: Cook Time, required: false, widget: "string", hint: 'Example: 45 mins' }
+      - { name: prepTime, label: Prep Time, required: false, widget: "string", hint: 'Example: 1hr' }
+      - { name: totalTime, label: Total Time, required: false, widget: "string", hint: 'Example: 1hr 45 mins' }
+      - { name: servings, label: Number of Servings, widget: 'string', required: false }
       - { name: rating, label: Rating, widget: number, required: false, max: 5, min: 1 }
       - { name: ease, label: Difficulty, widget: select, options: ['easy', 'intermediate', 'difficult'], required: false }
-      - { name: nutritionFacts, label: Nutrition Facts, widget: markdown, required: false }
-      - { name: notes, label: Notes, widget: markdown, required: false }
+      - { name: nutritionFacts, label: Nutrition Facts, widget: markdown, required: false, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
+      - { name: notes, label: Notes, widget: markdown, required: false, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
       - { name: "hasBeenTested", label: "Recipe has been tested", widget: "boolean", default: false, required: false }
       - {
-        label: "Featured Image",
-        name: "thumbnail",
-        widget: "image",
-        allow_multiple: false,
-        required: false
-      }
+          label: "Featured Image",
+          name: "thumbnail",
+          widget: "image",
+          allow_multiple: false,
+          required: false
+        }

@@ -1,7 +1,7 @@
 ---
 servings:
 notes: cut sauce in half for 2 servings
-directions: >-
+directions: |-
   1. Preheat oven to 400
   2. Divide asparagus into bundles of 3-4 spears wrap each in a slice of bacon
   3. Melt butter in saucepan
@@ -18,6 +18,7 @@ ingredients: |-
 rating: 5
 ease: intermediate
 category: side dish
+subcategory: vegetable
 href:
 totalTime: 30 mins
 cookTime: 20 mins

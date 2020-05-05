@@ -17,9 +17,6 @@ ingredients: |-
   * Thinly sliced green onions, for garnish
   * Lime wedges, for serving
 directions: >-
-  ``
-
-
   1. Preheat oven to 350°. Line a large rimmed baking sheet with foil and grease with cooking spray. In the center of the foil, lay pineapple slices in an even layer.
 
   2. Season both sides of the salmon with salt and pepper and place on top of pineapple slices.
@@ -37,12 +34,10 @@ cookTime: 45 min
 prepTime: 20 min
 # Example: 1hr 45 mins
 totalTime: 65 min
-servings: 4
+servings: 4 servings
 rating: 5
 ease: easy
 nutritionFacts: |-
-  
-
   * **Calories**: 121.
   * **Fat**: 5.4g.
   * Sodium: 37.4mg.
@@ -53,4 +48,5 @@ nutritionFacts: |-
 notes: I'm a note!
 hasBeenTested: true
 thumbnail: assets/20190503-delish-pineapple-baked-salmon-horizontal-ehg-450-1557771120.jpg
+path: /test-pineapple-salmon
 ---

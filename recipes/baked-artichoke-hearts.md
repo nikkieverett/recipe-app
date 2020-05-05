@@ -1,7 +1,7 @@
 ---
-servings: 8
+servings: 8 servings
 notes:
-directions: >-
+directions: |-
   1. Preheat oven to 325 degrees
   2. Combine breadcrumbs, parsley, cheeses, herbs, and salt in a medium bowl and season with pepper
   3. Brush oil inside a 9x13 baking dish or long shallow casserole.
@@ -29,6 +29,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: side dish
+subcategory: vegetable
 href: 'https://www.food.com/recipe/roses-baked-artichoke-hearts-342139'
 totalTime:
 cookTime:
