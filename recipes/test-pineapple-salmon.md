@@ -1,5 +1,5 @@
 ---
-title: Test Pineapple Salmon
+title: Test pineapple salmon
 ingredients: |-
   * Cooking spray, for pan
   * 17 pineapple rings, fresh or canned
