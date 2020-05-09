@@ -7,6 +7,8 @@ const initialState = {
   category: '',
   subcategory: '',
   filteredRecipes: [],
+  recipesFilteredByCategory: [],
+  recipesFilteredBySubcat: [],
   snackBarOpen: false,
   tabValue: 0
 }

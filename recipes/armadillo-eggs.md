@@ -17,7 +17,6 @@ ingredients: |-
 rating: 5
 ease: easy
 category: appetizer
-subcategory: misc
 href:
 totalTime:
 cookTime:
