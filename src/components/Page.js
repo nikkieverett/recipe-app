@@ -2,25 +2,16 @@
 import PropTypes from 'prop-types'
 import React from 'react'
 import { connect } from 'react-redux'
-import { makeStyles } from '@material-ui/core/styles'
 import Snackbar from '@material-ui/core/Snackbar'
 import MuiAlert from '@material-ui/lab/Alert'
 
 // Custom Components
-import RecipeList from '../components/RecipeList'
-import RecipeListHeader from '../components/layout/header/RecipeListHeader'
-import RecipeListNavigationDrawer from '../components/layout/navigation/RecipeListNavigationDrawer'
+import RecipeList from './RecipeList'
+import RecipeListHeader from './layout/header/RecipeListHeader'
+import RecipeListNavigationDrawer from './layout/navigation/RecipeListNavigationDrawer'
 
 import actions from '../store/actions'
-
-const appStyles = makeStyles(() => ({
-  root: {
-    display: 'flex'
-  },
-  content: {
-    flexGrow: 1
-  }
-}))
+import appStyles from './Page.styles'
 
 const App = ({ snackBarOpen, snackBarText, dispatch }) => {
   const classes = appStyles()
