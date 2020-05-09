@@ -17,7 +17,7 @@ ingredients: |-
   * 1/4 teaspoon hot sauce optional
 rating: 4
 ease: easy
-category:
+category: condiment
 href: 'https://addapinch.com/homemade-bbq-sauce-recipe/'
 totalTime:
 cookTime:

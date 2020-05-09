@@ -17,7 +17,6 @@ ingredients: |-
 rating: 5
 ease: easy
 category: beverage
-subcategory: misc
 href:
 totalTime:
 cookTime:

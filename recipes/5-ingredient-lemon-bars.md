@@ -28,7 +28,6 @@ directions: |-
   15. Then transfer to the refrigerator and let the bars chill for at least 2 hours
   16. Sprinkle the tops of the bars with extra powdered sugar if you would like, then slice and serve
 category: dessert
-subcategory: misc
 cookTime: 40 minutes
 prepTime: 15 minute
 totalTime: 55 minutes
