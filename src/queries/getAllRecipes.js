@@ -15,6 +15,7 @@ export default () => {
               rating
               ease
               category
+              subcategory
               href
               totalTime
               cookTime

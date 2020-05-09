@@ -6,13 +6,27 @@ const initialState = {
   queryInput: '',
   category: '',
   subcategory: '',
-  filteredRecipes: []
+  filteredRecipes: [],
+  snackBarOpen: false,
+  tabValue: 0
+}
+
+const sortFunc = arr => {
+  arr.sort((a, b) => {
+    if (a.node.frontmatter.title.toLowerCase() > b.node.frontmatter.title.toLowerCase()) {
+      return 1
+    }
+
+    return -1
+  })
 }
 
 const reducer = (state = initialState, action) => {
   switch (action.type) {
     case constants.FETCH_ALL_RECIPES: {
       const recipes = getAllRecipes().allMarkdownRemark.edges
+
+      sortFunc(recipes)
 
       return {
         ...state,
@@ -21,10 +35,13 @@ const reducer = (state = initialState, action) => {
       }
     }
 
-    case constants.QUERY_INPUT: {
+    case constants.REMOVE_FILTERED_RECIPES: {
       return {
         ...state,
-        queryInput: action.queryInput.toLowerCase()
+        filteredRecipes: state.allRecipes,
+        category: '',
+        subcategory: '',
+        queryInput: ''
       }
     }
 
@@ -34,87 +51,78 @@ const reducer = (state = initialState, action) => {
       })
 
       if (catFiltered.length === 0) {
-        // TODO: add toaster for this
-        alert('No matches found')
-        return state
+        return {
+          ...state,
+          snackBarOpen: true,
+          snackBarText: 'No recipes found'
+        }
       }
+
+      sortFunc(catFiltered)
 
       return {
         ...state,
         subcategory: '',
         category: action.category,
+        tabValue: 0,
         filteredRecipes: catFiltered
       }
     }
 
     case constants.SORT_BY_SUBCATEGORY: {
-      let subcategoryFiltered
-
-      if (state.filteredRecipes.length) {
-        subcategoryFiltered = state.filteredRecipes.filter(recipe => {
-          return recipe.node.frontmatter.subcategory === action.subcategory
-        })
-      }
+      const subcategoryFiltered = state.filteredRecipes.filter(recipe => {
+        return recipe.node.frontmatter.subcategory === action.subcategory
+      })
 
       if (subcategoryFiltered.length === 0) {
-        alert('No matches found')
-        return state
+        return {
+          ...state,
+          snackBarOpen: true,
+          snackBarText: 'No recipes found'
+        }
       }
+
+      sortFunc(subcategoryFiltered)
 
       return {
         ...state,
         subcategory: action.subcategory,
+        tabValue: action.tabValue,
         filteredRecipes: subcategoryFiltered
+      }
+    }
+
+    case constants.DISMISS_SNACKBAR: {
+      return {
+        ...state,
+        snackBarOpen: false
+      }
+    }
+
+    case constants.QUERY_INPUT: {
+      return {
+        ...state,
+        queryInput: action.input.toLowerCase()
       }
     }
 
     case constants.FILTER_RECIPES: {
       const queryFiltered = state.allRecipes.filter(recipe => {
-        return recipe.title.includes(state.queryInput)
+        return recipe.node.frontmatter.title.includes(state.queryInput)
       })
 
       if (queryFiltered.length === 0) {
-        alert('No matches found')
-        return state
+        return {
+          ...state,
+          snackBarOpen: true,
+          snackBarText: 'No recipes found'
+        }
       }
 
       return {
         ...state,
         category: '',
         filteredRecipes: queryFiltered
-      }
-    }
-
-    case constants.SORT_BY_ALPHA: {
-      const sortFunc = arr => {
-        arr.sort((a, b) => {
-          if (a.title > b.title) {
-            return 1
-          }
-
-          return -1
-        })
-      }
-
-      sortFunc(state.allRecipes)
-
-      if (state.filteredRecipes !== []) {
-        sortFunc(state.filteredRecipes)
-      }
-
-      return {
-        ...state,
-        allRecipes: state.allRecipes,
-        filteredRecipes: state.filteredRecipes
-      }
-    }
-
-    case constants.REMOVE_FILTERED_RECIPES: {
-      return {
-        ...state,
-        breadcrumbs: [],
-        filteredRecipes: state.allRecipes,
-        category: ''
       }
     }
 
