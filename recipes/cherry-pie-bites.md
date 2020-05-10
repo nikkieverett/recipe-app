@@ -19,11 +19,21 @@ ingredients: |-
   * 2 tubes crescent roll dough
   * 1 cup powdered sugar
   * 1­2 tbsp. milk
+nutritionFacts: |-
+  * Calories: 84kcal
+  * Carbohydrates: 19g
+  * Sodium: 34mg
+  * Potassium: 39mg
+  * Sugar: 7g
+  * Vitamin A: 75IU
+  * Vitamin C: 1.3mg
+  * Calcium: 5mg
+  * Iron: 0.1mg
 rating: 4
 ease: easy
 category: dessert
 subcategory: pie
-href: 'https://www.thecountrycook.net/2013/08/cherry-pie-bites.html_a5y_p=2733623'
+href: 'https://www.thecountrycook.net/cherry-pie-bites/'
 totalTime: 30 min
 cookTime: 15 min
 prepTime: 15 min

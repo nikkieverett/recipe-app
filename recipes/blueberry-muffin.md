@@ -1,6 +1,13 @@
 ---
-servings: 12 muffins
+servings: 8 large muffins
 notes:
+nutritionFacts: |-
+  Serving size: 1 muffin
+  * 383 calories
+  * 16.1 g total fat
+  * 39 mg cholesterol
+  * 322 mg sodium. 56.9 g carbohydrates
+  * 4.3 g protein
 directions: |-
   * Preheat oven to 400 degrees f (200 degrees c)
   * Grease muffin cups or line with muffin liners

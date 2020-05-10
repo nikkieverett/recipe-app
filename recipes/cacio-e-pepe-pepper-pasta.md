@@ -1,5 +1,5 @@
 ---
-servings:
+servings: 2-3 servings
 notes:
 directions: |-
   * Cook the pasta in a large stockpot of generously-salted water

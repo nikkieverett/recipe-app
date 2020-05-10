@@ -13,7 +13,7 @@ ingredients: |-
   * 2 dashes worcestershire sauce
   * 1 teaspoon kosher salt or to taste
   * 1 teaspoon freshly ground black pepper or to taste
-rating: 0
+rating:
 ease: easy
 category: condiment
 href: 'https://www.thewickednoodle.com/buttermilk-blue-cheese-dressing/'

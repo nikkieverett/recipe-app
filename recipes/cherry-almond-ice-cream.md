@@ -1,5 +1,5 @@
 ---
-servings:
+servings: 1 quart
 notes:
 directions: |-
   * Place cherries, sugar and water in top of double boiler
@@ -28,7 +28,7 @@ ease: intermediate
 category: dessert
 subcategory: ice cream
 href: 'https://www.geniuskitchen.com/recipe/cherry-almond-ice-cream-94646'
-totalTime:
+totalTime: 40 mins
 cookTime:
 prepTime:
 title: cherry almond ice cream

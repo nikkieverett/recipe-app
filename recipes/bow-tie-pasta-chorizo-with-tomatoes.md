@@ -26,9 +26,9 @@ ease: easy
 category: main course
 subcategroy: pasta
 href: 'https://www.delish.com/cooking/recipe-ideas/recipes/a18119/bow-tie-pasta-chorizo-tomatoes-121351/'
-totalTime: 20 min
+totalTime: 15 mins
 cookTime:
-prepTime:
+prepTime: 15 mins
 title: bow tie pasta chorizo with tomatoes
 path: /bow-tie-pasta-chorizo-with-tomatoes
 ---

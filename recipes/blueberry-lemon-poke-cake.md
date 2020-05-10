@@ -1,6 +1,17 @@
 ---
-servings:
+servings: 15 slices
 notes: This cake must be refrigerated
+nutritionFacts: |-
+  Serving Size: 1 slice
+  * Calories: 461
+  * Sugar: 41.5g
+  * Sodium: 368.5mg
+  * Fat: 25.9g
+  * Saturated Fat: 16.4g
+  * Carbohydrates: 54g
+  * Fiber: .5g
+  * Protein: 5.1g
+  * Cholesterol: 84.4mg
 directions: |-
   * Preheat oven to 350°f
   * Prepare cake according to the instructions and ingredients listed on the box
@@ -53,9 +64,9 @@ ease: intermediate
 category: dessert
 subcategory: cake
 href: 'https://beyondfrosting.com/2015/07/09/blueberry-cheesecake-poke-cake/'
-totalTime:
-cookTime:
-prepTime:
+totalTime: 1 hr 20 mins
+cookTime: 20 mins
+prepTime: 60 mins
 title: blueberry lemon poke cake
 path: /blueberry-lemon-poke-cake
 ---

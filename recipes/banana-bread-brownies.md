@@ -1,26 +1,28 @@
 ---
-servings: 2 dozen
+servings: 2 dozen large bars
 notes:
 directions: |-
-  1. Heat oven to 375°f
-  2. Grease a 13 x 9 inch pan
-  _For the brownie:_
-  1. In a large bowl beat together sugar, sour cream, butter, and eggs until creamy
-  2. Blend in bananas and vanilla extract
+  * Heat oven to 375°f
+  * Grease a 13 x 9 inch pan
+
+  For the brownie:
+  * In a large bowl beat together sugar, sour cream, butter, and eggs until creamy
+  * Blend in bananas and vanilla extract
   add flour, baking soda, salt, and blend for 1 minute
-  3. Stir in walnuts
-  4. Spread batter evenly into pan
-  5. Bake 25 minutes or until golden brown
-  6. Cool slighty (warm but not hot) and frost with frosting
-  _For frosting:_
-  1. Heat butter in a large saucepan over medium heat
-  2. Watch carefully when it reaches a medium brown color turn off 3. Heat and remove from heat immediatel
-  4. Pour in powdered sugar milk and vanilla
-  5. Whisk together until smooth.
-  6. Pour over the warm banana bread brownies immediatel and smooth with a spatula, butter knife or frosting spatula
-  7. Cool completely before cutting
+  * Stir in walnuts
+  * Spread batter evenly into pan
+  * Bake 25 minutes or until golden brown
+  * Cool slighty (warm but not hot) and frost with frosting
+
+  For frosting:
+  * Heat butter in a large saucepan over medium heat
+  * Watch carefully when it reaches a medium brown color turn off heat and remove from heat immediately
+  * Pour in powdered sugar milk and vanilla
+  * Whisk together until smooth.
+  * Pour over the warm banana bread brownies immediatel and smooth with a spatula, butter knife or frosting spatula
+  * Cool completely before cutting
 ingredients: |-
-  _brownies:_
+  Brownies:
   * 2 eggs
   * 3 bananas (mashed)
   * 1 1/2 cups sugar
@@ -31,7 +33,8 @@ ingredients: |-
   * 1 teaspoon baking soda
   * 3/4 teaspoon salt
   * 1/2 cup walnuts chopped
-  _frosting:_
+
+  Frosting:
   * 1/2 cup butter
   * 3 cups powdered sugar
   * 1 1/2 teaspoons vanilla extract

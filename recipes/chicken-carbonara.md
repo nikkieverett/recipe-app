@@ -34,8 +34,8 @@ ease: easy
 category: main course
 subcategory: pasta
 href: 'https://www.foodnetwork.com/recipes/giada-de-laurentiis/chicken-carbonara-recipe.html?soc=socialfnvideo_20160415_60521346&adbid=10153466228201727&adbpl=fb&adbpr=20534666726'
-totalTime: 40 min
-cookTime: 20 min
+totalTime: 42 min
+cookTime: 22 min
 prepTime: 20 min
 title: chicken carbonara
 path: /chicken-carbonara

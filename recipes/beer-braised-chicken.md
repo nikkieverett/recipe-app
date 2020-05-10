@@ -2,10 +2,10 @@
 servings: 6 servings
 notes:
 directions: |-
-  1. Preheat oven to 350
-  1. Add all ingredients to large pan
-  1. Cook for 30 min
-  1. Turn oven to 400 for last 20 min
+  * Preheat oven to 350
+  * Add all ingredients to large pan
+  * Cook for 30 min
+  * Turn oven to 400 for last 20 min
 ingredients: |-
   * 5 lb chiken
   * 1 beer lager

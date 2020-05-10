@@ -1,6 +1,7 @@
 ---
 servings: 10 servings
-notes: Time consuming
+notes: |-
+  * Time consuming
   * Can be made up to 2 days ahead of time
   * Would be great with marinara
 directions: |-

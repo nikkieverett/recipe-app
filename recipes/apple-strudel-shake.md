@@ -2,7 +2,7 @@
 servings: 1 serving
 notes:
 directions: |-
-  1. combine all in blender
+  * Combine all in blender
 ingredients: |-
   * 1 serving protein
   * 1/2 chopped apple-peel on

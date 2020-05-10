@@ -1,12 +1,19 @@
 ---
-servings:
+servings: 45 tartlets
 notes:
+nutritionFacts: |-
+  Serving size: 1 tartlet
+  * 76 calories
+  * 5g fat (1g saturated fat)
+  * 5mg cholesterol
+  * 24mg sodium
+  * 6g carbohydrate (4g sugars, 0 fiber)
+  * 2g protein
 directions: |-
-  1. in a small bowl mix the first five ingredients until blended
-  2. stir in walnuts
-  3. spoon 2 teaspoons mixture into each tart shell
-  4. refrigerate until serving
-yield: 45 tartlets
+  * In a small bowl mix the first five ingredients until blended
+  * Stir in walnuts
+  * Spoon 2 teaspoons mixture into each tart shell
+  * Refrigerate until serving
 ingredients: |-
   * 3/4 cup honey
   * 1/2 cup butter melted
@@ -19,9 +26,9 @@ rating: 5
 ease: easy
 category: dessert
 href: 'https://www.tasteofhome.com/recipes/baklava-tartlets'
-totalTime:
+totalTime: 25 mins
 cookTime:
-prepTime:
+prepTime: 25 mins
 title: baklava tartlets
 path: /baklava-tartlets
 ---

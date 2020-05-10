@@ -2,9 +2,9 @@
 servings: 2 servings
 notes:
 directions: |-
-  1. Combine everything in a bowl
-  2. Split mixture into two mason jars
-  3. Let sit in the fridge overnight
+  * Combine everything in a bowl
+  * Split mixture into two mason jars
+  * Let sit in the fridge overnight
 ingredients: |-
   * 2/3 cup rolled oats
   * 2 tbsp. peanut butter
@@ -17,9 +17,9 @@ rating: 5
 ease: easy
 category: breakfast
 href: 'https://www.toneitup.com/recipe/tiu-challenge-recipe-banana-peanut-butter-overnight-oats/'
-totalTime:
+totalTime: 15 min
 cookTime:
-prepTime:
+prepTime: 15 min
 title: banana peanut butter oatmeal
 path: /banana-peanut-butter-oatmeal
 ---

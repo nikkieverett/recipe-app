@@ -1,5 +1,5 @@
 ---
-servings: 8 servings
+servings: 4 servings
 notes:
 directions: |-
   To cook leeks:
@@ -34,7 +34,7 @@ rating: 4
 ease: intermediate
 category: side dish
 href: 'https://www.food.com/recipe/cheddar-cheese-risotto-284927'
-totalTime:
+totalTime: 35 mins
 cookTime:
 prepTime:
 title: cheddar risotto
