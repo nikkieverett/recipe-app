@@ -19,7 +19,6 @@ rating: 4
 ease: easy
 category: main course
 subcategory: crockpot
-subcategory: all
 href: 'https://littlefellows.blogspot.com/2011/11/best-crockpot-meal-ive-tried-yet.html?m=1'
 totalTime: 4 hrs 10 min
 cookTime: 4 hrs

@@ -13,8 +13,6 @@ directions: |-
 category: beverage
 servings: 2 servings
 notes: |-
-  
-
   * Garnish: apple
   * Glass: shot glass
 hasBeenTested: false
