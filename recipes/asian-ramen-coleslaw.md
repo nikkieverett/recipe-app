@@ -2,10 +2,11 @@
 servings: 12 servings
 notes:
 directions: |-
-  1. In a large mixing bowl combine the coleslaw, ramen noodles, green onions, sliced almonds, sunflower seeds, mandarin oranges and fresh parsley and toss to combine
-  2. In a salad dressing container combine the extra virgin olive oil, white wine vinegar, honey, sugar and the dash of salt and pepper and mix
-  3. Gently pour the dressing over the ramen salad and toss to combine
+  * In a large mixing bowl combine the coleslaw, ramen noodles, green onions, sliced almonds, sunflower seeds, mandarin oranges and fresh parsley and toss to combine
+  * In a salad dressing container combine the extra virgin olive oil, white wine vinegar, honey, sugar and the dash of salt and pepper and mix
+  * Gently pour the dressing over the ramen salad and toss to combine
 ingredients: |-
+  For the salad:
   * 16 oz -bag of coleslaw mix
   * 6 oz package ramen noodles (discard the seasoning)
   * 5 green onions (green parts chopped)
@@ -13,7 +14,8 @@ ingredients: |-
   * 1 cup sunflower seeds
   * 1 cup mandarin orange slices (halved)
   * 1/4 fresh chopped parsley
-  _For the dressing:_
+
+  For the dressing:
   * 3/4 cup extra virgin olive oil (you can also use vegetable oil or any cooking oil)
   * 1/3 cup white wine vinegar
   * 3 tablespoons honey
@@ -22,7 +24,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: side dish
-subcategory:
+subcategory: salad
 href: 'https://thefeedfeed.com/acedarspoon/coleslaw-almond-and-mandarin-orange-salad-with-ramen-noodles'
 totalTime: 15 minutes
 cookTime:

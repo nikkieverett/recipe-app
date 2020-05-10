@@ -1,6 +1,8 @@
 ---
-servings: 8 servings
-notes: 'I mix mine in the mornings let sit until I finish dinner and pop it in the oven before we sit down to eat. This recipe is best if left to sit for 6-8 hours or overnight, it gives the bread plenty of time to soak everything up!'
+servings: 6-8 servings
+notes: |-
+  * This recipe is best if left to sit for 6-8 hours or overnight, it gives the bread plenty of time to soak everything up!
+  * I mix mine in the mornings let sit until I finish dinner and pop it in the oven before we sit down to eat
 directions: |-
   * In a large mixing bowl add eggs and slightly beat
   * Add everything but the bread and pecans
@@ -8,7 +10,6 @@ directions: |-
   * Fold in bread and half the pecans
   * Let sit at room temperature for 1 hour mixing every so often to coat bread well
   * Cover and refrigerate until you are ready to bake
-
   * Preheat oven to 350 degrees
   * Prepare a 9x13 baking dish with butter or cooking spray. (i use a little smaller size because i like a thicker bread pudding.)
   * Pour everything into your prepared baking dish
@@ -34,7 +35,7 @@ ingredients: |-
   * 8 c cubed bread (use a hearty or heavy bread) does not have to be stale or toasted
   * 1 c chopped or halved pecans divided
 
-  rum sauce
+  Rum sauce:
   * 1 stick butter
   * 1 c sugar
   * 1/4 c dark rum or bourbon

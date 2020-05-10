@@ -2,11 +2,11 @@
 servings:
 notes:
 directions: |-
-  1. Heat over to 350
-  2. Mix all but shake n bake
-  3. Roll into balls
-  4. Roll balls in shake n bake
-  5. Bake for 30-35 minutes
+  * Heat over to 350
+  * Mix all but shake n bake
+  * Roll into balls
+  * Roll balls in shake n bake
+  * Bake for 30-35 minutes
 ingredients: |-
   * 1 lb sausage
   * 6-12 jalapenos (i use 6)

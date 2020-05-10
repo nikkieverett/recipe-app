@@ -1,12 +1,12 @@
 ---
 servings:
-notes: cut sauce in half for 2 servings
+notes: Cut sauce in half for 2 servings
 directions: |-
-  1. Preheat oven to 400
-  2. Divide asparagus into bundles of 3-4 spears wrap each in a slice of bacon
-  3. Melt butter in saucepan
-  4. Add remaining ingredients and bring to a boil
-  5. Pour mix over bundles and bake until bacon looks done
+  * Preheat oven to 400
+  * Divide asparagus into bundles of 3-4 spears wrap each in a slice of bacon
+  * Melt butter in saucepan
+  * Add remaining ingredients and bring to a boil
+  * Pour mix over bundles and bake until bacon looks done
 ingredients: |-
   * asparagus
   * bacon

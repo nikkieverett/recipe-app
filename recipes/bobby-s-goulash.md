@@ -1,5 +1,5 @@
 ---
-servings: 12 servings
+servings: 6 servings
 notes:
 directions: |-
   * In a dutch oven saute the ground beef and ground turkey over medium-high heat (or until no pink remains)
@@ -30,9 +30,9 @@ ease: easy
 category: main course
 subcategory: soup/stew
 href: 'https://www.foodnetwork.com/recipes/paula-deen/bobbys-goulash-recipe2.html'
-totalTime:
-cookTime:
-prepTime:
+totalTime: 1 hr 15 min
+cookTime: 40 min
+prepTime: 5 min
 title: bobby's goulash
 path: /bobby-s-goulash
 ---

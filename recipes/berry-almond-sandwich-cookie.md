@@ -9,19 +9,19 @@ nutritionFacts: |-
   * 17g carbohydrate (8g sugars, 1g fiber)
   * 2g protein
 directions: |-
-  1. Preheat oven to 325°
-  2. In a large bowl, cream butter and sugar until light and fluffy
-  3. Beat in vanilla
-  4. Combine flour and salt; gradually add to creamed mixture and mix well
-  5. Stir in almonds
-  6. On a heavily floured surface, roll out dough to 1/8-in. thickness
-  7. With floured 2-1/2-in. cookie cutters cut into desired shapes
-  8. Place 1 in. apart on ungreased baking sheets
-  9. Bake 10-12 minutes or until edges begin to brown
-  10. Remove to wire racks to cool
-  11. Spread 1 teaspoon raspberry filling on the bottoms of half of the cookies; top with remaining cookies
-  12. Sprinkle with edible glitter or confectioners sugar
-  13. Store in an airtight container
+  * Preheat oven to 325°
+  * In a large bowl, cream butter and sugar until light and fluffy
+  * Beat in vanilla
+  * Combine flour and salt; gradually add to creamed mixture and mix well
+  * Stir in almonds
+  * On a heavily floured surface, roll out dough to 1/8-in thickness
+  * With floured 2-1/2-in cookie cutters cut into desired shapes
+  * Place 1 in apart on ungreased baking sheets
+  * Bake 10-12 minutes or until edges begin to brown
+  * Remove to wire racks to cool
+  * Spread 1 teaspoon raspberry filling on the bottoms of half of the cookies; top with remaining cookies
+  * Sprinkle with edible glitter or confectioners sugar
+  * Store in an airtight container
 ingredients: |-
   * 1-1/2 cups butter, softened
   * 1 cup sugar
@@ -31,7 +31,7 @@ ingredients: |-
   * 2 cups ground almonds
   * 3/4 cup raspberry filling
   * edible glitter or confectioners sugar
-rating: 0
+rating:
 ease:
 category: dessert
 subcategory: cookie

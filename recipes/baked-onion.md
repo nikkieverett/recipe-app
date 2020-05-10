@@ -2,13 +2,13 @@
 servings:
 notes:
 directions: |-
-  1. cut center core out of onion
-  2. cut top off of jalapeno
-  3. put into onion
-  4. put butter in onion
-  5. pour balsamic vinegar over
-  6. sprinkle with garlic salt
-  7. baked covered at 350 for 2 hours'
+  * Cut center core out of onion
+  * Cut top off of jalapeno
+  * Put into onion
+  * Put butter in onion
+  * Pour balsamic vinegar over
+  * Sprinkle with garlic salt
+  * Baked covered at 350 for 2 hours'
 ingredients: |-
   * 1 large onion
   * 1 jalapeno

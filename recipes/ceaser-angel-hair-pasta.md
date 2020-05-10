@@ -1,5 +1,5 @@
 ---
-servings: 6 servings
+servings: 4 servings
 notes:
 directions: |-
   * In a large pot of salted boiling water, cook angel hair according to package directions until al dente
@@ -37,8 +37,8 @@ category: main course
 subcategory: pasta
 href: 'https://www.delish.com/cooking/recipe-ideas/recipes/a49951/caesar-angel-hair-recipe/'
 totalTime: 35 minutes
-cookTime: 35 minutes
-prepTime:
+cookTime: 25 minutes
+prepTime: 10 mins
 title: ceaser angel hair pasta
 path: /ceaser-angel-hair-pasta
 ---

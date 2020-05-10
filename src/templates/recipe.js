@@ -65,6 +65,11 @@ const recipeStyles = makeStyles(theme => ({
     left: 0,
     color: theme.palette.primary.dark
   },
+  cardBody: {
+    maxWidth: 1040,
+    padding: '0px 20px',
+    margin: '0 auto'
+  },
   cardNotes: {
     borderTop: `1px solid ${theme.palette.secondary.dark}`,
     paddingTop: 20
@@ -158,6 +163,8 @@ export default function Template({ data }) {
                 </Grid>
               )}
             </Grid>
+          </Grid>
+          <Grid container justify="center" spacing={2} className={classes.cardBody}>
             <Grid key={1} xs={12} sm={6} item>
               <Typography variant="h5" component="h2" className={classes.item}>
                 Ingredients:
