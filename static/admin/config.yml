@@ -1,7 +1,6 @@
 backend:
-  name: github
+  name: git-gateway
   repo: nikkieverett/recipe-app
-
 media_folder: static/assets
 public_folder: assets
 site_url: https://the-cooking-spoon.netlify.com
