@@ -1,49 +1,48 @@
 ---
 title: Cold peanut noodles with chicken
 ingredients: >-
-  2 cups chopped; cooked chicken\
+  * 2 cups chopped; cooked chicken
 
-  1 package (16 ounces) fusilli or rotini pasta\
+  * 1 package (16 ounces) fusilli or rotini pasta
 
-  1½ cups sugar snap peas or chinese pea pods; stems removed; sliced into 1-inch pieces\
+  * 1½ cups sugar snap peas or chinese pea pods; stems removed; sliced into 1-inch pieces
 
-  1 red pepper stem removed; seeded; diced\
+  * 1 red pepper stem removed; seeded; diced
 
-  2 medium carrots peeled; shredded\
+  * 2 medium carrots peeled; shredded
 
-  4 green onions white and green parts; chopped\
+  * 4 green onions white and green parts; chopped
 
-  ¾ cup peanut sauce (recipe follows)\
+  * ¾ cup peanut sauce (recipe follows)
 
-  \
 
-  peanut sauce:\
+  peanut sauce:
 
-  1½ cups hidden valley® original ranch® organic dressing\
 
-  ⅔ cup crunchy peanut butter\
+  * 1½ cups hidden valley® original ranch® organic dressing
 
-  ½ teaspoon sugar\
+  * ⅔ cup crunchy peanut butter
 
-  1 tablespoon red pepper sauce\
+  * ½ teaspoon sugar
 
-  1 tablespoon rice wine vinegar\
+  * 1 tablespoon red pepper sauce
 
-  1½ tablespoons low-sodium soy sauce\
+  * 1 tablespoon rice wine vinegar
 
-  red pepper flakes
+  * 1½ tablespoons low-sodium soy sauce
+
+  * red pepper flakes
 directions: >-
-  peanut sauce:\
+  peanut sauce:
+
 
   1. in a food processor; combine the dressing; peanut butter; soy sauce; vinegar; red pepper sauce; and sugar and process until smooth.\
+     main dish:
+  2. in a large bowl; add the pasta; chicken; peas; red pepper; green onion and carrot.
 
-  main dish:\
+  3. add the peanut sauce and toss until evenly coated.
 
-  1. in a large bowl; add the pasta; chicken; peas; red pepper; green onion and carrot.\
-
-  2. add the peanut sauce and toss until evenly coated.\
-
-  3. chill covered for 1 hour before serving.
+  4. chill covered for 1 hour before serving.
 category: main course
 subcategory: pasta
 totalTime: 45 mins
