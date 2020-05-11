@@ -1,7 +1,8 @@
 backend:
+  #  TODO: Fix this
   name: git-gateway
   repo: nikkieverett/recipe-app
-  preview_context: github/deployment
+  # preview_context: `netlify/${site.id}/deploy-preview`,
 media_folder: static/assets
 public_folder: assets
 site_url: https://the-cooking-spoon.netlify.com
