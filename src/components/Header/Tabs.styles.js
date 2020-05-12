@@ -5,7 +5,8 @@ const tabStyles = makeStyles(theme => ({
     flexGrow: 1,
     width: '100%',
     height: 48,
-    backgroundColor: theme.palette.primary.main
+    backgroundColor: theme.palette.primary.main,
+    boxShadow: '0px 11px 15px -7px rgba(203, 101, 87, 1)'
   }
 }))
 
