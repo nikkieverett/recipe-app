@@ -6,7 +6,11 @@ const recipeCardStyles = makeStyles(theme => ({
     position: 'relative',
     cursor: 'pointer',
     textTransform: 'capitalize',
-    boxShadow: `0px 11px 15px -7px rgba(${theme.palette.primary.dark}, 0.2),0px 24px 38px 3px rgba(${theme.palette.primary.dark} ,0.14),0px 9px 46px 8px rgba(${theme.palette.secondary.dark}, 0.12)`
+    backgroundColor: 'rgba(255, 152, 138, .2)',
+    boxShadow: '0px 8px 10px -7px rgba(203, 101, 87, 1)',
+    '&:hover': {
+      boxShadow: '0px 11px 15px -7px rgba(203, 101, 87, 1)'
+    }
   },
   cardTitle: {
     fontWeight: 300,
@@ -14,21 +18,24 @@ const recipeCardStyles = makeStyles(theme => ({
     color: theme.palette.primary.dark
   },
   cardBodyIcon: {
-    color: theme.palette.secondary.main,
+    color: theme.palette.secondary.contrastText,
     position: 'absolute',
     left: 0
   },
   cardBodyItem: {
     position: 'relative',
     paddingLeft: 30,
+    fontSize: 16,
     paddingTop: 5,
-    color: theme.palette.secondary.dark
+    color: theme.palette.secondary.contrastText,
+    textTransform: 'uppercase'
   },
   cardHeader: {
     backgroundColor: theme.palette.primary.light,
     margin: '-15px -15px 10px',
     padding: '15px 15px',
-    borderRadius: theme.shape.borderRadius
+    borderRadius: theme.shape.borderRadius,
+    textTransform: 'uppercase'
   }
 }))
 

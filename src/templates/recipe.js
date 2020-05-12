@@ -20,15 +20,18 @@ import RecipeCardNavigation from '../components/Navigation/RecipeCardNavigation'
 const recipeStyles = makeStyles(theme => ({
   root: {
     display: 'flex',
-    backgroundColor: theme.palette.primary.light,
-    minHeight: '100vh'
+    backgroundColor: 'rgba(255, 152, 138, .2)',
+    minHeight: '100vh',
+    color: theme.palette.primary.contrastText
   },
   control: {
     padding: theme.spacing(2)
   },
   card: {
     margin: '80px 40px 40px',
+    backgroundColor: 'rgba(255, 152, 138, .5)',
     padding: 20,
+    color: theme.palette.primary.contrastText,
     '& li': {
       marginBottom: 15
     },
@@ -77,8 +80,7 @@ const recipeStyles = makeStyles(theme => ({
     }
   },
   cardNotes: {
-    borderTop: `1px solid ${theme.palette.secondary.dark}`,
-    paddingTop: 20
+    borderTop: `4px solid ${theme.palette.secondary.dark}`
   }
 }))
 

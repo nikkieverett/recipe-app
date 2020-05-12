@@ -7,7 +7,14 @@ const searchBarStyles = makeStyles(theme => ({
   textField: {
     padding: '2px 4px 2px 12px',
     display: 'flex',
-    alignItems: 'center'
+    alignItems: 'center',
+    backgroundColor: 'rgba(255, 152, 138, .5)',
+    boxShadow: '0px 8px 10px -7px rgba(156, 60, 53, 1)',
+    outline: 'none',
+    '&:focus-within': {
+      boxShadow: '0px 11px 15px -7px rgba(156, 60, 53, 1)',
+      outline: '1px solid rgba(156, 60, 53, 1)'
+    }
   },
   body: {
     [theme.breakpoints.down('sm')]: {
