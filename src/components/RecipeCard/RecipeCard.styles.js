@@ -4,12 +4,14 @@ const recipeCardStyles = makeStyles(theme => ({
   root: {
     height: '100%',
     position: 'relative',
-    pointer: 'cursor',
-    textTransform: 'capitalize'
+    cursor: 'pointer',
+    textTransform: 'capitalize',
+    boxShadow: `0px 11px 15px -7px rgba(${theme.palette.primary.dark}, 0.2),0px 24px 38px 3px rgba(${theme.palette.primary.dark} ,0.14),0px 9px 46px 8px rgba(${theme.palette.secondary.dark}, 0.12)`
   },
   cardTitle: {
     fontWeight: 300,
-    lineHeight: 1.2
+    lineHeight: 1.2,
+    color: theme.palette.primary.dark
   },
   cardBodyIcon: {
     color: theme.palette.secondary.main,
@@ -19,7 +21,8 @@ const recipeCardStyles = makeStyles(theme => ({
   cardBodyItem: {
     position: 'relative',
     paddingLeft: 30,
-    paddingTop: 5
+    paddingTop: 5,
+    color: theme.palette.secondary.dark
   },
   cardHeader: {
     backgroundColor: theme.palette.primary.light,

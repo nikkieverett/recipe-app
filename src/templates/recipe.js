@@ -14,12 +14,14 @@ import LinkIcon from '@material-ui/icons/Link'
 import StarIcon from '@material-ui/icons/Star'
 import AccessTimeIcon from '@material-ui/icons/AccessTime'
 
-import RecipeCardHeader from '../components/layout/header/RecipeCardHeader'
-import RecipeCardNavigation from '../components/layout/navigation/RecipeCardNavigation'
+import RecipeCardHeader from '../components/Header/RecipeCardHeader'
+import RecipeCardNavigation from '../components/Navigation/RecipeCardNavigation'
 
 const recipeStyles = makeStyles(theme => ({
   root: {
-    display: 'flex'
+    display: 'flex',
+    backgroundColor: theme.palette.primary.light,
+    minHeight: '100vh'
   },
   control: {
     padding: theme.spacing(2)
@@ -27,8 +29,13 @@ const recipeStyles = makeStyles(theme => ({
   card: {
     margin: '80px 40px 40px',
     padding: 20,
-    [theme.breakpoints.down('xs')]: {
-      margin: '60px 10px 10px'
+    '& li': {
+      marginBottom: 15
+    },
+    [theme.breakpoints.down('sm')]: {
+      margin: '55px 0 0',
+      padding: '10px 0',
+      overflow: 'hidden'
     }
   },
   cardHeader: {
@@ -37,11 +44,6 @@ const recipeStyles = makeStyles(theme => ({
     padding: '15px !important',
     borderBottom: `10px solid ${theme.palette.secondary.main}`,
     marginBottom: 20
-  },
-  cardList: {
-    '& li': {
-      marginBottom: 15
-    }
   },
   cardHeaderTitle: {
     marginBottom: 20,
@@ -68,7 +70,11 @@ const recipeStyles = makeStyles(theme => ({
   cardBody: {
     maxWidth: 1040,
     padding: '0px 20px',
-    margin: '0 auto'
+    margin: '0 auto',
+    [theme.breakpoints.down('sm')]: {
+      padding: 0,
+      maxWidth: '100vw'
+    }
   },
   cardNotes: {
     borderTop: `1px solid ${theme.palette.secondary.dark}`,

@@ -43,27 +43,27 @@ const RecipeCardNavigation = ({ setMobileOpen, mobileOpen, container, frontmatte
     <>
       <List>
         <ListItem button key={0}>
-          <ListItemIcon>
+          <ListItemIcon className={classes.icon}>
             <ArrowBackIcon />
           </ListItemIcon>
-          <ListItemText primary="Back to recipes" type="button" onClick={handleBackBtnClick} />
+          <ListItemText primary="Back to recipes" type="button" onClick={handleBackBtnClick} className={classes.listItem} />
         </ListItem>
       </List>
       <Divider />
       <List>
         <ListItem button key={0}>
-          <ListItemIcon>
+          <ListItemIcon className={classes.icon}>
             <EditIcon />
           </ListItemIcon>
-          <ListItemText primary="Edit Recipe" type="button" onClick={handleEditRecipe} />
+          <ListItemText primary="Edit Recipe" type="button" onClick={handleEditRecipe} className={classes.listItem} />
         </ListItem>
       </List>
       <List>
         <ListItem button key={0}>
-          <ListItemIcon>
+          <ListItemIcon className={classes.icon}>
             <AddIcon />
           </ListItemIcon>
-          <ListItemText primary="Add New" type="button" onClick={handleAddNew} />
+          <ListItemText primary="Add New" type="button" onClick={handleAddNew} className={classes.listItem} />
         </ListItem>
       </List>
     </>

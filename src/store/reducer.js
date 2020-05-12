@@ -67,12 +67,13 @@ const reducer = (state = initialState, action) => {
         subcategory: '',
         category: action.category,
         tabValue: 0,
+        recipesFilteredByCategory: catFiltered,
         filteredRecipes: catFiltered
       }
     }
 
     case constants.SORT_BY_SUBCATEGORY: {
-      const subcategoryFiltered = state.filteredRecipes.filter(recipe => {
+      const subcategoryFiltered = state.recipesFilteredByCategory.filter(recipe => {
         return recipe.node.frontmatter.subcategory === action.subcategory
       })
 
@@ -110,7 +111,9 @@ const reducer = (state = initialState, action) => {
 
     case constants.FILTER_RECIPES: {
       const queryFiltered = state.allRecipes.filter(recipe => {
-        return recipe.node.frontmatter.title.includes(state.queryInput)
+        const recipeTitle = recipe.node.frontmatter.title.toLowerCase()
+
+        return recipeTitle.includes(state.queryInput)
       })
 
       if (queryFiltered.length === 0) {
@@ -124,6 +127,7 @@ const reducer = (state = initialState, action) => {
       return {
         ...state,
         category: '',
+        subcategory: '',
         filteredRecipes: queryFiltered
       }
     }

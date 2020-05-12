@@ -14,8 +14,8 @@ import Divider from '@material-ui/core/Divider'
 import navigationStyles from './Navigation.styles'
 
 // Data
-import data from '../../../data/categories.json'
-import actions, { sortByCategory } from '../../../store/actions'
+import data from '../../data/categories.json'
+import actions, { sortByCategory } from '../../store/actions'
 
 const NaviationDrawer = ({ setMobileOpen, mobileOpen, container, dispatch }) => {
   const classes = navigationStyles()
