@@ -6,11 +6,11 @@ import Snackbar from '@material-ui/core/Snackbar'
 import MuiAlert from '@material-ui/lab/Alert'
 
 // Custom Components
-import RecipeList from './RecipeList'
-import RecipeListHeader from './layout/header/RecipeListHeader'
-import RecipeListNavigationDrawer from './layout/navigation/RecipeListNavigationDrawer'
+import RecipeList from '../RecipeList/RecipeList'
+import RecipeListHeader from '../Header/RecipeListHeader'
+import RecipeListNavigationDrawer from '../Navigation/RecipeListNavigationDrawer'
 
-import actions from '../store/actions'
+import actions from '../../store/actions'
 import appStyles from './Page.styles'
 
 const App = ({ snackBarOpen, snackBarText, dispatch }) => {
@@ -24,9 +24,9 @@ const App = ({ snackBarOpen, snackBarText, dispatch }) => {
   return (
     <>
       <div className={classes.root}>
-        <RecipeListHeader mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
         <RecipeListNavigationDrawer mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
         <div className={classes.content}>
+          <RecipeListHeader mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
           <RecipeList />
         </div>
       </div>

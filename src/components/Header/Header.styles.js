@@ -4,26 +4,20 @@ import { makeStyles } from '@material-ui/core/styles'
 const headerStyles = makeStyles(theme => ({
   appBar: {
     backgroundColor: theme.palette.primary.dark,
+    color: theme.palette.primary.lightText,
     [theme.breakpoints.up('sm')]: {
-      zIndex: theme.zIndex.drawer + 1
+      width: 'calc(100% - 240px)',
+      marginLeft: 240
     }
   },
   header: {
-    textTransform: 'capitalize'
+    textTransform: 'uppercase'
   },
   margin: {
     margin: theme.spacing(1)
   },
   withoutLabel: {
     marginTop: theme.spacing(3)
-  },
-  textField: {
-    width: '25ch',
-    position: 'absolute',
-    right: 10,
-    padding: '2px 4px 2px 12px',
-    display: 'flex',
-    alignItems: 'center'
   },
   input: {
     marginLeft: theme.spacing(1),

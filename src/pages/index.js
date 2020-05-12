@@ -4,7 +4,7 @@ import { createStore } from 'redux'
 import { Provider } from 'react-redux'
 
 // Custom Components
-import Page from '../components/Page'
+import Page from '../components/HomePage/Page'
 
 // Store
 import reducer from '../store/reducer'
