@@ -8,6 +8,7 @@ import Typography from '@material-ui/core/Typography'
 import AccessTimeIcon from '@material-ui/icons/AccessTime'
 import FitnessCenterIcon from '@material-ui/icons/FitnessCenter'
 import RestaurantIcon from '@material-ui/icons/Restaurant'
+import VerifiedUserIcon from '@material-ui/icons/VerifiedUser'
 
 // Custom components
 import StarRating from './StarRating'
@@ -15,7 +16,7 @@ import StarRating from './StarRating'
 // Styles
 import recipeCardStyles from './RecipeCard.styles'
 
-const RecipeCard = ({ title, category, rating, ease, totalTime, path }) => {
+const RecipeCard = ({ title, category, rating, ease, totalTime, path, hasBeenTested }) => {
   const handleClick = () => {
     const newPath = path.slice(1)
 
@@ -32,9 +33,9 @@ const RecipeCard = ({ title, category, rating, ease, totalTime, path }) => {
           <Typography variant="h6" component="h3" className={classes.cardTitle}>
             {title}
           </Typography>
+          <StarRating rating={rating} />
         </div>
         <div>
-          <StarRating rating={rating} />
           {category && (
             <div className={classes.cardBodyItem}>
               <RestaurantIcon fontSize="small" className={classes.cardBodyIcon} />
@@ -53,6 +54,14 @@ const RecipeCard = ({ title, category, rating, ease, totalTime, path }) => {
               {totalTime}
             </div>
           )}
+          {hasBeenTested && (
+            <div className={classes.cardFooter}>
+              <div className={classes.cardBadge}>
+                <VerifiedUserIcon className={classes.cardBadgeIcon} />
+                <span className={classes.cardBadgeText}>Tested </span>
+              </div>
+            </div>
+          )}
         </div>
       </CardContent>
     </Card>
@@ -62,7 +71,10 @@ const RecipeCard = ({ title, category, rating, ease, totalTime, path }) => {
 RecipeCard.propTypes = {
   category: PropTypes.any,
   ease: PropTypes.any,
-  path: PropTypes.string,
+  hasBeenTested: PropTypes.any,
+  path: PropTypes.shape({
+    slice: PropTypes.func
+  }),
   rating: PropTypes.any,
   title: PropTypes.any,
   totalTime: PropTypes.any
