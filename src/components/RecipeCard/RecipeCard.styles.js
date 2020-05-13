@@ -15,7 +15,8 @@ const recipeCardStyles = makeStyles(theme => ({
   cardTitle: {
     fontWeight: 300,
     lineHeight: 1.2,
-    color: theme.palette.primary.dark
+    color: theme.palette.primary.dark,
+    marginBottom: 10
   },
   cardBodyIcon: {
     color: theme.palette.secondary.contrastText,
@@ -25,7 +26,7 @@ const recipeCardStyles = makeStyles(theme => ({
   cardBodyItem: {
     position: 'relative',
     paddingLeft: 30,
-    fontSize: 16,
+    fontSize: 14,
     paddingTop: 5,
     color: theme.palette.secondary.contrastText,
     textTransform: 'uppercase'
@@ -36,6 +37,22 @@ const recipeCardStyles = makeStyles(theme => ({
     padding: '15px 15px',
     borderRadius: theme.shape.borderRadius,
     textTransform: 'uppercase'
+  },
+  cardFooter: {
+    position: 'absolute',
+    left: 20,
+    bottom: 10,
+    color: theme.palette.secondary.contrastText
+  },
+  cardBadgeIcon: {
+    fontSize: 20,
+    float: 'left',
+    padding: '0 3px 0 0'
+  },
+  cardBadgeText: {
+    fontSize: 12,
+    float: 'left',
+    padding: 3
   }
 }))
 

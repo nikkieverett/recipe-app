@@ -13,6 +13,7 @@ import RestaurantIcon from '@material-ui/icons/Restaurant'
 import LinkIcon from '@material-ui/icons/Link'
 import StarIcon from '@material-ui/icons/Star'
 import AccessTimeIcon from '@material-ui/icons/AccessTime'
+import VerifiedUserIcon from '@material-ui/icons/VerifiedUser'
 
 import RecipeCardHeader from '../components/Header/RecipeCardHeader'
 import RecipeCardNavigation from '../components/Navigation/RecipeCardNavigation'
@@ -22,23 +23,23 @@ const recipeStyles = makeStyles(theme => ({
     display: 'flex',
     backgroundColor: 'rgba(255, 152, 138, .2)',
     minHeight: '100vh',
+    width: '100%',
     color: theme.palette.primary.contrastText
   },
-  control: {
-    padding: theme.spacing(2)
-  },
   card: {
-    margin: '80px 40px 40px',
+    margin: '80px auto 40px',
     backgroundColor: 'rgba(255, 152, 138, .5)',
-    padding: 20,
+    width: '70%',
+    maxWidth: 1040,
     color: theme.palette.primary.contrastText,
     '& li': {
       marginBottom: 15
     },
     [theme.breakpoints.down('sm')]: {
-      margin: '55px 0 0',
-      padding: '10px 0',
-      overflow: 'hidden'
+      margin: '50px 0 0',
+      padding: '0',
+      overflow: 'hidden',
+      width: '100%'
     }
   },
   cardHeader: {
@@ -50,7 +51,8 @@ const recipeStyles = makeStyles(theme => ({
   },
   cardHeaderTitle: {
     marginBottom: 20,
-    textTransform: 'capitalize'
+    textTransform: 'capitalize',
+    position: 'relative'
   },
   cardHeaderItem: {
     position: 'relative',
@@ -71,16 +73,47 @@ const recipeStyles = makeStyles(theme => ({
     color: theme.palette.primary.dark
   },
   cardBody: {
-    maxWidth: 1040,
-    padding: '0px 20px',
+    padding: '0px 20px 20px',
     margin: '0 auto',
     [theme.breakpoints.down('sm')]: {
-      padding: 0,
       maxWidth: '100vw'
     }
   },
+  cardBodyItem: {
+    position: 'relative',
+    textTransform: 'capitalize',
+    marginRight: 20,
+    paddingLeft: 25,
+    marginBottom: 15,
+    fontSize: 16
+  },
+  cardBodyIcon: {
+    position: 'absolute',
+    left: 0,
+    fontSize: 22,
+    color: theme.palette.primary.dark
+  },
   cardNotes: {
-    borderTop: `4px solid ${theme.palette.secondary.dark}`
+    borderTop: `4px solid ${theme.palette.secondary.dark}`,
+    paddingTop: 20,
+    marginTop: 10
+  },
+  cardList: {
+    fontSize: 16
+  },
+  cardBadge: {
+    position: 'absolute',
+    right: 0,
+    top: 0
+  },
+  cardBadgeIcon: {
+    fontSize: 20,
+    float: 'left'
+  },
+  cardBadgeText: {
+    fontSize: 16,
+    float: 'left',
+    padding: '2px 5px 0 0'
   }
 }))
 
@@ -97,10 +130,16 @@ export default function Template({ data }) {
         <RecipeCardHeader mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} frontmatter={frontmatter} />
         <RecipeCardNavigation mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} frontmatter={frontmatter} />
         <Paper className={classes.card}>
-          <Grid container justify="center" spacing={2}>
+          <Grid container justify="center">
             <Grid xs={12} item className={classes.cardHeader}>
               <Typography variant="h4" component="h2" className={classes.cardHeaderTitle}>
                 {frontmatter.title}
+                {frontmatter.hasBeenTested && (
+                  <div className={classes.cardBadge}>
+                    <span className={classes.cardBadgeText}>Tested: </span>
+                    <VerifiedUserIcon className={classes.cardBadgeIcon} />
+                  </div>
+                )}
               </Typography>
               <Grid container>
                 {frontmatter.servings && (
@@ -136,32 +175,6 @@ export default function Template({ data }) {
                   </Grid>
                 )}
               </Grid>
-              <Grid container>
-                {frontmatter.totalTime && (
-                  <Grid item className={classes.cardHeaderItem}>
-                    <span>
-                      <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
-                      Total: {frontmatter.totalTime}
-                    </span>
-                  </Grid>
-                )}
-                {frontmatter.cookTime && (
-                  <Grid item className={classes.cardHeaderItem}>
-                    <span>
-                      <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
-                      Cook: {frontmatter.cookTime}
-                    </span>
-                  </Grid>
-                )}
-                {frontmatter.prepTime && (
-                  <Grid item className={classes.cardHeaderItem}>
-                    <span>
-                      <AccessTimeIcon fontSize="small" className={classes.cardHeaderIcon} />
-                      Prep: {frontmatter.prepTime}
-                    </span>
-                  </Grid>
-                )}
-              </Grid>
               {frontmatter.href && (
                 <Grid container>
                   <a href={frontmatter.href} target="_blank" rel="noopener noreferrer" className={classes.cardHeaderLink}>
@@ -172,7 +185,33 @@ export default function Template({ data }) {
               )}
             </Grid>
           </Grid>
-          <Grid container justify="center" spacing={2} className={classes.cardBody}>
+          <Grid container justify="center" className={classes.cardBody}>
+            <Grid container>
+              {frontmatter.prepTime && (
+                <Grid item className={classes.cardBodyItem}>
+                  <span>
+                    <AccessTimeIcon fontSize="small" className={classes.cardBodyIcon} />
+                    Prep: {frontmatter.prepTime}
+                  </span>
+                </Grid>
+              )}
+              {frontmatter.cookTime && (
+                <Grid item className={classes.cardBodyItem}>
+                  <span>
+                    <AccessTimeIcon fontSize="small" className={classes.cardBodyIcon} />
+                    Cook: {frontmatter.cookTime}
+                  </span>
+                </Grid>
+              )}
+              {frontmatter.totalTime && (
+                <Grid item className={classes.cardBodyItem}>
+                  <span>
+                    <AccessTimeIcon fontSize="small" className={classes.cardBodyIcon} />
+                    Total: {frontmatter.totalTime}
+                  </span>
+                </Grid>
+              )}
+            </Grid>
             <Grid key={1} xs={12} sm={6} item>
               <Typography variant="h5" component="h2" className={classes.item}>
                 Ingredients:
