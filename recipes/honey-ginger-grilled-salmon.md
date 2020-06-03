@@ -1,5 +1,5 @@
 ---
-title: grilled honey grilled salmon
+title: grilled honey grilled salmon-marinade
 ingredients: |-
   * 1 teaspoon ground ginger
   * 1 teaspoon garlic powder
