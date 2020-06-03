@@ -3,27 +3,17 @@ title: Cheesy Italian Chicken
 ingredients: |-
   <!--StartFragment-->
 
-  4skinless, boneless chicken breasts
-
-  kosher salt
-
-  Freshly ground black pepper
-
-  3 tbsp.olive oil (divided)
-
-  1/2 c.prepared pesto
-
-  1tomato, sliced
-
-  4slices mozzarella
-
-  4basil leaves
-
-  3/4 lb.spaghetti, cooked
-
-  Juice of 1 lemon
-
-  1/2 c.finely grated Parmesan
+  * 4skinless, boneless chicken breasts
+  * kosher salt
+  * Freshly ground black pepper
+  * 3 tbsp.olive oil (divided)
+  * 1/2 c.prepared pesto
+  * 1 tomato, sliced
+  * 4 slices mozzarella
+  * 4 basil leaves
+  * 3/4 lb.spaghetti, cooked
+  * Juice of 1 lemon
+  * 1/2 c.finely grated Parmesan
 
   <!--EndFragment-->
 directions: >-
