@@ -1,16 +1,14 @@
 ---
-id: 5cbb4221035db400144e093c
 servings:
 notes:
 directions:
 ingredients: |-
-2 oz peach vodka
-4 oz oj
-1/2 oz peach schnapps
-rating: 0
+  * 2 oz peach vodka
+  * 4 oz oj
+  * 1/2 oz peach schnapps
+rating:
 ease:
-category:
-  - drink
+category: drink
 href:
 totalTime:
 cookTime:
