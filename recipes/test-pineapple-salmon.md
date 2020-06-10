@@ -1,5 +1,5 @@
 ---
-title: Test pineapple salmon
+title: Grilled Pineapple Salmon
 ingredients: |-
   * Cooking spray, for pan
   * 17 pineapple rings, fresh or canned
@@ -17,25 +17,21 @@ ingredients: |-
   * Thinly sliced green onions, for garnish
   * Lime wedges, for serving
 directions: >-
-  1. Preheat oven to 350°. Line a large rimmed baking sheet with foil and grease with cooking spray. In the center of the foil, lay pineapple slices in an even layer.
+  1. Preheat oven to 350°. Line a large rimmed baking sheet with foil and grease
+  with cooking spray. In the center of the foil, lay pineapple slices in an even
+  layer.
 
   2. Season both sides of the salmon with salt and pepper and place on top of pineapple slices.
 
   3. In a small bowl, whisk together butter, chili sauce, cilantro, garlic, ginger, sesame oil, and red pepper flakes. Brush all over salmon fillet.
 
   4. Bake until the salmon is cooked through, about 25 minutes. Switch the oven to broil, and broil for 2 minutes, or until fish is slightly golden. Garnish with sesame seeds and green onions and serve with lime wedges.
-# Please select one or more categories
 category: main course
-# Please select one or more categories
 subcategory: meat
-# Example: 45 mins
 cookTime: 45 min
-# Example: 1hr
 prepTime: 20 min
-# Example: 1hr 45 mins
 totalTime: 65 min
 servings: 4 servings
-rating: 5
 ease: easy
 nutritionFacts: |-
   * **Calories**: 121.
@@ -46,7 +42,8 @@ nutritionFacts: |-
   * Sugars: 0g.
   * Protein: 17g.
 notes: I'm a note!
+path: /test-pineapple-salmon
+rating: 5
 hasBeenTested: true
 thumbnail: assets/20190503-delish-pineapple-baked-salmon-horizontal-ehg-450-1557771120.jpg
-path: /test-pineapple-salmon
 ---
