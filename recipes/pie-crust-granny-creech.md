@@ -3,7 +3,7 @@ title: Pie Crust - Granny Creech
 ingredients: |-
   1/4 c milk
 
-  3/4 c oil
+  1/2 c oil (for flaky crust use butter)
 
   2 c flour
 
