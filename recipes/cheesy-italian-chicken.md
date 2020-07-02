@@ -1,8 +1,6 @@
 ---
 title: Cheesy Italian Chicken
 ingredients: |-
-  <!--StartFragment-->
-
   * 4skinless, boneless chicken breasts
   * kosher salt
   * Freshly ground black pepper
@@ -14,12 +12,7 @@ ingredients: |-
   * 3/4 lb.spaghetti, cooked
   * Juice of 1 lemon
   * 1/2 c.finely grated Parmesan
-
-  <!--EndFragment-->
 directions: >-
-  <!--StartFragment-->
-
-
   1. Heat about 1 tablespoon olive oil in a large skillet over medium heat.
 
   2. Season both sides of chicken with salt and pepper and add to the skillet. Sear until the chicken is golden on one side, about 6 minutes.
@@ -29,9 +22,6 @@ directions: >-
   4. While the chicken is cooking, toss pasta with lemon juice, remaining olive oil and Parmesan. Season to taste with salt and pepper.
 
   5. Serve chicken over pasta. Sprinkle each tomato slice with salt and pepper garnish with a basil leaf. Spoon leftover pesto sauce on top, if desired.
-
-
-  <!--EndFragment-->
 category: main course
 cookTime: 15 mins
 prepTime: 10 mins
@@ -39,14 +29,7 @@ totalTime: 25 mins
 servings: "4"
 rating: 4
 ease: easy
-notes: >-
-  <!--StartFragment-->
-
-
-  <https://www.delish.com/cooking/recipe-ideas/recipes/a49039/cheesy-italian-chicken-recipe/>
-
-
-  <!--EndFragment-->
+notes: <https://www.delish.com/cooking/recipe-ideas/recipes/a49039/cheesy-italian-chicken-recipe/>
 hasBeenTested: true
 thumbnail: assets/cheesy-italian-chicken.png
 ---
