@@ -1,8 +1,6 @@
 ---
-title: Sweet Chili Pork Bowls
+title: Sweet Chili Pork Bowls hello fresh
 ingredients: |-
-  <!--StartFragment-->
-
   * 1 Bell Pepper
   * 1 Yellow Onion
   * ¼ ounce Cilantro
@@ -17,13 +15,10 @@ ingredients: |-
   * 2 tablespoon Butter
   * Salt
   * Pepper
-
-  <!--EndFragment-->
 directions: >-
-  <!--StartFragment-->
-
-
-  * Wash and dry all produce. Halve, core, and thinly slice bell pepper into strips. Halve, peel, and thinly slice onion. Zest and quarter lime (for 4 servings, zest 1 lime and quarter both). Mince cilantro.
+  * Wash and dry all produce. Halve, core, and thinly slice bell pepper into
+  strips. Halve, peel, and thinly slice onion. Zest and quarter lime (for 4
+  servings, zest 1 lime and quarter both). Mince cilantro.
 
   * In a small pot, combine rice, 1¼ cups water (2¼ cups for 4 servings), and a pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook until rice is tender, 15-18 minutes. Keep covered off heat until ready to serve.
 
@@ -34,9 +29,6 @@ directions: >-
   * Add another drizzle of oil to same pan over medium-high heat. Add pork; season with salt and pepper. Using a spatula, press into an even layer. Cook, without stirring, until browned on bottom, 3-4 minutes. Break up meat into pieces and continue cooking until pork is cooked through, 2-4 minutes more. Stir in cooked veggies, then add sweet soy glaze, chili sauce, and 1 TBSP butter (2 TBSP for 4 servings). Cook, stirring, until mixture is thoroughly coated, 1-2 minutes.
 
   * Fluff rice with a fork; stir in 1 TBSP butter (2 TBSP for 4 servings) and lime zest to taste. Season with salt. Divide between bowls and top with pork mixture. Top with peanuts and cilantro. Serve with lime wedges on the side.
-
-
-  <!--EndFragment-->
 category: main course
 subcategory: null
 cookTime: 25 minutes
@@ -46,8 +38,6 @@ servings: "2"
 rating: 4
 ease: easy
 nutritionFacts: |-
-  <!--StartFragment-->
-
   Energy (kJ)3891 kJ
 
   Calories930 kcal
@@ -67,16 +57,7 @@ nutritionFacts: |-
   Cholesterol125 mg
 
   Sodium250 mg
-
-  <!--EndFragment-->
-notes: >-
-  <!--StartFragment-->
-
-
-  <https://www.hellofresh.com/recipes/sweet-chili-pork-bowls-5eb9aefac352847ac10c4bc0>
-
-
-  <!--EndFragment-->
+notes: <https://www.hellofresh.com/recipes/sweet-chili-pork-bowls-5eb9aefac352847ac10c4bc0>
 hasBeenTested: false
 thumbnail: assets/pork-bowl.jpg
 ---
