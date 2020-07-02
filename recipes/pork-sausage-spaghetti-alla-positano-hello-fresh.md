@@ -1,8 +1,6 @@
 ---
 title: Pork Sausage Spaghetti alla Positano - hello fresh
 ingredients: |-
-  <!--StartFragment-->
-
   * 4 teaspoons olive oil
   * 6 ounce spaghetti
   * 1 Zucchini
@@ -14,13 +12,10 @@ ingredients: |-
   * ¼ cup Parmesan Cheese
   * Salt
   * Pepper
-
-  <!--EndFragment-->
 directions: >-
-  <!--StartFragment-->
-
-
-  * Bring a large pot of salted water to a boil. Once boiling, add spaghetti. Cook, stirring occasionally, until al dente, 9-11 minutes. Reserve ½ cup pasta cooking water (1 cup for 4 servings), then drain.
+  * Bring a large pot of salted water to a boil. Once boiling, add spaghetti.
+  Cook, stirring occasionally, until al dente, 9-11 minutes. Reserve ½ cup pasta
+  cooking water (1 cup for 4 servings), then drain.
 
   * Meanwhile, wash and dry all produce. Trim and halve zucchini lengthwise; cut crosswise into ¼-inchthick half-moons. Dice tomato; toss in a small bowl with a drizzle of olive oil and a pinch of salt and pepper. Thinly slice half the chili (if you like spicy food, slice the whole thing). Quarter lemon. Remove sausage from casing; discard casing.
 
@@ -31,9 +26,6 @@ directions: >-
   * Add spaghetti, garlic herb butter, half the Parmesan (save the rest for serving), ¼ cup reserved pasta cooking water (⅓ cup for 4 servings), and 2 tsp lemon juice (1 TBSP for 4). Toss until thoroughly combined. (TIP: If needed, add more pasta cooking water a splash at a time until pasta is coated in sauce.) Stir in half the zucchini and season with plenty of salt and pepper.
 
   * Divide pasta between bowls. Top with remaining zucchini and Parmesan. Garnish with a pinch of remaining chili if desired. Serve with remaining lemon wedges on the side.
-
-
-  <!--EndFragment-->
 category: main course
 prepTime: 10 minutes
 totalTime: 30 minutes
@@ -41,8 +33,6 @@ servings: "2"
 rating: 3
 ease: easy
 nutritionFacts: |-
-  <!--StartFragment-->
-
   Nutrition Values/ per serving
 
   Energy (kJ)3807 kJ
@@ -64,16 +54,7 @@ nutritionFacts: |-
   Cholesterol120 mg
 
   Sodium1160 mg
-
-  <!--EndFragment-->
-notes: >-
-  <!--StartFragment-->
-
-
-  <https://www.hellofresh.com/recipes/pork-sausage-spaghetti-alla-positano-5eb9af2113a20b3920042fd8>
-
-
-  <!--EndFragment-->
+notes: <https://www.hellofresh.com/recipes/pork-sausage-spaghetti-alla-positano-5eb9af2113a20b3920042fd8>
 hasBeenTested: true
 thumbnail: assets/5eb9af2113a20b3920042fd8-0a091888.jpg
 ---
