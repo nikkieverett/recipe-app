@@ -7,7 +7,6 @@ export default () => {
         edges {
           node {
             frontmatter {
-              id
               servings
               notes
               directions

@@ -262,7 +262,6 @@ export const pageQuery = graphql`
         ease
         hasBeenTested
         href
-        id
         ingredients
         notes
         path

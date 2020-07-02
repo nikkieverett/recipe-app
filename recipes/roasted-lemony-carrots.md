@@ -21,7 +21,7 @@ subcategory: vegetable
 cookTime: 15-18 minutes
 prepTime: 5 minutes
 totalTime: 20 minutes
-servings: "4"
+servings: 4 servings
 rating: 4
 ease: easy
 hasBeenTested: false
