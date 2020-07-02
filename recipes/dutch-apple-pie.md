@@ -49,7 +49,7 @@ subcategory: pie
 href: 'https://www.bettycrocker.com/recipes/dutch-apple-pie/815d821f-058d-4177-93be-e157390e947b'
 totalTime: 2 hours 45 minutes
 cookTime:
-prepTime: 60 miutes
+prepTime: 60 minutes
 title: dutch apple pie
 path: /dutch-apple-pie
 ---

@@ -40,6 +40,5 @@ notes: |-
   * To minimize the juiciness of the lemons, I blotted my lemon slices briefly on a paper towel before adding them to the bars
 path: /5-ingredient-lemon-bars
 href: https://www.gimmesomeoven.com/lemon-bars/
-id: 5d432b08a7c9440014f6ffa7
 rating: 4
 ---
