@@ -1,8 +1,6 @@
 ---
-title: Silky Sicilian Penne
+title: Silky Sicilian Penne hello fresh
 ingredients: |-
-  <!--StartFragment-->
-
   * 2 chicken breasts - sliced
   * 1 Zucchini
   * 4 ounce Cremini Mushrooms
@@ -18,12 +16,7 @@ ingredients: |-
   * 2 tablespoon Butter
   * Salt
   * Pepper
-
-  <!--EndFragment-->
 directions: >-
-  <!--StartFragment-->
-
-
   * Bring a large pot of salted water to boil. 
 
   * Season chicken.  Heat a drizzle of olive oil in a large pan over medium-high heat. Saute in chicken until cooked through, about 10 minutes.  Transfer to a medium bowl.
@@ -39,9 +32,6 @@ directions: >-
   * Meanwhile, heat 1 TBSP butter (2 TBSP for 4 servings) and a drizzle of olive oil in pan used for mushrooms over medium-high heat. Add tomatoes and season with salt, pepper, and Italian Seasoning. Cook, stirring, until tomatoes are softened, 2-4 minutes. Stir in half the chives and juice from half the lemon. Reduce heat to low, then stir in stock concentrate and ¼ cup reserved pasta cooking water (⅓ cup for 4). Whisk in crème fraîche; season with salt and pepper.
 
   * Add zucchini, mushrooms, chicken, and drained penne to pan with sauce; stir to combine. Stir in 1 TBSP butter (2 TBSP for 4 servings) until melted. (TIP: If necessary, add more reserved pasta cooking water a splash at a time until penne is coated in a creamy sauce.) Divide pasta between plates. Sprinkle with Parmesan and remaining chives. Serve with remaining lemon wedges on the side.
-
-
-  <!--EndFragment-->
 category: main course
 cookTime: 25 minutes
 prepTime: 5 minutes
@@ -50,8 +40,6 @@ servings: "2"
 rating: 4
 ease: easy
 nutritionFacts: |-
-  <!--StartFragment-->
-
   Nutrition Values/ per serving
 
   Energy (kJ)2929 kJ
@@ -73,16 +61,7 @@ nutritionFacts: |-
   Cholesterol70 mg
 
   Sodium460 mg
-
-  <!--EndFragment-->
-notes: >-
-  <!--StartFragment-->
-
-
-  <https://www.hellofresh.com/recipes/silky-sicilian-mushroom-penne-5e39c13ff1e8243dda35c94f>
-
-
-  <!--EndFragment-->
+notes: <https://www.hellofresh.com/recipes/silky-sicilian-mushroom-penne-5e39c13ff1e8243dda35c94f>
 hasBeenTested: true
 thumbnail: assets/penne.jpg
 ---
