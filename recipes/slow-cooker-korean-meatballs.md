@@ -19,6 +19,7 @@ ingredients: |-
 rating: 3
 ease: intermediate
 category: appetizer
+subcategory: crockpot
 href: 'https://lifewiththecrustcutoff.com/slow-cooker-korean-meatballs/'
 totalTime:
 cookTime:

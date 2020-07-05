@@ -19,6 +19,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
+subcategory: crockpot
 href: 'https://12tomatoes.com/slow-cooker-jalapeno-corn/?utm_source=glp-12t&utm_medium=social-fb&utm_content=video&utm_campaign=slow-cooker-jalapeno-corn'
 totalTime:
 cookTime:
