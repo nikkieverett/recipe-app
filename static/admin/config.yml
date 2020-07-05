@@ -14,6 +14,7 @@ collections:
     create: true
     fields:
       - { name: title, label: Title }
+      - { name: href, label: Link }
       - { name: ingredients, label: Ingredients, widget: markdown, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
       - { name: directions, label: Directions, widget: markdown, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
       - {
