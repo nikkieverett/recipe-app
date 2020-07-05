@@ -58,7 +58,7 @@ nutritionFacts: |-
   Cholesterol115 mg
 
   Sodium940 mg
-notes: <https://www.hellofresh.com/recipes/meatloaves-with-a-sweet-chili-glaze-5eb07c9fbc3b52407e591a6a>
+href: https://www.hellofresh.com/recipes/meatloaves-with-a-sweet-chili-glaze-5eb07c9fbc3b52407e591a6a
 hasBeenTested: true
 thumbnail: assets/meatloaves-with-a-sweet-chili-glaze-51aeaf91.jpg
 ---
