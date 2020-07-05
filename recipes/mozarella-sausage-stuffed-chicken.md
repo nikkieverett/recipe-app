@@ -1,6 +1,6 @@
 ---
 servings:
-notes: |-
+notes: Time consuming
 ingredients: |-
   * 1/4 lb hot italian sausage with the casing removed
   * 1 yellow onion, minced
@@ -25,7 +25,7 @@ directions: |-
   * Place your chicken in an oven-safe pan, season with salt and pepper and drizzle with a little olive oil and 1/2 cup white wine
   * Cook them at 400 degrees for 20 minutes
 rating: 5
-ease: time consuming
+ease: difficult
 category: main course
 href: 'https://www.tlc.com/tlcme/7-chicken-dinner-winners/'
 totalTime:

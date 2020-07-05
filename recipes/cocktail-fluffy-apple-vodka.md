@@ -9,7 +9,7 @@ ingredients: |-
 directions: |-
   * Shake all ingredients with ice in a cocktail shaker.
   * Strain into a chilled shot glass.
-  * Garnish with green apple slices.'
+  * Garnish with green apple slices
 category: beverage
 cookTime: null
 prepTime: null
