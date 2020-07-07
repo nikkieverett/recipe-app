@@ -1,16 +1,6 @@
 ---
-servings: 6 servings
-notes:
-directions: |-
-  * In a large bowl, combine the ground beef, breadcrumbs, onion, egg, salt, and pepper, mixing until evenly combined
-  * Heat the canola oil in a pot over medium-high heat
-  * Take about a golf-ball size of the meatball mixture and roll it into balls
-  * Place the meatballs into the pot, cooking for one minute
-  * Flip the meatballs
-  * Add the beef broth, milk, salt, pepper, and worcestershire sauce and give it a stir
-  * Bring the liquid to a boil, then add the egg noodles
-  * Stir constantly until the pasta is cooked and the liquid has reduced to a sauce that coats the noodles, about seven to eight minutes
-  * Add the parmesan and the parsley, stirring until the cheese is melted
+title: one pot sweedish meatballs
+href: https://www.buzzfeed.com/nickguillory/heres-a-quick-and-easy-swedish-meatball-pasta-dinner-that-yo?utm_term=.qtexxopnm.xsv779kej
 ingredients: |-
   * 1 pound ground beef
   * ½ cup seasoned breadcrumbs
@@ -27,14 +17,34 @@ ingredients: |-
   * 4 cups egg noodles
   * 1 cup shredded parmesan cheese
   * ½ cup fresh chopped parsley or 1/2 tablespoon dried
-rating: 5
-ease: intermediate
+directions: >-
+  * In a large bowl, combine the ground beef, breadcrumbs, onion, egg, salt, and
+  pepper, mixing until evenly combined
+
+  * Heat the canola oil in a pot over medium-high heat
+
+  * Take about a golf-ball size of the meatball mixture and roll it into balls
+
+  * Place the meatballs into the pot, cooking for one minute
+
+  * Flip the meatballs
+
+  * Add the beef broth, milk, salt, pepper, and worcestershire sauce and give it a stir
+
+  * Bring the liquid to a boil, then add the egg noodles
+
+  * Stir constantly until the pasta is cooked and the liquid has reduced to a sauce that coats the noodles, about seven to eight minutes
+
+  * Add the parmesan and the parsley, stirring until the cheese is melted
 category: main course
 subcategory: pasta
-href: 'https://www.buzzfeed.com/nickguillory/heres-a-quick-and-easy-swedish-meatball-pasta-dinner-that-yo?utm_term=.qtexxopnm.xsv779kej'
-totalTime:
-cookTime:
-prepTime:
-title: one pot sweedish meatballs
+cookTime: null
+prepTime: null
+totalTime: null
+servings: 6 servings
+notes: Make in a large pot, not a skillet
 path: /one-pot-sweedish-meatballs
+rating: 5
+ease: intermediate
+hasBeenTested: true
 ---
