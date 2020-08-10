@@ -25,6 +25,10 @@ directions: >-
   * Bake at 375° for 25 minutes. Remove foil and bake until crust is golden brown and filling is bubbly, 20-25 minutes longer. Cool on a wire rack.
 category: dessert
 subcategory: pie
+cookTime: 45 minutes
+prepTime: 20 minutes
+totalTime: 65 minutes-not including crust
+servings: "8"
 nutritionFacts: "1 piece: 414 calories, 16g fat (7g saturated fat), 14mg
   cholesterol, 227mg sodium, 67g carbohydrate (38g sugars, 2g fiber), 3g
   protein."
