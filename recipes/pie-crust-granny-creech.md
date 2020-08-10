@@ -7,11 +7,13 @@ ingredients: |-
   * 1/4 c milk
   * 1/2 c oil (for flaky crust use butter)
 directions: |-
-  1. Sift flour and salt.
-  2. Add milk and oil.
-  3. Mix with fork to stick together.
-  4. Roll into 2 balls.
-  5. Put between wax paper, roll out.
+  1. Prepare pie crust before preparing filling.
+  2. Sift flour and salt.
+  3. Add milk and oil.
+  4. Mix with fork to stick together.
+  5. Roll into 2 balls.
+  6. Put between wax paper, roll out.
+  7. Roll pie crust around rolling pin to move to pie plate.
 category: dessert
 subcategory: pie
 ease: easy
