@@ -1,5 +1,5 @@
 ---
-title: Sweet Spicy Sriracha Glazed Salmon
+title: Sweet Spicy Sriracha Glazed Salmon - MARINADE!
 href: https://rasamalaysia.com/sweet-spicy-sriracha-glazed-salmon/
 ingredients: >-
   * 1/4 cup reduced-sodium soy sauce or tamari* for gluten-free 2 tablespoons
