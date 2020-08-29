@@ -10,7 +10,9 @@ ingredients: |-
   * 1/3 cup milk
   * 1/4 cup butter, melted
   * 1 cup fresh blueberries
-notes: null
+notes: I altered the original recipe because I never had good luck with the
+  crumb topping.  I just mixed the crumb topping ingredients into the muffin
+  with better results.
 subcategroy: muffin
 path: /blueberry-muffin
 title: blueberry muffin
