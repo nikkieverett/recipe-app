@@ -1,19 +1,15 @@
 ---
 ingredients: |-
-  *  ½ cups all-purpose flour
-  * ¾ cup white sugar
-  * ½ teaspoon salt
+  * 1 1/2 + 1/3 cups all-purpose flour
+  * 1 1/4 cup white sugar
+  * 1/2 teaspoon salt
   * 2 teaspoons baking powder
-  * ⅓ cup vegetable oil
+  * 1 1/2 teaspoons cinnamon
+  * 1/3 cup vegetable oil
   * 1 egg
-  * ⅓ cup milk, or more as needed
+  * 1/3 cup milk
+  * 1/4 cup butter, melted
   * 1 cup fresh blueberries
-
-    Crumb Topping
-  * ½ cup white sugar
-  * ⅓ cup all-purpose flour
-  * ¼ cup butter, cubed
-  * 1 ½ teaspoons ground cinnamon
 notes: null
 subcategroy: muffin
 path: /blueberry-muffin
@@ -34,7 +30,7 @@ directions: >-
 
   * Fold in blueberries
 
-  * Fill muffin cups right to the top and sprinkle with crumb topping mixture
+  * Fill muffin cups right to the top
 
   * Bake for 22 minutes in the preheated oven or until done
 category: breakfast
