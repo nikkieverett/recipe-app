@@ -1,5 +1,5 @@
 ---
-title: Swiss Cheese Pie
+title: Swiss Cheese Pie (Quiche)
 href: https://www.food.com/recipe/swiss-cheese-pie-458164
 ingredients: |-
   * 1 pie crust, for 9-inch pie 
