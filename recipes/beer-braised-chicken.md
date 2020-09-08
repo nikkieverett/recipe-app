@@ -1,11 +1,6 @@
 ---
-servings: 6 servings
-notes:
-directions: |-
-  * Preheat oven to 350
-  * Add all ingredients to large pan
-  * Cook for 30 min
-  * Turn oven to 400 for last 20 min
+title: beer braised chicken
+href: https://www.youtube.com/watch?v=r6tny4fzzle
 ingredients: |-
   * 5 lb chiken
   * 1 beer lager
@@ -17,13 +12,19 @@ ingredients: |-
   * 1 tbsp chopped parsley and marjoram
   * 1 tsp salt
   * 1 tsp pepper
-rating: 4
-ease: easy
+directions: |-
+  * Preheat oven to 350
+  * Add all ingredients to large pan
+  * Cook for 30 min
+  * Turn oven to 400 for last 20 min
 category: main course
-href: 'https://www.youtube.com/watch?v=r6tny4fzzle'
-totalTime: 1 hr
 cookTime: 50 min
 prepTime: 10 min
-title: beer braised chicken
+totalTime: 1 hr
+servings: 6 servings
+rating: 4
+ease: easy
+notes: null
 path: /beer-braised-chicken
+thumbnail: assets/beer-braised-chicken.png
 ---
