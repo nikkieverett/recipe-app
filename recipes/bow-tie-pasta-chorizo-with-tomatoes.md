@@ -1,17 +1,4 @@
 ---
-servings: 4 servings
-notes:
-directions: |-
-  * Cook pasta in lightly salted boiling water as package directs
-  * meanwhile heat oil in a large nonstick skillet over medium heat
-  * add garlic, sauté until fragrant
-  * add chorizo, sauté 3 minutes or until browned
-  * add tomatoes and crushed pepper, cook 1 minute or until tomatoes begin to release their juice
-  * remove from heat
-  * ladle off 1/3 cup pasta cooking water
-  * drain pasta, return to pot
-  * add chorizo mixture and cheese, mix gently adding reserved water as needed to make saucy
-  * sprinkle with parsley
 ingredients: |-
   * 12 oz. bow-tie (farfalle) pasta (6 cups)
   * 1 tbsp. olive oil
@@ -21,14 +8,37 @@ ingredients: |-
   * ¼ tsp. crushed red pepper
   * ⅓ c. crumbled queso blanco or shredded monterey jack cheese
   * chopped flat-leaf parsley
+notes: null
+subcategroy: pasta
+path: /bow-tie-pasta-chorizo-with-tomatoes
+title: bow tie pasta chorizo with tomatoes
+href: https://www.delish.com/cooking/recipe-ideas/recipes/a18119/bow-tie-pasta-chorizo-tomatoes-121351/
+directions: >-
+  * Cook pasta in lightly salted boiling water as package directs
+
+  * meanwhile heat oil in a large nonstick skillet over medium heat
+
+  * add garlic, sauté until fragrant
+
+  * add chorizo, sauté 3 minutes or until browned
+
+  * add tomatoes and crushed pepper, cook 1 minute or until tomatoes begin to release their juice
+
+  * remove from heat
+
+  * ladle off 1/3 cup pasta cooking water
+
+  * drain pasta, return to pot
+
+  * add chorizo mixture and cheese, mix gently adding reserved water as needed to make saucy
+
+  * sprinkle with parsley
+category: main course
+cookTime: null
+prepTime: 15 mins
+totalTime: 15 mins
+servings: 4 servings
 rating: 3
 ease: easy
-category: main course
-subcategroy: pasta
-href: 'https://www.delish.com/cooking/recipe-ideas/recipes/a18119/bow-tie-pasta-chorizo-tomatoes-121351/'
-totalTime: 15 mins
-cookTime:
-prepTime: 15 mins
-title: bow tie pasta chorizo with tomatoes
-path: /bow-tie-pasta-chorizo-with-tomatoes
+thumbnail: assets/bow-tie-chorizo-with-tomatoes.jpg
 ---
