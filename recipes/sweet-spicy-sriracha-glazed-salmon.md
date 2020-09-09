@@ -1,22 +1,15 @@
 ---
 title: Sweet Spicy Sriracha Glazed Salmon - MARINADE!
 href: https://rasamalaysia.com/sweet-spicy-sriracha-glazed-salmon/
-ingredients: >-
-  * 1/4 cup reduced-sodium soy sauce or tamari* for gluten-free 2 tablespoons
-  honey
-
+ingredients: |-
+  * 1/4 cup reduced-sodium soy sauce or tamari* for gluten-free 
+  * 2 tablespoons honey
   * 1 tablespoons rice vinegar
-
   * 1 tablespoon sriracha sauce or to taste
-
   * 1 tablespoon grated fresh ginger
-
   * 1 tablespoon minced garlic
-
   * 1 pound wild salmon fillet cut into 4 (4-ounce) pieces
-
   * 1 1/2 teaspoons sesame oil
-
   * 2 tablespoons finely chopped scallions for garnish
 directions: >-
   1. in a 1-gallon zip-top plastic bag, combine the soy sauce, honey, vinegar,
