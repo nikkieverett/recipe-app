@@ -39,5 +39,5 @@ servings: "6"
 rating: 4
 ease: intermediate
 hasBeenTested: false
-thumbnail: assets/tomato-pie_exps168011_th2847295d03_01_6bc_rms.jpg
+thumbnail: assets/tomato-pie.jpg
 ---
