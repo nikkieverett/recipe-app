@@ -1,19 +1,6 @@
 ---
-servings: 6 servings
-notes:
-directions: |-
-  * Place mushrooms & onions in the bottom of your slow cooker
-  * Combine beef patty ingredients and form 6 patties
-  * Brown over medium high heat (about 3 minutes per side)
-  * Layer beef patties over mushrooms
-  * Combine remaining ingredients except water and cornstarch
-  * Pour over beef and cook on low 5 hours
-  * Once cooked; remove patties and set aside.
-  * Turn slow cooker onto high.
-  * Combine cold water and cornstarch.
-  * Stir into the broth and let cook a few minutes until thickened.
-  * Add beef back into the sauce to coat.
-  * Serve over mashed potatoes or rice
+title: salisbury steak - crock pot
+href: https://www.spendwithpennies.com/slow-cooker-salisbury-steak/
 ingredients: |-
   * 6 oz sliced mushrooms
   * ½ onion; sliced
@@ -33,14 +20,28 @@ ingredients: |-
   * 3 tablespoons milk
   * 1 clove garlic
   * salt & pepper to taste
-rating: 4
-ease: intermediate
+directions: |-
+  * Place mushrooms & onions in the bottom of your slow cooker
+  * Combine beef patty ingredients and form 6 patties
+  * Brown over medium high heat (about 3 minutes per side)
+  * Layer beef patties over mushrooms
+  * Combine remaining ingredients except water and cornstarch
+  * Pour over beef and cook on low 5 hours
+  * Once cooked; remove patties and set aside.
+  * Turn slow cooker onto high.
+  * Combine cold water and cornstarch.
+  * Stir into the broth and let cook a few minutes until thickened.
+  * Add beef back into the sauce to coat.
+  * Serve over mashed potatoes or rice
 category: main course
 subcategory: crockpot
-href: 'https://www.spendwithpennies.com/slow-cooker-salisbury-steak/'
-totalTime:
-cookTime:
-prepTime:
-title: salisbury steak - crock pot
+cookTime: null
+prepTime: null
+totalTime: null
+servings: 6 servings
+rating: 4
+ease: intermediate
+notes: null
 path: /salisbury-steak-crock-pot
+thumbnail: assets/salisbury-steak-crockpot.jpg
 ---
