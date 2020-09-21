@@ -1,16 +1,6 @@
 ---
-servings: 10 servings
-notes:
-directions: |-
-  * Start with a large covered cooking pot
-  * Season chicken with salt and pepper and brown in olive oil over medium high heat
-  * Add sausage and continue to cook until lightly browned
-  * Stir in garlic and cook for for about two minutes
-  * Add chicken broth, heavy cream, dried pasta and cajun seasoning to pot
-  * Stir together and bring to a simmer over medium high heat
-  * Reduce heat to low and let cook covered for 15-20 minutes, or until pasta is tender
-  * Remove pot from heat and stir in parmesan cheese
-  * Stir in chopped parsley and sprinkle with additional cajun seasoning to taste
+title: one pot cajun chicken and sausage alfredo
+href: https://www.number-2-pencil.com/2015/10/15/one-pot-cajun-chicken-and-sausage-alfredo/
 ingredients: |-
   * 4 tablespoons of extra virgin olive oil
   * 1 pound of chicken, cut into bite sized pieces
@@ -24,14 +14,33 @@ ingredients: |-
   * 1 1/2 tablespoons of cajun seasoning plus more for topping
   * 4 oz of freshly shredded parmesan cheese
   * 1 cup of italian flat leaf parsley, minced
-rating: 4
-ease: easy
+directions: >-
+  * Start with a large covered cooking pot
+
+  * Season chicken with salt and pepper and brown in olive oil over medium high heat
+
+  * Add sausage and continue to cook until lightly browned
+
+  * Stir in garlic and cook for for about two minutes
+
+  * Add chicken broth, heavy cream, dried pasta and cajun seasoning to pot
+
+  * Stir together and bring to a simmer over medium high heat
+
+  * Reduce heat to low and let cook covered for 15-20 minutes, or until pasta is tender
+
+  * Remove pot from heat and stir in parmesan cheese
+
+  * Stir in chopped parsley and sprinkle with additional cajun seasoning to taste
 category: main course
 subcategory: pasta
-href: 'https://www.number-2-pencil.com/2015/10/15/one-pot-cajun-chicken-and-sausage-alfredo/'
-totalTime: 20 mins
 cookTime: 15 mins
 prepTime: 5 mins
-title: one pot cajun chicken and sausage alfredo
+totalTime: 20 mins
+servings: 10 servings
+rating: 4
+ease: easy
+notes: null
 path: /one-pot-cajun-chicken-and-sausage-alfredo
+thumbnail: assets/one-pot-cajun-chicken-alfredo-pasta-with-sausage-6.jpg
 ---
