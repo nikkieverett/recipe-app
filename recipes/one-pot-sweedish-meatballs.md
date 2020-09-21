@@ -42,9 +42,10 @@ cookTime: null
 prepTime: null
 totalTime: null
 servings: 6 servings
+ease: intermediate
 notes: Make in a large pot, not a skillet
 path: /one-pot-sweedish-meatballs
 rating: 5
-ease: intermediate
 hasBeenTested: true
+thumbnail: assets/sweedish-meatballs.jpg
 ---
