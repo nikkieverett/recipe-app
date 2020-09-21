@@ -11,7 +11,7 @@ ingredients: |-
   * 2 tablespoon Ketchup
   * 4 tablespoon Sweet Soy Glaze (recipe below)
   * 1 teaspoon Korean Chili Flakes
-  * 1/2 tablespoon Ponzu Sauce
+  * 1 tablespoon Ponzu Sauce
   * 1 tablespoon Sesame Seeds
   * 1 teaspoon Vegetable Oil
   * 1 tablespoon Butter
