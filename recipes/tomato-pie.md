@@ -13,23 +13,29 @@ ingredients: |-
   * 2 cups shredded cheddar cheese 
   * 1/4 cup mayonnaise
 directions: >-
-  1. preheat oven to 375 degrees f (190 degrees c).
+  1. preheat oven to low broil.
 
-  2. bake your pie in the lower third of the oven. this will allow the bottom crust to become crisp while the top shouldn't get overly browned. 
+  2. slice tomatoes (I usually get 4 slices per large tomato).
 
-  3. brush beaten egg white or whole egg onto the sides and bottom of pie shells (for single-crust pies).
+  3. broil tomatoes for about 30 minutes to release moisture.
 
-  4. in alternating layers; fill pastry shell with tomatoes; basil; scallions; bacon; garlic powder; oregano; and red pepper. 
+  4. drain on paper towels.
 
-  5. in a small bowl; mix cheese with mayonnaise. spread mixture over top of pie. 
+  5. preheat oven to 375 degrees.
 
-  6. cover loosely with aluminum foil.
+  6. brush beaten egg white or whole egg onto the sides and bottom of pie shells (for single-crust pies).
 
-  7. bake in preheated oven for 30 minutes. 
+  7. in alternating layers; fill pastry shell with tomatoes; basil; scallions; bacon; garlic powder; oregano; and red pepper. 
 
-  8. remove foil from top of pie and bake an additional 30 minutes. 
+  8. in a small bowl; mix cheese with mayonnaise. spread mixture over top of pie. 
 
-  9. serve warm or cold.
+  9. cover loosely with aluminum foil.
+
+  10. bake in preheated oven for 30 minutes. bake your pie in the lower third of the oven. this will allow the bottom crust to become crisp while the top shouldn't get overly browned. 
+
+  11. remove foil from top of pie and bake an additional 30 minutes. 
+
+  12. serve warm or cold.
 category: main course
 subcategory: all in one casserole
 cookTime: 60 minutes
