@@ -4,7 +4,7 @@ href: https://www.geniuskitchen.com/recipe/spinach-apple-and-pecan-salad-29765?i
 ingredients: |-
   * 3 tablespoons olive oil 
   * 1 1⁄2 tablespoons cider vinegar
-  * 1 tablespoon prepared mustard (i prefer dijon)
+  * 1 teaspoon prepared mustard (i prefer dijon)
   * 1 tablespoon sugar
   * 1⁄2 teaspoon salt
   * 1⁄4 teaspoon fresh ground black pepper
