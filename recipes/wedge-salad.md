@@ -13,13 +13,39 @@ ingredients: >-
   * 1/4 cup balsamic reduction
 
   * 16 or so cherry tomatoes quartered
-directions: |-
-  1. remove core from lettuce. 
-  2. cut lettuce head in half, then cut each half into quarters. 
-  3. place on serving tray (or individual plates). 
-  4. drizzle each lettuce wedge with dressing and balsamic reduction. 
-  5. sprinkle with blue cheese, crumbled bacon and cherry tomatoes.
-  6. serve immediately.
+
+    DRESSING
+  * 2 cups crumbled blue cheese, or more if preferred
+
+  * 1 garlic clove, minced
+
+  * 2 cups mayonnaise, store-bought or homemade
+
+  * 2 cups buttermilk
+
+  * 2 dashes worcestershire sauce
+
+  * 1 teaspoon kosher salt, or to taste
+
+  * 1 teaspoon freshly ground black pepper, or to taste
+directions: >-
+  ### Instructions For Dressing
+
+
+  1. Mix all ingredients in a medium-sized bowl. Chill for at least an hour before using to allow flavors to meld. Store in refrigerator for up to two weeks.
+
+     ### Instructions For Salad
+  2. remove core from lettuce. 
+
+  3. cut lettuce head in half, then cut each half into quarters. 
+
+  4. place on serving tray (or individual plates). 
+
+  5. drizzle each lettuce wedge with dressing and balsamic reduction. 
+
+  6. sprinkle with blue cheese, crumbled bacon and cherry tomatoes.
+
+  7. serve immediately.
 category: main course
 subcategory: salad
 rating: 4
