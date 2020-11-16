@@ -1,5 +1,6 @@
 ---
 title: Gravy Smothered Meatballs Hello Fresh
+href: https://www.hellofresh.com/recipes/gravy-smothered-meatballs-5eb08242702289132e355a82
 ingredients: |-
   * 1 Yellow Onion
   * ¼ ounce Chives
@@ -8,9 +9,9 @@ ingredients: |-
   * 4 tablespoon Sour Cream
   * 10 ounce Ground Beef
   * ¼ cup Panko Breadcrumbs
-  * 1 tablespoon Fry Seasoning
+  * 1 tablespoon Fry Seasoning (equal parts garlic, onion & paprika)
   * 1 tablespoon Flour
-  * 1 Beef Stock Concentrate
+  * 1 Beef Stock Concentrate (bouillon cube)
   * 1 tablespoon Vegetable Oil
   * 3 tablespoon Butter
   * Salt
