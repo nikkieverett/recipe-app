@@ -5,6 +5,7 @@ ingredients: |-
   * 10 ounce Ground Beef
   * ¼ cup Panko Breadcrumbs
   * 8 ounce Broccoli Florets
+  * 2 scallions
   * 1 thumb Ginger
   * 1  Lime
   * ½ cup Jasmine Rice
