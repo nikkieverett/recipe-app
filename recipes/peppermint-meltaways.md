@@ -29,7 +29,7 @@ cookTime: 30 minutes
 prepTime: 10 minutes
 totalTime: 40 minutes
 servings: 2.5 dozen
-rating: 3
+rating: 5
 ease: easy
 hasBeenTested: false
 ---
