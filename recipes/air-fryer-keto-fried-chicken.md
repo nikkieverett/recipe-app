@@ -1,5 +1,5 @@
 ---
-title: AIR FRYER KETO FRIED CHICKEN
+title: Fried Chicken - Air Fryer + Keto
 href: https://www.wholesomeyum.com/air-fryer-keto-low-carb-fried-chicken-recipe/
 ingredients: |-
   * 2 1/2 lbs chicken drumsticks, or tenders
