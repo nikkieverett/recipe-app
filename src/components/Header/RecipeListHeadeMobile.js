@@ -23,9 +23,19 @@ const Header = ({ setMobileOpen, mobileOpen, category, subcategory }) => {
   }
 
   return (
-    <>
-
-    </>
+    <AppBar className={classes.appBar}>
+      <Toolbar>
+        <IconButton color="inherit" aria-label="open drawer" edge="start" onClick={handleDrawerToggle} className={classes.menuButton}>
+          <MenuIcon />
+        </IconButton>
+        <Typography variant="h6" noWrap className={classes.header}>
+          {category || 'All Recipes'}
+          {subcategory ? ` | ${subcategory}` : ''}
+        </Typography>
+        <SearchBar location="header" />
+      </Toolbar>
+      <Tabs />
+    </AppBar>
   )
 }
 

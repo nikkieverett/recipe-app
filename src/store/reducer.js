@@ -90,7 +90,6 @@ const reducer = (state = initialState, action) => {
       return {
         ...state,
         subcategory: action.subcategory,
-        tabValue: action.tabValue,
         filteredRecipes: subcategoryFiltered
       }
     }

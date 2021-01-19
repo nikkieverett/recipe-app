@@ -13,6 +13,7 @@ import ArrowBackIcon from '@material-ui/icons/ArrowBack'
 import EditIcon from '@material-ui/icons/Edit'
 import AddIcon from '@material-ui/icons/Add'
 
+
 // Styles
 import navigationStyles from './Navigation.styles'
 
@@ -23,18 +24,8 @@ const RecipeCardNavigation = ({ setMobileOpen, mobileOpen, container, frontmatte
     setMobileOpen(!mobileOpen)
   }
 
-  const handleBackBtnClick = () => {
-    window.location.replace(window.location.origin)
-  }
-
   const handleAddNew = () => {
     const URL = `${window.location.origin}/admin/#/collections/recipe/new`
-
-    window.open(URL, '_blank')
-  }
-
-  const handleEditRecipe = () => {
-    const URL = `${window.location.origin}/admin/#/collections/recipe/entries${frontmatter.path}`
 
     window.open(URL, '_blank')
   }
@@ -106,9 +97,6 @@ const RecipeCardNavigation = ({ setMobileOpen, mobileOpen, container, frontmatte
 
 RecipeCardNavigation.propTypes = {
   container: PropTypes.any,
-  frontmatter: PropTypes.shape({
-    path: PropTypes.any
-  }),
   mobileOpen: PropTypes.any,
   setMobileOpen: PropTypes.func
 }

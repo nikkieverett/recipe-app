@@ -24,11 +24,10 @@ export function setCurrentRecipe(recipe) {
   }
 }
 
-export function sortBySubCategory(subcategory, tabValue) {
+export function sortBySubCategory(subcategory) {
   return {
     type: constants.SORT_BY_SUBCATEGORY,
-    subcategory,
-    tabValue
+    subcategory
   }
 }
 

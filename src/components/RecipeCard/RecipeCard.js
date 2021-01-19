@@ -72,9 +72,6 @@ RecipeCard.propTypes = {
   category: PropTypes.any,
   ease: PropTypes.any,
   hasBeenTested: PropTypes.any,
-  path: PropTypes.shape({
-    slice: PropTypes.func
-  }),
   rating: PropTypes.any,
   title: PropTypes.any,
   totalTime: PropTypes.any

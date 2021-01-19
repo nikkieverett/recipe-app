@@ -4,6 +4,7 @@ import React from 'react'
 import { connect } from 'react-redux'
 import Snackbar from '@material-ui/core/Snackbar'
 import MuiAlert from '@material-ui/lab/Alert'
+import Typography from '@material-ui/core/Typography'
 
 // Custom Components
 import RecipeList from '../RecipeList/RecipeList'
@@ -13,7 +14,7 @@ import RecipeListNavigationDrawer from '../Navigation/RecipeListNavigationDrawer
 import actions from '../../store/actions'
 import appStyles from './Page.styles'
 
-const App = ({ snackBarOpen, snackBarText, dispatch }) => {
+const App = ({ snackBarOpen, snackBarText, dispatch, category, subcategory }) => {
   const classes = appStyles()
   const [mobileOpen, setMobileOpen] = React.useState(false)
 
@@ -26,7 +27,10 @@ const App = ({ snackBarOpen, snackBarText, dispatch }) => {
       <div className={classes.root}>
         <RecipeListNavigationDrawer mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
         <div className={classes.content}>
-          <RecipeListHeader mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
+          <Typography variant="h6" noWrap className={classes.header}>
+            {category || 'All Recipes'}
+            {subcategory ? ` | ${subcategory}` : ''}
+          </Typography>
           <RecipeList />
         </div>
       </div>
@@ -48,7 +52,9 @@ App.propTypes = {
 function mapStateToProps(state) {
   return {
     snackBarText: state.snackBarText,
-    snackBarOpen: state.snackBarOpen
+    snackBarOpen: state.snackBarOpen,
+    category: state.category,
+    subcategory: state.subcategory
   }
 }
 

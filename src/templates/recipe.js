@@ -17,6 +17,7 @@ import VerifiedUserIcon from '@material-ui/icons/VerifiedUser'
 
 import RecipeCardHeader from '../components/Header/RecipeCardHeader'
 import RecipeCardNavigation from '../components/Navigation/RecipeCardNavigation'
+import RecipeListNavigationDrawer from '../components/Navigation/RecipeListNavigationDrawer'
 
 const recipeStyles = makeStyles(theme => ({
   root: {
@@ -127,8 +128,10 @@ export default function Template({ data }) {
   return (
     <div className="recipe-card">
       <div className={classes.root}>
-        <RecipeCardHeader mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} frontmatter={frontmatter} />
-        <RecipeCardNavigation mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} frontmatter={frontmatter} />
+        {/* <RecipeCardHeader mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} frontmatter={frontmatter} /> */}
+        <RecipeListNavigationDrawer mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
+
+        {/* <RecipeCardNavigation mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} frontmatter={frontmatter} /> */}
         <Paper className={classes.card}>
           <Grid container justify="center">
             <Grid xs={12} item className={classes.cardHeader}>

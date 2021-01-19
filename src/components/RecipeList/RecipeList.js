@@ -14,7 +14,7 @@ const RecipeList = ({ recipes }) => {
 
   return (
     <>
-      <SearchBar location="body" />
+      {/* <SearchBar location="body" /> */}
       <div className={classes.content}>
         {recipes &&
           recipes.map(({ node: recipe }) => (

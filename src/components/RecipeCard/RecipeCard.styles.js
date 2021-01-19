@@ -10,7 +10,8 @@ const recipeCardStyles = makeStyles(theme => ({
     boxShadow: '0px 8px 10px -7px rgba(203, 101, 87, 1)',
     '&:hover': {
       boxShadow: '0px 11px 15px -7px rgba(203, 101, 87, 1)'
-    }
+    },
+    marginBottom: '20px'
   },
   cardTitle: {
     fontWeight: 300,
