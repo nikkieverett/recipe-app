@@ -2,32 +2,34 @@
 title: Meatloaves with Sweet Chili Glaze Hello Fresh
 href: https://www.hellofresh.com/recipes/meatloaves-with-a-sweet-chili-glaze-5eb07c9fbc3b52407e591a6a
 ingredients: |-
-  * 10 ounce Ground Beef
-  * ¼ cup Panko Breadcrumbs
-  * 8 ounce Broccoli Florets
-  * 2 scallions
-  * 1 thumb Ginger
-  * 1  Lime
-  * ½ cup Jasmine Rice
-  * 2 tablespoon Ketchup
-  * 4 tablespoon Sweet Soy Glaze (recipe below)
-  * 1 teaspoon Korean Chili Flakes
-  * 1 tablespoon Ponzu Sauce
-  * 1 tablespoon Sesame Seeds
-  * 1 teaspoon Vegetable Oil
-  * 1 tablespoon Butter
+  2 / 4 SERVINGS
+
+  * 10/20 ounce Ground Beef
+  * ¼ /  1/2 cup Panko Breadcrumbs
+  * 8 / 16 ounce Broccoli Florets
+  * 2 / 4scallions
+  * 1 / 2thumb Ginger
+  * 1 / 2 Lime
+  * ½  / 1 cup Jasmine Rice
+  * 2 / 4 tablespoon Ketchup
+  * 1/4 / 1/2 cup Sweet Soy Glaze (recipe below)
+  * 1 / 2 teaspoon Korean Chili Flakes
+  * 1 / 2 tablespoon Ponzu Sauce
+  * 1 / 2 tablespoon Sesame Seeds
+  * 1 / 2 teaspoon Vegetable Oil
+  * 1 / 2 tablespoon Butter
   * Salt
   * Pepper
 
-    Sweet Soy Glaze
+  Sweet Soy Glaze
 
-    * ⅔ cup brown sugar
-    * ½ cup low-sodium soy sauce
-    * ⅓ cup white sugar
-    * ¼ cup water
-    * 2 tablespoons white wine vinegar
+  * ⅔ cup brown sugar
+  * ½ cup low-sodium soy sauce
+  * ⅓ cup white sugar
+  * ¼ cup water
+  * 2 tablespoons white wine vinegar
 
-      Mix all in sauce pan.  Bring to boil.  Let boil until it thickens.
+    Mix all in sauce pan.  Bring to boil.  Let boil until it thickens.
 directions: >-
   * Adjust rack to top position and preheat oven to 425 degrees. Wash and dry
   all produce.
@@ -36,7 +38,7 @@ directions: >-
 
   * Peel and mince ginger. Trim and thinly slice scallions, separating whites from greens; mince whites. Cut broccoli florets into bite-size pieces, if necessary. Quarter lime.
 
-  * Melt butter in a small pot over medium-high heat. Add half the ginger and cook until fragrant, 30 seconds. • Add rice, water, and a big pinch of salt. Bring to a boil, then cover and reduce heat to low. Cook until rice is tender, 15-18 minutes. Keep covered off heat until ready to serve.
+  * Melt butter in a small pot over medium-high heat. Add half the ginger and cook until fragrant, 30 seconds. • Add rice, 3/4 C water, and a big pinch of salt. Bring to a boil, then cover and reduce heat to low. Cook until rice is tender, 15-18 minutes. Keep covered off heat until ready to serve. (for 4 servings use 1 1/2 cups water, 2 tbs butter and 1 cup rice.)
 
   * While rice cooks, in a large bowl, combine beef*, scallion whites, panko, remaining ginger, 1/2 tsp salt, and pepper. Gently combine, then form into two 1-inch-tall loaves. Place on one side of a baking sheet. Form beef mixture into four loaves and spread out across entire sheet.
 
