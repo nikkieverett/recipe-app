@@ -7,13 +7,13 @@ ingredients: |-
   * 10/20 ounce Ground Beef
   * ¼ /  1/2 cup Panko Breadcrumbs
   * 8 / 16 ounce Broccoli Florets
-  * 2 / 4scallions
-  * 1 / 2thumb Ginger
+  * 2 / 4 scallions
+  * 1 / 2 thumb Ginger
   * 1 / 2 Lime
   * ½  / 1 cup Jasmine Rice
   * 2 / 4 tablespoon Ketchup
   * 1/4 / 1/2 cup Sweet Soy Glaze (recipe below)
-  * 1 / 2 teaspoon Korean Chili Flakes
+  * 1/2 of teaspoon Korean Chili Flakes
   * 1 / 2 tablespoon Ponzu Sauce
   * 1 / 2 tablespoon Sesame Seeds
   * 1 / 2 teaspoon Vegetable Oil
