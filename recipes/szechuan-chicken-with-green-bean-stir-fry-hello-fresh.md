@@ -32,27 +32,45 @@ ingredients: >-
 
     SZECHUAN PASTE
 
-    * ½ –1 teaspoon [Szechuan Peppercorns](https://amzn.to/2H06hIp) (or sub black [peppercorns](https://amzn.to/33OwJhv))
-    * 1/4 cup [soy sauce](https://amzn.to/2wu77eB)
-    * 3 tablespoons [honey](https://www.feastingathome.com/honey-simple-syrup/)
-    * 1 tablespoon [sesame oil](https://amzn.to/32IzeRv)
-    * 1 tablespoon [rice wine vinegar](https://amzn.to/2uaK0AP)
-    * 1 tablespoon [Chinese cooking wine](https://amzn.to/2QYdkHJ) ([shaoxing](https://amzn.to/2QYdkHJ)) or [mirin](https://amzn.to/2tGs8RE) (both optional)
-    * 3 garlic cloves, finely minced
-    * 2 teaspoons fresh ginger, finely minced ( or use [ginger paste](https://amzn.to/2QYbR4b))
-    * 1 tablespoon garlic [chili paste](https://amzn.to/3ruF8lU) or sub 1 teaspoon chili flakes
-    * ½ teaspoon Chinese [Five Spice](https://www.feastingathome.com/chinese-five-spice/)
-    * optional- 2-3 teaspoons corn starch, to thicken.
+    ½ –1 teaspoon [Szechuan Peppercorns](https://amzn.to/2H06hIp) (or sub black [peppercorns](https://amzn.to/33OwJhv))
 
-      SWEET SOY GLAZE
+    1/4 cup [soy sauce](https://amzn.to/2wu77eB)
 
-      * ⅔ cup brown sugar
-      * ½ cup low-sodium soy sauce
-      * ⅓ cup white sugar
-      * ¼ cup water
-      * 2 tablespoons white wine vinegar
-      * 2 tablespoons rice vinegar
-      * ½ teaspoon ground ginger
+    3 tablespoons [honey](https://www.feastingathome.com/honey-simple-syrup/)
+
+    1 tablespoon [sesame oil](https://amzn.to/32IzeRv)
+
+    1 tablespoon [rice wine vinegar](https://amzn.to/2uaK0AP)
+
+    1 tablespoon [Chinese cooking wine](https://amzn.to/2QYdkHJ) ([shaoxing](https://amzn.to/2QYdkHJ)) or [mirin](https://amzn.to/2tGs8RE) (both optional)
+
+    3 garlic cloves, finely minced
+
+    2 teaspoons fresh ginger, finely minced ( or use [ginger paste](https://amzn.to/2QYbR4b))
+
+    1 tablespoon garlic [chili paste](https://amzn.to/3ruF8lU) or sub 1 teaspoon chili flakes
+
+    ½ teaspoon Chinese [Five Spice](https://www.feastingathome.com/chinese-five-spice/)
+
+    optional- 2-3 teaspoons corn starch, to thicken.
+
+
+
+    SWEET SOY GLAZE
+
+    ⅔ cup brown sugar
+
+    ½ cup low-sodium soy sauce
+
+    ⅓ cup white sugar
+
+    ¼ cup water
+
+    2 tablespoons white wine vinegar
+
+    2 tablespoons rice vinegar
+
+    ½ teaspoon ground ginger
 directions: >-
   1. Wash and dry all produce. • Peel and mince or grate ginger. Trim green
   beans, if necessary; cut crosswise into 2-inch pieces. Trim and thinly slice
@@ -86,6 +104,23 @@ nutritionFacts: |-
   * Protein39 g
   * Cholesterol105 mg
   * Sodium1560 mg
+notes: >-
+  SZECHUAN SAUCE
+
+
+  1. Toast [szechuan peppercorns](https://amzn.to/2H06hIp) in a hot dry skillet over medium heat, until fragrant, about 1-2 minutes. Crush.
+
+  2. Place all ingredients in a medium bowl or small jar and whisk until well combined.
+
+  3. If using as a stir-fry sauce, and you would like to thicken it, whisk in 2 teaspoons cornstarch.
+
+
+  SOY GLAZE
+
+
+  1. Stir brown sugar, soy sauce, white sugar, water, white wine vinegar, rice vinegar, and ground ginger together in a saucepan; bring to a boil, reduce heat to medium-low, and cook until reduced in volume by half, about 30 minutes.
+
+  2. Let glaze cool to thicken, at least 1 hour.
 hasBeenTested: false
 thumbnail: assets/szechuan-chicken-green-bean-stir-fry-ce149e23.jpg
 ---
