@@ -1,23 +1,58 @@
 ---
 title: Szechuan Chicken with Green Bean Stir Fry - Hello Fresh
 href: https://www.hellofresh.com/recipes/szechuan-chicken-green-bean-stir-fry-5ea7117086b8b04df30b20d4
-ingredients: |-
-  
-
+ingredients: >-
   * 2 thumb Ginger
+
   * 4 unit Scallions  
+
   * 2 ounce Peanuts
+
   * 4 tablespoon Szechuan Paste
+
   * 12 ounce Green Beans
+
   * 1.5 cup Jasmine Rice
+
   * 2 1/4 cup water
+
   * 20 ounce Chicken Breast Strips
+
   * 8 tablespoon Sweet Soy Glaze
+
   * 4 teaspoon Sugar - divided
+
   * 1 teaspoon Vegetable Oil
+
   * 2 tablespoon Butter
+
   * Salt
+
   * Pepper
+
+    SZECHUAN PASTE
+
+    * ½ –1 teaspoon [Szechuan Peppercorns](https://amzn.to/2H06hIp) (or sub black [peppercorns](https://amzn.to/33OwJhv))
+    * 1/4 cup [soy sauce](https://amzn.to/2wu77eB)
+    * 3 tablespoons [honey](https://www.feastingathome.com/honey-simple-syrup/)
+    * 1 tablespoon [sesame oil](https://amzn.to/32IzeRv)
+    * 1 tablespoon [rice wine vinegar](https://amzn.to/2uaK0AP)
+    * 1 tablespoon [Chinese cooking wine](https://amzn.to/2QYdkHJ) ([shaoxing](https://amzn.to/2QYdkHJ)) or [mirin](https://amzn.to/2tGs8RE) (both optional)
+    * 3 garlic cloves, finely minced
+    * 2 teaspoons fresh ginger, finely minced ( or use [ginger paste](https://amzn.to/2QYbR4b))
+    * 1 tablespoon garlic [chili paste](https://amzn.to/3ruF8lU) or sub 1 teaspoon chili flakes
+    * ½ teaspoon Chinese [Five Spice](https://www.feastingathome.com/chinese-five-spice/)
+    * optional- 2-3 teaspoons corn starch, to thicken.
+
+      SWEET SOY GLAZE
+
+      * ⅔ cup brown sugar
+      * ½ cup low-sodium soy sauce
+      * ⅓ cup white sugar
+      * ¼ cup water
+      * 2 tablespoons white wine vinegar
+      * 2 tablespoons rice vinegar
+      * ½ teaspoon ground ginger
 directions: >-
   1. Wash and dry all produce. • Peel and mince or grate ginger. Trim green
   beans, if necessary; cut crosswise into 2-inch pieces. Trim and thinly slice
