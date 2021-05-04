@@ -15,7 +15,7 @@ directions: >-
 
   * Stir until combined
 
-  * Scoop out dough with a cookie scoop onto prepared bakinsheet
+  * Scoop out dough with a cookie scoop onto prepared bakingsheet
 
   * Moisten the tips of your fingers with water and shape into disc
 
