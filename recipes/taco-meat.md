@@ -5,10 +5,10 @@ ingredients: |-
   * 4 1/2 teaspoons chili powder  
   * 1 teaspoon dried minced onion 
   * 1/2 teaspoon garlic powder
+  * 1/2 teaspoon garlic salt 
   * 1/2 teaspoon seasoned salt
   * 1/2 teaspoon onion powder 
   * 1/2 teaspoon paprika 
-  * 1/2 teaspoon garlic salt 
   * 1/4 teaspoon cumin 
   * 1/4 teaspoon ground red pepper 
   * 1/4 teaspoon sugar
