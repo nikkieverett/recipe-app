@@ -26,21 +26,21 @@ ingredients: |-
   * 2 cups shredded cabbage
   * pineapple tidbits (optional)
 directions: >-
-  * Preheat oven to 425°
+  1. Preheat oven to 425°
 
-  * To prepare crema, combine the first 8 ingredients in a small bowl; set aside
+  2. To prepare crema, combine the first 8 ingredients in a small bowl; set aside
 
-  * To prepare tacos, combine cumin and next 5 ingredients (through garlic powder) in a small bowl.
+  3. To prepare tacos, combine cumin and next 5 ingredients (through garlic powder) in a small bowl.
 
-  * Sprinkle spice mixture evenly over both sides of fish
+  4. Sprinkle spice mixture evenly over both sides of fish
 
-  * Place fish on a baking sheet coated with cooking spray and ake at 425° for 9 minutes or until fish flakes easily when tested with a fork or until desired degree of doneness
+  5. Place fish on a baking sheet coated with cooking spray and ake at 425° for 9 minutes or until fish flakes easily when tested with a fork or until desired degree of doneness.
 
-  * Place fish in a bowl; break into pieces with a fork
+  6. Place fish in a bowl; break into pieces with a fork
 
-  * Heat tortillas according to package directions and ivide fish evenly among tortillas
+  7. Heat tortillas according to package directions and divide fish evenly among tortillas
 
-  * Top each with 1/4 cup cabbage and 1 tablespoon crema
+  8. Top each with 1/4 cup cabbage and 1 tablespoon crema.
 category: main course
 cookTime: null
 prepTime: null
