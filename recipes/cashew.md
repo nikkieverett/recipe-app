@@ -1,5 +1,5 @@
 ---
-title: "cashew "
+title: cashew chicken
 href: https://www.cookingclassy.com/cashew-chicken/
 ingredients: |-
   * 1 1/2 lbs boneless skinless chicken breasts, diced into 1-inch pieces
