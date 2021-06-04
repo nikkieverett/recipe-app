@@ -14,7 +14,7 @@ import RecipeListNavigationDrawer from '../Navigation/RecipeListNavigationDrawer
 import actions from '../../store/actions'
 import appStyles from './Page.styles'
 
-const App = ({ snackBarOpen, snackBarText, dispatch, category, subcategory }) => {
+const HomePage = ({ snackBarOpen, snackBarText, dispatch, category, subcategory, searchText, recipesFilteredBySearch }) => {
   const classes = appStyles()
   const [mobileOpen, setMobileOpen] = React.useState(false)
 
@@ -30,6 +30,7 @@ const App = ({ snackBarOpen, snackBarText, dispatch, category, subcategory }) =>
           <Typography variant="h6" noWrap className={classes.header}>
             {category || 'All Recipes'}
             {subcategory ? ` | ${subcategory}` : ''}
+            {(recipesFilteredBySearch && searchText) ? <span> | Search Results for: "{searchText}"</span> : ''}
           </Typography>
           <RecipeList />
         </div>
@@ -43,7 +44,7 @@ const App = ({ snackBarOpen, snackBarText, dispatch, category, subcategory }) =>
   )
 }
 
-App.propTypes = {
+HomePage.propTypes = {
   dispatch: PropTypes.func,
   snackBarOpen: PropTypes.any,
   snackBarText: PropTypes.any
@@ -54,8 +55,10 @@ function mapStateToProps(state) {
     snackBarText: state.snackBarText,
     snackBarOpen: state.snackBarOpen,
     category: state.category,
-    subcategory: state.subcategory
+    subcategory: state.subcategory,
+    searchText: state.queryInput,
+    recipesFilteredBySearch: state.recipesFilteredByQuery
   }
 }
 
-export default connect(mapStateToProps)(App)
+export default connect(mapStateToProps)(HomePage)

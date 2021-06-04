@@ -7,6 +7,7 @@ const initialState = {
   category: '',
   subcategory: '',
   filteredRecipes: [],
+  recipesFilteredByQuery: false,
   recipesFilteredByCategory: [],
   recipesFilteredBySubcat: [],
   snackBarOpen: false,
@@ -68,7 +69,9 @@ const reducer = (state = initialState, action) => {
         category: action.category,
         tabValue: 0,
         recipesFilteredByCategory: catFiltered,
-        filteredRecipes: catFiltered
+        filteredRecipes: catFiltered,
+        queryInput: '',
+        recipesFilteredByQuery: false,
       }
     }
 
@@ -127,7 +130,8 @@ const reducer = (state = initialState, action) => {
         ...state,
         category: '',
         subcategory: '',
-        filteredRecipes: queryFiltered
+        filteredRecipes: queryFiltered,
+        recipesFilteredByQuery: true
       }
     }
 
@@ -136,4 +140,7 @@ const reducer = (state = initialState, action) => {
   }
 }
 
-export default reducer
+export {
+  reducer,
+  initialState
+}

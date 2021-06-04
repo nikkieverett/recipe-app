@@ -20,8 +20,7 @@ const RecipeCard = ({ title, category, rating, ease, totalTime, path, hasBeenTes
   const handleClick = () => {
     const newPath = path.slice(1)
 
-    // TODO: use react router instead of manually setting window location
-    window.location += newPath
+    window.open(newPath)
   }
 
   const classes = recipeCardStyles()

@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types'
-import React from 'react'
+import React, { useRef } from 'react'
 import { connect } from 'react-redux'
 
 import SearchIcon from '@material-ui/icons/Search'
@@ -12,10 +12,12 @@ import searchBarStyles from './SearchBar.styles'
 
 const SearchBar = ({ dispatch, location }) => {
   const classes = searchBarStyles()
+  const inputEl = useRef(null)
 
   const handleSubmit = e => {
     e.preventDefault()
     dispatch(actions.FILTER_RECIPES)
+    inputEl.current.children[0].value = '';
   }
 
   const handleChange = event => {
@@ -25,7 +27,7 @@ const SearchBar = ({ dispatch, location }) => {
   return (
     <div className={classes[location]}>
       <Paper component="form" className={classes.textField}>
-        <InputBase onChange={handleChange} className={classes.input} placeholder="Search" inputProps={{ 'aria-label': 'search google maps' }} />
+        <InputBase ref={inputEl} onChange={handleChange} className={classes.input} placeholder="Search" inputProps={{ 'aria-label': 'search google maps' }} />
         <IconButton type="submit" className={classes.iconButton} aria-label="search" onClick={handleSubmit}>
           <SearchIcon />
         </IconButton>

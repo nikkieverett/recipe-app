@@ -14,14 +14,14 @@ collections:
     create: true
     fields:
       - { name: title, label: Title }
-      - { name: href, label: Link }
+      - { name: href, label: Link, required: false }
       - { name: ingredients, label: Ingredients, widget: markdown, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
       - { name: directions, label: Directions, widget: markdown, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
       - {
           label: 'Category',
           name: 'category',
           widget: 'select',
-          options: ['breakfast', 'main course', 'side dish', 'dessert', 'beverage', 'salad', 'condiment'],
+          options: ['breakfast', 'main course', 'side dish', 'salad', 'appetizer', 'dessert', 'beverage', 'condiment'],
           multiple: false,
         }
       - {
@@ -40,7 +40,8 @@ collections:
       - { name: ease, label: Difficulty, widget: select, options: ['easy', 'intermediate', 'difficult'], required: false }
       - { name: nutritionFacts, label: Nutrition Facts, widget: markdown, required: false, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
       - { name: notes, label: Notes, widget: markdown, required: false, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
-      - { name: "hasBeenTested", label: "Recipe has been tested", widget: "boolean", default: false, required: false }
+      - { name: isMarinade, label: Is this a marinade?, widget: "boolean", default: false, required: false }
+      - { name: hasBeenTested, label: Recipe has been tested, widget: "boolean", default: false, required: false }
       - {
           label: "Featured Image",
           name: "thumbnail",

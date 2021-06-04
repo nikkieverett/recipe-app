@@ -4,7 +4,6 @@ import { connect } from 'react-redux'
 
 // Components
 import RecipeCard from '../RecipeCard/RecipeCard'
-import SearchBar from '../SearchBar/SearchBar'
 
 // Styles
 import recipeListStyles from './RecipeList.styles'
@@ -14,7 +13,6 @@ const RecipeList = ({ recipes }) => {
 
   return (
     <>
-      {/* <SearchBar location="body" /> */}
       <div className={classes.content}>
         {recipes &&
           recipes.map(({ node: recipe }) => (

@@ -1,31 +1,24 @@
 /* eslint-disable import/no-named-as-default */
 import React from 'react'
-import { createStore } from 'redux'
-import { Provider } from 'react-redux'
+import { connect } from 'react-redux'
 
 // Custom Components
 import Page from '../components/HomePage/Page'
 
 // Store
-import reducer from '../store/reducer'
 import actions from '../store/actions'
 
-const store = createStore(reducer)
-
-const App = () => {
+const App = ({ dispatch }) => {
   let recipesFetched = false
-  const state = store.getState()
 
   if (!recipesFetched) {
-    store.dispatch(actions.FETCH_ALL_RECIPES)
+    dispatch(actions.FETCH_ALL_RECIPES)
     recipesFetched = true
   }
 
   return (
-    <Provider store={store}>
-      <Page props={state} />
-    </Provider>
+    <Page />
   )
 }
 
-export default App
+export default connect(null)(App)
