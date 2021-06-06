@@ -54,6 +54,7 @@ const navigationStyles = makeStyles(theme => ({
     margin: '40px auto 60px'
   },
   logo: {
+    background: `url(${Image})`,
     width: 150,
     height: 150,
     borderRadius: 100,
@@ -79,6 +80,15 @@ const navigationStyles = makeStyles(theme => ({
   accordionDetails: {
     padding: 0,
     width: '100%'
+  },
+    link: {
+    textDecoration: 'none',
+    textTransform: 'uppercase',
+    fontWeight: 'bold',
+    color: '#FFF',
+    '&:hover': {
+      color: `rgba(${theme.palette.primary.contrastText}, .5)`
+    }
   }
 }))
 

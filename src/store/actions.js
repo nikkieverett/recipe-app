@@ -17,10 +17,10 @@ const actions = {
   DISMISS_SNACKBAR
 }
 
-export function setCurrentRecipe(recipe) {
+export function setCurrentRecipe(recipeTitle) {
   return {
-    type: constants.SET_CURRENT_RECIPE,
-    recipe
+    type: constants.SET_SELECTED_RECIPE,
+    recipeTitle
   }
 }
 

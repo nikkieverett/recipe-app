@@ -1,5 +1,7 @@
 import PropTypes from 'prop-types'
 import React from 'react'
+import { Link } from 'gatsby'
+import { connect } from 'react-redux'
 
 // MUI
 import Card from '@material-ui/core/Card'
@@ -16,54 +18,53 @@ import StarRating from './StarRating'
 // Styles
 import recipeCardStyles from './RecipeCard.styles'
 
-const RecipeCard = ({ title, category, rating, ease, totalTime, path, hasBeenTested }) => {
-  const handleClick = () => {
-    const newPath = path.slice(1)
+// Store
+import { setCurrentRecipe } from '../../store/actions'
 
-    window.open(newPath)
-  }
-
+const RecipeCard = ({ title, category, rating, ease, totalTime, path, hasBeenTested, dispatch }) => {
   const classes = recipeCardStyles()
 
   return (
-    <Card className={classes.root} onClick={handleClick}>
-      <CardContent>
-        <div className={classes.cardHeader}>
-          <Typography variant="h6" component="h3" className={classes.cardTitle}>
-            {title}
-          </Typography>
-          <StarRating rating={rating} />
-        </div>
-        <div>
-          {category && (
-            <div className={classes.cardBodyItem}>
-              <RestaurantIcon fontSize="small" className={classes.cardBodyIcon} />
-              {category}
-            </div>
-          )}
-          {ease && (
-            <div className={classes.cardBodyItem}>
-              <FitnessCenterIcon fontSize="small" className={classes.cardBodyIcon} />
-              {ease}
-            </div>
-          )}
-          {totalTime && (
-            <div className={classes.cardBodyItem}>
-              <AccessTimeIcon fontSize="small" className={classes.cardBodyIcon} />
-              {totalTime}
-            </div>
-          )}
-          {hasBeenTested && (
-            <div className={classes.cardFooter}>
-              <div className={classes.cardBadge}>
-                <VerifiedUserIcon className={classes.cardBadgeIcon} />
-                <span className={classes.cardBadgeText}>Tested </span>
+    <Link className={classes.link} to={path} onClick={() => dispatch(setCurrentRecipe(title))}>
+      <Card className={classes.root}>
+        <CardContent>
+          <div className={classes.cardHeader}>
+            <Typography variant="h6" component="h3" className={classes.cardTitle}>
+              {title}
+            </Typography>
+            <StarRating rating={rating} />
+          </div>
+          <div>
+            {category && (
+              <div className={classes.cardBodyItem}>
+                <RestaurantIcon fontSize="small" className={classes.cardBodyIcon} />
+                {category}
               </div>
-            </div>
-          )}
-        </div>
-      </CardContent>
-    </Card>
+            )}
+            {ease && (
+              <div className={classes.cardBodyItem}>
+                <FitnessCenterIcon fontSize="small" className={classes.cardBodyIcon} />
+                {ease}
+              </div>
+            )}
+            {totalTime && (
+              <div className={classes.cardBodyItem}>
+                <AccessTimeIcon fontSize="small" className={classes.cardBodyIcon} />
+                {totalTime}
+              </div>
+            )}
+            {hasBeenTested && (
+              <div className={classes.cardFooter}>
+                <div className={classes.cardBadge}>
+                  <VerifiedUserIcon className={classes.cardBadgeIcon} />
+                  <span className={classes.cardBadgeText}>Tested </span>
+                </div>
+              </div>
+            )}
+          </div>
+        </CardContent>
+      </Card>
+    </Link>
   )
 }
 
@@ -76,4 +77,4 @@ RecipeCard.propTypes = {
   totalTime: PropTypes.any
 }
 
-export default RecipeCard
+export default connect(null)(RecipeCard)

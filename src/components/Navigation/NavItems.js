@@ -1,15 +1,12 @@
 import React, { useEffect } from 'react'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
+import { Link } from 'gatsby'
 
 // MUI Components
-import Drawer from '@material-ui/core/Drawer'
 import List from '@material-ui/core/List'
 import ListItem from '@material-ui/core/ListItem'
 import ListItemText from '@material-ui/core/ListItemText'
-import ListItemIcon from '@material-ui/core/ListItemIcon'
-import EditIcon from '@material-ui/icons/Edit'
-import Hidden from '@material-ui/core/Hidden'
 import Divider from '@material-ui/core/Divider'
 import Accordion from '@material-ui/core/Accordion';
 import AccordionSummary from '@material-ui/core/AccordionSummary';
@@ -27,7 +24,7 @@ import navigationStyles from './Navigation.styles'
 import data from '../../data/categories.json'
 import actions, { sortByCategory, sortBySubCategory } from '../../store/actions'
 
-const NavigationDrawer = ({ setMobileOpen, mobileOpen, container, dispatch, selectedCategory, selectedSubcategory }) => {
+const NavigationDrawer = ({ dispatch, selectedCategory, selectedSubcategory, location }) => {
   const classes = navigationStyles()
   const categories = Object.keys(data)
   const [expanded, setExpanded] = React.useState(false);
@@ -36,29 +33,21 @@ const NavigationDrawer = ({ setMobileOpen, mobileOpen, container, dispatch, sele
     setExpanded(isExpanded ? panel : false);
   };
 
-  const handleDrawerToggle = () => {
-    setMobileOpen(!mobileOpen)
-  }
-
   const handleAddNew = () => {
-    const URL = `${window.location.href}admin/#/collections/recipe/new`
+    console.log(location)
+    const URL = `${location.origin}/admin/#/collections/recipe/new`
+    console.log(URL)
 
     window.open(URL, '_blank')
   }
 
-  const handleBackBtnClick = () => {
-    window.location.replace(window.location.origin)
-  }
-
-  const handleEditRecipe = () => {
-    const URL = `${window.location.origin}/admin/#/collections/recipe/entries${frontmatter.path}`
-
-    window.open(URL, '_blank')
-  }
-
-  const handleSort = (e, subcat) => {
+  const handleFilterByCat = (e, category) => {
     e.stopPropagation()
+    dispatch(sortByCategory(category))
+  }
 
+  const handleFilterBySubCat = (e, subcat) => {
+    e.stopPropagation()
     dispatch(sortBySubCategory(subcat))
   }
 
@@ -71,10 +60,10 @@ const NavigationDrawer = ({ setMobileOpen, mobileOpen, container, dispatch, sele
     setExpanded(false)
   }, [])
 
-  const drawerContents = (
-    <div>
+  return (
+    <>
       <div className={classes.logoContainer}>
-        <img src="./logo-white.png" alt="" className={classes.logo}/>
+        <div className={classes.logo}></div>
         <p className={classes.pageTitle}>Mama's Cookbook</p>
       </div>
       <Divider />
@@ -83,12 +72,20 @@ const NavigationDrawer = ({ setMobileOpen, mobileOpen, container, dispatch, sele
       </div>
       <Divider />
       <List>
-        <ListItem button key="all" onClick={() => clearAll()}>
-          <ListItemText primary="all recipes" />
+        <ListItem button onClick={handleAddNew}>
+          <ListItemText>Add new recipe</ListItemText>
+        </ListItem>
+      </List>
+      <Divider />
+      <List>
+        <ListItem button key="all">
+          <Link to="/" onClick={() => clearAll()} className={classes.link}>
+            <ListItemText primary="all recipes" />
+          </Link>
         </ListItem>
         {categories.map(category => (
-          <ListItem button key={category} onClick={() => dispatch(sortByCategory(category))} className={category === selectedCategory ? classes.accordionSelected : ''}>
-            <Accordion className={classes.accordion} expanded={expanded === category} onChange={handleChange(category)}>
+          <ListItem button key={category} onClick={(e) => handleFilterByCat(e, category)} className={category === selectedCategory ? classes.accordionSelected : ''}>
+            <Accordion className={classes.accordion}  expanded={expanded === category} onChange={handleChange(category)}>
               <AccordionSummary
                 expandIcon={<ExpandMoreIcon />}
                 aria-controls={category + '-content'}
@@ -100,7 +97,9 @@ const NavigationDrawer = ({ setMobileOpen, mobileOpen, container, dispatch, sele
               <AccordionDetails className={classes.accordionDetails}>
                 <List className={classes.category}>
                   {data[category].map(subcategory => (
-                    <ListItem button key={subcategory} onClick={(e) => handleSort(e, subcategory)} className={subcategory === selectedSubcategory ? classes.selectedSubcategory : classes.subcategory}>{subcategory}</ListItem>
+                    <ListItem button key={subcategory} onClick={(e) => handleFilterBySubCat(e, subcategory)} className={subcategory === selectedSubcategory ? classes.selectedSubcategory : classes.subcategory}>
+                      {subcategory}
+                    </ListItem>
                   ))}
                 </List>
               </AccordionDetails>
@@ -108,50 +107,8 @@ const NavigationDrawer = ({ setMobileOpen, mobileOpen, container, dispatch, sele
           </ListItem>
         ))}
       </List>
-      <Divider />
-      <List>
-        <ListItem button onClick={handleAddNew}>
-          <ListItemText>Add new recipe</ListItemText>
-        </ListItem>
-        <ListItem button key={0}>
-          <ListItemText primary="Edit Recipe" type="button" onClick={handleEditRecipe} className={classes.listItem} />
-        </ListItem>
-      </List>
-    </div>
-  )
-
-  return (
-    <nav className={classes.drawer} aria-label="mailbox folders">
-      {/* The implementation can be swapped with js to avoid SEOß duplication of links. */}
-      <Hidden smUp implementation="css">
-        <Drawer
-          container={container}
-          variant="temporary"
-          anchor="left"
-          open={mobileOpen}
-          onClose={handleDrawerToggle}
-          classes={{
-            paper: classes.drawerPaper
-          }}
-          ModalProps={{
-            keepMounted: true // Better open performance on mobile.
-          }}
-        >
-          {drawerContents}
-        </Drawer>
-      </Hidden>
-      <Hidden xsDown implementation="css">
-        <Drawer
-          classes={{
-            paper: classes.drawerPaper
-          }}
-          variant="permanent"
-          open
-        >
-          {drawerContents}
-        </Drawer>
-      </Hidden>
-    </nav>
+     
+    </>
   )
 }
 

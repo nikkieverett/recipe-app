@@ -10,6 +10,7 @@ const initialState = {
   recipesFilteredByQuery: false,
   recipesFilteredByCategory: [],
   recipesFilteredBySubcat: [],
+  selectedRecipe: null,
   snackBarOpen: false,
   tabValue: 0
 }
@@ -44,7 +45,8 @@ const reducer = (state = initialState, action) => {
         filteredRecipes: state.allRecipes,
         category: '',
         subcategory: '',
-        queryInput: ''
+        queryInput: '',
+        selectedRecipe: null
       }
     }
 
@@ -72,6 +74,7 @@ const reducer = (state = initialState, action) => {
         filteredRecipes: catFiltered,
         queryInput: '',
         recipesFilteredByQuery: false,
+        selectedRecipe: null
       }
     }
 
@@ -93,7 +96,10 @@ const reducer = (state = initialState, action) => {
       return {
         ...state,
         subcategory: action.subcategory,
-        filteredRecipes: subcategoryFiltered
+        filteredRecipes: subcategoryFiltered,
+        recipesFilteredByQuery: false,
+        queryInput: '',
+        selectedRecipe: null
       }
     }
 
@@ -131,7 +137,22 @@ const reducer = (state = initialState, action) => {
         category: '',
         subcategory: '',
         filteredRecipes: queryFiltered,
-        recipesFilteredByQuery: true
+        recipesFilteredByQuery: true,
+        selectedRecipe: null
+      }
+    }
+
+    case constants.SET_SELECTED_RECIPE: {
+      return {
+        ...state,
+        selectedRecipe: action.recipeTitle
+      }
+    }
+
+    case constants.REMOVE_SELECTED_RECIPE: {
+      return {
+        ...state,
+        selectedRecipe: null
       }
     }
 

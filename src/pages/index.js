@@ -1,24 +1,28 @@
 /* eslint-disable import/no-named-as-default */
-import React from 'react'
+import React, { useEffect } from 'react'
 import { connect } from 'react-redux'
 
 // Custom Components
-import Page from '../components/HomePage/Page'
+import RecipeList from '../components/RecipeList/RecipeList'
 
 // Store
 import actions from '../store/actions'
 
-const App = ({ dispatch }) => {
-  let recipesFetched = false
+const App = ({ dispatch, allRecipes }) => {
 
-  if (!recipesFetched) {
+  if (!allRecipes.length) {
     dispatch(actions.FETCH_ALL_RECIPES)
-    recipesFetched = true
   }
 
   return (
-    <Page />
+    <RecipeList />
   )
 }
 
-export default connect(null)(App)
+function mapStateToProps(state) {
+  return {
+    allRecipes: state.allRecipes
+  }
+}
+
+export default connect(mapStateToProps)(App)

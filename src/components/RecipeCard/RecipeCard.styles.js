@@ -54,6 +54,15 @@ const recipeCardStyles = makeStyles(theme => ({
     fontSize: 12,
     float: 'left',
     padding: 3
+  },
+  link: {
+    textDecoration: 'none',
+    textTransform: 'uppercase',
+    fontWeight: 'bold',
+    color: theme.palette.primary.dark,
+    '&:hover': {
+      color: `rgba(${theme.palette.primary.contrastText}, .5)`
+    }
   }
 }))
 
