@@ -1,6 +1,7 @@
 ---
 title: Crispy Parmesan Chicken with garlic couscous & Lemony Roasted Carrots
   Hello Fresh
+href: https://www.hellofresh.com/recipes/crispy-parmesan-chicken-5ecd4d891e4833321621f901
 ingredients: |-
   * 12 ounce Carrots
   * 2 Scallions
