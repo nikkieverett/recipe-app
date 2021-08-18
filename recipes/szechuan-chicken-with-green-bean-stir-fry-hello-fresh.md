@@ -8,7 +8,7 @@ ingredients: >-
 
   * 2 ounce Peanuts
 
-  * 4 tablespoon Szechuan Paste
+  * 1/4 C  Szechuan Paste
 
   * 12 ounce Green Beans
 
@@ -18,7 +18,7 @@ ingredients: >-
 
   * 20 ounce Chicken Breast Strips
 
-  * 8 tablespoon Sweet Soy Glaze
+  * 1/2 C Sweet Soy Glaze
 
   * 4 teaspoon Sugar - divided
 
@@ -53,8 +53,6 @@ ingredients: >-
     ½ teaspoon Chinese [Five Spice](https://www.feastingathome.com/chinese-five-spice/)
 
     optional- 2-3 teaspoons corn starch, to thicken.
-
-
 
     SWEET SOY GLAZE
 
