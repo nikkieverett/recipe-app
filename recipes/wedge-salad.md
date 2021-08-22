@@ -50,6 +50,10 @@ category: main course
 subcategory: salad
 rating: 4
 ease: easy
+notes: |-
+  to crisp lettuce:
+
+  <https://recipes.sparkpeople.com/recipe-detail.asp?recipe=1295912>
 hasBeenTested: false
 thumbnail: assets/the-wedge-salad-480x480.jpg
 ---
