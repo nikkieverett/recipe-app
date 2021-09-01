@@ -6,7 +6,7 @@ ingredients: |-
   * 1 c lite teriyaki
   * 1/2 c onion - chopped
   * 1/3 c honey
-  1/3 c orange juice
+  * 1/3 c orange juice
   * 1 t fresh rosemary
   * 1 t dark sesame oil
   * 1 clove garlic
