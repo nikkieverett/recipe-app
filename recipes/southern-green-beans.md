@@ -3,7 +3,8 @@ title: southern green beans
 href: https://www.smalltownwoman.com/easy-southern-style-green-beans/
 ingredients: |-
   * 8 slices bacon cut into pieces - cooked (not all the way) 
-  * 1/2 stick butter 1/2 onion sliced
+  * 1/2 stick butter 
+  * 1/2 onion sliced
   * 3 cloves garlic
   * green beans
 directions: |-
