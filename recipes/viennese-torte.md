@@ -9,7 +9,7 @@ ingredients: |-
   * 4 egg yolks 
   * 2 tablespoons powdered sugar
   * 1 teaspoon vanilla
-  * 1/2 cup butter, at room temperature(one stick)
+  * 1/2 cup butter (one stick)
 
   #### For the Cake
 
@@ -18,7 +18,17 @@ directions: >-
   #### For the frosting:
 
 
-  1. Put the chocolate chips and the boiling water in a blender; blend until smooth. Add egg yolks, cognac (you can skip this if you are making cake for kids), and butter and continue blending until smooth. The frosting will be creamy but may appear a little runny. Pour it into a bowl and cover it loosely; refrigerate for 2 hours until it is thick and creamy.
+  1. In a heavy sauce pan melt chocolate chips, butter with the water over medium heat. 
+
+  2. Stir until blended.  
+
+  3. Cool slightly.
+
+  4. Add egg yolks, cognac (you can skip this if you are making cake for kids), powdered sugar and vanilla.
+
+  5. Stir until smooth.
+
+  6.  The frosting will be creamy but may appear a little runny. Pour it into a bowl and cover it loosely; refrigerate for 2 hours until it is thick and creamy.
 
 
   #### For the cake:
