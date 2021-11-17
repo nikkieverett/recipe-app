@@ -35,7 +35,7 @@ const NavigationDrawer = ({ setMobileOpen, mobileOpen, container, location }) =>
             keepMounted: true // Better open performance on mobile.
           }}
         >
-          <NavItems location={location} />
+          <NavItems location={location} handleDrawerToggle={handleDrawerToggle} />
         </Drawer>
       </Hidden>
       <Hidden xsDown implementation="css">

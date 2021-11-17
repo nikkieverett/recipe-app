@@ -13,6 +13,7 @@ import AccordionSummary from '@material-ui/core/AccordionSummary';
 import AccordionDetails from '@material-ui/core/AccordionDetails';
 import Typography from '@material-ui/core/Typography';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
+import Hidden from '@material-ui/core/Hidden'
 
 // Components
 import SearchBar from '../SearchBar/SearchBar'
@@ -24,7 +25,7 @@ import navigationStyles from './Navigation.styles'
 import data from '../../data/categories.json'
 import actions, { sortByCategory, sortBySubCategory } from '../../store/actions'
 
-const NavigationDrawer = ({ dispatch, selectedCategory, selectedSubcategory, location }) => {
+const NavItems = ({ dispatch, selectedCategory, selectedSubcategory, location, handleDrawerToggle }) => {
   const classes = navigationStyles()
   const categories = Object.keys(data)
   const [expanded, setExpanded] = React.useState(false);
@@ -34,10 +35,7 @@ const NavigationDrawer = ({ dispatch, selectedCategory, selectedSubcategory, loc
   };
 
   const handleAddNew = () => {
-    console.log(location)
     const URL = `${location.origin}/admin/#/collections/recipe/new`
-    console.log(URL)
-
     window.open(URL, '_blank')
   }
 
@@ -48,11 +46,18 @@ const NavigationDrawer = ({ dispatch, selectedCategory, selectedSubcategory, loc
 
   const handleFilterBySubCat = (e, subcat) => {
     e.stopPropagation()
+    if (handleDrawerToggle) {
+      handleDrawerToggle()
+    }
+    setExpanded(false)
     dispatch(sortBySubCategory(subcat))
   }
 
   const clearAll = () => {
     setExpanded(false)
+    if (handleDrawerToggle) {
+      handleDrawerToggle()
+    }
     dispatch(actions.REMOVE_FILTERED_RECIPES)
   }
 
@@ -70,13 +75,15 @@ const NavigationDrawer = ({ dispatch, selectedCategory, selectedSubcategory, loc
       <div className={classes.searchBar}>
         <SearchBar />
       </div>
-      <Divider />
-      <List>
-        <ListItem button onClick={handleAddNew}>
-          <ListItemText>Add new recipe</ListItemText>
-        </ListItem>
-      </List>
-      <Divider />
+      <Hidden smDown implementation="css">
+        <Divider />
+        <List class={classes.addNew}>
+          <ListItem button onClick={handleAddNew}>
+            <ListItemText>Add new recipe</ListItemText>
+          </ListItem>
+        </List>
+        <Divider />
+      </Hidden>
       <List>
         <ListItem button key="all">
           <Link to="/" onClick={() => clearAll()} className={classes.link}>
@@ -112,7 +119,7 @@ const NavigationDrawer = ({ dispatch, selectedCategory, selectedSubcategory, loc
   )
 }
 
-NavigationDrawer.propTypes = {
+NavItems.propTypes = {
   container: PropTypes.any,
   dispatch: PropTypes.func,
   mobileOpen: PropTypes.any,
@@ -127,4 +134,4 @@ function mapStateToProps(state) {
 }
 
 
-export default connect(mapStateToProps)(NavigationDrawer)
+export default connect(mapStateToProps)(NavItems)

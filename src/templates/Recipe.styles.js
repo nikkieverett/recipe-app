@@ -16,7 +16,7 @@ const recipeStyles = makeStyles(theme => ({
       marginBottom: 15
     },
     [theme.breakpoints.down('sm')]: {
-      margin: '50px 0 0',
+      margin: '10px 0 0',
       padding: '0',
       overflow: 'hidden',
       width: '100%'
@@ -31,7 +31,7 @@ const recipeStyles = makeStyles(theme => ({
     position: 'relative'
   },
   cardHeaderTitle: {
-    marginBottom: 20,
+    margin: '0 20px 20px 0',
     textTransform: 'capitalize',
     position: 'relative'
   },

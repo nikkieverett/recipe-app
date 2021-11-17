@@ -46,12 +46,18 @@ const navigationStyles = makeStyles(theme => ({
   },
   searchBar: {
     maxWidth: '90%',
-    margin: '20px auto'
+    margin: '20px auto',
+    [theme.breakpoints.down('sm')]: {
+      display: 'none'
+    },
   },
   logoContainer: {
     width: 150,
     height: 150,
-    margin: '40px auto 60px'
+    margin: '40px auto 60px',
+    [theme.breakpoints.down('sm')]: {
+      display: 'none'
+    },
   },
   logo: {
     background: `url(${Image})`,
@@ -81,7 +87,7 @@ const navigationStyles = makeStyles(theme => ({
     padding: 0,
     width: '100%'
   },
-    link: {
+  link: {
     textDecoration: 'none',
     textTransform: 'uppercase',
     fontWeight: 'bold',
