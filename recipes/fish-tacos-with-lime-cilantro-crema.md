@@ -14,7 +14,6 @@ ingredients: |-
   * 1 garlic clove minced
 
   Tacos:
-
   * 1 teaspoon ground cumin
   * 1 teaspoon ground coriander
   * 1/2 teaspoon smoked paprika

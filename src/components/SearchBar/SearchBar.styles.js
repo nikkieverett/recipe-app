@@ -13,7 +13,8 @@ const searchBarStyles = makeStyles(theme => ({
     outline: 'none',
     '&:focus-within': {
       boxShadow: '0px 11px 15px -7px rgba(156, 60, 53, 1)',
-      outline: '1px solid rgba(156, 60, 53, 1)'
+      border: '1px solid rgba(156, 60, 53, 1)',
+      borderRadius: '6px'
     }
   },
   body: {

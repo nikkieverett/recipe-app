@@ -1,31 +1,28 @@
 /* eslint-disable import/no-named-as-default */
-import React from 'react'
-import { createStore } from 'redux'
-import { Provider } from 'react-redux'
+import React, { useEffect } from 'react'
+import { connect } from 'react-redux'
 
 // Custom Components
-import Page from '../components/HomePage/Page'
+import RecipeList from '../components/RecipeList/RecipeList'
 
 // Store
-import reducer from '../store/reducer'
 import actions from '../store/actions'
 
-const store = createStore(reducer)
+const App = ({ dispatch, allRecipes }) => {
 
-const App = () => {
-  let recipesFetched = false
-  const state = store.getState()
-
-  if (!recipesFetched) {
-    store.dispatch(actions.FETCH_ALL_RECIPES)
-    recipesFetched = true
+  if (!allRecipes.length) {
+    dispatch(actions.FETCH_ALL_RECIPES)
   }
 
   return (
-    <Provider store={store}>
-      <Page props={state} />
-    </Provider>
+    <RecipeList />
   )
 }
 
-export default App
+function mapStateToProps(state) {
+  return {
+    allRecipes: state.allRecipes
+  }
+}
+
+export default connect(mapStateToProps)(App)
