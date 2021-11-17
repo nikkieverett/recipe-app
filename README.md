@@ -32,6 +32,12 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     gatsby develop
     ```
 
+    ```
+    npm run start
+    ```
+
+    Requires node version 12.13.0
+    
 1.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`!
