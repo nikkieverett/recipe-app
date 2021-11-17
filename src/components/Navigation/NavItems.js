@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
-import { Link } from 'gatsby'
+import { Link, navigate } from 'gatsby'
 
 // MUI Components
 import List from '@material-ui/core/List'
@@ -41,6 +41,10 @@ const NavItems = ({ dispatch, selectedCategory, selectedSubcategory, location, h
 
   const handleFilterByCat = (e, category) => {
     e.stopPropagation()
+    if (location.pathname !== '/') {
+      navigate('/')
+    }
+
     dispatch(sortByCategory(category))
   }
 
@@ -77,7 +81,7 @@ const NavItems = ({ dispatch, selectedCategory, selectedSubcategory, location, h
       </div>
       <Hidden smDown implementation="css">
         <Divider />
-        <List class={classes.addNew}>
+        <List className={classes.addNew}>
           <ListItem button onClick={handleAddNew}>
             <ListItemText>Add new recipe</ListItemText>
           </ListItem>
