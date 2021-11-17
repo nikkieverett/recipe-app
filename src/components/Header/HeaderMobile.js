@@ -13,10 +13,10 @@ export default function HeaderMobile({ onMenuClick, mobileOpen }) {
   const classes = headerMobileStyles()
 
   return (
-    <AppBar position="static" class={classes.root}>
-			<Toolbar class={classes.toolbar}>
+    <AppBar position="static" className={classes.root}>
+			<Toolbar className={classes.toolbar}>
 				<IconButton
-					size="large"
+					size="medium"
 					edge="start"
 					color="inherit"
 					aria-label="open drawer"

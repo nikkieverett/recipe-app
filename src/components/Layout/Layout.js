@@ -69,7 +69,7 @@ const Layout = ({ snackBarOpen, snackBarText, dispatch, category, subcategory, s
           {snackBarText}
         </MuiAlert>
       </Snackbar>
-      <Fab color="secondary" aria-label="add" class={classes.addNewButton} onClick={() => handleAddNew()}>
+      <Fab color="secondary" aria-label="add" className={classes.addNewButton} onClick={() => handleAddNew()}>
         <AddIcon />
       </Fab>
     </>
