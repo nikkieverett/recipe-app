@@ -1,5 +1,5 @@
 ---
-title: enchilada soup
+title: enchilada soup - crock pot slow cooker
 href: https://www.skinnytaste.com/crock-pot-chicken-enchilada-soup/
 ingredients: |-
   * 2 tsp olive oil
