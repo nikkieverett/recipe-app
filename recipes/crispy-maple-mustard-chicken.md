@@ -1,5 +1,5 @@
 ---
-title: Crispy Maple Mustard Chicken
+title: Crispy Maple Mustard Chicken - Hello Fresh
 href: https://www.hellofresh.com/recipes/crispy-maple-mustard-chicken-6138dbf36fa6302255622ecb
 ingredients: |-
   * 12 ounce Yukon Gold Potatoes
