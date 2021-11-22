@@ -33,7 +33,7 @@ const Layout = ({ snackBarOpen, snackBarText, dispatch, category, subcategory, s
 
   return (
     <>
-      <HeaderMobile onMenuClick={setMobileOpen} mobileOpen={mobileOpen}></HeaderMobile>
+      <HeaderMobile location={location} onMenuClick={setMobileOpen} mobileOpen={mobileOpen}></HeaderMobile>
       <div className={classes.root}>
         <NavigationDrawer location={location} mobileOpen={mobileOpen} setMobileOpen={setMobileOpen} />
         <div className={classes.content}>
@@ -70,7 +70,7 @@ const Layout = ({ snackBarOpen, snackBarText, dispatch, category, subcategory, s
         </MuiAlert>
       </Snackbar>
       <Fab color="secondary" aria-label="add" className={classes.addNewButton} onClick={() => handleAddNew()}>
-        <AddIcon />
+        <AddIcon className={classes.addNewButtonIcon} />
       </Fab>
     </>
   )
