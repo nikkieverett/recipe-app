@@ -11,7 +11,10 @@ const recipeListStyles = makeStyles(theme => ({
     marginBottom: '10px',
     height: 400,
     width: '20%',
-    position: 'relative'
+    position: 'relative',
+    [theme.breakpoints.down('md')]: {
+      width: '100%'
+    }
   }
 }))
 
