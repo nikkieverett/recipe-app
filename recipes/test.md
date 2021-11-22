@@ -8,7 +8,7 @@ directions: |-
   * Ingredient 1
   * Ingredient 2
 category: breakfast
-subcategory: crockpot
+subcategory: ['crockpot']
 cookTime: 10 mins
 prepTime: 10 mins
 totalTime: 10 mins

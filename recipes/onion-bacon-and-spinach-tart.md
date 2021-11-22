@@ -33,7 +33,7 @@ directions: >-
 
   5. Heat broiler. Sprinkle tart with Gruyere and broil for 1 to 2 minutes. Let stand 5 minutes before slicing and serving.
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole']
 cookTime: 37 minutes
 prepTime: 10 minutes
 totalTime: 45 minutes

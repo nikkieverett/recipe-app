@@ -39,7 +39,7 @@ directions: >-
         notes: the coconut pecan frosting is included in the cake batter. it is not an icing for the top of the cake nor included in the sauce.
         the cake took 50 minutes to bake, although the original instructions said 30-40 minutes for a 9×13″ pan and 50 minutes for a bundt pan.
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 cookTime: 60 minutes
 prepTime: 20 minutes
 totalTime: 80 minutes

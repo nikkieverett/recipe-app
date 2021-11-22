@@ -36,7 +36,7 @@ directions: >-
 
   4. Pour over hot linguine and toss with Parmesan cheese.
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole', 'chicken', 'keto']
 totalTime: 25 minutes
 servings: "2"
 rating: 5

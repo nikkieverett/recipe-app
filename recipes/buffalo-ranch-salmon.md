@@ -4,7 +4,7 @@ href: https://www.delish.com/cooking/recipe-ideas/recipes/a49343/buffalo-ranch-s
 ingredients: |-
   * 3 tbsp. buffalo-style hot sauce (such as franks red hot)
   * 4 tbsp. melted butter
-  * 1/3 c. panko bread crumbs
+  * 1/3 c. panko bread crumbs (substitute pork rinds to make keto friendly)
   * 1 tbsp. extra-virgin olive oil
   * 1 tbsp. ranch seasoning
   * 4 6-oz. salmon fillets
@@ -28,6 +28,7 @@ directions: >-
 
   * Drizzle with extra buffalo sauce if desired
 category: main course
+subcategory: ['fish', 'keto']
 cookTime: 15 mins
 prepTime: 10 mins
 totalTime: 25 mins

@@ -17,7 +17,7 @@ directions: |-
 
   serve
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable']
 cookTime: 15-18 minutes
 prepTime: 5 minutes
 totalTime: 20 minutes

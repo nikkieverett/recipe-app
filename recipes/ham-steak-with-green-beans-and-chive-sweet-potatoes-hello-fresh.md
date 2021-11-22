@@ -29,6 +29,7 @@ directions: >-
 
   6. Divide pineapple ham, sweet potato mash and beans between plates. Serve with mustard on the side, for dipping.
 category: main course
+subcategory: ['hello fresh']
 cookTime: 30 minutes
 prepTime: 10 minutes
 servings: "4"

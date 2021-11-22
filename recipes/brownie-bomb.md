@@ -26,6 +26,7 @@ ingredients: |-
 rating:
 ease:
 category: dessert
+subcategory: ['brownies']
 href: 'https://myincrediblerecipes.com/brownie-bomb-bars/'
 totalTime:
 cookTime:

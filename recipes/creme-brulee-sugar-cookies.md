@@ -37,7 +37,7 @@ directions: >-
 
   7. Just before serving, use a kitchen torch to caramelize sugar on top, then set aside to cool. Store cookies in the fridge for up to 4 days.
 category: dessert
-subcategory: cookie
+subcategory: ['cookie']
 cookTime: ""
 totalTime: 50 minutes
 servings: 40 cookies

@@ -38,4 +38,5 @@ ease: easy
 notes: null
 path: /sesame-beef-kabobs
 thumbnail: assets/sesame-beef-skewers.jpg
+needsMarinade: true
 ---

@@ -65,6 +65,7 @@ directions: >-
 
   * Serve with mashed potatoes or rice. enjoy!
 category: main course
+subcategory: ['italian', 'chicken', 'keto']
 cookTime: null
 prepTime: null
 totalTime: 40 mins

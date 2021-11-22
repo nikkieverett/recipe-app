@@ -24,6 +24,7 @@ directions: >-
 
   7. remove toothpicks and serve with pan juices.
 category: main course
+subcategory: ['keto', 'chicken', 'italian']
 cookTime: 40 minutes
 prepTime: 20 minutes
 totalTime: 60 minutes

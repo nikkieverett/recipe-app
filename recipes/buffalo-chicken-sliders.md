@@ -17,7 +17,7 @@ directions: >-
   2. Remove chicken; discard cooking juices. In a small saucepan, combine butter and honey; cook and stir over medium heat until blended. Shred chicken with 2 forks; stir into sauce and heat through. Serve on rolls with desired optional ingredients.\
      **Freeze option:** Freeze cooled chicken mixture in freezer containers. To use, partially thaw in refrigerator overnight. Microwave, covered, on high in a microwave-safe dish until heated through, stirring occasionally; add water or broth if necessary.
 category: main course
-subcategory: sandwich
+subcategory: ['sandwich', 'chicken']
 prepTime: 10 minutes
 totalTime: 3 hours
 ease: easy

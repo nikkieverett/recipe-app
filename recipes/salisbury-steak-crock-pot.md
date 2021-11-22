@@ -34,7 +34,7 @@ directions: |-
   * Add beef back into the sauce to coat.
   * Serve over mashed potatoes or rice
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot']
 cookTime: null
 prepTime: null
 totalTime: null

@@ -37,7 +37,7 @@ directions: >-
 
   12. serve warm or cold.
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole']
 cookTime: 60 minutes
 prepTime: 20 minutes
 totalTime: 80 minutes

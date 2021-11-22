@@ -47,6 +47,7 @@ directions: >-
 
   5. Stir Fry green beans for 30 seconds then add your onions for another minute. Add in your ginger and garlic and stir fry for 30 seconds and season with salt. Add back your chicken and sauce and mix until combined, then add your cornstarch slurry and mix until thickened. Serve with freshly steamed rice and enjoy!
 category: main course
+subcategory: ['asian', 'chicken']
 prepTime: 30 minutes
 servings: "3"
 notes: Chicken needs to marinate before cooking

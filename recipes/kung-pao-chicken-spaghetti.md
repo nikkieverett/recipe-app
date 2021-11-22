@@ -39,7 +39,7 @@ directions: >-
 
   * Stir in pasta, chicken, peanuts and green onions
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'asian', 'chicken']
 cookTime: 10 mins
 prepTime: 10 mins
 totalTime: 20 mins

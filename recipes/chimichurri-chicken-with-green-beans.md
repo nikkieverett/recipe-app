@@ -43,7 +43,7 @@ directions: >-
 
     Finely shred peel from the lemon. Serve chicken and beans topped with sauce and lemon peel. Squeeze lemon juice over all
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole', 'mexican', 'chicken', 'keto']
 cookTime: 12 minutes
 prepTime: 20 minutes
 totalTime: 32 minutes

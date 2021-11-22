@@ -35,7 +35,7 @@ directions: >-
      * three 8-inch round 28 to 30 minutes
      * 9X13 28 minutes
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 cookTime: 30 minutes
 prepTime: 10 minutes
 totalTime: 40 minutes

@@ -29,7 +29,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
-subcategory: pasta
+subcategory: ['pasta']
 href: 'https://www.bhg.com/recipe/kielbasa-and-orzo/'
 totalTime: 20 mins
 cookTime:

@@ -18,7 +18,9 @@ directions: >-
 
   6. Place on paper towels to drain. Serve on wooden skewers, optional.
 category: side dish
+subcategory: ['meat', 'keto']
 totalTime: 45 minutes
 servings: "4"
 hasBeenTested: false
+notes: can use sugar free apricot preserves to make keto friendly
 ---

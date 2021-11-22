@@ -46,6 +46,7 @@ directions: >-
 
   * Chill covered for 1 hour before serving
 category: main course
+subcategory: ['asian', 'pasta', 'chicken', 'keto']
 cookTime: null
 prepTime: 45 mins
 totalTime: 45 mins

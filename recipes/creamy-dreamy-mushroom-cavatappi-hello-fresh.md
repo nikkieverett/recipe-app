@@ -29,7 +29,7 @@ directions: >-
 
   6. Divide pasta between bowls; sprinkle with Parmesan and scallion greens. Serve.
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'hello fresh', 'keto']
 cookTime: "30"
 prepTime: "5"
 totalTime: "35"

@@ -22,7 +22,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'asian', 'chicken']
 href: 'https://cafedelites.com/slow-cooker-asian-glazed-chicken/'
 totalTime: 4 hours 10 minutes
 cookTime: 4 hours

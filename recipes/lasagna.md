@@ -30,7 +30,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: main course
-subcategory: pasta
+subcategory: ['pasta']
 href:
 totalTime:
 cookTime: 40 minutes

@@ -33,6 +33,7 @@ directions: >-
 
   6. Slice steak against the grain. Divide steak, potatoes, and carrots between plates. Spoon sauce over steak. Garnish with scallion greens and serve.
 category: main course
+subcategory: ['hello fresh']
 cookTime: "40"
 prepTime: "10"
 totalTime: "50"

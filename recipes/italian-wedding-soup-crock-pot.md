@@ -24,7 +24,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'italian', 'soup/stew']
 href: 'https://www.365daysofcrockpot.com/slow-cooker-italian-wedding-soup/'
 totalTime: 7 hours 15 minutes
 cookTime: 7 hours

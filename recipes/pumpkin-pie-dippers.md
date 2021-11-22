@@ -21,7 +21,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: dessert
-subcategory: pie
+subcategory: ['pie']
 href: 'https://www.delish.com/cooking/recipe-ideas/recipes/a50029/pumpkin-pie-dippers-recipe/'
 totalTime: 30 mins
 cookTime: 15 mins

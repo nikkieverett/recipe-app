@@ -28,6 +28,7 @@ directions: >-
 
   6. • Slice chicken crosswise. • Divide chicken, potatoes, and asparagus between plates. Drizzle pan sauce over chicken. Garnish with any remaining chopped dill to taste and serve.
 category: main course
+subcategory: ['hello fresh', 'chicken', 'keto']
 cookTime: "30"
 prepTime: "5"
 totalTime: "35"

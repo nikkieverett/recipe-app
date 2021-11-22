@@ -34,7 +34,7 @@ directions: >-
 
   8. Continue cooking on HIGH for one additional hour. Do not open the crockpot lid as the steam and trapped heat are what cook the biscuits. The biscuits will be matte and puffy when done; if biscuits are still completely dough, cook them for a bit longer. (Try to assess doneness by looking through the lid rather than opening the crockpot.)
 category: main course
-subcategory: soup/stew
+subcategory: ['soup/stew', 'chicken']
 cookTime: 5 hours
 prepTime: 15 minutes
 totalTime: 5 hours 15 minutes

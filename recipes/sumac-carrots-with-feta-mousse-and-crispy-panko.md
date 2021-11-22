@@ -50,7 +50,7 @@ directions: >-
 
   Spread Feta Mousse onto bottom of serving plate, and top with carrots. Sprinkle carrots with toasted panko and mint before serving.
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable']
 cookTime: 30 minutes
 totalTime: 30 minutes
 servings: "4"

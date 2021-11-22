@@ -102,6 +102,7 @@ directions: >-
 
   * Season with salt and pepper
 category: main course
+subcategory: ['italian', 'chicken']
 cookTime: 45 min
 prepTime: prep overnight
 totalTime: 9hrs 15min

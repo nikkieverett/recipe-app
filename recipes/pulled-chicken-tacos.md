@@ -31,7 +31,7 @@ ingredients: |-
 rating:
 ease: easy
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'mexican', 'chicken', 'taco']
 href: 'https://allrecipes.com/recipe/241534/slow-cooker-pulled-chicken-tacos/'
 totalTime: 4 hours 10 minutes
 cookTime: 4 hours

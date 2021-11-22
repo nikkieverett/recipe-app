@@ -39,6 +39,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: main course
+subcategory: ['fish', 'keto']
 href: 'https://cafedelites.com/crispy-garlic-parmesan-salmon/'
 totalTime: 25 minutes
 cookTime: 15 minutes

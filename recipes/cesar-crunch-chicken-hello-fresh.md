@@ -29,6 +29,7 @@ directions: >-
 
   6. Break frico into bite-size pieces; toss with green beans and carrots. • Divide veggies and chicken between plates. Drizzle remaining dressing over chicken (or serve on the side for dipping).
 category: main course
+subcategory: ['hello fresh', 'chicken', 'keto']
 cookTime: "30"
 prepTime: "10"
 totalTime: "40"

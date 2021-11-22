@@ -52,7 +52,7 @@ ingredients: |-
 rating: 5
 ease: intermediate
 category: main course
-subcategory: sandwich
+subcategory: ['sandwich']
 href: 'https://emerils.com/125456/barbecued-pulled-pork-sandwiches-homemade-bbq-sauce-cole-slaw-and-fried-pickles'
 totalTime:
 cookTime:

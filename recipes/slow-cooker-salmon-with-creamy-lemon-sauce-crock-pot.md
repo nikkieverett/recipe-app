@@ -60,7 +60,7 @@ directions: >-
 
   14. serve with lemon wedges.
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'fish']
 cookTime: 2 hours 20 minutes
 prepTime: 10 minutes
 totalTime: 2 hours 30 minutes

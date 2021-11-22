@@ -62,7 +62,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 href: 'https://beyondfrosting.com/2015/07/09/blueberry-cheesecake-poke-cake/'
 totalTime: 1 hr 20 mins
 cookTime: 20 mins

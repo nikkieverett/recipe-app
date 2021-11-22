@@ -28,7 +28,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable']
 href: 'https://barefootcontessa.com/recipes/roasted-butternut-squash-salad-with-warm-cider-vinaigrette'
 totalTime:
 cookTime:

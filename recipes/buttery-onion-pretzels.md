@@ -23,7 +23,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: appetizer
-subcategory: bread
+subcategory: ['bread']
 href: 'https://www.tasteofhome.com/recipes/buttery-onion-pretzels/'
 totalTime: 1 hr 35 mins
 cookTime: 1.5 hr

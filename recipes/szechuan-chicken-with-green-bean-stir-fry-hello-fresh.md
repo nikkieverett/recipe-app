@@ -88,7 +88,7 @@ directions: >-
 
   8. Fluff rice with a fork; season with salt and pepper. Taste chicken stir-fry and season with salt and pepper. • Divide rice between bowls and top with chicken stir-fry. Sprinkle with scallion greens and peanuts. Serve.
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole', 'hello fresh', 'asian', 'chicken']
 cookTime: 30 minutes
 prepTime: 10 minutes
 totalTime: 40 minutes

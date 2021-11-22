@@ -32,7 +32,7 @@ directions: >-
      place the stuffed artichokes in the preheated 375 degree f oven and bake until the breadcrumbs are golden and the cheese has melted, 15 to 20 minutes.
   8. you can serve them whole as an entrée, or slice them in half for an appetizer.
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable']
 cookTime: 1 hour
 prepTime: 45 minutes
 totalTime: 1 hour 45 minutes

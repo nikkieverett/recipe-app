@@ -18,7 +18,7 @@ directions: >-
 
   3. bake for 10 to 12 minutes or until edges are light golden brown. cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
 category: dessert
-subcategory: cookie
+subcategory: ['cookie']
 cookTime: 12 minutes
 prepTime: 10 minutes
 totalTime: 22 minutes

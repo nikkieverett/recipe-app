@@ -18,7 +18,7 @@ directions: >-
 
   * Bake at 350 degrees for 2 1/2 hours and “don’t peek”, your house will smell amazing
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole', 'chicken']
 cookTime: null
 prepTime: null
 totalTime: null

@@ -25,7 +25,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: appetizer
-subcategory: cheese
+subcategory: ['cheese']
 href: 'https://12tomatoes.com/maple-pecan-cheese-ball/'
 totalTime: 20 mins
 cookTime:

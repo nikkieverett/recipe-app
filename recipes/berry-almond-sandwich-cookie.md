@@ -34,7 +34,7 @@ ingredients: |-
 rating:
 ease:
 category: dessert
-subcategory: cookie
+subcategory: ['cookie']
 href: 'https://www.tasteofhome.com/recipes/berry-almond-sandwich-cookies/'
 totalTime: 40 minutes
 cookTime: 10 minutes

@@ -19,6 +19,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: side dish
+subcategory: ['rice', 'mexican']
 href:
 totalTime:
 cookTime:

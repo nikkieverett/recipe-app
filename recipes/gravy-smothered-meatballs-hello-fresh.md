@@ -33,6 +33,7 @@ directions: >-
 
   * Season gravy with salt and pepper. Add meatballs and stir to coat. (TIP: If gravy seems too thick, stir in a splash of water.) Turn off heat. Divide potatoes between plates; top with meatballs and gravy. Add green beans to the side. Garnish with remaining chives and serve.
 category: main course
+subcategory: ['hello fresh']
 cookTime: 35 minutes
 prepTime: 10 minutes
 totalTime: 45 minutes

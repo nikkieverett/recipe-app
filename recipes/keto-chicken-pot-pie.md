@@ -44,6 +44,7 @@ directions: >-
 
   4. Bake at 350 for 20 to 26 minutes until biscuits are golden brown. And mixture is bubbling
 category: main course
+subcategory: ['keto', 'chicken']
 servings: "10"
 rating: 5
 ease: intermediate

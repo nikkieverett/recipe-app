@@ -25,7 +25,7 @@ directions: >-
 
   4. To make the glaze: in a saucepan, combine butter, water and sugar. Bring to a boil over medium heat and continue to boil for 5 minutes, stirring constantly. Remove from heat and stir in  rum.
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 cookTime: 70 minutes
 prepTime: 10 minutes
 totalTime: 80 minutes

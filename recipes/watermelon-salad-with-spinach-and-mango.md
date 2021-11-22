@@ -29,7 +29,7 @@ directions: >-
 
   6. toss the salad until well-combined, then divide between serving bowls.
 category: side dish
-subcategory: salad
+subcategory: ['salad']
 rating: 4
 ease: easy
 nutritionFacts: |-

@@ -43,6 +43,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: dessert
+subcategory: ['pudding']
 href: 'https://www.justapinch.com/recipes/dessert/cake/drunk-pecan-pie-bread-pudding.html'
 totalTime: 1 hr 20 mins
 cookTime: 1 hr

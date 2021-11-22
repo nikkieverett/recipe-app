@@ -29,7 +29,7 @@ ingredients: |-
 rating: 3
 ease: easy
 category: side dish
-subcategory: potato
+subcategory: ['potato']
 href: 'https://theviewfromgreatisland.com/greek-lemon-potato-salad-recipe/'
 totalTime: 20 minutes
 cookTime: 10 minutes

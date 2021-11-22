@@ -27,6 +27,7 @@ ingredients: |-
 rating:
 ease: easy
 category: breakfast
+subcategory: ['casserole']
 href: 'https://www.mostlyhomemademom.com/banana-walnut-french-toast-casserole/'
 totalTime:
 cookTime:

@@ -6,6 +6,7 @@ ingredients: |-
   * 2 unit Scallions
   * 1 clove Garlic
   * 1 unit Roma Tomato
+  * 1 unite Penne pasta (or pasta of your choice)
   * 10 ounce Chicken Breast Strips
   * 1 tablespoon Blackening Spice
   * 6 ounce Penne Pasta
@@ -33,7 +34,7 @@ directions: >-
 
   6. Divide pasta between bowls or plates. Garnish with scallion greens and remaining tomato. Drizzle with any remaining hot sauce if desired and serve.
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'hello fresh', 'italian', 'chicken', 'keto']
 cookTime: "15"
 prepTime: "10"
 totalTime: "25"
@@ -52,4 +53,5 @@ nutritionFacts: |-
   * Sodium 800 mg
 isMarinade: false
 hasBeenTested: false
+notes: Can substitute pasta for keto friendly option.
 ---

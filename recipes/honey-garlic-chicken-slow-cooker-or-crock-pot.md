@@ -52,7 +52,7 @@ directions: >-
 
   * Serve over rice, sprinkled with green onions and sesame seeds
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'chicken']
 cookTime: 4 hours
 prepTime: 5 minutes
 totalTime: 4 hours

@@ -27,7 +27,7 @@ directions: >-
 
   4. Bake until the salmon is cooked through, about 25 minutes. Switch the oven to broil, and broil for 2 minutes, or until fish is slightly golden. Garnish with sesame seeds and green onions and serve with lime wedges.
 category: main course
-subcategory: meat
+subcategory: ['meat']
 cookTime: 45 min
 prepTime: 20 min
 totalTime: 65 min

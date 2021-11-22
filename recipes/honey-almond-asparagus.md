@@ -29,7 +29,7 @@ directions: >-
 
   * Sprinkle with feta cheese before serving
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable']
 cookTime: 5 mins
 prepTime: 5 mins
 totalTime: 10 mins

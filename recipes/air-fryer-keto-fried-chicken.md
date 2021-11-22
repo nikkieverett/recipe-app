@@ -25,6 +25,7 @@ directions: >-
 
   6. Place the basket into the air fryer. Cook the fried chicken in the air fryer for 20 minutes, until it reaches an internal temperature of 165 degrees F (74 degrees C).
 category: main course
+subcategory: ['keto', 'chicken', 'air fryer']
 cookTime: 20 mins
 prepTime: 10 mins
 totalTime: 30 mins

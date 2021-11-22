@@ -5,8 +5,6 @@ ingredients: |-
   * 1 qt water
   * 1/4 c kosher salt
 
-
-
   or
 
   * 1 gallon warm water

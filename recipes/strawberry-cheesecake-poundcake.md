@@ -23,7 +23,7 @@ directions: >-
 
   7. slice into 10 half-inch slices and serve.
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 servings: "10"
 rating: 3
 ease: intermediate

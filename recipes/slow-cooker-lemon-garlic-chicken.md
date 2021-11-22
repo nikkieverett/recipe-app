@@ -18,7 +18,7 @@ ingredients: |-
 rating: 3
 ease: easy
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'chicken']
 href: 'https://www.pillsbury.com/recipes/slow-cooker-lemon-garlic-chicken/ea965270-7646-4212-989d-de874268632a'
 totalTime: 4 hours 40 minutes
 cookTime: 4 hours 30 minutes

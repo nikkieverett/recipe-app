@@ -18,6 +18,7 @@ directions: |-
   * Cook for 30 min
   * Turn oven to 400 for last 20 min
 category: main course
+subcategory: ['chicken']
 cookTime: 50 min
 prepTime: 10 min
 totalTime: 1 hr

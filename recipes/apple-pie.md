@@ -24,7 +24,7 @@ directions: >-
 
   * Bake at 375° for 25 minutes. Remove foil and bake until crust is golden brown and filling is bubbly, 20-25 minutes longer. Cool on a wire rack.
 category: dessert
-subcategory: pie
+subcategory: ['pie']
 cookTime: 45 minutes
 prepTime: 20 minutes
 totalTime: 65 minutes-not including crust

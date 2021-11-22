@@ -34,7 +34,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: dessert
-subgcategory: pie
+subgcategory: ['pie']
 href: 'https://www.justapinch.com/recipes/dessert/other-dessert/coconut-cream-pie-deluxe.html'
 totalTime: 2 hrs 45 minutes
 cookTime: 15 minuttes

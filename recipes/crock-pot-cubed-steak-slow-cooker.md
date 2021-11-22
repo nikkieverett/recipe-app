@@ -24,7 +24,7 @@ ingredients: |-
 rating: 3
 ease: easy
 category: main course
-subcategory: crokcpot
+subcategory: ['crokcpot', 'steak', 'keto']
 href: 'https://www.thecountrycook.net/crock-pot-cubed-steak-with-gravy/'
 totalTime: 8 hours
 cookTime: 8 hours

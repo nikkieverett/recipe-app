@@ -77,7 +77,7 @@ const NavItems = ({ dispatch, selectedCategory, selectedSubcategory, location, h
       </div>
       <Divider />
       <div className={classes.searchBar}>
-        <SearchBar />
+        <SearchBar location={location} />
       </div>
       <Hidden smDown implementation="css">
         <Divider />

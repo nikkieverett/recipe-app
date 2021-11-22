@@ -25,7 +25,7 @@ ingredients: |-
 rating: 0
 ease: easy
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'asian', 'chicken']
 href: 'https://therecipecritic.com/slow-cooker-honey-garlic-sriracha-wings/'
 totalTime: 3 hours 10 minutes
 cookTime: 3 hours

@@ -33,7 +33,7 @@ directions: >-
 
   4. While the cake is baking, prepare the frosting. In a large bowl combine the cream cheese, butter and vanilla and, using an electric mixer, beat until smooth and creamy. Add the sifted powdered sugar and mix until thoroughly combined. Add the nuts and fold together. Keep refrigerated until you are ready to frost the cake.
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 cookTime: 25 minutes
 prepTime: 35 minutes
 totalTime: 60 minutes

@@ -35,6 +35,7 @@ directions: >-
 
   6. Spread a bit of chili sour cream onto each tortilla, then top with filling, a bit of pickled veggies, cilantro, and as much remaining sriracha and chili flakes as you like. Serve with any remaining pickled veggies on the side.
 category: main course
+subcategory: ['hello fresh', 'asian']
 cookTime: "25"
 prepTime: "10"
 totalTime: "35"

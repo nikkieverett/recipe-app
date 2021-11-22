@@ -13,7 +13,7 @@ const appStyles = makeStyles(theme => ({
     flexGrow: 1,
     borderRadius: '10px 0 0 10px',
     backgroundColor: '#EEEDE4',
-    padding: '0 20px',
+    padding: '0 55px',
     boxShadow: '0px 11px 15px -7px rgba(67, 127, 123, 1)',
     [theme.breakpoints.down('sm')]: {
       borderRadius: 0
@@ -21,7 +21,7 @@ const appStyles = makeStyles(theme => ({
   },
   header : {
     textTransform: 'capitalize',
-    padding: '15px 15px 5px 15px'
+    padding: '15px 10px 5px 10px'
   },
   link: {
     color: theme.palette.secondary.dark,

@@ -13,7 +13,7 @@ directions: |-
   3. salt. 
   4. cover and cook over medium heat until tender crisp (about 8 minutes).
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable']
 cookTime: 12 minutes
 prepTime: 15 minutes
 totalTime: 30 minutes

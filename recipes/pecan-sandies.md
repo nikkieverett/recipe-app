@@ -28,7 +28,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: dessert
-subcategory: cookie
+subcategory: ['cookie']
 href: 'https://www.tasteofhome.com/recipes/pecan-sandies-cookies/'
 totalTime: 40 minutes
 cookTime: 20 minutes

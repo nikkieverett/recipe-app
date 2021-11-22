@@ -15,7 +15,7 @@ directions: >-
 
   3. Bake 18 to 20 minutes or until golden brown.
 category: breakfast
-subcategory: egg
+subcategory: ['egg']
 cookTime: 30 minutes
 prepTime: 10 minutes
 totalTime: 40 minutes

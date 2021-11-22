@@ -32,6 +32,7 @@ directions: >-
 
   7. \*if sauce is not thickening, add another 2 Tbsp of corn starch to about 1/4 cup of chicken broth, whisk together, add to sauce, stir and simmer for another 5 minutes.
 category: main course
+subcategory: ['asian', 'chicken']
 rating: 4
 ease: easy
 notes: this link is not this recipe

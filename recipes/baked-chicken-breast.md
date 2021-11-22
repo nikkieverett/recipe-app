@@ -29,7 +29,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
-subcategory:
+subcategory: ['chicken', 'keto']
 href: 'https://www.gimmesomeoven.com/baked-chicken-breast/#tasty-recipes-60192'
 totalTime: 35 mins
 cookTime: 15 mins

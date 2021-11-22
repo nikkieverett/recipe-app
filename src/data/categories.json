@@ -1,9 +1,9 @@
 {
-	"main course": ["all in one casserole", "crockpot", "salad", "sandwich", "soup/stew", "pasta"],
-	"side dish": ["beans", "pasta", "potato", "rice", "salad", "vegetable", "fruit"],
-	"dessert": ["bread", "cake", "cupcake", "cookie", "candy", "cheesecake", "pie", "pudding", "ice cream"],
-	"breakfast": ["bread", "egg", "pancake", "waffle", "muffin"],
-	"appetizer": ["bread", "cracker", "cheese", "dip", "meat", "nuts", "popcorn", "sandwich", "vegetable"],
-	"beverage": [],
-	"condiment": []
+	"main course": ["all in one casserole", "crockpot", "salad", "sandwich", "soup/stew", "pasta", "hello fresh", "keto", "marinade"],
+	"side dish": ["beans", "pasta", "potato", "rice", "salad", "vegetable", "fruit", "keto"],
+	"dessert": ["bread", "cake", "cupcake", "cookie", "candy", "cheesecake", "pie", "pudding", "ice cream", "keto"],
+	"breakfast": ["bread", "egg", "pancake", "waffle", "muffin", "keto"],
+	"appetizer": ["bread", "cracker", "cheese", "dip", "meat", "nuts", "popcorn", "sandwich", "vegetable", "keto"],
+	"beverage": ["smoothie", "shake", "alcoholic", "breakfast", "keto"],
+	"condiment": ["marinade", "keto", "sauce"]
 }

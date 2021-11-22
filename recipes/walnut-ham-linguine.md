@@ -16,7 +16,7 @@ directions: >-
 
      Drain pasta. Add to ham mixture; toss to coat. Sprinkle with Parmesan and parsley.
 category: main course
-subcategory: pasta
+subcategory: ['pasta']
 totalTime: 20 minnutes
 servings: 4-6
 rating: 4

@@ -37,7 +37,7 @@ directions: >-
 
   6. Serve in bowls and top with cheese, avocado, scallions and cilantro. Also great with sour cream or crushed tortilla chips. Enjoy!
 category: main course
-subcategory: soup/stew
+subcategory: ['soup/stew', 'mexican', 'chicken']
 cookTime: 4-6 hours
 prepTime: 15 minutes
 totalTime: 4-6 hours

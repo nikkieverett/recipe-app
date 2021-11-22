@@ -21,6 +21,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
+subcategory: ['chicken']
 href: 'https://www.food.com/recipe/easy-chicken-and-stuffing-casserole-181498'
 totalTime:
 cookTime:

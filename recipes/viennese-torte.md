@@ -40,7 +40,7 @@ directions: >-
 
   3. Chill until ready to serve, for at least an hour. Slice in rectangular pieces about 1/2 inch thick.
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 prepTime: 30 minutes
 totalTime: 30 hours 30 minutes
 servings: "12"

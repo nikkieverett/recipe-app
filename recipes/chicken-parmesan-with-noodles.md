@@ -34,6 +34,7 @@ ingredients: |-
 rating: 3
 ease: easy
 category: main course
+subcategory: ['pasta', 'italian', 'chicken', 'keto']
 href: 'https://www.bhg.com/recipe/chicken/chicken-with-parmesan-noodles/'
 totalTime: 20 minutes
 cookTime:

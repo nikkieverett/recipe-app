@@ -34,7 +34,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'italian', 'bacon', 'chicken', 'keto']
 href: 'https://www.delish.com/cooking/recipe-ideas/recipes/a49951/caesar-angel-hair-recipe/'
 totalTime: 35 minutes
 cookTime: 25 minutes

@@ -28,7 +28,7 @@ directions: >-
 
   3. Combine glaze ingredients; drizzle over warm bread. Cool completely.
 category: dessert
-subcategory: bread
+subcategory: ['bread']
 cookTime: 1 hour
 prepTime: 15 minutes
 totalTime: 1 hour 15 minutes

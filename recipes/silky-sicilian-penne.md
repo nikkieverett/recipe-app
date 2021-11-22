@@ -33,6 +33,7 @@ directions: >-
 
   * Add zucchini, mushrooms, chicken, and drained penne to pan with sauce; stir to combine. Stir in 1 TBSP butter (2 TBSP for 4 servings) until melted. (TIP: If necessary, add more reserved pasta cooking water a splash at a time until penne is coated in a creamy sauce.) Divide pasta between plates. Sprinkle with Parmesan and remaining chives. Serve with remaining lemon wedges on the side.
 category: main course
+subcategory: ['pasta', 'hello fresh', 'chicken']
 cookTime: 25 minutes
 prepTime: 5 minutes
 totalTime: 30 minutes
