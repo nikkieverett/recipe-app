@@ -45,6 +45,7 @@ directions: >-
 
     Slice each duck breast diagonally into 1/2 inch strips. Divide the bok choy mixture among four plates and drizzle each serving with 1/2 tablespoon of aged balsamic vinegar. Arrange the sliced duck breasts on top of the bok choy mixture; ladle on blueberry sauce. Serve with oven-roasted potatoes on the side.
 category: main course
+subcategory: ['chicken']
 cookTime: 45 minutes
 prepTime: 45 minutes
 totalTime: 1.5 hours

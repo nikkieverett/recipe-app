@@ -20,7 +20,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: dessert
-subcategory: cookie
+subcategory: ['cookie']
 href: 'https://www.spendwithpennies.com/pecan-pie-cookies/'
 totalTime: 25 minutes
 cookTime: 10 minutes

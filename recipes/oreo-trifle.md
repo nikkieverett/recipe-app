@@ -34,7 +34,7 @@ directions: >-
 
   8. Cover tightly and store up to 2 days in the refrigerator.
 category: dessert
-subcategory: pudding
+subcategory: ['pudding']
 prepTime: 20 minutes
 servings: "12"
 rating: 5

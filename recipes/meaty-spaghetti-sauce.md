@@ -33,7 +33,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot']
 href: 'https://www.tasteofhome.com/recipes/meaty-spaghetti-sauce'
 totalTime:
 cookTime: 8 hours

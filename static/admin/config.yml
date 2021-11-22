@@ -21,27 +21,27 @@ collections:
           label: 'Category',
           name: 'category',
           widget: 'select',
-          options: ['breakfast', 'main course', 'side dish', 'salad', 'appetizer', 'dessert', 'beverage', 'condiment'],
+          options: ['main course', 'side dish', 'salad', 'appetizer', 'dessert', 'breakfast', 'beverage', 'condiment'],
           multiple: false,
         }
       - {
-          label: 'Subcategory',
+          label: 'Subcategories',
           name: 'subcategory',
           widget: 'select',
           required: false,
-          options: ['all in one casserole', 'crockpot', 'sandwich', 'soup/stew', 'beans', 'pasta', 'potato', 'rice', 'vegetable', 'salad', 'fruit', 'bread', 'cracker', 'cake', 'cupcake', 'cookie', 'candy', 'cheesecake', 'pie', 'pudding', 'ice cream', 'misc', 'egg', 'pancake', 'waffle', 'muffin', 'cheese', 'dip', 'meat', 'nuts', 'popcorn'],
-          multiple: false,
+          options: ['---- Main Course ----', 'all in one casserole', 'crockpot', 'sandwich', 'soup/stew', 'hello fresh', 'keto', 'marinade', '---- Side Dish ----', 'beans', 'pasta', 'potato', 'rice', 'vegetable', 'salad', 'fruit', 'bread', 'keto', '---- Salad ----', 'pasta', 'potato', 'vegetable', 'fruit', '---- Appetizer ----', 'cracker', 'cheese', 'dip', 'meat', 'nuts', 'popcorn', '---- Dessert ----', 'cake', 'cupcake', 'cookie', 'candy', 'cheesecake', 'pie', 'pudding', 'ice cream', 'keto', '---- Breakfast ----', 'egg', 'pancake', 'waffle', 'muffin', 'keto'],
+          multiple: true,
+          hint: 'You can select multiple subcategories'
         }
-      - { name: cookTime, label: Cook Time, required: false, widget: "string", hint: 'Example: 45 mins' }
       - { name: prepTime, label: Prep Time, required: false, widget: "string", hint: 'Example: 1hr' }
+      - { name: cookTime, label: Cook Time, required: false, widget: "string", hint: 'Example: 45 mins' }
       - { name: totalTime, label: Total Time, required: false, widget: "string", hint: 'Example: 1hr 45 mins' }
       - { name: servings, label: Number of Servings, widget: 'string', required: false }
       - { name: rating, label: Rating, widget: number, required: false, max: 5, min: 1 }
       - { name: ease, label: Difficulty, widget: select, options: ['easy', 'intermediate', 'difficult'], required: false }
-      - { name: nutritionFacts, label: Nutrition Facts, widget: markdown, required: false, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
       - { name: notes, label: Notes, widget: markdown, required: false, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
-      - { name: isMarinade, label: Is this a marinade?, widget: "boolean", default: false, required: false }
-      - { name: hasBeenTested, label: Recipe has been tested, widget: "boolean", default: false, required: false }
+      - { name: nutritionFacts, label: Nutrition Facts, widget: markdown, required: false, hint: 'Double hit the enter key when creating a bulleted or numbered list' }
+      - { name: needsMarinade, label: Requires marinading?, widget: "boolean", default: false, required: false }
       - {
           label: "Featured Image",
           name: "thumbnail",

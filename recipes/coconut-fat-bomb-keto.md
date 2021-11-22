@@ -18,6 +18,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: dessert
+subcategory: ['keto']
 href: 'https://www.dietdoctor.com/recipes/cinnamon-cardamom-fat-bombs'
 totalTime:
 cookTime:

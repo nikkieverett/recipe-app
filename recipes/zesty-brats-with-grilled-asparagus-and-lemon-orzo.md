@@ -48,4 +48,5 @@ notes: >-
   * optional note: you will be using 4 skewers. add 15 minutes to prep time if using wood skewers
 hasBeenTested: false
 thumbnail: assets/zesty-asparagus-and-lemon-orzo-salad-5-of-6.jpg
+needsMarinade: true
 ---

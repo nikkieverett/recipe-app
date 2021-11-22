@@ -31,7 +31,8 @@ ingredients: |-
   * 1 teaspoon dried sage (optional)
 rating:
 ease:
-category: main course
+category: side dish
+subcategory: ['bread']
 href: 'https://www.allrecipes.com/recipe/13688/cornbread-dressing-i/?prop28=body&prop29=mainrecipetitle&hid=&did=38298-20181122&prop24=etaf&prop25=38298&prop26=recipe-to-a-friend&prop27=&utm_campaign=recipe-to-a-friend_lifecycle&utm_source=allrecipes.com&utm_medium=email&utm_content=112218&cid=38298&mid=16439004492'
 totalTime: 1 hour 15 minutes
 cookTime: 30 minutes

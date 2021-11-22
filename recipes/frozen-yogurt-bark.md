@@ -23,7 +23,7 @@ ingredients: |-
 rating: 3
 ease: easy
 category: dessert
-subcategory: candy
+subcategory: ['candy']
 href: 'https://www.myfussyeater.com/frozen-yogurt-bark/'
 totalTime: 68 mins
 cookTime: 60 mins

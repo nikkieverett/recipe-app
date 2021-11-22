@@ -26,7 +26,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: dessert
-subcategory: ice cream
+subcategory: ['ice cream']
 href: 'https://www.geniuskitchen.com/recipe/cherry-almond-ice-cream-94646'
 totalTime: 40 mins
 cookTime:

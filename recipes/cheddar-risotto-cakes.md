@@ -69,6 +69,7 @@ directions: >-
 
   * Serve risotto cakes sprinkled with cheese and garnished with chives
 category: side dish
+subcategory: ['rice', 'italian']
 cookTime: null
 prepTime: null
 totalTime: null

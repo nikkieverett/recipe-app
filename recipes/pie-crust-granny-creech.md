@@ -15,7 +15,7 @@ directions: |-
   6. Put between wax paper, roll out.
   7. Roll pie crust around rolling pin to move to pie plate.
 category: dessert
-subcategory: pie
+subcategory: ['pie']
 ease: easy
 notes: THIS LINK IS NOT FOR THIS RECIPE
 hasBeenTested: false

@@ -47,6 +47,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: main course
+subcategory: ['chicken', 'mexican', 'keto']
 href: 'https://www.tasteofhome.com/recipes/flavorful-chicken-fajitas/'
 totalTime: 30 mins
 cookTime: 10 mins

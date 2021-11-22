@@ -11,6 +11,7 @@ directions: |-
   * Strain into a chilled shot glass.
   * Garnish with green apple slices
 category: beverage
+subcategory: ['alcoholic']
 cookTime: null
 prepTime: null
 totalTime: null

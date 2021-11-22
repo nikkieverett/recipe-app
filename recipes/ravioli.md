@@ -44,7 +44,7 @@ ingredients: |-
 rating: 4
 ease: time consuming
 category: main course
-subcategory: pasta
+subcategory: ['pasta']
 href: 'https://allourway.com/homemade-italian-ravioli-meat-cheese-filling/'
 totalTime:
 cookTime:

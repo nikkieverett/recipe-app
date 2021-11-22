@@ -20,7 +20,7 @@ directions: |-
   * Cook and stir for 1-2 minutes or until basil is wilted
   * Sprinkle with parmesan cheese
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'italian']
 cookTime: null
 prepTime: null
 totalTime: 30 minutes

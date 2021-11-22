@@ -36,6 +36,7 @@ directions: >-
 
   * Bake for 22 minutes in the preheated oven or until done
 category: breakfast
+subcategory: ['muffin']
 cookTime: 25 minutes
 prepTime: 15 minutes
 totalTime: 40 minutes

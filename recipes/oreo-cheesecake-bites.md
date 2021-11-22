@@ -29,7 +29,7 @@ directions: >-
 
   * When cool, lightly take out of muffin tin and peel away the liner
 category: dessert
-subcategory: cheesecake
+subcategory: ['cheesecake']
 cookTime: null
 prepTime: null
 totalTime: null

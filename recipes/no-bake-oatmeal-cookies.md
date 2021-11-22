@@ -17,7 +17,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: dessert
-subcategory: cookie
+subcategory: ['cookie']
 href: 'https://www.delish.com/cooking/recipe-ideas/a25440716/no-bake-chocolate-oatmeal-cookies-recipe/'
 totalTime: 2 hours 30 minutes
 cookTime:

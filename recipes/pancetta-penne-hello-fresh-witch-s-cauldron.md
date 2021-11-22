@@ -45,11 +45,11 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'hello fresh']
 href: 'https://www.hellofresh.com/recipes/pancetta-penne-in-a-witchs-cauldron-59baee93a2882a5314756bd1'
 totalTime: 25 mins
 cookTime:
 prepTime:
-title: pancetta penne - hello fresh witch's cauldron
+title: pancetta penne witch's cauldron
 path: /pancetta-penne-hello-fresh-witch-s-cauldron
 ---

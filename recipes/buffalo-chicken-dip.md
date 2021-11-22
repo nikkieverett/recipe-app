@@ -37,7 +37,7 @@ directions: >-
 
   6. Immediately garnish with blue cheese and green onions. Serve with vegetable sticks, chips, crusty bread pieces for dipping.
 category: side dish
-subcategory: dip
+subcategory: ['dip', 'chicken', 'keto']
 cookTime: 10 minutes
 prepTime: 10 minutes
 totalTime: 20 minutes

@@ -21,7 +21,7 @@ directions: >-
   3. pipe or spoon about 2 teaspoons into each berry; top with sliced almond. 
      chill until serving.
 category: side dish
-subcategory: fruit
+subcategory: ['fruit']
 prepTime: 20 minutes
 totalTime: 20 minutes
 rating: 5

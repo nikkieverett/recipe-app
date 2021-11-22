@@ -28,6 +28,7 @@ directions: >-
 
   5. Add the chicken back into the pan and cook for another 5 minutes or so, until the sauce is thickened a bit and the chicken is cooked through. Sprinkle the parmesan cheese over top (or stir it into the sauce). Season with salt & pepper as needed and serve immediately.
 category: main course
+subcategory: ['chicken', 'keto']
 cookTime: 20 minutes
 prepTime: 10 minutes
 totalTime: 30 minutes

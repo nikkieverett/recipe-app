@@ -29,6 +29,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: condiment
+subcategory: ['sauce']
 href: 'https://addapinch.com/homemade-bbq-sauce-recipe/'
 totalTime: 15 mins
 cookTime: 10 mins

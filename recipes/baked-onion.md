@@ -18,7 +18,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable', 'keto']
 href:
 totalTime: 2 hrs 10 min
 cookTime: 2 hrs

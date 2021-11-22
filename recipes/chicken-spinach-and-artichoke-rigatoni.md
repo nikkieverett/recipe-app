@@ -34,6 +34,7 @@ directions: |-
   * Add spinach and artichokes and toss until combined
   * Garnish with parm and serve
 category: main course
+subcategory: ['pasta', 'italian', 'chicken']
 cookTime: 15 min
 prepTime: 10 min
 totalTime: 25 min

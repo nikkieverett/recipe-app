@@ -20,7 +20,7 @@ directions: >-
 
   4. serve immediately.
 category: side dish
-subcategory: fruit
+subcategory: ['fruit']
 prepTime: 15 minutes
 totalTime: 15 minutes
 servings: "8"

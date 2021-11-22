@@ -37,7 +37,7 @@ directions: >-
 
   * Stir in reserved pasta water. Serve pasta garnished with parm and remaining toasted pine nuts
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'chicken', 'italian']
 cookTime: null
 prepTime: null
 totalTime: null

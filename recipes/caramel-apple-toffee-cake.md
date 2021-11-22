@@ -41,7 +41,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 href: 'https://www.dixiecrystals.com/recipes/caramel-apple-toffee-cake'
 totalTime: 1 hour
 cookTime: 35-40 mins

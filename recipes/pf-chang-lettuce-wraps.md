@@ -35,6 +35,7 @@ directions: >-
 
   4. Spoon rice, if using, and a large scoop (about 1/4 cup) of chicken mixture into center of each lettuce leaf. Serve immediately.
 category: main course
+subcategory: ['asian', 'chicken']
 cookTime: 15 minutes
 prepTime: 15 minutes
 totalTime: 30 minutes

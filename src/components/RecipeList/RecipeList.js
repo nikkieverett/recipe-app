@@ -16,8 +16,8 @@ const RecipeList = ({ recipes }) => {
       <div className={classes.content}>
         {recipes &&
           recipes.map(({ node: recipe }) => (
-            <div style={{ gridColumnEnd: 'span 3' }} key={recipe.frontmatter.title}>
-              <RecipeCard title={recipe.frontmatter.title} category={recipe.frontmatter.category} rating={recipe.frontmatter.rating} totalTime={recipe.frontmatter.totalTime} ease={recipe.frontmatter.ease} path={recipe.frontmatter.path} />
+            <div className={classes.gridListItem} key={recipe.frontmatter.title}>
+              <RecipeCard needsMarinade={recipe.frontmatter.needsMarinade} thumbnail={recipe.frontmatter.thumbnail} title={recipe.frontmatter.title} category={recipe.frontmatter.category} rating={recipe.frontmatter.rating} totalTime={recipe.frontmatter.totalTime} ease={recipe.frontmatter.ease} path={recipe.frontmatter.path} />
             </div>
           ))}
       </div>

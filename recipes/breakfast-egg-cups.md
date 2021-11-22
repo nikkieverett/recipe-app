@@ -39,7 +39,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: breakfast
-subcategory: egg
+subcategory: ['egg']
 href: 'https://tasty.co/recipe/egg-breakfast-cups'
 totalTime: 25 mins
 cookTime: 20 mins

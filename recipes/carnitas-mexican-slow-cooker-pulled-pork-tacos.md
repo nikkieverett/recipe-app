@@ -54,7 +54,7 @@ directions: >-
 
   3. Just before serving, drizzle over more juices and serve hot, stuffed in tacos (see notes for sides, other serving suggestion and storage/make ahead).
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'mexican', 'pork', 'keto']
 cookTime: 6 hours
 prepTime: 15 minutes
 totalTime: 6 hours 15 minutes

@@ -24,7 +24,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 href: 'https://12tomatoes.com/shared-orange-juice-cake/'
 totalTime: 1 hour
 cookTime: 40 mins

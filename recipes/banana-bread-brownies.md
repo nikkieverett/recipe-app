@@ -42,6 +42,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: dessert
+subcategory: ['brownies']
 href: 'https://sugarapron.com/2015/04/09/banana-bread-brownies/'
 totalTime: 35 minutes
 cookTime: 25 minutes

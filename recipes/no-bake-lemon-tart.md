@@ -42,7 +42,7 @@ ingredients: |-
 rating: 5
 ease: intermediate
 category: dessert
-subcategory: pie
+subcategory: ['pie']
 href: 'https://www.womansday.com/food-recipes/food-drinks/a19810477/no-bake-lemon-tarts-recipe/'
 totalTime: 2 hours 45 minutes
 cookTime:

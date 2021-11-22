@@ -37,7 +37,7 @@ directions: >-
 
   * Add the parmesan and the parsley, stirring until the cheese is melted
 category: main course
-subcategory: pasta
+subcategory: ['pasta']
 cookTime: null
 prepTime: null
 totalTime: null

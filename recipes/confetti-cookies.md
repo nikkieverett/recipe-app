@@ -31,7 +31,7 @@ ingredients: |-
 rating: 5
 ease: intermediate
 category: dessert
-subcategory: cookie
+subcategory: ['cookie']
 href: 'https://smittenkitchen.com/2016/05/confetti-cookies/'
 totalTime:
 cookTime:

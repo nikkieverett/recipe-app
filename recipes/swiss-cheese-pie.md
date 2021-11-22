@@ -28,7 +28,7 @@ directions: >-
 
   7. let stand 5 minutes before serving.
 category: breakfast
-subcategory: egg
+subcategory: ['egg']
 cookTime: 1 hour
 prepTime: 10 minutes
 totalTime: 1 hour 10 minutes

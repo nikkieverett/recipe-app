@@ -47,4 +47,5 @@ nutritionFacts: |-
   protein 46.2g 92%
 hasBeenTested: false
 thumbnail: assets/honey_sriracha_salmon.jpg
+needsMarinade: true
 ---

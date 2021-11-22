@@ -22,7 +22,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole', 'pasta', 'italian', 'chicken']
 href: 'https://www.plainchicken.com/2019/03/overnight-chicken-tetrazzini.html'
 totalTime: 1 hour 10 minutes
 cookTime: 1 hour

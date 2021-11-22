@@ -136,22 +136,18 @@ const Template = ({ data, dispatch }) => {
           </Typography>
           <ReactMarkdown source={frontmatter.directions} className={classes.cardList} />
         </Grid>
-        {frontmatter.nutritionFacts && (
-          <Grid xs={12} item className={classes.cardNotes}>
-            <Typography variant="h5" component="h2" className={classes.item}>
-              Nutrition Facts:
-            </Typography>
-            <ReactMarkdown source={frontmatter.nutritionFacts} />
-          </Grid>
-        )}
-        {frontmatter.notes && (
-          <Grid xs={12} item className={classes.cardNotes}>
-            <Typography variant="h5" component="h2" className={classes.item}>
-              Notes:
-            </Typography>
-            <ReactMarkdown source={frontmatter.notes} />
-          </Grid>
-        )}
+        <Grid xs={12} item className={classes.cardNotes}>
+          <Typography variant="h5" component="h2" className={classes.item}>
+            Notes:
+          </Typography>
+          <ReactMarkdown source={frontmatter.notes} />
+        </Grid>
+        <Grid xs={12} item className={classes.cardNotes}>
+          <Typography variant="h5" component="h2" className={classes.item}>
+            Nutrition Facts:
+          </Typography>
+          <ReactMarkdown source={frontmatter.nutritionFacts} />
+        </Grid>
       </Grid>
     </Paper>
   )

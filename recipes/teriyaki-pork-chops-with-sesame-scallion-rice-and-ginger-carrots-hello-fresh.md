@@ -32,6 +32,7 @@ directions: >-
 
   6. fluff rice with a fork; divide between plates along with carrots and pork. top pork with sauce and sprinkle with scallion greens and remaining sesame seeds. serve.
 category: main course
+subcategory: ['hello fresh', 'asian']
 servings: 2 or 4
 rating: 5
 ease: easy

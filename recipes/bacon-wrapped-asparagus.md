@@ -11,14 +11,14 @@ ingredients: |-
   * asparagus
   * bacon
   * stick of butter
-  * 1/2 c. brown sugar
+  * 1/2 c. brown sugar or keto sugar substitute
   * 1 tbs soy sauce
   * 1/2tsp garlic salt
   * 1/4 tsp black pepper
 rating: 5
 ease: intermediate
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable', 'meat', 'keto']
 href:
 totalTime: 30 mins
 cookTime: 20 mins

@@ -58,10 +58,11 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
+subcategory: ['hello fresh', 'asian']
 href: 'https://www.hellofresh.com/recipes/pork-and-thai-basil-stir-fry-5a32a68a450cfa0441064423?locale=en-us'
 totalTime: 35 mins
 cookTime:
 prepTime:
-title: pork and thai basil stir-fry - hello fresh
+title: pork and thai basil stir-fry
 path: /pork-and-thai-basil-stir-fry-hello-fresh
 ---

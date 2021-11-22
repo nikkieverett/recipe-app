@@ -31,7 +31,7 @@ ingredients: |-
 rating: 5
 ease: intermediate
 category: main course
-subcategory: soup/stew
+subcategory: ['soup/stew', 'chicken']
 href: 'https://hostthetoast.com/lemon-garlic-chicken-orzo-soup/'
 totalTime: 1 hour 5 minutes
 cookTime: 45 minutes

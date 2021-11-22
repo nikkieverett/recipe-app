@@ -33,4 +33,5 @@ ease: easy
 notes: marinade!
 path: /honey-ginger-grilled-salmon
 href: https://www.allrecipes.com/recipe/29460/honey-ginger-grilled-salmon/
+needsMarinade: true
 ---

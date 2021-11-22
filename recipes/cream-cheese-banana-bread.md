@@ -52,7 +52,7 @@ directions: >-
 
   Remove the bread from the oven and allow it to cool in the pan for 10 minutes before using the parchment paper overhangs to lift the bread out of the pan and onto a rack to cool completely. Slice and serve.
 category: breakfast
-subcategory: bread
+subcategory: ['bread']
 cookTime: 1 hr
 prepTime: 15 mins
 totalTime: 1 hr 15 mins

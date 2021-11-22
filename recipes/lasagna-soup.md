@@ -36,7 +36,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: main course
-subcategory: soup/stew
+subcategory: ['soup/stew', 'italian']
 href: 'https://tiphero.com/lasagna-soup/'
 totalTime:
 cookTime:

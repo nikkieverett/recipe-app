@@ -1,6 +1,6 @@
 ---
-title: Crispy Parmesan Chicken with garlic couscous & Lemony Roasted Carrots
-  Hello Fresh
+title: Crispy Parmesan Chicken Hello Fresh
+href: https://www.hellofresh.com/recipes/crispy-parmesan-chicken-5ecd4d891e4833321621f901
 ingredients: |-
   * 12 ounce Carrots
   * 2 Scallions
@@ -32,7 +32,7 @@ directions: >-
 
   * Divide chicken, carrots, and couscous between plates. Garnish chicken with scallion greens. Serve with remaining lemon wedges on the side.
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole', 'hello fresh', 'chicken']
 cookTime: 30 minutes
 prepTime: 10 minutes
 totalTime: 40 minutes

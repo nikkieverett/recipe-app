@@ -38,7 +38,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 href:
 totalTime:
 cookTime:

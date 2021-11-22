@@ -28,6 +28,7 @@ directions: >-
 
   7. Serve chicken over pasta. Sprinkle each tomato slice with salt and pepper garnish with a basil leaf. Spoon leftover pesto sauce on top, if desired.
 category: main course
+subcategory: ['italian', 'chicken', 'keto', 'pasta']
 cookTime: 15 mins
 prepTime: 10 mins
 totalTime: 25 mins

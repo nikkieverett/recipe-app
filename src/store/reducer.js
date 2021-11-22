@@ -80,7 +80,9 @@ const reducer = (state = initialState, action) => {
 
     case constants.SORT_BY_SUBCATEGORY: {
       const subcategoryFiltered = state.recipesFilteredByCategory.filter(recipe => {
-        return recipe.node.frontmatter.subcategory === action.subcategory
+        if (recipe.node.frontmatter.subcategory !== null && recipe.node.frontmatter.subcategory.indexOf(action.subcategory) > -1) {
+          return recipe
+        }
       })
 
       if (subcategoryFiltered.length === 0) {
@@ -138,7 +140,7 @@ const reducer = (state = initialState, action) => {
         subcategory: '',
         filteredRecipes: queryFiltered,
         recipesFilteredByQuery: true,
-        selectedRecipe: null
+        selectedRecipe: ''
       }
     }
 

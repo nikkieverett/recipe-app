@@ -42,7 +42,7 @@ directions: >-
 
   * Add almonds, if desired, near end of cycle, when the ice cream is thick enough to prevent all the almonds to sink to the bottom of the mix.
 category: dessert
-subcategory: ice cream
+subcategory: ['ice cream']
 cookTime: ""
 prepTime: ""
 totalTime: 40 minutes

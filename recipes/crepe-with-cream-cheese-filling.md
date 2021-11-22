@@ -51,7 +51,7 @@ directions: >-
 
   6. Assemble crepes putting 1 T cream cheese mixture in each and rolling.  Top with fruit.  Dust with powdered sugar.
 category: breakfast
-subcategory: pancake
+subcategory: ['pancake']
 cookTime: 20 minutes
 prepTime: 20 minutes
 totalTime: 40 minutes

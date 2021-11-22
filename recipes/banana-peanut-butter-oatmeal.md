@@ -16,6 +16,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: breakfast
+subcategory: ['oatmeal']
 href: 'https://www.toneitup.com/recipe/tiu-challenge-recipe-banana-peanut-butter-overnight-oats/'
 totalTime: 15 min
 cookTime:

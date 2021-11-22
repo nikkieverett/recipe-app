@@ -30,7 +30,7 @@ directions: >-
 
   * Fluff rice with a fork; stir in 1 TBSP butter (2 TBSP for 4 servings) and lime zest to taste. Season with salt. Divide between bowls and top with pork mixture. Top with peanuts and cilantro. Serve with lime wedges on the side.
 category: main course
-subcategory: null
+subcategory: ['hello fresh']
 cookTime: 25 minutes
 prepTime: 5 minutes
 totalTime: 30 minutes

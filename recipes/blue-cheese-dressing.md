@@ -16,6 +16,7 @@ ingredients: |-
 rating:
 ease: easy
 category: condiment
+subcategory: ['dressing']
 href: 'https://www.thewickednoodle.com/buttermilk-blue-cheese-dressing/'
 totalTime:
 cookTime:

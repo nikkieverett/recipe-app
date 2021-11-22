@@ -31,6 +31,7 @@ directions: >-
   7. put pan back on low heat and add cheese and stir until melted add 1/2 cup or less of chicken broth to thin the sour cream sauce to your liking
      ladle on enchiladas or dish of your choice
 category: condiment
+subcategory: ['sauce']
 rating: 5
 ease: easy
 hasBeenTested: false

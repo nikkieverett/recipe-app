@@ -38,7 +38,7 @@ directions: >-
 
   * This recipe can be served immediately, but the flavors improve after a few hours in the fridge. It will keep well for about 24 hours in the fridge- after that, it may be a bit soggy.
 category: side dish
-subcategory: salad
+subcategory: ['salad']
 prepTime: 15 minutes
 totalTime: 15 minutes
 servings: "6"

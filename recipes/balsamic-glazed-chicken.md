@@ -32,11 +32,12 @@ ingredients: |-
 rating:
 ease: easy
 category: main course
-subcategory:
+subcategory: ['chicken', 'italian']
 href: 'https://www.delish.com/cooking/recipe-ideas/recipes/a49138/balsamic-glazed-chicken/'
 totalTime: 1-1.5 hrs
 cookTime: 30min
 prepTime: 15 mins
 title: balsamic glazed chicken
 path: /balsamic-glazed-chicken
+needsMarinade: true
 ---

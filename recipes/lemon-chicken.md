@@ -31,7 +31,7 @@ directions: >-
 
   * Garnish with fresh rosemary and lemon slices if desired and serve
 category: main course
-subcategory: null
+subcategory: ['chicken']
 cookTime: null
 prepTime: null
 totalTime: null

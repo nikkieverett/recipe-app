@@ -90,6 +90,7 @@ directions: >-
      1. Fill peppers with taco meat
      2. Top with sauce
 category: main course
+subcategory: ['mexican']
 ease: intermediate
 notes: THIS WEBSITE IS NOT THIS RECIPE
 hasBeenTested: false

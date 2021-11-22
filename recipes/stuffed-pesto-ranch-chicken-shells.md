@@ -22,7 +22,7 @@ directions: >-
 
   6. sprinkle with additional parmesan before serving.
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'pasta', 'italian', 'chicken']
 cookTime: 3-8 hours
 prepTime: 5 minutes
 totalTime: 3-8 hours

@@ -19,7 +19,7 @@ ingredients: |-
 rating: 0
 ease: easy
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable']
 href: 'https://therecipecritic.com/roasted-lemon-parmesan-garlic-asparagus/'
 totalTime:
 cookTime:

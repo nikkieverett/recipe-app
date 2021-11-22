@@ -48,7 +48,7 @@ directions: >-
 
   * Fluff rice with a fork and season with salt and pepper. Toss broccoli with ponzu and half the sesame seeds. • Divide rice, broccoli, and meatloaves between plates. Drizzle meatloaves with any remaining glaze mixture. Garnish with scallion greens, remaining sesame seeds, and as many chili flakes as you like. Serve with remaining lime wedges on the side.
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole', 'hello fresh']
 cookTime: 40 minutes
 prepTime: 10 minutes
 totalTime: 50 minutes

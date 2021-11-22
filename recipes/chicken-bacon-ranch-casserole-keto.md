@@ -1,5 +1,5 @@
 ---
-title: Chicken Bacon Ranch Casserole - Keto
+title: Chicken Bacon Ranch Casserole
 href: https://www.wholesomeyum.com/recipes/chicken-bacon-ranch-casserole-recipe-easy-low-carb/
 ingredients: |-
   
@@ -31,7 +31,7 @@ directions: >-
 
   5. Bake for about [](https://www.wholesomeyum.com/recipes/chicken-bacon-ranch-casserole-recipe-easy-low-carb/#)15 minutes, until hot and bubbly
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole', 'chicken', 'bacon', 'keto']
 cookTime: 15 mins
 prepTime: 5 mins
 totalTime: 20 mins

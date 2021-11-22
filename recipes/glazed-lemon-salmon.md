@@ -34,6 +34,7 @@ directions: >-
 
   * Add remaining butter and stir to create creamy sauce.garnish with parsley and serve immediately
 category: main course
+subcategory: ['fish']
 cookTime: null
 prepTime: 25 mins
 totalTime: 25 mins

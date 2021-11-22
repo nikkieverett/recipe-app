@@ -39,7 +39,7 @@ directions: >-
 
   * Roasted asparagus is best served when it’s fresh out of the oven, but it will keep at room temperature for up to 1 hour or up to 4 days in the refrigerator (gently reheat before serving).
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable']
 cookTime: 15 minutes
 prepTime: 5 minutes
 totalTime: 20 minutes

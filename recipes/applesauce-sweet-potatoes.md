@@ -26,7 +26,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: side dish
-subcategory: potato
+subcategory: ['potato']
 href: 'https://www.tasteofhome.com/recipes/applesauce-sweet-potatoes/'
 totalTime: 4 hrs 15 min
 cookTime: 4 hrs

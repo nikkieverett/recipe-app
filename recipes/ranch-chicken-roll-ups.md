@@ -24,6 +24,7 @@ directions: >-
 
   * Cool 5 minutes in pan
 category: main course
+subcategory: ['chicken']
 cookTime: null
 prepTime: null
 totalTime: null

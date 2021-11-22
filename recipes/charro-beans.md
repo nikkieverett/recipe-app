@@ -34,7 +34,7 @@ directions: >-
 
   * Season with salt and powdered chicken broth
 category: side dish
-subcategory: beans
+subcategory: ['beans', 'mexican']
 cookTime: 15 min
 prepTime: overnight
 totalTime: 1 day

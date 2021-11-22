@@ -24,6 +24,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: main course
+subcategory: ['chicken']
 href:
 totalTime: 40 mins
 cookTime: 30 mins

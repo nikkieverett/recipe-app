@@ -33,7 +33,7 @@ directions: >-
 
   * Turn off the heat, remove the bay leaves and allow the mixture to sit about 30 minutes more before serving
 category: main course
-subcategory: soup/stew
+subcategory: ['soup/stew']
 cookTime: 40 min
 prepTime: 5 min
 totalTime: 1 hr 15 min

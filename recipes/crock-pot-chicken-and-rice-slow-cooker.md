@@ -14,7 +14,7 @@ ingredients: |-
 rating: 3
 ease: easy
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'chicken']
 href: 'https://forkinit.blogspot.com/2008/01/dinner-reality-check.html'
 totalTime: 6 hours
 cookTime:

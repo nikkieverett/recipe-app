@@ -10,7 +10,6 @@ import IconButton from '@material-ui/core/IconButton'
 import MenuIcon from '@material-ui/icons/Menu'
 
 // Custom components
-import Tabs from './Tabs'
 import SearchBar from '../SearchBar/SearchBar'
 // Styles
 import headerStyles from './Header.styles'
@@ -34,7 +33,6 @@ const Header = ({ setMobileOpen, mobileOpen, category, subcategory }) => {
         </Typography>
         <SearchBar location="header" />
       </Toolbar>
-      <Tabs />
     </AppBar>
   )
 }

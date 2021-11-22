@@ -49,6 +49,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: main course
+subcategory: ['fish', 'keto']
 href: 'https://cafedelites.com/creamy-garlic-butter-tuscan-salmon/'
 totalTime:
 cookTime:

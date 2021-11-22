@@ -26,6 +26,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
+subcategory: ['chicken', 'italian']
 href: 'https://www.bhg.com/recipe/chicken/lemon-chicken-with-olives-and-ricotta/'
 totalTime: 30 minutes
 cookTime:

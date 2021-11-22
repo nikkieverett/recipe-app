@@ -36,7 +36,7 @@ directions: >-
   4. for frosting:
      in a medium sauce pan heat milk, butter and cocoa until bubbly. mix in sugar and vanilla until smooth. add in nuts and blend until incorporated. carefully spoon about a tablespoon of frosting over each bite and let frosting set (if you can) before eating! enjoy!
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 rating: 5
 ease: easy
 notes: if you don't have buttermilk on hand, you can make sour milk instead. add

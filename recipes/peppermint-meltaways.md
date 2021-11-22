@@ -24,7 +24,7 @@ directions: >-
 
   3. In a small bowl, beat butter until creamy. Beat in milk, extract and, if desired, food coloring. Gradually beat in confectioners' sugar until smooth. Spread over cookies; sprinkle with crushed candies. Store in an airtight container.
 category: dessert
-subcategory: cookie
+subcategory: ['cookie']
 cookTime: 30 minutes
 prepTime: 10 minutes
 totalTime: 40 minutes
