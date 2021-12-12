@@ -1,5 +1,5 @@
 ---
-title: Ham Steak with Green Beans and Chive Sweet Potatoes - Hello Fresh
+title: Ham Steak with Green Beans and Sweet Potatoes
 href: https://www.hellofresh.ca/recipes/old-fashioned-ham-steak-5d5e86fd730968000e64504d
 ingredients: |-
   * 2 Ham Steak2
@@ -29,9 +29,10 @@ directions: >-
 
   6. Divide pineapple ham, sweet potato mash and beans between plates. Serve with mustard on the side, for dipping.
 category: main course
-subcategory: ['hello fresh']
-cookTime: 30 minutes
+subcategory:
+  - hello fresh
 prepTime: 10 minutes
+cookTime: 30 minutes
 servings: "4"
 rating: 4
 ease: easy
@@ -55,6 +56,6 @@ nutritionFacts: |-
   Cholesterol110 mg
 
   Sodium1970 mg
-hasBeenTested: false
 thumbnail: assets/old-fashioned-ham-steak-ca36e074.jpg
+hasBeenTested: false
 ---
