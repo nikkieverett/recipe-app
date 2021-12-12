@@ -19,7 +19,7 @@ directions: |-
   5. Pour into large springform pan.
   6. Bake at 350 for 30 - 45 minutes.
 category: dessert
-subcategory: cheesecake
+subcategory: ['cheesecake']
 cookTime: 30-45 minutes
 prepTime: 15 minutes
 rating: 5

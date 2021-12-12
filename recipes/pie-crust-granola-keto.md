@@ -15,7 +15,7 @@ directions: |-
 
   bake 300 for 13 minutes
 category: dessert
-subcategory: ['null']
+subcategory: ['keto']
 prepTime: 5 minutes
 totalTime: 18 minutes
 hasBeenTested: false

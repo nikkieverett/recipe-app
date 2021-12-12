@@ -18,10 +18,10 @@ directions: |-
   3. Bake for 25 mins
   4. Make cauliflower rice with butter and any additional seasoning
 category: main course
-cookTime: "25"
-prepTime: "10"
-totalTime: "35"
-servings: "4"
+cookTime: '25'
+prepTime: '10'
+totalTime: '35'
+servings: '4'
 rating: 5
 ease: easy
 isMarinade: false

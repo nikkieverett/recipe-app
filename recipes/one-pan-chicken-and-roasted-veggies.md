@@ -19,10 +19,10 @@ directions: |-
   3. Lay out chicken and veggies on sheet pan with parchment paper
   4. Bake for 25 mins
 category: main course
-cookTime: "25"
-prepTime: "10"
-totalTime: "35"
-servings: "2"
+cookTime: '25'
+prepTime: '10'
+totalTime: '35'
+servings: '2'
 rating: 5
 ease: easy
 isMarinade: false

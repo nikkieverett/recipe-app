@@ -42,7 +42,7 @@ directions: >-
 
   <!--EndFragment-->
 category: dessert
-subcategory: pudding
+subcategory: ['pudding']
 cookTime: 1 hour 15 minutes
 prepTime: 20 minutes
 rating: 4

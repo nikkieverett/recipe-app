@@ -22,11 +22,11 @@ directions: >-
 
   6. Remove from heat, if “rice” is too thick, add a splash of water
 category: side dish
-subcategory: rice
-cookTime: "5"
-prepTime: "5"
-totalTime: "10"
-servings: "2"
+subcategory: ['rice']
+cookTime: '5'
+prepTime: '5'
+totalTime: '10'
+servings: '2'
 rating: 5
 ease: easy
 isMarinade: false
