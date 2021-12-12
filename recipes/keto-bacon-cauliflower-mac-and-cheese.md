@@ -51,7 +51,7 @@ directions: >-
 
   13. Once out of the oven too with remaining bacon.
 category: main course
-subcategory: pasta
+subcategory: ['pasta']
 cookTime: "30"
 prepTime: "10"
 totalTime: "40"

@@ -22,7 +22,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
-subcategory: fish
+subcategory: ['fish']
 href: 'http://www.apronstringsblog.com/one-pot-blackberry-glazed-salmon-and-asparagus/'
 totalTime: 20 mins
 cookTime:

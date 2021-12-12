@@ -21,7 +21,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: side dish
-subcategory: pasta
+subcategory: ['pasta', 'italian', 'keto']
 href: 'https://www.gimmesomeoven.com/cacio-e-pepe/#tasty-recipes-60551'
 totalTime: 20 mins
 cookTime: 10 mins

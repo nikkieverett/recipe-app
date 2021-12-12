@@ -28,6 +28,7 @@ directions: >-
 
   6. Transfer chicken and carrots to middle rack and potatoes to top rack. • Roast until chicken is golden brown and cooked through and veggies are tender, 15-18 minutes. TIP: If chicken is done before veggies, remove from sheet and continue roasting veggies until browned and tender, 5-7 minutes more. • Divide chicken, potato wedges, and carrots between plates. Serve with remaining maple mustard on the side for dipping or drizzling.
 category: main course
+subcategory: ['hello fresh', 'chicken', 'keto']
 cookTime: "35"
 prepTime: "10"
 totalTime: "45"

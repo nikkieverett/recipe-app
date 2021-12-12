@@ -9,12 +9,12 @@ ingredients: |-
   * raisins
   * red onion
   * 1 tb mayo
-  * 1 tsp sugar
+  * 1 tsp sugar or keto sugar substitute
   * redwine vinegar
 rating: 4
 ease: easy
 category: side dish
-subcategory: salad
+subcategory: ['salad', 'keto']
 href:
 totalTime:
 cookTime:

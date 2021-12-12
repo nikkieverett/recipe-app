@@ -32,6 +32,7 @@ ingredients: |-
 rating: 5
 ease: intermediate
 category: main course
+subcategory: ['all in one casserole', 'sausage']
 href: 'https://www.tasteofhome.com/recipes/baked-rice-with-sausage/'
 totalTime: 1 hour 20 minutes
 cookTime: 50 minutes

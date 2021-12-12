@@ -44,7 +44,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: main course
-subcategory: soup
+subcategory: ['soup', 'mexican']
 href: 'https://thestayathomechef.com/mexican-street-corn-soup/'
 totalTime: 20 minutes
 cookTime: 15 minutes

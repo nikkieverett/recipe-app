@@ -30,7 +30,7 @@ directions: >-
 
   * Cook until vegetables are tender but still crisp
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable']
 cookTime: 15 mins
 prepTime: 25 mins
 totalTime: 40 mins

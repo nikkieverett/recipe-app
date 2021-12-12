@@ -28,7 +28,7 @@ directions: |-
   * Add pasta, cook according to pasta directions
   * Garnish with cilantro
 category: main course
-subcategory: soup
+subcategory: ['soup', 'chicken', 'pasta']
 cookTime: null
 prepTime: null
 totalTime: null

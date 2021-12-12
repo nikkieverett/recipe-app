@@ -24,6 +24,7 @@ directions: >-
 
   3. Brush a baking sheet with olive oil and set fillets on top. Brush fillets with oil and season with salt and pepper. Once blackberry mixture is cool, brush over salmon fillets and bake for 4 minutes. Brush again with blackberry mixture. Turn oven to broil and broil another 3 minutes.
 category: main course
+subcategory: ['fish']
 totalTime: 30 minutes
 servings: "4"
 rating: 4

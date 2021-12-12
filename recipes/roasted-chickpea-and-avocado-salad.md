@@ -25,7 +25,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
-subcategory: salad
+subcategory: ['salad']
 href: 'https://tasty.co/recipe/roasted-chickpea-and-avocado-salad'
 totalTime:
 cookTime:

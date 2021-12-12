@@ -33,7 +33,7 @@ directions: |-
   7. top patty with mozzarella and tomato slice
   8. drizzle with balsamic glaze
 category: main course
-subcategory: sandwich
+subcategory: ['sandwich', 'beef', 'italian', 'keto']
 prepTime: 30 minutes
 servings: "6"
 ease: easy

@@ -23,7 +23,7 @@ ingredients: |-
 rating: 3
 ease: easy
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole', 'chicken', 'italian', 'keto']
 href: 'https://cooktopcove.com/2017/09/06/chicken-parmesan-casserole-recipe/?src=article_link&eid=51119&pid=51119'
 totalTime: 1 hr 10 mins
 cookTime: 1 hr

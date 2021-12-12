@@ -14,7 +14,7 @@ directions: >-
 
   * Bake in preheated oven for 35 to 40 minutes. Cut into squares and serve.
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 cookTime: 35-40 minutes
 prepTime: 10 minutes
 totalTime: 50 minutes

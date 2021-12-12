@@ -21,7 +21,7 @@ directions: >-
 
   * Let stand 10 minutes before serving
 category: main course
-subcategory: all in one casserole
+subcategory: ['all in one casserole', 'chicken']
 cookTime: 1 hour
 prepTime: 10 minutes
 totalTime: 1 hour 10 minutes

@@ -15,7 +15,7 @@ directions: >-
 
   * Cook on low setting for 6 hours, until internal temperature of pork has reached 145 degrees f (63 degrees c)
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot']
 cookTime: null
 prepTime: null
 totalTime: null

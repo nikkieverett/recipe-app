@@ -12,6 +12,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: beverage
+subcategory: ['alcoholic']
 href:
 totalTime:
 cookTime:

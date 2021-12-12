@@ -1,6 +1,6 @@
 ---
 servings: 10 servings
-notes:
+notes: Can use keto tortilla substitute like cut da carb, or low carb mission tortillas
 nutritionFacts: |-
   * Calories: 334kcal
   * Carbohydrates: 16g
@@ -40,6 +40,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: main course
+subcategory: ['chicken', 'mexican', 'keto']
 href: 'https://happymoneysaver.com/chicken-enchiladas-recipe/'
 totalTime: 50 mins
 cookTime: 30 mins

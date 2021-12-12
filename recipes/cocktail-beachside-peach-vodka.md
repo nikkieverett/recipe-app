@@ -24,6 +24,7 @@ ingredients: |-
 rating:
 ease:
 category: beverage
+subcategory: ['alcoholic']
 href: 'http://www.completecocktails.com/drinks/beachsidepeach.aspx#.w3cvmtmjliu'
 totalTime:
 cookTime:

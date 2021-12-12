@@ -22,7 +22,7 @@ directions: >-
 
   4. Transfer cheesy asparagus to a serving platter. Top with roasted tomatoes then drizzle with balsamic glaze and garnish with basil.
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable', 'italian', 'keto']
 cookTime: 20 minutes
 prepTime: 10 minutes
 totalTime: 30 minutes

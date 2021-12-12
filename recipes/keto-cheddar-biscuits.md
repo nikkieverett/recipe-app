@@ -27,7 +27,7 @@ directions: >-
 
   * Allow biscuits to cool slightly before eating.
 category: side dish
-subcategory: bread
+subcategory: ['bread']
 cookTime: 10 min
 prepTime: 10 min
 totalTime: 20 mins

@@ -23,7 +23,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: side dish
-subcategory: soup/stew
+subcategory: ['soup/stew', 'asian']
 href: 'https://www.gimmesomeoven.com/egg-drop-soup/#tasty-recipes-59802'
 totalTime: 15 minutes
 cookTime: 10 minutes

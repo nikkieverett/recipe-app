@@ -13,7 +13,7 @@ directions: 1. In a large salad bowl, combine the greens, artichokes, cheese if
   desired, pepperoni, onion and pimientos. Drizzle with dressing and toss to
   coat. Serve immediately.
 category: main course
-subcategory: all in one casserole
+subcategory: ['salad', 'keto']
 cookTime: ""
 prepTime: 15 minutes
 totalTime: 15 minutes

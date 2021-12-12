@@ -60,7 +60,7 @@ directions: >-
 
   7. Leftovers taste even better the next day. Allow leftover soup to cool to room temperature, then cover and refrigerate for up to 5 days. Or, freeze leftover soup in individual portions and defrost as necessary.
 category: main course
-subcategory: soup/stew
+subcategory: ['soup/stew']
 totalTime: 30 minutes
 hasBeenTested: false
 ---

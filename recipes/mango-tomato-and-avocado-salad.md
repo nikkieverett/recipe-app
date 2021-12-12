@@ -22,7 +22,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: side dish
-subcategory: salad
+subcategory: ['salad']
 href: 'https://www.bhg.com/recipe/salads/mango-tomato-and-avocado-salad/'
 totalTime:
 cookTime:

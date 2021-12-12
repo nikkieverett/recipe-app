@@ -45,7 +45,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: dessert
-subcategory: pie
+subcategory: ['pie']
 href: 'https://www.bettycrocker.com/recipes/dutch-apple-pie/815d821f-058d-4177-93be-e157390e947b'
 totalTime: 2 hours 45 minutes
 cookTime:

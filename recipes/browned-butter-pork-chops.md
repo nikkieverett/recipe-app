@@ -21,12 +21,13 @@ ingredients: |-
   * 1 cup mushrooms, sliced
   * 1 tablespoon dried oregano
   * 1 tablespoon dried thyme
-  * 1/4 cup all-purpose flour
+  * 1/4 cup all-purpose flour (substitute lupin flour to make keto friendly)
   * 1 to 1 1/2 cups whole milk, can use heavy cream
   * Salt and pepper to taste
 rating:
 ease:
 category: main course
+subcategory: ['pork', 'keto']
 href: 'https://iamhomesteader.com/pork-chops/'
 totalTime: 30 mins
 cookTime: 25 mins

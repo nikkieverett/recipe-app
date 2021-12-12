@@ -53,7 +53,7 @@ directions: >-
 
   6. Let cool.  Serve with icecream.
 category: dessert
-subcategory: pie
+subcategory: ['pie']
 cookTime: 40-45 minutes
 prepTime: 15 minutes
 totalTime: 1 hour

@@ -33,6 +33,7 @@ directions: >-
 
   6. Fluff rice with a fork and season with salt and pepper; divide between bowls. Arrange pork and veggies on top. Top with pickled scallion whites (and pickling liquid). Drizzle with sauce and remaining sriracha to taste. Sprinkle with scallion greens and serve.
 category: main course
+subcategory: ['hello fresh', 'asian']
 cookTime: "30"
 prepTime: "10"
 totalTime: "40"

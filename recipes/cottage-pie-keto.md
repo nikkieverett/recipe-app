@@ -60,6 +60,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: main course
+subcategory: ['keto']
 href: 'https://www.myketokitchen.com/keto-recipes/low-carb-classic-beef-cottage-pie/'
 totalTime:
 cookTime:

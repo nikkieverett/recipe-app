@@ -33,7 +33,7 @@ directions: >-
 
   4. Serve with fruit salsa.
 category: side dish
-subcategory: fruit
+subcategory: ['fruit']
 rating: 5
 ease: easy
 nutritionFacts: "2 tablespoons salsa with 4 chips: 134 calories, 4g fat (2g

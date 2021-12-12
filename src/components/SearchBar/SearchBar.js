@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types'
 import React, { useRef } from 'react'
 import { connect } from 'react-redux'
+import { Link, navigate } from 'gatsby'
 
 import SearchIcon from '@material-ui/icons/Search'
 import Paper from '@material-ui/core/Paper'
@@ -16,6 +17,11 @@ const SearchBar = ({ dispatch, location }) => {
 
   const handleSubmit = e => {
     e.preventDefault()
+
+    if (location.pathname !== '/') {
+      navigate('/')
+    }
+
     dispatch(actions.FILTER_RECIPES)
     inputEl.current.children[0].value = '';
   }

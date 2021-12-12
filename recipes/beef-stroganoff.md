@@ -28,7 +28,7 @@ directions: >-
 
   5. Cover, and cook on Low for 6 to 7 hours. Stir in the sour cream and parsley, and continue cooking for 1 hour.
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'keto']
 cookTime: 7-8 hours
 prepTime: 10 minutes
 totalTime: 7-8 hours

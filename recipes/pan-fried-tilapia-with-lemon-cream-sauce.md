@@ -21,6 +21,7 @@ ingredients: |-
 rating: 3
 ease: easy
 category: main course
+subcategory: ['fish']
 href: 'https://www.delish.com/cooking/recipe-ideas/recipes/a21021/pan-fried-fish-creamy-lemon-sauce-for-two-recipe-kft0313/'
 totalTime: 20 minutes
 cookTime: 15 minutes

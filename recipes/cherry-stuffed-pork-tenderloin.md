@@ -51,6 +51,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: main course
+subcategory: ['pork']
 href: 'https://www.tasteofhome.com/recipes/cherry-stuffed-pork-loin'
 totalTime: 2 hr
 cookTime: 1 hr

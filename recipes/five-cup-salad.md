@@ -27,7 +27,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: side dish
-subcategory: salad
+subcategory: ['salad']
 href: 'https://www.geniuskitchen.com/recipe/5-cup-salad-38716'
 totalTime: 10 minutes
 cookTime:

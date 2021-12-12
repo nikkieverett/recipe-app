@@ -21,7 +21,7 @@ directions: >-
 
   2. Using a fork, stir in the milk until just evenly moistened, adding up to 2 more tablespoons, if necessary, but stopping before the dough gets too wet. Scoop the dough into 8 rough mounds (about 1/3-cup each) and place them on the prepared sheets. Bake the biscuits until golden brown and a toothpick inserted into the center comes out with moist crumbs attached, about 20 minutes. Serve warm or at room temperature.
 category: breakfast
-subcategory: bread
+subcategory: ['bread']
 cookTime: 20 minutes
 prepTime: 10 minutes
 totalTime: 30 minutes

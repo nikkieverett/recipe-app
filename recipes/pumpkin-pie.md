@@ -21,7 +21,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: dessert
-subcategory: pie
+subcategory: ['pie']
 href:
 totalTime:
 cookTime:

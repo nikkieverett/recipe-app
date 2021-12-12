@@ -58,7 +58,7 @@ directions: >-
 
   * Serve pound cake warm drizzled with amaretto sauce
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 cookTime: 1 hr
 prepTime: 15 minutes
 totalTime: 1hr 15 minutes

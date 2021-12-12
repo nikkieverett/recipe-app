@@ -8,7 +8,7 @@ ingredients: |-
   * ¼ tsp. crushed red pepper
   * ⅓ c. crumbled queso blanco or shredded monterey jack cheese
   * chopped flat-leaf parsley
-notes: null
+notes: Can sub pasta with keto friendly option to make keto friendly
 subcategroy: pasta
 path: /bow-tie-pasta-chorizo-with-tomatoes
 title: bow tie pasta chorizo with tomatoes
@@ -34,6 +34,7 @@ directions: >-
 
   * sprinkle with parsley
 category: main course
+subcategory: ['pasta', 'keto']
 cookTime: null
 prepTime: 15 mins
 totalTime: 15 mins

@@ -19,6 +19,7 @@ directions: >-
 
   2. Give the coquito a good stir (the mixture may separate slightly as it sits). Pour into individual mugs or glasses, top with more nutmeg and serve with a cinnamon stick.
 category: beverage
+subcategory: ['alcoholic']
 servings: "6"
 rating: 3
 hasBeenTested: false

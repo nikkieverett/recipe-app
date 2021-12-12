@@ -25,7 +25,7 @@ directions: >-
 
   * Let cool on baking sheet
 category: dessert
-subcategory: cookie
+subcategory: ['cookie']
 cookTime: 12-14 min
 prepTime: 10 min
 totalTime: 30 min

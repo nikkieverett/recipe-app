@@ -36,7 +36,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: main course
-subcategory: soup/stew
+subcategory: ['soup/stew']
 href: 'https://www.foodnetwork.com/recipes/michael-chiarello/roasted-tomato-soup-with-croutons-recipe-1916586'
 totalTime: 1 hour 35 minutes
 cookTime: 1 hour 10 minutes

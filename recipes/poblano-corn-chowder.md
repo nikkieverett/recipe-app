@@ -37,7 +37,7 @@ directions: >-
 
   2. When the first cup of liquid is incorporated, add another 2 cups of liquid, 1 at a time. Pour the mixture in the skillet into the stockpot, whisking to blend. Cook, stirring frequently, for 3 to 5 minutes longer, or until the mixture begins to thicken. Remove the pot from the heat. Stir in the hot sauce, then the cream, and serve.
 category: main course
-subcategory: soup/stew
+subcategory: ['soup/stew', 'mexican']
 cookTime: 30 minuntes
 prepTime: 30 minutes
 totalTime: 60 minutes

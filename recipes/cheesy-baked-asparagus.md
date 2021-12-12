@@ -18,7 +18,7 @@ directions: >-
 
   2. Bake until cheese is golden and melted and asparagus is tender, about 25 to 30 minutes, and serve.
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable', 'keto']
 cookTime: 25 minutes
 prepTime: 10 minutes
 totalTime: 35 minutes

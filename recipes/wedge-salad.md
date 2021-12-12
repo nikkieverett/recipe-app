@@ -47,7 +47,7 @@ directions: >-
 
   7. serve immediately.
 category: main course
-subcategory: salad
+subcategory: ['salad']
 rating: 4
 ease: easy
 notes: |-

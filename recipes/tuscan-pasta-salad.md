@@ -29,7 +29,7 @@ directions: >-
 
   4. drizzle the dressing over the pasta salad and serve.
 category: side dish
-subcategory: salad
+subcategory: ['salad', 'pasta', 'italian', 'chicken']
 cookTime: 20 minutes
 totalTime: 20 minutes
 servings: "8"

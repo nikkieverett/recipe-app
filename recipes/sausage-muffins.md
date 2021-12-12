@@ -12,7 +12,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: breakfast
-subcategory: muffing
+subcategory: ['muffin']
 href:
 totalTime: 35 mins
 cookTime: 20 mins

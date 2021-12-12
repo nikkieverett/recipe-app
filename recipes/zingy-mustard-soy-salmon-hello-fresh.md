@@ -82,6 +82,7 @@ directions: >-
 
   • Divide rice, carrots, and salmon between plates; drizzle salmon with sauce. Top with pickled scallion whites (draining first). Garnish with scallion greens. Top with as many sesame seeds as you like and any remaining sriracha to taste. Serve with remaining lime wedges on the side.
 category: main course
+subcategory: ['asian', 'hello fresh']
 cookTime: "40"
 prepTime: "10"
 totalTime: "50"

@@ -1,6 +1,6 @@
 ---
 servings: 6 servings
-notes:
+notes: Can substitute keto friendly pasta option
 directions: |-
   * Heat a large pot over medium-high heat
   * Add 2 tablespoons of olive oil and chicken breast
@@ -32,7 +32,7 @@ ingredients: |-
 rating:
 ease:
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'italian', 'chicken', 'keto']
 href: 'https://www.buzzfeed.com/mikeprice/make-an-amazing-chicken-marsala-pasta-dinner-using-only-one?bffbtasty&ref=bffbtasty&utm_term=.vvnzd3zjy.br09719wz'
 totalTime:
 cookTime:

@@ -32,6 +32,7 @@ ingredients: |-
 rating: 5
 ease: easy
 category: main course
+subcategory: ['pasta', 'italian', 'chicken', 'keto']
 href: 'https://food52.com/recipes/80601-creamy-lemon-spaghetti-with-crunchy-breadcrumbs'
 totalTime: 25 minutes
 cookTime: 20 minutes

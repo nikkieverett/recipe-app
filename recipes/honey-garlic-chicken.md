@@ -25,6 +25,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: main course
+subcategory: ['chicken']
 href: 'https://www.delish.com/cooking/recipe-ideas/recipes/a49507/honey-garlic-chicken-recipe/'
 totalTime: 35 minutes
 cookTime: 25 minutes

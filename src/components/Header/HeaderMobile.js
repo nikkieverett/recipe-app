@@ -9,12 +9,12 @@ import SearchBar from '../SearchBar/SearchBar';
 
 import headerMobileStyles from './HeaderMobile.styles' 
 
-export default function HeaderMobile({ onMenuClick, mobileOpen }) {
+export default function HeaderMobile({ onMenuClick, mobileOpen, location }) {
   const classes = headerMobileStyles()
 
   return (
     <AppBar position="static" className={classes.root}>
-			<Toolbar className={classes.toolbar}>
+		<Toolbar className={classes.toolbar}>
 				<IconButton
 					size="medium"
 					edge="start"
@@ -25,7 +25,7 @@ export default function HeaderMobile({ onMenuClick, mobileOpen }) {
 					>
 					<MenuIcon />
 				</IconButton>
-				<SearchBar></SearchBar>
+				<SearchBar location={location}></SearchBar>
 			</Toolbar>
     </AppBar>
   );

@@ -16,7 +16,7 @@ directions: >-
 
   3. spread coated pecans on a medium baking sheet, and cook 30 minutes in the preheated oven, stirring approximately every 10 minutes.
 category: side dish
-subcategory: null
+subcategory: ['null']
 cookTime: 30 minutes
 prepTime: 10 minutes
 totalTime: 40 minutes

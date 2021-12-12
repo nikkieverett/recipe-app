@@ -23,11 +23,12 @@ ingredients: |-
 rating: 4
 ease: easy
 category: appetizer
-subcategory: cheese
+subcategory: ['cheese']
 href: 'https://www.geniuskitchen.com/recipe/marinated-cheese-appetizer-33501'
 totalTime: 30 mins
 cookTime:
 prepTime:
 title: marinated cheese
 path: /marinated-cheese
+needsMarinade: true
 ---

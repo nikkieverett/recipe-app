@@ -29,7 +29,7 @@ ingredients: |-
 rating: 4
 ease: easy
 category: side dish
-subcategory: vegetable
+subcategory: ['vegetable']
 href: 'https://cafedelites.com/honey-garlic-butter-roasted-carrots/'
 totalTime: 25 minutes
 cookTime: 20 minutes

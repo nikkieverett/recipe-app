@@ -13,7 +13,7 @@ directions: |-
 rating:
 ease: easy
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot']
 href: 'https://allrecipes.com/recipe/16066/awesome-slow-cooker-pot-roast/'
 totalTime: 8 hrs 10 mins
 cookTime: 8 hrs

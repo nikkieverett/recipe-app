@@ -29,6 +29,7 @@ ingredients: |-
 rating: 3
 ease: intermediate
 category: side dish
+subcategory: ['rice', 'mexican']
 href: 'https://www.spendwithpennies.com/dirty-rice/'
 totalTime:
 cookTime:

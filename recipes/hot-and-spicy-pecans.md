@@ -17,7 +17,7 @@ ingredients: |-
 rating:
 ease:
 category: appetizer
-subcategory: nuts
+subcategory: ['nuts']
 href: 'https://www.allrecipes.com/recipe/46029/hot-and-spicy-pecans/'
 totalTime: 40 minutes
 cookTime: 30 minutes

@@ -67,7 +67,8 @@ directions: >-
 
 
   * Toss the crispy cauliflower with the sauce, and serve using a slotted spoon.
-category: side dish
+category: main course
+subcategory: ['keto']
 cookTime: 10 mins
 prepTime: 20 mins
 totalTime: 30 mins

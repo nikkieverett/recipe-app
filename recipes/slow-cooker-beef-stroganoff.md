@@ -17,7 +17,7 @@ ingredients: |-
 rating:
 ease: easy
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot']
 href: 'https://allrecipes.com/recipe/16352/slow-cooker-beef-stroganoff-i/'
 totalTime: 8 hrs 10 min
 cookTime: 8 hrs

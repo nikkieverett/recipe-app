@@ -32,7 +32,7 @@ directions: >-
 
   8. serve with sour cream, shredded cheddar cheese, and tortilla chips.
 category: main course
-subcategory: soup/stew
+subcategory: ['soup/stew', 'beef']
 cookTime: 30 minutes
 prepTime: 10 minutes
 totalTime: 40 minutes

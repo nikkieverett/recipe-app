@@ -25,11 +25,11 @@ ingredients: |-
 rating: 4
 ease: easy
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'hello fresh', 'pork', 'sausage', 'italian']
 href: 'https://www.hellofresh.com/recipes/uk-orecchiette-with-chicken-saus-581c9aebc7262810116fc012'
 totalTime: 25 mins
 cookTime:
 prepTime:
-title: little ears pasta - hello fresh
+title: little ears pasta
 path: /little-ears-pasta-hello-fresh
 ---

@@ -33,6 +33,7 @@ ingredients: |-
 rating:
 ease: easy
 category: main course
+subcategory: ['italian', 'pasta', 'chorizo']
 href: 'https://www.delish.com/cooking/recipe-ideas/recipes/a49107/chorizo-bolognese-pasta-recipe/'
 totalTime: 30 min
 cookTime: 20 min

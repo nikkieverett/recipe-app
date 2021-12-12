@@ -37,6 +37,7 @@ directions: >-
 
   * Cook them at 400 degrees for 20 minutes
 category: main course
+subcategory: ['sausage', 'chicken', 'italian']
 cookTime: null
 prepTime: null
 totalTime: null

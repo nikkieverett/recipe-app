@@ -39,7 +39,7 @@ directions: |-
   5. Add chicken once the sauce is ready. 
   6. Serve sauce over pasta.
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'chicken']
 cookTime: "20"
 prepTime: "10"
 totalTime: "30"

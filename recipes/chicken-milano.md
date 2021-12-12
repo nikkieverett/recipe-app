@@ -42,7 +42,7 @@ directions: >-
 
   14. Reheat the sauce gently if needed. Transfer the pasta to serving plates; top with chicken and coat with the cream sauce; serve.
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'italian', 'chicken', 'keto']
 cookTime: 20 minutes
 prepTime: 10 minutes
 totalTime: 30 minutes

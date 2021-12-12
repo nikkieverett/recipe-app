@@ -1,5 +1,5 @@
 ---
-title: Pork Sausage Spaghetti alla Positano - hello fresh
+title: Pork Sausage Spaghetti alla Positano
 ingredients: |-
   * 4 teaspoons olive oil
   * 6 ounce spaghetti
@@ -27,6 +27,7 @@ directions: >-
 
   * Divide pasta between bowls. Top with remaining zucchini and Parmesan. Garnish with a pinch of remaining chili if desired. Serve with remaining lemon wedges on the side.
 category: main course
+subcategory: ['hello fresh']
 prepTime: 10 minutes
 totalTime: 30 minutes
 servings: "2"

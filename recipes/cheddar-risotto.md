@@ -33,6 +33,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: side dish
+subcategory: ['rice', 'italian']
 href: 'https://www.food.com/recipe/cheddar-cheese-risotto-284927'
 totalTime: 35 mins
 cookTime:

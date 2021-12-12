@@ -31,7 +31,7 @@ directions: >-
 
   6. Pick basil leaves from stems; discard stems and roughly chop or tear leaves. Divide spaghetti between bowls and top with tomato wedges. Garnish with basil leaves and remaining Parmesan.
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'hello fresh', 'chicken', 'italian', 'keto']
 totalTime: "30"
 servings: "2"
 rating: 5

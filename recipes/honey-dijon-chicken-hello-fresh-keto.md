@@ -30,6 +30,7 @@ directions: >-
 
   6. Slice chicken crosswise. • Toss green beans with a squeeze of lemon juice and lemon zest to taste. • Divide chicken, green beans and cauliflower “rice” between plates. Drizzle sauce over chicken and serve with remaining lemon wedges on the side.
 category: main course
+subcategory: ['hello fresh', 'chicken']
 cookTime: "30"
 prepTime: "5"
 totalTime: "35"

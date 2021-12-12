@@ -45,7 +45,7 @@ ingredients: |-
 rating: 4
 ease: intermediate
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 href: 'https://iambaker.net/raspberry-lemon-bundt-cake/'
 totalTime: 1 hr 55 mins
 cookTime: 45 mins

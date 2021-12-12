@@ -18,6 +18,7 @@ directions: >-
 
   3. Bake until the crescent pastry is golden, about 15 minutes.
 category: side dish
+subcategory: ['cheese']
 cookTime: 15 minutes
 prepTime: 20 minutes
 totalTime: 35 minutes

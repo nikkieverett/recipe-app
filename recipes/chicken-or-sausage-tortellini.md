@@ -21,7 +21,7 @@ directions: >-
 
   * Cook on low for 4-6 hrs
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'pasta', 'chicken', 'italian', 'sausage']
 cookTime: 4 hrs
 prepTime: 10 min
 totalTime: 4 hrs 10 min

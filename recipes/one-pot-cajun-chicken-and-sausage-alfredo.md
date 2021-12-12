@@ -33,7 +33,7 @@ directions: >-
 
   * Stir in chopped parsley and sprinkle with additional cajun seasoning to taste
 category: main course
-subcategory: pasta
+subcategory: ['pasta', 'chicken', 'sausage', 'italian']
 cookTime: 15 mins
 prepTime: 5 mins
 totalTime: 20 mins

@@ -26,7 +26,7 @@ directions: >-
 
   5. Cool.
 category: dessert
-subcategory: cake
+subcategory: ['cake']
 cookTime: 45 minutes
 prepTime: 10 minutes
 totalTime: 55 minutes

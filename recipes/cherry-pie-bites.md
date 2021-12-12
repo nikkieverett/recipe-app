@@ -25,7 +25,7 @@ directions: >-
 
   * With a spoon drizzle glaze over the warm bites
 category: dessert
-subcategory: pie
+subcategory: ['pie']
 cookTime: 15 min
 prepTime: 15 min
 totalTime: 30 min

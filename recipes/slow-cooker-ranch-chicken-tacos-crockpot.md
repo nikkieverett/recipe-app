@@ -22,7 +22,7 @@ directions: >-
 
   3. When ready to serve, fill tortillas with shredded chicken, then drizzle with ranch dressing. Top with slaw, red onions, cilantro, and any additional desired toppings such as shredded cheese, avocado, or tomatoes. Serve immediately.
 category: main course
-subcategory: crockpot
+subcategory: ['crockpot', 'chicken']
 cookTime: 4 hours
 prepTime: 15 minutes
 totalTime: 4 hours 15 minutes
