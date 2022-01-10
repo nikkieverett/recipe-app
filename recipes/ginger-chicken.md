@@ -5,17 +5,17 @@ ingredients: |-
   * 3 chicken breasts
   * 1 tbsp salt 
   * 1 1/2 tsp pepper
+  * 1/2 c cornstarch
   * 3 Tbsp minced garlic
-  * 4 inch long fresh ginger cut in to 1 inch long slim strips
+  * 1 whole 4 inch long chunk of fresh ginger cut in to 1 inch long slim strips
   * 1 shallot diced
   * 2 Tbsp Olive oil
   * 1 bunch (approx. 7 green onions) of green onion cut in to 1/2 long pieces
   * 1/4 cup plus 2 tbsp soy sauce
   * 1 cup chicken broth
   * 2 cups of water 
-  * 3 Tbsp sugar
   * 2 Tbsp fish sauce
-  * 1/2 cup of corn starch
+  * 3 Tbsp sugar
 directions: >-
   1. cut raw chicken in to thin strips, salt and pepper, toss is corn starch,
   set aside.
@@ -24,7 +24,7 @@ directions: >-
 
   3. add shallot and garlic, turn heat to medium, saute two minutes. 
 
-  4. add liquids, bring to a boil. 
+  4. add liquids and sugar, bring to a boil. 
 
   5. add chicken. Simmer until sauce has reduced and thickened (about 10-15 minutes). When you think the sauce is almost thick enough, but not quite (about 2 minutes left), add the rest of the ginger. 
 
@@ -32,7 +32,9 @@ directions: >-
 
   7. \*if sauce is not thickening, add another 2 Tbsp of corn starch to about 1/4 cup of chicken broth, whisk together, add to sauce, stir and simmer for another 5 minutes.
 category: main course
-subcategory: ['asian', 'chicken']
+subcategory:
+  - asian
+  - chicken
 rating: 4
 ease: easy
 notes: this link is not this recipe
