@@ -1,6 +1,4 @@
 ---
-title: Creamy Parmesan Chicken Spaghetti - Hello Fresh
-href: https://www.hellofresh.com/recipes/tuscan-chicken-linguine-5d35c63d76961900091d2f49
 ingredients: |-
   * 1 unit Lemon
   * 2 unit Roma Tomato
@@ -16,6 +14,35 @@ ingredients: |-
   * 1 tablespoon Butter
   * Salt
   * Pepper
+  * <!--StartFragment-->
+
+    ### **Tuscan Heat Spice Blend**
+
+    * 4 parts dried basil
+    * 2 parts dried rosemary
+    * 2 parts dried oregano
+    * 2 parts garlic powder
+    * 1 part cayenne pepper \[7.5 k (hu)]
+    * 1 part ground fennel
+
+    <!--EndFragment-->
+
+    <!--StartFragment-->
+
+    | Garlic Herb Butter                     |
+    | -------------------------------------- |
+    | 4 tablespoons butter, room temperature |
+    | 1 garlic clove, minced                 |
+    | 1/2 teaspoon fresh ground black pepper |
+    | 1 teaspoon parsley                     |
+    | 1 1/2 tablespoons basil                |
+    | 1 tablespoon oregano                   |
+
+    <!--EndFragment-->
+servings: "2"
+isMarinade: false
+title: Creamy Parmesan Chicken Spaghetti - Hello Fresh
+href: https://www.hellofresh.com/recipes/tuscan-chicken-linguine-5d35c63d76961900091d2f49
 directions: >-
   1. Adjust rack to top position and preheat oven to 400 degrees. Bring a large
   pot of salted water to a boil. Wash and dry all produce. Zest and quarter
@@ -31,9 +58,13 @@ directions: >-
 
   6. Pick basil leaves from stems; discard stems and roughly chop or tear leaves. Divide spaghetti between bowls and top with tomato wedges. Garnish with basil leaves and remaining Parmesan.
 category: main course
-subcategory: ['pasta', 'hello fresh', 'chicken', 'italian', 'keto']
+subcategory:
+  - pasta
+  - hello fresh
+  - chicken
+  - italian
+  - keto
 totalTime: "30"
-servings: "2"
 rating: 5
 ease: easy
 nutritionFacts: |-
@@ -46,7 +77,6 @@ nutritionFacts: |-
   * Protein 47 g
   * Cholesterol 175 mg
   * Sodium 380 mg
-isMarinade: false
-hasBeenTested: false
 thumbnail: assets/tuscan-chicken-linguine-cfea3d5f.jpeg
+hasBeenTested: false
 ---
