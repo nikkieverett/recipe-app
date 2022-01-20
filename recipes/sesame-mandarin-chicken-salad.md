@@ -9,6 +9,7 @@ ingredients: |-
   * 1 teaspoon Garlic Powder
   * 1 package of sesame salad mix
   * 1 teaspoon sugar
+  * .5 oz cashews
   * Salt / pepper
   * Sesame oil for cooking
 directions: >-
