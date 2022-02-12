@@ -2,8 +2,6 @@
 title: jalapeno dip
 href: https://www.scrambledchefs.com/insanely-delicious-jalapeno-dip/
 ingredients: |-
-  <!--StartFragment-->
-
   * 2 fresh jalapeños, deseeded
   * ½ cup sour cream
   * ¾ cup cream cheese
@@ -12,22 +10,15 @@ ingredients: |-
   * ¼ bunch of cilantro
   * ½ teaspoon salt
   * 1 tablespoon milk (optional - see notes)
-
-  <!--EndFragment-->
 directions: >-
-  <!--StartFragment-->
-
-
-  1. In a blender, add the deseeded jalapenos, 2 tablespoons of sour cream, cilantro and garlic. Blend till its smooth.
+  1. In a blender, add the deseeded jalapenos, 2 tablespoons of sour cream,
+  cilantro and garlic. Blend till its smooth.
 
   2. Add this to the remaining sour cream and cream cheese and mix well.
 
   3. Add lime juice to this and mix well.
 
   4. Refrigerate before serving. Tastes even better the next day.
-
-
-  <!--EndFragment-->
 category: appetizer
 subcategory:
   - dip
