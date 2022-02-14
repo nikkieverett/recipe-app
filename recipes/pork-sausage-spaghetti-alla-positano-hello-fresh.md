@@ -1,5 +1,6 @@
 ---
 title: Pork Sausage Spaghetti alla Positano
+href: <https://www.hellofresh.com/recipes/pork-sausage-spaghetti-alla-positano-5eb9af2113a20b3920042fd8>
 ingredients: |-
   * 4 teaspoons olive oil
   * 6 ounce spaghetti
@@ -27,12 +28,14 @@ directions: >-
 
   * Divide pasta between bowls. Top with remaining zucchini and Parmesan. Garnish with a pinch of remaining chili if desired. Serve with remaining lemon wedges on the side.
 category: main course
-subcategory: ['hello fresh']
+subcategory:
+  - hello fresh
 prepTime: 10 minutes
 totalTime: 30 minutes
 servings: "2"
 rating: 3
 ease: easy
+notes: ""
 nutritionFacts: |-
   Nutrition Values/ per serving
 
@@ -55,7 +58,6 @@ nutritionFacts: |-
   Cholesterol120 mg
 
   Sodium1160 mg
-notes: <https://www.hellofresh.com/recipes/pork-sausage-spaghetti-alla-positano-5eb9af2113a20b3920042fd8>
-hasBeenTested: true
 thumbnail: assets/5eb9af2113a20b3920042fd8-0a091888.jpg
+hasBeenTested: true
 ---
