@@ -13,6 +13,15 @@ ingredients: |-
   * ¼ cup Parmesan Cheese
   * Salt
   * Pepper
+
+    Garlic Herb Butter
+
+    * 1 cup butter room temperature
+    * 1 clove garlic minced
+    * 3/4 teaspoon kosher salt or to taste
+    * 1 Tablespoon fresh parsley minced
+    * 1 Tablespoon fresh basil minced
+    * 1/2 Tablespoon lemon juice fresh
 directions: >-
   * Bring a large pot of salted water to a boil. Once boiling, add spaghetti.
   Cook, stirring occasionally, until al dente, 9-11 minutes. Reserve ½ cup pasta
