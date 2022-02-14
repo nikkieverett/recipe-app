@@ -2,16 +2,12 @@
 title: maple bacon appetizer
 href: https://www.craftcreatecook.com/maple-bacon-appetizers/
 ingredients: |-
-  <!--StartFragment-->
-
   * 1 loaf french bread, sliced into 5/8" pieces
   * 8 ounces cream cheese, softened
   * 1/4 cup brown sugar
   * 3 Tablespoons pure maple syrup
   * 1 teaspoon vanilla
   * 1/2 lb bacon, cooked and crumbled or sliced into small pieces
-
-  <!--EndFragment-->
 directions: >-
   1. Preheat oven to 350 and line a baking pan with parchment paper. Place
   slices of french bread onto the baking pan and set aside.
