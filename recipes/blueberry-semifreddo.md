@@ -54,6 +54,10 @@ totalTime: 9 hours
 servings: 8-10
 rating: 5
 ease: intermediate
+notes: |-
+  Add in options
+
+  https://markbittman.com/recipes-1/semifreddo
 needsMarinade: false
 thumbnail: https://ouritaliantable.com/wp-content/uploads/2019/07/Blueberry-Semifreddo3-LR-564x384.jpeg
 ---
