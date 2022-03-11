@@ -43,6 +43,10 @@ totalTime: " "
 servings: 8-10
 rating: 5
 ease: intermediate
+notes: |-
+  Add in options
+
+  https://markbittman.com/recipes-1/semifreddo
 needsMarinade: false
 thumbnail: https://assets.epicurious.com/photos/560d78827b55306961bf3400/1:1/w_1600,c_limit/242511_hires.jpg
 ---
