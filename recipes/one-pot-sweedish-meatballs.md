@@ -1,5 +1,5 @@
 ---
-title: one pot sweedish meatballs
+title: one pot swedish meatballs
 href: https://www.buzzfeed.com/nickguillory/heres-a-quick-and-easy-swedish-meatball-pasta-dinner-that-yo?utm_term=.qtexxopnm.xsv779kej
 ingredients: |-
   * 1 pound ground beef
@@ -37,15 +37,16 @@ directions: >-
 
   * Add the parmesan and the parsley, stirring until the cheese is melted
 category: main course
-subcategory: ['pasta']
-cookTime: null
+subcategory:
+  - pasta
 prepTime: null
+cookTime: null
 totalTime: null
 servings: 6 servings
 ease: intermediate
 notes: Make in a large pot, not a skillet
 path: /one-pot-sweedish-meatballs
-rating: 5
-hasBeenTested: true
 thumbnail: assets/sweedish-meatballs.jpg
+hasBeenTested: true
+rating: 5
 ---
