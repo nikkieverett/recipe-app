@@ -8,13 +8,13 @@ ingredients: |-
   * 3/4 cup vegetable oil
   * 4 large eggs
 
-    **FOR THE GLAZE**\
-    \
-    2 Tablespoons of melted butter\
-    2 Tablespoons of crushed strawberry juice\
-    1/2 teaspoon good vanilla extract\
-    1/4 teaspoon almond extract\
-    1.5 cups powdered sugar
+    **FOR THE GLAZE**
+
+    * 2 TBS of melted butter
+    * 2 TBS of crushed strawberry juice
+    * 1/2 tsp good vanilla extract
+    * 1/4 tsp almond extract
+    * 1.5 cups powdered sugar
 directions: >-
   1. Preheat oven to 350 degrees F. 
 
@@ -35,13 +35,14 @@ directions: >-
      * three 8-inch round 28 to 30 minutes
      * 9X13 28 minutes
 category: dessert
-subcategory: ['cake']
-cookTime: 30 minutes
+subcategory:
+  - cake
 prepTime: 10 minutes
+cookTime: 30 minutes
 totalTime: 40 minutes
 servings: "8"
 rating: 5
 ease: easy
-hasBeenTested: false
 thumbnail: assets/easy-strawberry-cake-collage-1.jpg
+hasBeenTested: false
 ---
