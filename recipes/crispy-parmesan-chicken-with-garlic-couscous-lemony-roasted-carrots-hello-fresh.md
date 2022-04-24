@@ -15,6 +15,16 @@ ingredients: |-
   * 4 teaspoon Olive Oil
   * Salt
   * Pepper
+
+  GARLIC HERB BUTTER
+
+  | 4 tablespoons butter, room temperature |
+  | -------------------------------------- |
+  | 1 garlic clove, minced                 |
+  | 1/2 teaspoon fresh ground black pepper |
+  | 1 teaspoon parsley                     |
+  | 1 1/2 tablespoons basil                |
+  | 1 tablespoon oregano                   |
 directions: >-
   * Adjust rack to middle position (middle and top positions for 4 servings) and
   preheat oven to 425 degrees. Bring a medium pot of salted water to a boil.
@@ -32,13 +42,17 @@ directions: >-
 
   * Divide chicken, carrots, and couscous between plates. Garnish chicken with scallion greens. Serve with remaining lemon wedges on the side.
 category: main course
-subcategory: ['all in one casserole', 'hello fresh', 'chicken']
-cookTime: 30 minutes
+subcategory:
+  - all in one casserole
+  - hello fresh
+  - chicken
 prepTime: 10 minutes
+cookTime: 30 minutes
 totalTime: 40 minutes
 servings: "2"
 rating: 4
 ease: easy
+notes: <https://www.hellofresh.com/recipes/crispy-parmesan-chicken-5ecd4d891e4833321621f901>
 nutritionFacts: |-
   Calories690 kcal
 
@@ -57,7 +71,6 @@ nutritionFacts: |-
   Cholesterol160 mg
 
   Sodium520 mg
-notes: <https://www.hellofresh.com/recipes/crispy-parmesan-chicken-5ecd4d891e4833321621f901>
-hasBeenTested: false
 thumbnail: assets/chicken-parm.jpg
+hasBeenTested: false
 ---
