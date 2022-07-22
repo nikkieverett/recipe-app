@@ -20,9 +20,9 @@ directions: >-
   5. Bake for 15-20 minutes, turning occasionally, until bacon is browned and crispy.
 
   6. Sprinkle with parsley then serve immediately.
-category: side dish
-cookTime: 20 minutes
+category: appetizer
 prepTime: 20 minutes
+cookTime: 20 minutes
 totalTime: 40 minutes
 rating: 3
 ease: easy
