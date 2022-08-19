@@ -59,11 +59,11 @@ directions: >-
   TACO MEAT
 
 
-  1. in a medium bowl, combine the corn flour, chili powder, onion powder, garlic powder, and seasoned salt. stir in the paprika, cumin, garlic salt, and sugar. blend in the onion, bouillon, and ground red pepper, stirring until all spices are well blended.
+  1. in a medium bowl, combine chili powder, onion powder, garlic powder, and seasoned salt. stir in the paprika, cumin, garlic salt, and sugar. blend in the onion, bouillon, and ground red pepper, stirring until all spices are well blended.
 
   2. crumble the ground chuck into a large skillet over medium heat. cook, stirring, until browned.
 
-  3. remove from heat, rinse meat with hot water, and drain water and grease from beef. return meat to skillet, and pour in seasoning. stir in water.
+  3. pour in seasoning. stir in water.
 
   4. reduce heat to medium-low, and simmer until most of the liquid has cooked away, about 20 minutes.
 
@@ -90,7 +90,8 @@ directions: >-
      1. Fill peppers with taco meat
      2. Top with sauce
 category: main course
-subcategory: ['mexican']
+subcategory:
+  - mexican
 ease: intermediate
 notes: THIS WEBSITE IS NOT THIS RECIPE
 hasBeenTested: false
