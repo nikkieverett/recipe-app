@@ -16,22 +16,22 @@ ingredients: |-
   * 1 1/3 pounds lean ground chuck 
   * 1 cup water
 directions: >-
-  1. in a medium bowl, combine the corn flour, chili powder, onion powder,
-  garlic powder, and seasoned salt. stir in the paprika, cumin, garlic salt, and
-  sugar. blend in the onion, bouillon, and ground red pepper, stirring until all
-  spices are well blended. 
+  1. in a medium bowl, combine chili powder, onion powder, garlic powder, and
+  seasoned salt. stir in the paprika, cumin, garlic salt, and sugar. blend in
+  the onion, bouillon, and ground red pepper, stirring until all spices are well
+  blended. 
 
   2. crumble the ground chuck into a large skillet over medium heat. cook, stirring, until browned. 
 
-  3. remove from heat, rinse meat with hot water, and drain water and grease from beef.
-     return meat to skillet, and pour in seasoning. stir in water. 
+  3. pour in seasoning. stir in water. 
+
   4. reduce heat to medium-low, and simmer until most of the liquid has cooked away, about 20 minutes.
 category: main course
-cookTime: 30 minutes
 prepTime: 10 minutes
+cookTime: 30 minutes
 totalTime: 40 minutes
 rating: 5
 ease: easy
-hasBeenTested: false
 thumbnail: assets/seasoned-taco-meat_exps_bfcbbz19_13722_e01_11_3b.jpg
+hasBeenTested: false
 ---
