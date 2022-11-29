@@ -6,9 +6,9 @@ ingredients: >-
 
   * 1 tablespoon baking powder
 
-  * 1/2 teaspoon kosher salt
-
   * 1 teaspoon granulated sugar
+
+  * 1/2 teaspoon kosher salt
 
   * 10 tablespoons cold (put in freezer) unsalted butter, cut into cubes (*I grated it)
 
