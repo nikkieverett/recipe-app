@@ -2,7 +2,7 @@
 title: drop biscuits
 href: https://cooking.nytimes.com/recipes/1019276-drop-biscuit
 ingredients: >-
-  * 2 cups/255 grams all-purpose flour
+  * 2 cupsall-purpose flour 
 
   * 1 tablespoon baking powder
 
@@ -10,7 +10,7 @@ ingredients: >-
 
   * 1 teaspoon granulated sugar
 
-  * 10 tablespoons/141 grams cold (put in freezer) unsalted butter, cut into cubes (*I grated it)
+  * 10 tablespoons cold (put in freezer) unsalted butter, cut into cubes (*I grated it)
 
   * ¾ cup whole milk, plus 1 to 2 tablespoons, if needed
 directions: >-
