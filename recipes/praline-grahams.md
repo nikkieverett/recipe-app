@@ -5,33 +5,26 @@ ingredients: |-
   * 1 box graham crackers
   * 1 cup (2 sticks) butter
   * 1¼ cup lightly packed light brown sugar
-  * 12 ounces chocolate chips
-  * optional 2 cups mini marshmallows
-  * optional chocolate and marshmallow
-  * optional holiday sprinkles
+  * 1﻿ cup pecans chopped
 directions: >-
-  * Preheat oven to 350ºf
+  1. Preheat oven to 350ºf
 
-  * Line cookie sheet with foil and spray with non-stick cooking spray
+  2. Line cookie sheet with foil and spray with non-stick cooking spray
 
-  * Line cookies end to end on sheet, breaking crackers to fit the end if necessary
+  3. Line cookies end to end on sheet, breaking crackers to fit the end if necessary
 
-  * In a saucepan, melt butter on low heat
+  4. In a saucepan, melt butter on low heat
 
-  * Once melted, add brown sugar and turn heat to medium. Continue stirring until boiling – then boil for 3 minutes (set a timer)
+  5. Once melted, add brown sugar and turn heat to medium. Continue stirring until boiling – then boil for 3 minutes (set a timer)
 
-  * Pour sugar mixture over crackers. spread evenly and work quickly
+  6. Pour sugar mixture over crackers. spread evenly and work quickly
 
-  * Bake for 5 minutes. Stop here unless you want to add optional items
+  7. S﻿prinkle pecans over grahams
 
-  * Remove from the oven and evenly sprinkle the chocolate chips over the top. place a sheet of foil or an upside-down cookie sheet over it and let the chocolate melt for a couple of minutes
-
-  * Spread the melted chocolate evenly over the top. Sprinkle the marshmallows and optional sprinkles on top. Replace the foil/tray and refrigerate until set
-
-  * Break the bark into smaller pieces
+  8. Break the bark into smaller pieces
 category: dessert
-cookTime: null
 prepTime: null
+cookTime: null
 totalTime: null
 servings: null
 rating: 5
