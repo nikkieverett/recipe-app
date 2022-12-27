@@ -34,13 +34,20 @@ directions: >-
 
   6. Divide pasta between bowls or plates. Garnish with scallion greens and remaining tomato. Drizzle with any remaining hot sauce if desired and serve.
 category: main course
-subcategory: ['pasta', 'hello fresh', 'italian', 'chicken', 'keto']
-cookTime: "15"
+subcategory:
+  - pasta
+  - hello fresh
+  - italian
+  - chicken
+  - keto
 prepTime: "10"
+cookTime: "15"
 totalTime: "25"
 servings: "2"
 rating: 5
 ease: easy
+notes: Can substitute pasta for keto friendly option.
+isMarinade: false
 nutritionFacts: |-
   * Calories 860 kcal
   * Fat 42 g
@@ -51,7 +58,6 @@ nutritionFacts: |-
   * Protein 46 g
   * Cholesterol 170 mg
   * Sodium 800 mg
-isMarinade: false
+thumbnail: assets/6101728c25feb947961acad8-87bb0d1e.jpeg
 hasBeenTested: false
-notes: Can substitute pasta for keto friendly option.
 ---
