@@ -33,13 +33,16 @@ directions: >-
 
   6. Slice steak against the grain. Divide steak, potatoes, and carrots between plates. Spoon sauce over steak. Garnish with scallion greens and serve.
 category: main course
-subcategory: ['hello fresh']
-cookTime: "40"
+subcategory:
+  - hello fresh
 prepTime: "10"
+cookTime: "40"
 totalTime: "50"
 servings: "2"
 rating: 2
 ease: easy
+notes: I used NY Strip steak for this, and added mushrooms to the sauce.
+isMarinade: false
 nutritionFacts: |-
   * Calories 550 kcal
   * Fat 27 g
@@ -50,7 +53,6 @@ nutritionFacts: |-
   * Protein 32 g
   * Cholesterol 95 mg
   * Sodium 950 mg
-notes: I used NY Strip steak for this, and added mushrooms to the sauce.
-isMarinade: false
+thumbnail: assets/steak-with-creamy-thyme-sauce-b8eaac0a.jpeg
 hasBeenTested: false
 ---
