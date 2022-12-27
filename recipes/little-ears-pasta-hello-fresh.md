@@ -43,7 +43,8 @@ cookTime: null
 totalTime: 25 mins
 servings: 4 Servings
 rating: 4
+ease: easy
 notes: null
 path: /little-ears-pasta-hello-fresh
-ease: easy
+thumbnail: assets/littleears.webp
 ---
