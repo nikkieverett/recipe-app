@@ -60,6 +60,8 @@ directions: >-
 
   Spread buns with 2 TBSP ketchup (4 TBSP for 4 servings) and a thin layer of sauce. Fill buns with patties and tomato onion jam. Divide burgers and potatoes between plates. Serve with any remaining sauce on the side for dipping.
 category: main course
-subcategory: ['hello fresh']
+subcategory:
+  - hello fresh
 hasBeenTested: false
+thumbnail: assets/juicylucy.jpeg
 ---
