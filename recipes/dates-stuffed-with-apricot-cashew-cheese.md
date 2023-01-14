@@ -26,6 +26,7 @@ category: appetizer
 prepTime: 6 hours, 10 minutes
 rating: 5
 ease: intermediate
+notes: T﻿his makes enough stuffing for 55 dates.  Stuffing can be kept in the icebox.
 needsMarinade: false
 thumbnail: assets/stuffed-dates.png
 ---
