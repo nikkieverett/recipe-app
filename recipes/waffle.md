@@ -22,7 +22,7 @@ directions: >-
   5. Spray waffle iron with baking spray before the FIRST batch only. Ladle into preheated waffle iron and cook until golden brown. For the "DASH" brand, this will be about 3- 3 ½ minutes each.
 
   6. Serve and enjoy.
-category: dessert
+category: breakfast
 subcategory:
   - waffle
 prepTime: 5 min
