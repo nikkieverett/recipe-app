@@ -22,7 +22,12 @@ totalTime: 25 minutes
 servings: 2-2.5 dozen
 rating: 5
 ease: easy
-notes: M﻿ay be cooked ahead of time and frozen.
+notes: |-
+  M﻿ay be cooked ahead of time and frozen.
+
+
+
+  G﻿randma's recipe
 needsMarinade: false
 thumbnail: https://www.tasteofhome.com/wp-content/uploads/2018/01/Cheese-Puffs_EXPS_TOHDJ23_34614_P2_MD_07_14_5b.jpg?fit=700%2C1024
 ---
