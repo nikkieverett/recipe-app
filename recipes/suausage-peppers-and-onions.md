@@ -1,5 +1,5 @@
 ---
-title: suausage peppers and onions
+title: sausage peppers and onions
 href: https://www.simplyrecipes.com/recipes/sausage_peppers_and_onions/
 ingredients: >-
   * 2 tablespoons extra virgin olive oil
