@@ -2,7 +2,8 @@
 title: sopapilla cheesecake
 href: https://www.allrecipes.com/recipe/169305/sopapilla-cheesecake-pie/
 ingredients: |-
-  * 2 (8 ounce) packages cream cheese, softened 1 cup white sugar
+  * 2 (8 ounce) packages cream cheese, softened 
+  * 1 cup white sugar
   * 1 teaspoon Mexican vanilla extract
   * 2 (8 ounce) cans refrigerated crescent rolls
   * 3/4 cup white sugar
@@ -21,12 +22,12 @@ directions: >-
 
   5. bake in the preheated oven until the crescent dough has puffed and turned golden brown, about 30 minutes. remove from the oven and drizzle with honey. cool completely in the pan before cutting into 12 squares.
 category: dessert
-cookTime: 30 minutes
 prepTime: 15 minutes
+cookTime: 30 minutes
 totalTime: 45 minutes
 servings: "12"
 rating: 5
 ease: easy
-hasBeenTested: false
 thumbnail: assets/sopapilla-cheesecake-bars-2-square.jpg
+hasBeenTested: false
 ---
