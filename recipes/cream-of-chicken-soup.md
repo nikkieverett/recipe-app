@@ -1,31 +1,20 @@
 ---
 title: Cream of Chicken Soup
 href: https://www.foodnetwork.com/recipes/food-network-kitchen/cream-of-chicken-soup-recipe-2011701
-ingredients: >-
+ingredients: |-
   * 1/2 cup unsalted butter1 medium Spanish onion, chopped
-
   * 2 stalks celery (with leaves), chopped
-
   * 3 medium carrots, chopped
-
   * 1/2 cup plus 1 tablespoon flour
-
-  * 7 cups chicken broth, homemade or low-sodium canned3 sprigs parsley (3/4 tsp)
-
+  * 7 cups chicken broth, homemade or low-sodium canned
+  * 3 sprigs parsley (3/4 tsp)
   * 3 sprigs fresh thyme (3/4 tsp)
-
   * 1 bay leaf
-
   * 2 3/4 cups cooked, diced chicken
-
   * 1/2 cup heavy cream
-
   * 2 1/2 teaspoons dry sherry
-
   * 1 tablespoon kosher salt
-
   * Freshly ground black pepper to taste
-
   * 2 tablespoons chopped flat-leaf parsley
 directions: >-
   1. Melt the butter in a large soup pot over medium heat. Add the onion,
