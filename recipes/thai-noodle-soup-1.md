@@ -1,67 +1,80 @@
 ---
-title: thai noodle soup
-href: https://www.thekitchn.com/thai-meatball-noodle-soup-recipe-23586516
-ingredients: >-
-  
-
-  #### FOR THE CILANTRO-PORK MEATBALLS:
-
-
-  * 1 pound ground pork
-
-  * 3/4 teaspoon ground white pepper
-
-  * 1 tablespoon soy sauce
-
-  * 1 tablespoon fish sauce
-
-  * 5 cloves garlic
-
-  * 1/2 bunch fresh cilantro
-
-
-  #### FOR THE NOODLE SOUP:
-
-
-  * 3 medium scallions
-
-  * 5 1/2 cups low-sodium chicken broth
-
-  * 3 tablespoons soy sauce, plus more as needed
-
-  * 2 tablespoons fish sauce, plus more as needed
-
-  * 8 ounces dried thin Chinese wheat noodles, such as Kame﻿, stir fry noodles or ramen
+title: chicken scallopini
+href: https://www.billyparisi.com/chicken-scallopini/#recipe
+ingredients: |-
+  * 4 10- to-12-ounce boneless skinless chicken breasts
+  * 5﻿ slices bacon
+  * 1/3 cup all-purpose flour
+  * ¼ cup olive oil
+  * 8 ounces sliced button mushrooms
+  * 8 ounces sliced baby bella mushrooms
+  * ½ peeled and small-diced shallot
+  * 2 finely minced garlic cloves
+  * 13 tablespoons ice cold unsalted butter, cut into ½” thick slices
+  * ¾ cup dry white wine
+  * Juice of ½ lemon, about 1 1/2 tablespoons
+  * ½ cup finely grated parmigiana Reggiano cheese + more for garnish
+  * finely minced parsley and lemon zest for garnish, optional
+  * coarse salt and freshly cracked pepper to taste
+  * 1﻿ lb pasta
 directions: >-
   
 
-  #### FOR THE CILANTRO-PORK MEATBALLS:
+  1. F﻿ry bacon.  Roughly chop. Set aside.
 
+  2. F﻿ill large pot with water. Heat to boiling.  Cook pasta according to directions.
 
-  1. Have a rimmed baking sheet ready. Place 1 pound ground pork, 3/4 teaspoon ground white pepper, 1 tablespoon soy sauce, and 1 tablespoon fish sauce in a medium bowl.
+  3. Slice the chicken breasts in half widthwise. This is known as butterflying.
 
-  2. Prepare the following, adding each to the bowl with the ground pork as you prepare it: Mince 5 garlic cloves. Pick the leaves and tender stems from 1/2 bunch fresh cilantro and finely chop until you have 1/2 cup; add 1/4 cup to the bowl, then reserve the remaining 1/4 cup for garnish.
+  4. Place the sliced chicken breast one at a time into a plastic zip bag and gently pound it with a mallet or the bottom of a medium-sized pot.
 
-  3. Mix the pork mixture with your hands until thoroughly combined. Roll the mixture into 25 to 29 (1-inch) meatballs (about 1 tablespoon each) and place on the baking sheet.
+  5. Season the chicken breasts on both sides with salt and pepper and briefly set them to the side on a sheet tray lined with parchment paper.
 
+  6. Next, in a shallow wide bowl or a cake or pie pan, add in the flour and season it lightly with salt and pepper, and mix until combined using a whisk or fork.
 
-  #### FOR THE NOODLE SOUP:
+  7. One at a time, gently dredge the pounded seasoned chicken breasts in some seasoned all-purpose flour. Set them to the side on a sheet tray lined with parchment paper until they are all finished.
 
+  8. In same frying pan used to cook bacon, reheat bacon grease over medium heat.
 
-  1. Bring a large pot of water to a boil over medium-high heat. Meanwhile, thinly slice 3 medium scallions (about 1/2 cup) and place in a medium pot. Add 5 1/2 cups low-sodium chicken broth, 3 tablespoons soy sauce, and 2 tablespoons fish sauce. Bring to a boil over medium-high heat. Gently drop meatballs into the soup, reduce the heat to maintain a simmer, and cook until the meatballs float and are cooked through, 3 to 5 minutes. Taste and season with more fish sauce and/or soy sauce as needed.
+  9. After about 90 seconds of the oil heating up, add the chicken and cook for 3 to 4 minutes or until browned and cooked through.
 
-  2. Add 8 ounces dried wheat noodles to the boiling water and cook according to package directions until tender. Turn off the heat. Drain noodles, then transfer them directly to serving bowls.
+  10. Set the cooked chicken breasts to the side, add the sliced mushrooms to the pan, turn the heat up to high, and sauté until well browned, which takes about 4 to 6 minutes.
 
-  3. Ladle the soup, along with a few meatballs, into each bowl. Garnish with the reserved cilantro.
+  11. Scrape the mushrooms to one side of the pan, and on the other side of the pan, add in the shallots, garlic, and 1 tablespoon of butter and quickly stir and sauté for 1 minute. Then mix everything together.
+
+  12. Deglaze with white wine and cook over high heat until au sec or almost gone.
+
+  13. Remove the pan from the heat, add in the juice of ½ lemon, and vigorously mix in the remaining 12 tablespoons of ice-cold butter until emulsified.
+
+  14. Next, stir in the cheese until combined and creamy. See chef note below if the sauce breaks.
+
+  15. Season the sauce with salt and pepper, and then place the chicken back in to heat it back up.
+
+  16. Garnish with parsley, more cheese, and the zest of the remaining ½ lemon.  Serve over pasta.
 category: main course
 subcategory:
-  - soup/stew
-prepTime: 20 minutes
-cookTime: 10 minutes
+  - pasta
+prepTime: 15 minutes
+cookTime: 15 minutes
 totalTime: 30 minutes
 servings: "6"
 rating: 5
 ease: easy
-needsMarinade: false
-thumbnail: https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_913/k%2FPhoto%2FRecipes%2F2023-10-thai-noodle-soup%2Fthai-noodle-soup-103
+notes: >-
+  **How to Reheat:** Add the desired amount of chicken and sauce to a medium
+  size pan and heat over low heat until warmed. Feel free to add ¼ cup to 1/3
+  cup of heavy whipping cream or [chicken
+  stock](https://www.billyparisi.com/homemade-roasted-chicken-stock-recipe/) to
+  the sauce to help loosen it up more.
+
+
+  [3rd party ad content](https://be4a620c5045f29d232a1315cc6799be.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html)
+
+
+  **If the** butter sauce separates from the cheese, add 1 to 2 tablespoons of cold whipping cream while vigorously mixing it to help re-emulsify it.
+nutritionFacts: Calories: 728kcalCarbohydrates: 14gProtein: 34gFat: 57gSaturated
+  Fat: 28gPolyunsaturated Fat: 4gMonounsaturated Fat: 21gTrans
+  Fat: 2gCholesterol: 179mgSodium: 345mgPotassium: 861mgFiber: 2gSugar: 3gVitamin
+  A: 1269IUVitamin C: 4mgCalcium: 178mgIron: 2mg
+thumbnail: https://www.billyparisi.com/wp-content/uploads/2023/08/chicken-scalloppini-1-500x500.jpg
 ---
