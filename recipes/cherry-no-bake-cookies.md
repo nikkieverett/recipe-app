@@ -1,5 +1,5 @@
 ---
-title: cherry no bake cookies
+title: oatmeal chocolate cherry no bake cookies
 href: https://www.tasteofhome.com/recipes/cherry-no-bake-cookies/
 ingredients: |-
   * 2 cups sugar
