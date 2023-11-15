@@ -1,97 +1,80 @@
 ---
-title: caramel apple upside down cake
-href: https://therecipecritic.com/caramel-apple-upside-cake/#wprm-recipe-container-100470
-ingredients: >-
-  
-
-  * 1/4 cup [butter](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fsalted-butter-1lb-good-gather-8482%2F-%2FA-54445965%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fsalted-butter-1lb-good-gather-8482%2F-%2FA-54445965%3Faflt%3Dplt#donotlink)
-
-  * 2/3 cup [brown sugar](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Flight-brown-sugar-2lbs-good-38-gather-8482%2F-%2FA-78494376%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Flight-brown-sugar-2lbs-good-38-gather-8482%2F-%2FA-78494376%3Faflt%3Dplt#donotlink) packed
-
-  * 1/2 teaspoon [ground cinnamon](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fground-cinnamon-2-37oz-good-38-gather-8482%2F-%2FA-77586373%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fground-cinnamon-2-37oz-good-38-gather-8482%2F-%2FA-77586373%3Faflt%3Dplt#donotlink)
-
-  * 2 medium apples peeled, cut into 1/2-inch wedges
-
-  * 1 1/3 cups [all-purpose flour](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fgold-medal-all-purpose-flour-2lbs%2F-%2FA-13016243%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fgold-medal-all-purpose-flour-2lbs%2F-%2FA-13016243%3Faflt%3Dplt#donotlink)
-
-  * 1 teaspoon [baking powder](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fclabber-girl-gluten-free-double-acting-baking-powder-8-1oz%2F-%2FA-14770673%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fclabber-girl-gluten-free-double-acting-baking-powder-8-1oz%2F-%2FA-14770673%3Faflt%3Dplt#donotlink)
-
-  * 1/2 teaspoon [ground cinnamon](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fground-cinnamon-2-37oz-good-38-gather-8482%2F-%2FA-77586373%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fground-cinnamon-2-37oz-good-38-gather-8482%2F-%2FA-77586373%3Faflt%3Dplt#donotlink)
-
-  * 1/4 teaspoon [salt](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fiodized-salt-26oz-good-38-gather-8482%2F-%2FA-78140513%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fiodized-salt-26oz-good-38-gather-8482%2F-%2FA-78140513%3Faflt%3Dplt#donotlink)
-
-  * 1 cup [granulated sugar](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fgranulated-sugar-4lbs-good-38-gather-8482%2F-%2FA-78471310%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fgranulated-sugar-4lbs-good-38-gather-8482%2F-%2FA-78471310%3Faflt%3Dplt#donotlink)
-
-  * 1/2 cup [butter](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fsalted-butter-1lb-good-gather-8482%2F-%2FA-54445965%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fsalted-butter-1lb-good-gather-8482%2F-%2FA-54445965%3Faflt%3Dplt#donotlink) softened
-
-  * 2 large [eggs](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fvital-farms-pasture-raised-grade-a-large-eggs-12ct%2F-%2FA-18783617%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fvital-farms-pasture-raised-grade-a-large-eggs-12ct%2F-%2FA-18783617%3Faflt%3Dplt#donotlink)
-
-  * 1/2 teaspoon [vanilla](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fmccormick-pure-vanilla-extract-2oz%2F-%2FA-13353225%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fmccormick-pure-vanilla-extract-2oz%2F-%2FA-13353225%3Faflt%3Dplt#donotlink)
-
-  * 1/4 cup [milk](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2F2-reduced-fat-milk-1gal-good-38-gather-8482%2F-%2FA-13276204%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2F2-reduced-fat-milk-1gal-good-38-gather-8482%2F-%2FA-13276204%3Faflt%3Dplt#donotlink)
-
-
-  #### Whipped Cream topping
-
-
-  * 1 cup [whipping cream](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fheavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482%2F-%2FA-54550905%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fheavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482%2F-%2FA-54550905%3Faflt%3Dplt#donotlink)
-
-  * 2 tablespoons [sugar](https://goto.target.com/c/2773249/81938/2092?subid1=52e41fac28963d1e058a1042&subid2=https%3A%2F%2Ftherecipecritic.com%2Fcaramel-apple-upside-cake%2F%23wprm-recipe-container-100470&sharedid=The%20Recipe%20Critic&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fgranulated-sugar-4lbs-good-38-gather-8482%2F-%2FA-78471310%3Faflt%3Dplt&u=https%3A%2F%2Fwww.target.com%2Fp%2Fgranulated-sugar-4lbs-good-38-gather-8482%2F-%2FA-78471310%3Faflt%3Dplt#donotlink)
+title: Make-Ahead Sage and Onion Stuffing Muffins with Sausage
+href: https://pudgefactor.com/make-ahead-sage-and-onion-stuffing-muffins-with-sausage/#recipe
+ingredients: |-
+  * 1 pound pork breakfast sausage (See Tip 1)
+  * 6 Tablespoons (3 ounces) unsalted butter
+  * 1.5 cups chopped onions
+  * 1.5 cups chopped celery
+  * 3 Tablespoons fresh sage, minced
+  * 1 teaspoon Kosher salt
+  * ½ teaspoon black pepper
+  * 1 ½ cups chicken broth (See Tip 2)
+  * 3 large eggs
+  * 1 package of baked corn bread, crumbled
 directions: >-
   
 
-  1. Preheat oven to 325 degrees. Spray a [9 inch round](https://amzn.to/3uzOQpA) or [square pan](https://amzn.to/3uDSDlZ) with cooking spray. Set aside.
+  1. Preheat oven to 375°F. Spray muffin pan with nonstick spray. Set aside.
 
-  2. In a medium [saucepan](https://amzn.to/3l59Q4k) melt 1/4 cup butter over medium heat until melted. Add the brown sugar. Bring it to a boil and remove it from heat. Stir in 1/4 teaspoon of cinnamon. Pour into the bottom of the greased pan. Arrange the apples over the brown sugar mixture
+  2. Cook and crumble sausage in a large skillet over medium heat. When the sausage is done, drain on paper towels.
 
-  3. In a medium-size bowl whisk together flour, baking powder, 1/2 teaspoon cinnamon, and salt. Set bowl aside.
+  3. Wipe the skillet used to cook sausage with paper towels. Add butter and melt over medium heat. Add onions and celery. Cook, stirring occasionally, until the onions start to soften, about 10 minutes. Add sage, salt, and pepper. Stir to combine. Add the cooked sausage and stir the mixture together. Allow to cool slightly.
 
-  4. In a large bowl or [mixer](https://amzn.to/3uAU8kJ), beat together 1 cup sugar, and 1/2 cup butter on medium speed until fluffy. Add in eggs and vanilla.
+  4. Whisk together 1 ½ cups of chicken broth and the eggs.
 
-  5. Beat in flour mixture alternating with the milk until smooth. Pour the batter over the apples and spread evenly.
 
-  6. Bake 55-60 minutes or until the toothpick comes out clean. Cool on a [wire rack](https://amzn.to/2ZNNBHX) for 15 minutes.
+  * Add the corn bead and onion and sausage mixture to a large bowl. Stir to combine. Pour on the chicken broth and eggs. Toss to coat the ingredients evenly. Allow the stuffing mixture to sit for ten minutes to absorb the liquid. Toss again to ensure that everything is well combined. If the stuffing is too dry, add a little more broth or water until you have the right consistency.
 
-  7. Meanwhile, to make the whipped topping beat whipping cream on high until soft peaks start to form. Add in 2 tablespoons sugar.
+  * Using a ½ cup ice cream scoop or a measuring cup, fill the muffin pan cups heaping full with the stuffing, compressing the stuffing mixture as you fill the cups.
 
-  8. Run a knife along the edges of the cake and flip upside down on a pan. Serve warm with whipped cream on top.
-category: dessert
+  * Bake in a preheated 375°F oven for 30 to 35 minutes or until the stuffing muffins are golden brown.
+
+  * Remove from the oven and allow the stuffing muffins to cool in the muffin pan for 10 minutes before removing them from the pan.
+
+  * Remove from the pan and serve.
+
+  * Yield: 12 Stuffing Muffins
+category: side dish
 subcategory:
-  - cake
-prepTime: 25 minutes
-cookTime: 55 minutes
-totalTime: 1 hour 20 minutes
-servings: "8"
-rating: 5
+  - vegetable
+prepTime: 15 minutes
+cookTime: 30 minutes
+totalTime: 45 minutes
+servings: "12"
+rating: 4
 ease: easy
 nutritionFacts: |-
-  Calories: 555kcal
+  Calories: 308kcal
 
-  Carbohydrates: 70g
+  Carbohydrates: 22g
 
-  Protein: 5g
+  Protein: 12gFat: 19g
 
-  Fat: 30g
+  Saturated Fat: 8g
 
-  SaturatedFat: 18g
+  Polyunsaturated Fat: 2g
 
-  Cholesterol: 128mg
+  Monounsaturated Fat: 7g
 
-  Sodium: 262mg
+  TransFat: 0.3g
 
-  Potassium: 193mg
+  Cholesterol: 89mg
+
+  Sodium: 640mg
+
+  Potassium: 257mg
 
   Fiber: 2g
 
-  Sugar: 51g
+  Sugar: 4g
 
-  Vitamin A: 1065IU
+  Vitamin A: 273IU
 
-  Vitamin C: 2mg
+  Vitamin C: 3mg
 
-  Calcium: 82mg
+  Calcium: 79mg
 
-  Iron: 1mg
-needsMarinade: false
-thumbnail: https://therecipecritic.com/wp-content/uploads/2021/09/caramelappleupsidedowncake-1-600x600.jpg
+  Iron: 2mg
+thumbnail: https://pudgefactor.com/wp-content/uploads/2023/11/Featured_SMuffin-1-500x500.jpg
 ---
