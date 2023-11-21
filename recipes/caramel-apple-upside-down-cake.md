@@ -44,6 +44,10 @@ totalTime: 45 minutes
 servings: "12"
 rating: 4
 ease: easy
+notes: >-
+  
+
+  1. These stuffing muffins can be made ahead of time. Allow it to come to room temperature and store it in the refrigerator in an airtight container for up to three days. The stuffing muffins can also be frozen for up to three months. Reheat in a 375°F oven for 10 to 15 minutes or until crispy and hot.
 nutritionFacts: |-
   Calories: 308kcal
 
