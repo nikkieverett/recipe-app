@@ -17,7 +17,7 @@ directions: |-
   * P﻿ut applesauce over potatoes
   * C﻿ombine cinnamon, sugar and nuts.  Sprinkle over applesauce.
   * Dot with butter
-  * B﻿ake 45 minutes
+  * B﻿ake at 375 for 45 minutes
 
   *If desired sprinkle with pecans before serving. serve with a slotted spoon*
 category: side dish
