@@ -11,15 +11,14 @@ ingredients: |-
   * ½ teaspoon black pepper
   * 1 ½ cups chicken broth (See Tip 2)
   * 3 large eggs
-  * 1 package of baked corn bread, crumbled
+  * 1 package corn bread, baked and crumbled
+  * 1﻿/3 C dried cranberries (optional)
 directions: >-
-  
-
   1. Preheat oven to 375°F. Spray muffin pan with nonstick spray. Set aside.
 
   2. Cook and crumble sausage in a large skillet over medium heat. When the sausage is done, drain on paper towels.
 
-  3. Wipe the skillet used to cook sausage with paper towels. Add butter and melt over medium heat. Add onions and celery. Cook, stirring occasionally, until the onions start to soften, about 10 minutes. Add sage, salt, and pepper. Stir to combine. Add the cooked sausage and stir the mixture together. Allow to cool slightly.
+  3. Wipe the skillet used to cook sausage with paper towels. Add butter and melt over medium heat. Add onions and celery. Cook, stirring occasionally, until the onions start to soften, about 10 minutes. Add sage, salt, and pepper. Stir to combine. Add the cooked sausage and cranberries, Stir the mixture together. Allow to cool slightly. 
 
   4. Whisk together 1 ½ cups of chicken broth and the eggs.
 
