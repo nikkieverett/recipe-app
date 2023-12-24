@@ -1,27 +1,25 @@
 ---
 title: praline grahams
-href: https://the-cooking-spoon.herokuapp.com/recipes/593044f944e3ce00113dfb79
+href: https://cookiesandcups.com/praline-crack/
 ingredients: |-
-  * 1 box graham crackers
-  * 1 cup (2 sticks) butter
-  * 1¼ cup lightly packed light brown sugar
-  * 1﻿ cup pecans chopped
+  * 28 graham cracker squares
+  * 1 cup butter
+  * 1 cup light brown sugar
+  * 1 tsp vanilla
+  * 1/2 tsp salt
+  * 3/4 cup chopped pecans
 directions: >-
-  1. Preheat oven to 350ºf
+  
 
-  2. Line cookie sheet with foil and spray with non-stick cooking spray
+  1. Preheat oven to 350°
 
-  3. Line cookies end to end on sheet, breaking crackers to fit the end if necessary
+  2. Line a large ungreased baking pan with sides (jelly roll pan) with graham crackers, breaking in half if necessary to line the pan.
 
-  4. In a saucepan, melt butter on low heat
+  3. Melt butter and sugar in a small [saucepan](https://amzn.to/3IEC0xy) over medium heat until it comes to a boil. Allow it to boil for 2 minutes, stirring constantly. Remove from heat and stir in salt and vanilla. Pour mixture over top of the graham crackers evenly, spreading to coat.
 
-  5. Once melted, add brown sugar and turn heat to medium. Continue stirring until boiling – then boil for 3 minutes (set a timer)
+  4. Sprinkle pecans on top and bake in oven for 10-12 minutes until bubbly all over. If you prefer it a little crunchier, bake for 2 more minutes.
 
-  6. Pour sugar mixture over crackers. spread evenly and work quickly
-
-  7. S﻿prinkle pecans over grahams
-
-  8. Break the bark into smaller pieces
+  5. Remove from oven and allow to cool. Cut into squares.
 category: dessert
 prepTime: null
 cookTime: null
@@ -31,5 +29,5 @@ rating: 5
 ease: easy
 notes: null
 path: /praline-grahams
-thumbnail: assets/praline-grahams.jpg
+thumbnail: https://cookiesandcups.com/wp-content/uploads/2014/05/IMG_0697.jpg
 ---
