@@ -2,7 +2,8 @@
 title: Cream of Chicken Soup
 href: https://www.foodnetwork.com/recipes/food-network-kitchen/cream-of-chicken-soup-recipe-2011701
 ingredients: |-
-  * 1/2 cup unsalted butter1 medium Spanish onion, chopped
+  * 1/2 cup unsalted butter
+  * 1 medium Spanish onion, chopped
   * 2 stalks celery (with leaves), chopped
   * 3 medium carrots, chopped
   * 1/2 cup plus 1 tablespoon flour
