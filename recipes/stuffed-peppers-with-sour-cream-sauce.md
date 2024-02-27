@@ -32,7 +32,9 @@ ingredients: >-
   * 1 cup water
 
     **sour cream enchilada sauce** 
-  * 3 tablespoons butter 3 tablespoons white all purpose flour
+  * 3 tablespoons butter 
+
+  * 3 tablespoons white all purpose flour
 
   * 2 cups chicken broth (divided) ( keep 1/2 cup to the side to thin out the sauce to your liking - so you may not use the whole 2 cups)
 
