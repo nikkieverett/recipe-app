@@ -1,5 +1,5 @@
 ---
-title: Poblano Corn Chowder
+title: Poblano Corn Chowder Soup
 href: "
   http://www.foodnetwork.com/recipes/paula-deen/poblano-chicken-chowder-recipe/\
   index.html?oc=linkback"
@@ -37,14 +37,16 @@ directions: >-
 
   2. When the first cup of liquid is incorporated, add another 2 cups of liquid, 1 at a time. Pour the mixture in the skillet into the stockpot, whisking to blend. Cook, stirring frequently, for 3 to 5 minutes longer, or until the mixture begins to thicken. Remove the pot from the heat. Stir in the hot sauce, then the cream, and serve.
 category: main course
-subcategory: ['soup/stew', 'mexican']
-cookTime: 30 minuntes
+subcategory:
+  - soup/stew
+  - mexican
 prepTime: 30 minutes
+cookTime: 30 minuntes
 totalTime: 60 minutes
 servings: 12-16
 rating: 4
 ease: easy
 notes: ""
-hasBeenTested: false
 thumbnail: assets/hearty-homemade-corn-chowder-feat.jpg
+hasBeenTested: false
 ---
