@@ -4,12 +4,14 @@ href: https://www.womansday.com/food-recipes/food-drinks/a19810477/no-bake-lemon
 ingredients: >-
   Crust:
 
-  * 14 graham crackers
+
+  * 14 graham crackers or 1 C crumbs
 
   * 7 tbsp. unsalted butter, melted
 
 
   Filling:
+
 
   * 2 c. heavy cream
 
@@ -22,9 +24,9 @@ ingredients: >-
 
   Decorations:
 
-  * sliced strawberries, raspberries, halved cherries, sliced mango, and edible flowers, for serving
 
-  chocolate butterflies, for serving
+  * sliced strawberries, raspberries, halved cherries, sliced mango, and edible flowers, for serving
+    chocolate butterflies, for serving
 directions: >-
   Make crust:
 
