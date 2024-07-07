@@ -2,29 +2,26 @@
 title: potatoes au gratin
 href: https://wwhttps://www.recipetineats.com/potatoes-au-gratin/#wprm-recipe-container-25838w.recipetineats.com/potatoes-au-gratin/#wprm-recipe-container-25838
 ingredients: >-
-  
-
   * 1 1/2 cups cream , full fat (Note 1)
 
-  * \[ ]▢2 garlic cloves , minced
+  * 2 garlic cloves , minced
 
-  * \[ ]▢30g / 2 tbsp unsalted butter , melted
+  * 2 tbsp unsalted butter , melted
 
-  * \[ ]▢1.25 kg / 2.5 lb starchy potatoes , Russet, Sebago, Maris Piper (Note 2)
+  * 2.5 lb starchy potatoes , Russet, Sebago, Maris Piper (Note 2)
 
-  * \[ ]▢1 tsp salt
+  * 1 tsp salt
 
-  * \[ ]▢1/4 tsp pepper
+  * 1/4 tsp pepper
 
-  * \[ ]▢2 1/2 cups gruyere cheese (colby, cheddar, havarti or tasty), freshly grated yourself (Note 3)
+  * 2 1/2 cups gruyere cheese (colby, cheddar, havarti or tasty), freshly grated yourself (Note 3)
 
-  * \[ ]▢2 tsp thyme leaves , fresh (optional – but highly recommended)
+  * 2 tsp thyme leaves , fresh (optional – but highly recommended)
 directions: >-
-  
+  * **Cream Mixture:** Place butter, cream and garlic in a jug. Mix until
+  combined.
 
-  * **Cream Mixture:** Place butter, cream and garlic in a jug. Mix until combined.
-
-  * **Preheat oven** to 180°C/350°F (both fan and standard ovens).
+  * **Preheat oven** to 350°F (both fan and standard ovens).
 
   * **Slice potatoes:** Peel the potatoes and slice them 1/8"/3 mm thick. Or use a slicer!
 
