@@ -1,34 +1,51 @@
 ---
 title: pad thai
 href: https://www.recipetineats.com/chicken-pad-thai/
-ingredients: |-
-  
-
+ingredients: >-
   * 4oz Chang’s Pad Thai dried rice sticks
+
 
   #### SAUCE:
 
-  * 1 1/2 tbsp tamarind puree , NOT concentrate (Note 1)
+
+  * 1 1/2 tbsp tamarind puree , NOT concentrate (Note 1-for concentrate, use 1/2 tbsp)
+
   * 3 tbsp (packed) brown sugar
+
   * 2 tbsp fish sauce (Note 2)
+
   * 1 1/2 tbsp oyster sauce (Note 3)
+
 
   #### STIR FRY:
 
+
   * 2 – 3 tbsp vegetable or canola oil
+
   * 1/2 onion , sliced (brown, yellow)
+
   * 2 garlic cloves , finely chopped
+
   * 5oz chicken breast (or thigh) , thinly sliced
+
   * 2 eggs , lightly whisked
+
   * 1 1/2 cups of beansprouts
+
   * 1/2 cup firm tofu, cut into 3cm / 1 1/4″ batons (see photo)
+
   * 1/4 cup garlic chives or green onions, cut into 3cm / 1 1/4″ pieces (Note 4)
+
   * 1/4 cup finely chopped peanuts
+
 
   #### FOR SERVING:
 
+
   * Lime wedges (essential)
+
   * Ground chilli or cayenne pepper (optional)
+
   * More beansprouts
 directions: >-
   
