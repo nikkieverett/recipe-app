@@ -1,6 +1,4 @@
 ---
-title: carmel flan
-href: https://www.thespruceeats.com/caramel-flan-individual-servings-2343004
 ingredients: >-
   <!--StartFragment-->
 
@@ -17,6 +15,9 @@ ingredients: >-
 
 
   <!--EndFragment-->
+isMarinade: false
+title: caramel flan
+href: https://www.thespruceeats.com/caramel-flan-individual-servings-2343004
 directions: >-
   <!--StartFragment-->
 
@@ -42,9 +43,10 @@ directions: >-
 
   <!--EndFragment-->
 category: dessert
-subcategory: ['pudding']
-cookTime: 1 hour 15 minutes
+subcategory:
+  - pudding
 prepTime: 20 minutes
+cookTime: 1 hour 15 minutes
 rating: 4
 ease: easy
 nutritionFacts: |-
@@ -58,6 +60,5 @@ nutritionFacts: |-
   | 11g | Protein  |
 
   <!--EndFragment-->
-isMarinade: false
 hasBeenTested: false
 ---
