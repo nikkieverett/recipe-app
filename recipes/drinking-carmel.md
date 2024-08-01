@@ -1,5 +1,5 @@
 ---
-title: Drinking Carmel
+title: Drinking Caramel
 href: https://www.aspicyperspective.com/drinking-caramel-recipe/
 ingredients: >-
   *
@@ -51,6 +51,6 @@ nutritionFacts: >-
 
 
   potassium: 71mg,sugar:19g,vitamin a:875iu,vitamin c:0.3mg,calcium:55mg,iron:0.2mg
-hasBeenTested: false
 thumbnail: assets/drinking-caramel-recipe-8.jpg
+hasBeenTested: false
 ---
