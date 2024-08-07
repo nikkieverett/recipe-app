@@ -1,5 +1,5 @@
 ---
-title: Cherry Almond Icecream
+title: Cherry Almond Ice Cream
 ingredients: >-
   * 2 cups very ripe[ sweet cherries](https://www.food.com/about/cherry-218)(I
   used frozen black cherries)
@@ -42,15 +42,16 @@ directions: >-
 
   * Add almonds, if desired, near end of cycle, when the ice cream is thick enough to prevent all the almonds to sink to the bottom of the mix.
 category: dessert
-subcategory: ['ice cream']
-cookTime: ""
+subcategory:
+  - ice cream
 prepTime: ""
+cookTime: ""
 totalTime: 40 minutes
 servings: 1 quart
 rating: 4
 ease: easy
-nutritionFacts: ""
 notes: <https://www.food.com/recipe/cherry-almond-ice-cream-94646>
-hasBeenTested: true
+nutritionFacts: ""
 thumbnail: ""
+hasBeenTested: true
 ---
