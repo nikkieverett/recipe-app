@@ -1,6 +1,6 @@
 ---
 title: crock pot green enchilada soup
-href: https://belaya.info/crock-pot-green-enchilada-chicken-soup.html?fbclid=IwAR2pb6vwTMF9eCHhMveM9jHScazAGSBe0VZhYoJzSCXYgT2SO83oVpZE54U
+href: ""
 ingredients: |-
   \* 6 Boneless Skinless Chicken Thighs Diced
 
@@ -9,6 +9,8 @@ ingredients: |-
   \* 28 oz can Green Enchilada Sauce
 
   \* 4 oz Salsa Verde
+
+  3﻿ cups Chicken Broth
 
   \* 1/2 tsp Salt
 
@@ -20,8 +22,6 @@ ingredients: |-
 
   \* 8 oz cream cheese diced into small pieces
 
-  \* 3 cups Chicken Broth
-
   \* 1 Tablespoon Cornstarch
 
   **Toppings:**
@@ -32,14 +32,14 @@ ingredients: |-
 
   \* 1 cup sour cream
 directions: >-
-  1. Add the chicken, beans, green enchilada sauce, salsa verde, salt and pepper
-  to the crock pot.
+  1. Add the chicken, beans, green enchilada sauce, salsa verde, broth, salt and
+  pepper to the crock pot.
 
   2. Cover and cook on low for 5-6 hours or on high for 3 hours.
 
-  3. Stir the cornstarch into the heavy whipping cream. Then stir the heavy whipping cream, Monterey
+  3. Stir the cornstarch into the heavy whipping cream. 
 
-  4. Jack Cheese and cream cheese into the crock pot.
+  4. Then stir the heavy whipping cream, Monterey Jack Cheese and cream cheese into the crock pot.
 
   5. Cover and cook until the cheese has melted (30 minutes to 1 hour).
 
