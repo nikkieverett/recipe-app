@@ -1,5 +1,5 @@
 ---
-title: carmelize banana ice cream
+title: carmelized banana ice cream
 href: https://curlygirlkitchen.com/banana-caramel-ice-cream/#recipe
 ingredients: |-
   
