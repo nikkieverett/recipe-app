@@ -11,6 +11,16 @@ ingredients: |-
   * 1 unit Lemon
   * ¼ ounce Cilantro
   * 2 tablespoon Smoky Red Pepper Crema
+
+  **C﻿rema ingredients** (blend all together)
+
+  * ½ cup roasted red bell peppers drained
+  * 1 cup sour cream
+  * 1 teaspoon lemon juice
+  * ½ teaspoon smoked paprika
+  * ½ teaspoon garlic powder
+  * ½ teaspoon onion powder
+  * ¼ teaspoon salt
 directions: >-
   1. In a small pot, combine rice, ¾ cup water (1½ cups for 4 servings), and a
   pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook
