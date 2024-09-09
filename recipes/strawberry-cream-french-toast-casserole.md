@@ -2,17 +2,17 @@
 title: Strawberry Cream French Toast Casserole
 href: https://www.tastingtable.com/1547710/strawberries-and-cream-french-toast-bake-recipe/
 ingredients: |-
-  4 ounces mascarpone
-  1 cup heavy whipping cream, divided
-  ¼ cup powdered sugar, plus more for topping
-  1 teaspoon vanilla extract, divided
-  1 (16-ounce) loaf challah bread, cut into 1-inch slices
-  2 cups strawberries, sliced and stems removed
-  10 eggs
-  2 cups milk
-  1 stick butter, melted
-  2 teaspoon cinnamon
-  ¼ teaspoon salt
+  * 4 ounces mascarpone
+  * 1 cup heavy whipping cream, divided
+  * ¼ cup powdered sugar, plus more for topping
+  * 1 teaspoon vanilla extract, divided
+  * 1 (16-ounce) loaf challah bread, cut into 1-inch slices
+  * 2 cups strawberries, sliced and stems removed
+  * 10 eggs
+  * 2 cups milk
+  * 1 stick butter, melted
+  * 2 teaspoon cinnamon
+  * ¼ teaspoon salt
 directions: >-
   1. Beat the mascarpone, ½ cup heavy cream, powdered sugar, and ½ teaspoon
   vanilla in a bowl until soft peaks form, about 3-5 minutes.
