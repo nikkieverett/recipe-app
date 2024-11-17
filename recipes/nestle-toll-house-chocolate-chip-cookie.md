@@ -24,13 +24,21 @@ ingredients: >-
 
   * 1 cup chopped nuts (Optional. If omitting, add 1 to 2 Tbsp. of all-purpose flour.)
 directions: >-
-  
-
   1. Preheat oven to 375° F.
 
-  2. Combine flour, baking soda and salt in small bowl. Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bowl until creamy. Add eggs, one at a time, beating well after each addition. Gradually beat in flour mixture. Stir in morsels and nuts. Drop by rounded tablespoon onto ungreased baking sheets.
+  2. Combine flour, baking soda and salt in small bowl. 
 
-  3. Bake for 9 to 11 minutes or until golden brown. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
+  3. Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bowl until creamy. Add eggs, one at a time, beating well after each addition. 
+
+  4. Gradually beat in flour mixture. 
+
+  5. Stir in morsels and nuts. 
+
+  6. Drop by rounded tablespoon onto ungreased baking sheets.
+
+  7. Bake for 9 to 11 minutes or until golden brown. 
+
+  8. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
 category: dessert
 subcategory:
   - cookie
