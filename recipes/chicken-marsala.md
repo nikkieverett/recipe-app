@@ -65,14 +65,17 @@ directions: >-
 
   * Serve with mashed potatoes or rice. enjoy!
 category: main course
-subcategory: ['italian', 'chicken', 'keto']
-cookTime: null
+subcategory:
+  - italian
+  - chicken
+  - keto
 prepTime: null
+cookTime: null
 totalTime: 40 mins
 servings: 4 servings
 rating: 5
 ease: easy
 notes: null
 path: /chicken-marsala
-thumbnail: assets/chicken-marsala.jpg
+thumbnail: https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipes%2F2024-09-chicken-marsala%2Fchicken-marsala-170
 ---
