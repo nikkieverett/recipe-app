@@ -27,13 +27,10 @@ directions: >-
 
   2. Meanwhile, combine olive oil, duck fat, or beef fat with rosemary, garlic, and a few grinds of black pepper in a small saucepan and heat over medium heat. Cook, stirring and shaking pan constantly, until garlic just begins to turn golden, about 3 minutes. Immediately strain oil through a fine-mesh strainer set in a large bowl. Set garlic/rosemary mixture aside and reserve separately.
 
-     ![Saute pan filled with finely minced garlic cooked in oil with chopped rosemary](https://www.seriouseats.com/thmb/kQe_C8muWnyet7g4cMCuyr0xqsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2016__11__20161201-crispy-roast-potatoes-21-457834b7428c4cdab68535d6d9a2725e.jpg)
   3. When potatoes are cooked, drain carefully and let them rest in the pot for about 30 seconds to allow excess moisture to evaporate. Transfer to bowl with infused oil, season to taste with a little more salt and pepper, and toss to coat, shaking bowl roughly, until a thick layer of mashed potato–like paste has built up on the potato chunks.
 
-     ![The potatoes in a metal bowl.](https://www.seriouseats.com/thmb/cYTbxF_L_tWyXAxM7O7-Wi0Sl84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20211201-crispy-roasted-potatoes-vicky-wasik-35-475fe6f38f254845a9da228ec739fabe.jpg)
   4. Transfer potatoes to a large rimmed baking sheet and separate them, spreading them out evenly. Transfer to oven and roast, without moving, for 20 minutes. Using a thin, flexible metal spatula to release any stuck potatoes, shake pan and turn potatoes. Continue roasting until potatoes are deep brown and crisp all over, turning and shaking them a few times during cooking, 30 to 40 minutes longer.
 
-     ![The best ever crispy roast potatoes on a metal baking sheet.](https://www.seriouseats.com/thmb/OlU_xqdRY-Ge9F8ieXj-dqU--0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20211201-crispy-roasted-potatoes-vicky-wasik-38-7a61990d4f344b99b842800041af97b4.jpg)
   5. Transfer potatoes to a large bowl and add garlic/rosemary mixture and minced parsley. Toss to coat and season with more salt and pepper to taste. Serve immediately.
 category: side dish
 subcategory:
