@@ -2,22 +2,22 @@
 title: creamy parmesan tuscan soup
 href: https://fullrecipy.com/creamy-parmesan-tuscano-soup-recipe/?fbclid=IwZXh0bgNhZW0CMTEAAR09y3uuQt4-bxq_Sr92PiQmnT81iVrKhG_L9CU2wuhEcxfZysIxpa_Fr0k_aem_MQo00stKVvRXuCPD2WH_1g
 ingredients: |-
-  – 1 tablespoon olive oil\
-  – 1 sweet onion, diced\
-  – 4 garlic cloves, minced\
-  – Kosher salt and pepper, to taste\
-  – 1 tablespoon tomato paste\
-  – 1 teaspoon dried basil\
-  – ½ teaspoon dried oregano\
-  – ¼ teaspoon dried thyme\
-  – 1 (14-ounce) can fire-roasted tomatoes\
-  – 2 (14-ounce) cans cannellini beans, drained and rinsed\
-  – 4 cups vegetable or chicken stock\
-  – 1 parmesan rind\
-  – 1 cup heavy cream\
-  – ½ cup finely grated parmesan cheese, plus more for topping\
-  – 5 ounces fresh spinach (frozen spinach works too)\
-  – Crushed red pepper, for topping
+  * 1 tablespoon olive oil
+  * 1 sweet onion, diced
+  * 4 garlic cloves, minced
+  * Kosher salt and pepper, to taste
+  * 1 tablespoon tomato paste
+  * 1 teaspoon dried basil
+  * ½ teaspoon dried oregano
+  * ¼ teaspoon dried thyme
+  * 1 (14-ounce) can fire-roasted tomatoes
+  * 2 (14-ounce) cans cannellini beans, drained and rinsed
+  * 4 cups vegetable or chicken stock
+  * 1 parmesan rind
+  * 1 cup heavy cream
+  * ½ cup finely grated parmesan cheese, plus more for topping
+  * 5 ounces fresh spinach (frozen spinach works too)
+  * Crushed red pepper, for topping
 directions: >-
   1. Heat Olive Oil: In a large pot over medium heat, warm the olive oil. Add
   the diced onion and minced garlic, seasoning with a pinch of salt and pepper.
