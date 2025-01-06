@@ -3,18 +3,18 @@ title: Creamy Parmesan Italian Sausage Soup
 href: https://creativescookery.com/delicious-creamy-parmesan-italian-sausage-soup-recipe/#tasty-recipes-1541-jump-target
 ingredients: |-
   * 1 pound Italian sausage, casings removed
+  * 2﻿ T olive oil
   * 1 onion, chopped
   * 2 cloves garlic, minced
-  * 3 cups chicken broth
-  * 2 cups heavy cream
-  * 1 cup grated Parmesan cheese
-  * 2 cups baby spinach
   * 1 cup sliced mushrooms
+  * 3 cups chicken broth
   * 1 cup diced tomatoes
   * 1 teaspoon dried oregano
   * 1/2 teaspoon dried basil
+  * 2 cups heavy cream
+  * 1﻿ cup grated Paremesan cheese
+  * 2﻿ c baby spinach, chopped
   * Salt and pepper to taste
-  * 2 tablespoons olive oil
 directions: >-
   
 
