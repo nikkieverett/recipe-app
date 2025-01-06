@@ -9,7 +9,13 @@ ingredients: |-
   * 3﻿ C kale, chopped
   * 3﻿ C chicken broth
   * 1﻿/2 C cream
-directions: "1."
+directions: |-
+  
+
+  1. F﻿ry sausage, bacon and onion in dutch oven.  Cook until translucent.
+  2. A﻿dd garlic, cook additional minute.
+  3. A﻿dd chicken broth and potatoes.  Boil for 15 minutes.
+  4. A﻿dd kale and cream.  Simmer 4 minutes.
 category: main course
 subcategory:
   - soup/stew
