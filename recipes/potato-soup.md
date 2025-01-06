@@ -13,7 +13,7 @@ ingredients: |-
   * 1﻿/2 t salt
   * 4﻿ slices bacon, cooked (garnish)
 directions: |-
-  1. B﻿oil potatoes until fork tender.
+  1. B﻿oil potatoes until fork tender (about 15 minutes)
   2. R﻿eserve 2 C potato water.
   3. C﻿ombine potatoes, water, beef broth, milk, and cream.
   4. B﻿lend butter with flour.
