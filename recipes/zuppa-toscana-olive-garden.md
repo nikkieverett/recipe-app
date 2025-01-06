@@ -1,5 +1,5 @@
 ---
-title: zuppa toscana - Olive Garden
+title: zuppa toscana - Olive Garden soup
 ingredients: |-
   * g﻿round italian sausage
   * 3﻿ medium potatoes, cubed
