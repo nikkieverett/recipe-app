@@ -16,6 +16,13 @@ ingredients: |-
   * 1 tablespoon Butter
   * Salt
   * Pepper
+
+    **K﻿ATSU SAUCE**
+
+    * 1/4 cup [ketchup](https://amzn.to/34HKCDS)
+    * 2 tbsp worcestershire sauce
+    * 1 tbsp [oyster sauce](https://amzn.to/3mRvwkM) or soy sauce
+    * 1/2 tbsp sugar or brown sugar
 directions: >-
   1. Adjust rack to top position and preheat oven to 425 degrees. Wash and dry
   produce. • Peel and mince or grate ginger. • Heat a drizzle of oil in a small
