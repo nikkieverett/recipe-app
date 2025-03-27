@@ -1,5 +1,5 @@
 ---
-title: Chicken Katsu with Roasted Green Beans & Ginger Rice
+title: Chicken Katsu with Roasted Green Beans & Ginger Rice - hello fresh
 href: https://www.hellofresh.com/recipes/chicken-katsu-60d333de2d8a3c2d6548d6a6
 ingredients: |-
   * 1 thumb Ginger
@@ -43,6 +43,7 @@ directions: >-
 category: main course
 subcategory:
   - all in one casserole
+  - hello fresh
 prepTime: 5 minutes
 cookTime: 25 minutes
 totalTime: 30 minutes
