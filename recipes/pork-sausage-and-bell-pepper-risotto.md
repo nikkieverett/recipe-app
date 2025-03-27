@@ -1,5 +1,5 @@
 ---
-title: pork sausage and bell pepper risotto
+title: pork sausage and bell pepper risotto - hello fresh
 href: https://www.hellofresh.com/recipes/pork-sausage-and-bell-pepper-risotto-617041791f771a6a0b36e4b2
 ingredients: |-
   * 4 cups chicken broth
@@ -35,6 +35,7 @@ directions: >-
 category: main course
 subcategory:
   - all in one casserole
+  - hello fresh
 prepTime: 10 minutes
 cookTime: 45 minutes
 totalTime: 1 hour
