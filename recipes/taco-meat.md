@@ -15,6 +15,13 @@ ingredients: |-
   * 1 beef bouillon granules 
   * 1 1/3 pounds lean ground chuck 
   * 1 cup water
+
+    **B﻿ULK (3x)**
+
+    * 4﻿.5 T chili powder
+    * 1﻿ T minced onion
+    * 1﻿.5 t garlic salt, garlic, season salt, onion, paprika
+    * 3﻿/4 t cumin, ground red pepper, sugar
 directions: >-
   1. in a medium bowl, combine chili powder, onion powder, garlic powder, and
   seasoned salt. stir in the paprika, cumin, garlic salt, and sugar. blend in
