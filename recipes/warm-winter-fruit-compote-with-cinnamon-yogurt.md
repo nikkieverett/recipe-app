@@ -1,5 +1,5 @@
 ---
-title: Warm Winter Fruit Compote with Cinnamon Yogurt
+title: Warm Winter Fruit Compote with Cinnamon Yogurt - Homemade Method
 ingredients: |-
   T﻿oppings:
 
