@@ -1,22 +1,28 @@
 ---
 title: Warm Winter Fruit Compote with Cinnamon Yogurt - Homemade Method
 ingredients: |-
-  T﻿oppings:
+  **T﻿oppings:**
 
   * 1﻿/4 C roasted walnuts
 
-    C﻿innamon yogurt
+    **C﻿innamon yogurt**
   * 1﻿ C Greek yogurt
   * 1﻿ t cinnamon
   * 2﻿ T honey
 
-    c﻿ompote:
+    **c﻿ompote:**
   * 1﻿ pear - peeled, cored, diced
   * 1﻿ apple - peeled, cored and diced
   * 1﻿/2 C dried cranberries
   * 1﻿ lemon, juiced and zested
   * 2﻿ T honey
   * 1﻿ clove
+
+    **b﻿lueberry lemon compte**
+  * 1﻿/2 C blueberries
+  * 1﻿ T water
+  * 1﻿/2 T honey
+  * 1﻿/4 lemon, juiced and zested
 directions: >-
   1. I﻿n a saucepan, over medium heat, combine pear, apple, cranberries, lemon
   juice and zest.
