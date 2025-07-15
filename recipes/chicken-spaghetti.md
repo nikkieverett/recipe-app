@@ -6,25 +6,30 @@ ingredients: |-
   * **3** **cups** spaghetti, uncooked and broken into two-in. pieces
   * 1﻿ cup milk
   * 1﻿ cup water
+  * **2** **cups** reserved chicken broth from pot
   * 4﻿ oz cream cheese
   * 3﻿/4 C sour cream
   * 1﻿/4 C corn starch
   * **1﻿/2 T onion powder**
   * **1﻿/2 t garlic powder**
-  * **3** **cups** grated sharp cheddar cheese
+  * **1** **tsp.** Lawry's Seasoned Salt
+  * **1/8** **tsp.** to 1/4 tsp. cayenne pepper
+  * s﻿alt and pepper to taste
   * **1/4** **cup** finely diced orange or red bell pepper
   * **1/4** **cup** finely diced onion
   * **1** (4-oz.) jar diced pimentos, drained
-  * **2** **cups** reserved chicken broth from pot
-  * **1** **tsp.** Lawry's Seasoned Salt
-  * **1/8** **tsp.** to 1/4 tsp. cayenne pepper
-  * Salt and pepper, to taste
+  * **3** **cups** grated sharp cheddar cheese
 directions: >-
-  1. Cook 1 cut up fryer chicken and pick out the meat to make two cups. 
+  1. Cook spaghetti in chicken broth until al dente. Drain, reserving chicken
+  broth.
 
-  2. 2Cook spaghetti in same chicken broth until al dente. Do not overcook. When spaghetti is cooked, combine with remaining ingredients except additional 1 cup sharp cheddar.
+  2. C﻿ombine broth, milk and additional water to equal 4 cups.  Whisk in cornstarch.  Bring to a boil.
 
-  3. 3Place mixture in casserole pan and top with remaining sharp cheddar. Cover and freeze up to six months, cover and refrigerate up to two days, or bake immediately: 350°F for 45 minutes until bubbly. (If the cheese on top starts to get too cooked, cover with foil).
+  3. S﻿tir in sour cream, cream cheese, spices.  Cook until thickened.
+
+  4. Combine with remaining ingredients except additional 1 cup sharp cheddar.
+
+  5. Place mixture in casserole pan and top with remaining sharp cheddar. Cover and freeze up to six months, cover and refrigerate up to two days, or bake immediately: 350°F for 45 minutes until bubbly. (If the cheese on top starts to get too cooked, cover with foil).
 category: main course
 prepTime: 30 minutes
 cookTime: 45 minutes
