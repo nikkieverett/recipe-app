@@ -2,7 +2,7 @@
 title: taco lasagna
 href: https://www.the-girl-who-ate-everything.com/taco-lasagna/#recipe
 ingredients: >-
-  * 12 oven ready lasagna noodles, (see note)
+  * 6 oven ready lasagna noodles, (see note)
 
   * 1 pound lean ground beef
 
