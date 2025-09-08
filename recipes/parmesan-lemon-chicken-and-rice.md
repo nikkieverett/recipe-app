@@ -10,25 +10,32 @@ ingredients: |-
   * 1 tablespoon grated lemon peel
   * 1/2 teaspoon black pepper
   * 1/4 teaspoon salt
+  * 1﻿ teaspoon other seasonings like garlic,  onion, paprika or other mix
+  * 1﻿/2 C Italian bread crumbs or French Fried Onions
 directions: >-
   * Heat oven to 375°f
 
   * Spray 8-inch square (2-quart) baking dish with cooking spray
 
-  * In baking dish, mix all ingredients well
+  * In baking dish, mix all ingredients well, except bread crumbs.
+
+  * S﻿prinkle with bread crumbs or fried onions.
 
   * Bake 45 to 50 minutes or until rice is tender and most of the liquid is absorbed
 
   * Let stand 10 minutes before serving
 category: main course
-subcategory: ['all in one casserole', 'chicken']
-cookTime: 1 hour
+subcategory:
+  - all in one casserole
+  - chicken
 prepTime: 10 minutes
+cookTime: 1 hour
 totalTime: 1 hour 10 minutes
 servings: 6 servings
 rating: 5
 ease: easy
-notes: null
+notes: I﻿ altered this recipe adding a little more spice and crunchy
+  topping.   Gave it a little more flavor.
 path: /parmesan-lemon-chicken-and-rice
 thumbnail: assets/parmesan-lemon-chicken-and-rice.jpg
 ---
