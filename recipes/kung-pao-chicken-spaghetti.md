@@ -12,7 +12,7 @@ ingredients: |-
   * 1/3 c. soy sauce
   * 1/2 c. chicken broth
   * 1/4 c. sweet chili sauce
-  * 2 tbsp. sriracha
+  * 1 tbsp. sriracha
   * 2 tbsp. rice wine vinegar
   * 1/2 c. roasted peanuts, chopped
   * 3 green onions, thinly sliced
@@ -39,9 +39,12 @@ directions: >-
 
   * Stir in pasta, chicken, peanuts and green onions
 category: main course
-subcategory: ['pasta', 'asian', 'chicken']
-cookTime: 10 mins
+subcategory:
+  - pasta
+  - asian
+  - chicken
 prepTime: 10 mins
+cookTime: 10 mins
 totalTime: 20 mins
 servings: 8 servings
 rating: 4
