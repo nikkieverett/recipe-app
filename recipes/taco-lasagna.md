@@ -28,6 +28,8 @@ directions: >-
 
   5. Bake covered with aluminum foil for 45 minutes or until the casserole has heated through and is bubbly. Remove foil, bake additional 5 minutes. Let casserole stand 10 minutes before cutting. Top with your favorite taco toppings: sour cream, sliced green onions, and diced tomatoes if desired. Store leftovers in an airtight container in the fridge.
 category: main course
+subcategory:
+  - all in one casserole
 prepTime: 15 minutes
 cookTime: 50 minutes
 totalTime: 1 hour 15 minutes
