@@ -1,5 +1,5 @@
 ---
-title: Creamy Chicken Sausage & Kale Cavatappi
+title: Creamy Chicken Sausage & Kale Cavatappi - Hello Fresh
 href: https://www.hellofresh.com/recipes/creamy-chicken-sausage-kale-cavatappi-62dffa675a0041d19f0dc7dc
 ingredients: |-
   * 1 unit Yellow Onion
