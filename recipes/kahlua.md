@@ -5,7 +5,7 @@ ingredients: |-
   * 11 T instant coffee crystals (such as Folgers Classic Roast)
   * 3 cups white sugar
   * 3 cups lightly packed brown sugar
-  * 1﻿/2 gallon vodka
+  * 1﻿/2 gallon vodka (8 cups)
   * 1﻿/2 of a fifth of brandy
   * 2 teaspoons vanilla extract
   * 1 vanilla bean, split lengthwise and halved
