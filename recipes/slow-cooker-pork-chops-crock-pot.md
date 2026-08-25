@@ -1,5 +1,5 @@
 ---
-title: slow cooker pork chops (crock pot)
+title: Cami's slow cooker pork chops (crock pot)
 href: https://thesaltymarshmallow.com/slow-cooker-pork-chops/
 ingredients: >-
   * 1 Pound Pork Chops, Bone in or out
