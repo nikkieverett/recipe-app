@@ -24,6 +24,8 @@ directions: |-
   9. R﻿eturn to oven for 5 minutes.
   10. L﻿et cool 5 minutes before serving.
 category: main course
+subcategory:
+  - ---- Main Course ----
 prepTime: 10 minutes
 cookTime: 1 hour
 totalTime: 1 hour 15 minutes
