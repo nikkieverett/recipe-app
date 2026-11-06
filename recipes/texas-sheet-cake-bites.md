@@ -36,12 +36,17 @@ directions: >-
   4. for frosting:
      in a medium sauce pan heat milk, butter and cocoa until bubbly. mix in sugar and vanilla until smooth. add in nuts and blend until incorporated. carefully spoon about a tablespoon of frosting over each bite and let frosting set (if you can) before eating! enjoy!
 category: dessert
-subcategory: ['cake']
+subcategory:
+  - cake
+prepTime: "5"
+cookTime: "20"
+totalTime: 25 minutes
+servings: 72 bites
 rating: 5
 ease: easy
 notes: if you don't have buttermilk on hand, you can make sour milk instead. add
   1 teaspoon white vinegar to 1 cup milk and let it sit for a few minutes. add
   to recipe as directed.
-hasBeenTested: false
 thumbnail: assets/texas-sheet-cake-bites-hero-2.jpg
+hasBeenTested: false
 ---
